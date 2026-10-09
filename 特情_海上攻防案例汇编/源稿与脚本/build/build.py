@@ -123,10 +123,10 @@ def parse_markup(text, ctx):
             fn = file_from_page(page.strip())
             local = None
             if fn:
-                for ext in ('.jpg', '.jpeg', '.png'):
-                    pth = os.path.join(IMGDIR, 'eq_' + key.strip() + ext)
-                    if os.path.exists(pth):
-                        local = pth
+                from cases_lib import url_map
+                f2 = url_map().get(commons_url(fn))
+                if f2 and os.path.exists(os.path.join(IMGDIR, f2)):
+                    local = os.path.join(IMGDIR, f2)
             blocks.append({'t': 'figure', 'key': key.strip(), 'remote_url': commons_url(fn) if fn else page.strip(),
                            'page_url': page.strip(), 'local': local, 'caption': cap.strip(), 'source': src.strip(),
                            'width_mm': 120, 'kind': 'photo', 'save_as': 'eq_' + key.strip()})

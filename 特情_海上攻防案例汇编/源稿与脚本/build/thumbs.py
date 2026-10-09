@@ -4,10 +4,17 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from PIL import Image
 from cases_lib import case_images
 TD = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'imgs_thumb')
-def thumb(c):
+USED = set()
+def thumb(c, used=None):
     ims = [i for i in case_images(c) if i.get('local')]
     if not ims: return None
-    im = ims[0]; out = os.path.join(TD, c['case_key'] + '.jpg')
+    if used is not None:
+        fresh = [i for i in ims if i['url'] not in used]
+        im = (fresh or ims)[0]; used.add(im['url'])
+        out = os.path.join(TD, c['case_key'] + '_atlas.jpg')
+        if os.path.exists(out): os.remove(out)
+    else:
+        im = ims[0]; out = os.path.join(TD, c['case_key'] + '.jpg')
     if not os.path.exists(out):
         os.makedirs(TD, exist_ok=True)
         p = Image.open(im['local']).convert('RGB'); w, h = p.size; r = 4 / 3

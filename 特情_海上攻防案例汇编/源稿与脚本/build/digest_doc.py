@@ -256,15 +256,21 @@ def main():
     os.makedirs(os.path.join(HERE, 'content2'), exist_ok=True)
     md = MD.replace('{{fig:', '{fig:').replace('{{tab:', '{tab:').replace('{{{{close}}}}', '{{close}}')
     ctx = build.make_ctx()
-    ab = []
+    ab = []; used = set()
     for k in CATS:
         items = []
         for c in cs:
             if c['category'] != k: continue
-            r = thumb(c)
+            r = thumb(c, used)
             if not r: continue
             path, im = r
-            note = '资料照片' if '资料' in (im.get('desc') or '') else ''
+            d = im.get('desc') or ''
+            if any(k in d for k in ('示意图', '位置图', '海图', '卫星影像', '航天照片', '航拍照片', '影像，示意')):
+                note = '位置示意图，非事件现场'
+            elif any(k in d for k in ('资料', '非事发', '非本', '非事件', '背景', '参考', '示意', '非作战', '非加沙', '非关岛', '非交战', '待核')):
+                note = '资料照片，非事件现场'
+            else:
+                note = '事件相关影像'
             items.append({'path': path, 'code': c['code'], 'title': clean(c.get('title_cn')), 'note': note})
         if items:
             ab.append({'t': 'h1', 'text': '%s（%d案）' % (k, len(items)), 'anchor': 'atl_%d' % len(ab)})

@@ -191,6 +191,19 @@ def fmt_date(c):
     return a
 
 
+BAD_IMG = ('82-BM-37_Chornomorsk', 'Al_Hudaydah_200612')   # 人工复核剔除：迫击炮陈列照、内容与港口无关的旧照
+_UM = None
+
+
+def url_map():
+    """原图链接 -> 本地文件名（取自回传压缩包的 manifest），避免按序号对图错位。"""
+    global _UM
+    if _UM is None:
+        p = os.path.join(IMGDIR, 'url_map.json')
+        _UM = json.load(open(p, encoding='utf-8')) if os.path.exists(p) else {}
+    return _UM
+
+
 _GM = None
 
 
@@ -218,6 +231,7 @@ def case_images(c):
             if im.get('level') == 'subject' and '资料' not in (im.get('desc_cn') or ''):
                 im['desc_cn'] = (im.get('desc_cn') or '') + '（资料照片，非事件现场）'
             src.append(im)
+    src = [im for im in src if not any(b in (im.get('file_page') or '') for b in BAD_IMG)]
     for i, im in enumerate(src[:3], 1):
         fn = im.get('file_name') or file_from_page(im.get('file_page'))
         url = im.get('direct_url')
@@ -226,11 +240,9 @@ def case_images(c):
         if not url:
             continue
         local = None
-        for ext in ('.jpg', '.jpeg', '.png', '.webp'):
-            p = os.path.join(IMGDIR, '%s_%d%s' % (c.get('case_key', 'x'), i, ext))
-            if os.path.exists(p):
-                local = p
-                break
+        fn_ = url_map().get(url)
+        if fn_ and os.path.exists(os.path.join(IMGDIR, fn_)):
+            local = os.path.join(IMGDIR, fn_)
         imgs.append(dict(url=url, page=im.get('file_page') or url, local=local,
                          desc=clean(im.get('desc_cn') or ''), credit=im.get('credit') or '',
                          license=im.get('license') or '', date=im.get('date') or '',
