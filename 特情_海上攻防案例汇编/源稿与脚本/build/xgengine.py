@@ -585,6 +585,11 @@ class DocxBuilder:
         p = self.para(WD_ALIGN_PARAGRAPH.CENTER, indent=False, line=None, before=8, after=2,
                       keep_next=True)
         w = b.get('width_mm', 150)
+        if b.get('kind') == 'photo':
+            from PIL import Image as _I
+            iw, ih = _I.open(src).size
+            if ih / iw > 0.72:
+                b = dict(b, height_mm=min(110, 140 * ih / iw))
         if b.get('height_mm'):
             p.add_run().add_picture(src, height=Mm(b['height_mm']))
         else:
