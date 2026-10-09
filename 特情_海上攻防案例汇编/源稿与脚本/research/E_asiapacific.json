@@ -1,0 +1,3098 @@
+[
+ {
+  "case_key": "ayungin_2023_08_05_water_cannon",
+  "category": "海上小岛",
+  "title_cn": "海警水炮拦阻仁爱礁运补，坐滩舰补给受阻",
+  "subtitle_cn": "2023-08-05，仁爱礁（Second Thomas Shoal / Ayungin）附近海域，菲方向“马德雷山”号（BRP Sierra Madre）运补遭中国海警水炮拦阻",
+  "date_start": "2023-08-05",
+  "date_end": "",
+  "location_cn": "仁爱礁（Second Thomas Shoal / Ayungin / 仁愛暗沙）附近海域，距礁约2.9海里（菲外交部口径）",
+  "lat": 9.72,
+  "lon": 115.86,
+  "region": "南海",
+  "attacker": "中国海警（菲方点名 CCG 4203、5305、5402 号船）；菲方称另有海军舰艇与海上民兵船在场",
+  "defender": "菲律宾武装部队（AFP）租用补给船；菲律宾海岸警卫队（PCG）“马拉布里戈”号（BRP Malabrigo）、“卡布拉”号（BRP Cabra，MRRV-4409）护航",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群",
+   "异构"
+  ],
+  "attack_means_cn": "中国海警船只水炮喷射与切入拦阻机动（菲方点名 4203 号对“卡布拉”号及补给船使用水炮；PCG 首批通报另点名 5305 号；5402 号对“卡布拉”号实施拦阻机动）。菲方口径：在场中方船只共11艘，含6艘海警船、3艘海军舰艇、2艘海上民兵船。中方口径：未公布己方船只数量（检索范围内）。",
+  "defense_means_cn": "AFP 租用2艘当地民用补给船；PCG 2艘巡逻船护航；无武器反制。应对手段为公开影像与时间线、外交交涉（菲外交部召见中国大使、递交照会）和争取盟国表态。",
+  "narrative_cn": "2023年8月5日，菲律宾武装部队（AFP）租用两艘当地民用小船，向坐滩于仁爱礁（Second Thomas Shoal / Ayungin）的“马德雷山”号（BRP Sierra Madre）运送食品、饮水、燃油等补给，菲律宾海岸警卫队（PCG）派“马拉布里戈”号（BRP Malabrigo）和“卡布拉”号（BRP Cabra，MRRV-4409）担任护航，计划在邻近的仙宾礁（Sabina Shoal / Escoda）会合后再向仁爱礁推进。据菲方通报，中国海警4203号船切入补给船与护航船之间，并向“卡布拉”号和补给船喷射水炮；PCG最初的谴责声明点名4203与5305两船使用水炮。PCG西菲律宾海事务发言人杰伊·塔列拉（Jay Tarriela）准将随后在记者会上补充，海警5402号对“卡布拉”号实施危险拦阻机动，目的是使护航船无法为“绿色船体”补给船提供保护。第二艘补给船未能抵达仁爱礁卸货。\n菲方称，现场共有11艘中方船只对4艘菲方船只形成围堵，包括6艘海警船、3艘海军舰艇和2艘海上民兵船。菲外交部（DFA）声明称事发点距礁约2.9海里，并向中国驻菲大使提出交涉。路透社、法新社等报道称，这是2021年11月以来中国海警首次对仁爱礁补给任务使用水炮。美国国务院发表声明表示谴责。\n中方外交部在8月7日前后的两次答记者问（一次回应美国国务院声明，一次回应菲外交部声明）中称：菲方不顾中方劝阻和警告，派2艘船只擅自闯入仁爱礁海域，企图向非法“坐滩”军舰运送用于“大规模维修加固”的建筑物资；中国海警船依法拦阻，采取警示性执法措施，现场操作专业、克制，无可非议；并要求菲方立即拖走该舰。中国外交部另称中国海警局新闻发言人已作详细介绍，该发言人当日声明的原文未在本轮检索中取得。",
+  "defense_effect_cn": "护航船未能为补给船提供有效保护：据塔列拉通报，“卡布拉”号被拦阻机动挡住，补给船被孤立，第二艘补给船无法卸货。菲方没有使用武器反制，主要依靠影像公开、外交交涉和盟国声明。暴露的问题有三点：其一，民用木质小艇对水炮几乎没有防护；其二，护航船在数量和机动性上被压制，菲方称兵力对比为4对11；其三，补给点外推至距礁数海里，护航与补给船被拆开后各自处于劣势。中方一侧未见受损或伤亡报道。本案之后，8月22日的补给据中方称获“放行”（见口径比对），说明中方拦阻与放行并存。",
+  "claims_compare_cn": "菲方（PCG、DFA）称这是对例行补给的非法阻挠，水炮使用无正当理由，并列出4对11的兵力对比；中方外交部称菲方企图运送建筑物资，属违规行为，海警执法“专业、克制”。分歧集中在三点：货物性质（食品、燃油等生活补给，对建筑物资）、行为定性（非法水炮攻击，对警示性执法措施）、船只数量（菲方给出具体数字，中方未公布）。8月22日，境外转载稿转述中国海警局发言人刘德军谈话，称中方出于人道主义对运送食品等生活物资作“临时性特殊安排”并放行菲船，原文未核，待补检索。",
+  "losses_cn": "未检索到人员伤亡的公开报道；一艘补给船未能卸货，任务部分失败；船只受损情况未检索到公开记录。",
+  "analysis_cn": "水炮对没有防护的小型民船有效，又不跨过“使用武力”的门槛，是灰色地带手段中成本最低的一种。本案的编组特点是海警出手、海军与民兵在外围策应（菲方口径），并把拦截点外推，使护航船与补给船无法并肩抵礁。防守一方的有效对策不在装备，而在时间线和影像的快速公开，以及在护航船与补给船之间保持编队距离。后续几轮对峙延续了这一形态，只是烈度逐次上升（见 2023-10-22、2024-03、2024-06-17 各案）。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Department of Foreign Affairs, Republic of the Philippines（菲律宾外交部）",
+    "title": "Statement on the 05 August 2023 incident on the Ayungin Shoal",
+    "title_cn": "关于2023年8月5日仁爱礁事件的声明",
+    "author": "DFA",
+    "date": "2023-08-07",
+    "url": "https://dfa.gov.ph/authentication-functions/113-newsroom/public-advisory/33091-statement-on-the-05-august-2023-incident-on-the-ayungin-shoal",
+    "type": "官方",
+    "note": "发布日期据中方答记者问所称“菲外交部8月7日声明”推定；检索摘要另有8月8日之说，待核。"
+   },
+   {
+    "publisher": "中华人民共和国外交部",
+    "title": "外交部发言人就菲律宾外交部发表关于仁爱礁问题的声明答记者问",
+    "title_cn": "外交部发言人就菲律宾外交部发表关于仁爱礁问题的声明答记者问",
+    "author": "外交部发言人",
+    "date": "2023-08-07",
+    "url": "https://www.mfa.gov.cn/web/fyrbt_673021/202308/t20230807_11123319.shtml",
+    "type": "官方",
+    "note": "URL 日期为2023-08-07；检索摘要称页面标注日期为2023-08-08，待核。"
+   },
+   {
+    "publisher": "中华人民共和国外交部",
+    "title": "外交部发言人就美国国务院发表关于仁爱礁问题的声明答记者问",
+    "title_cn": "外交部发言人就美国国务院发表关于仁爱礁问题的声明答记者问",
+    "author": "外交部发言人",
+    "date": "2023-08-07",
+    "url": "https://www.mfa.gov.cn/fyrbt_673021/dhdw_673027/202308/t20230807_11123224.shtml",
+    "type": "官方"
+   },
+   {
+    "publisher": "Bloomberg",
+    "title": "Philippines Says China Fired Water Cannons on Supply Vessel",
+    "title_cn": "菲律宾称中国向补给船喷射水炮",
+    "author": "Bloomberg",
+    "date": "2023-08-06",
+    "url": "https://www.bloomberg.com/news/articles/2023-08-06/philippines-says-china-fired-water-cannons-on-supply-vessel",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "NPR",
+    "title": "Philippines condemns Chinese coast guard water cannon boat disputed seas",
+    "title_cn": "菲律宾谴责中国海警在争议海域对船只使用水炮",
+    "author": "NPR（AP 稿）",
+    "date": "2023-08-06",
+    "url": "https://www.npr.org/2023/08/06/1192384562/philippines-condemns-chinese-coast-guard-water-cannon-boat-disputed-seas",
+    "type": "专业媒体",
+    "note": "标题据 URL slug，原题大小写待核。"
+   },
+   {
+    "publisher": "Manila Bulletin",
+    "title": "Uproar as China Coast Guard fires water cannon at PH vessels near Ayungin Shoal",
+    "title_cn": "中国海警在仁爱礁附近对菲船只喷射水炮引发强烈反应",
+    "author": "Manila Bulletin",
+    "date": "2023-08-06",
+    "url": "https://mb.com.ph/2023/8/6/uproar-as-china-coast-guard-fires-water-cannon-at-ph-vessels-near-ayungin-shoal",
+    "type": "专业媒体",
+    "note": "标题据 URL slug。"
+   },
+   {
+    "publisher": "GMA News Online",
+    "title": "Chinese water cannons, illegal maneuvers vs Philippine resupply mission",
+    "title_cn": "中方水炮与非法机动阻挠菲律宾补给任务",
+    "author": "GMA News",
+    "date": "",
+    "url": "https://www.gmanetwork.com/news/topstories/nation/878156/chinese-water-cannons-illegal-maneuvers-vs-philippine-resupply-mission/story/",
+    "type": "专业媒体",
+    "note": "检索结果未显示发布日期；标题据 URL slug。"
+   },
+   {
+    "publisher": "阿波罗网（转载）",
+    "title": "（页面标题未显示；栏目“新闻 > 军政”）",
+    "title_cn": "（页面标题未显示）",
+    "author": "",
+    "date": "2023-08-23",
+    "url": "https://www.aboluowang.com/2023/0823/1944516.html",
+    "type": "其他",
+    "note": "日期据 URL；检索摘要称其转述中国海警局8月22日谈话，转载站，仅作线索，原文待核。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:China_Coast_Guard_fires_water_cannons_vs._PH_Coast_Guard_en_route_to_Second_Thomas_Shoal.webm",
+    "file_name": "China_Coast_Guard_fires_water_cannons_vs._PH_Coast_Guard_en_route_to_Second_Thomas_Shoal.webm",
+    "desc_cn": "菲海警公布的视频：2023年8月5日中国海警在前往仁爱礁途中向菲海警船喷射水炮",
+    "date": "2023-08-05",
+    "credit": "菲律宾海警（据检索摘要）",
+    "license": "未取得（须核验）",
+    "verified": true,
+    "note": "视频文件，已用于英文维基条目 August 2023 Second Thomas Shoal standoff（据检索摘要）。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Second_Thomas_Shoal",
+    "file_name": "Category:Second Thomas Shoal",
+    "desc_cn": "仁爱礁（Second Thomas Shoal / Ayungin）分类页，含坐滩舰、海警船相关图片",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页；具体文件名待在分类页内人工选取。检索结果出现于 commons.wikimedia.org。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:CCGV_5201_Shadowing_of_BRP_Malapascua.jpg",
+    "file_name": "CCGV_5201_Shadowing_of_BRP_Malapascua.jpg",
+    "desc_cn": "中国海警5201号跟踪菲海警“马拉帕斯卡”号（2023-03-21，仁爱礁东北约2海里，背景）",
+    "date": "2023-03-21",
+    "credit": "未取得",
+    "license": "未取得（须核验）",
+    "verified": true,
+    "note": "非2023-08-05当日，仅作同海域海警跟踪背景。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+    "file_name": "Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+    "desc_cn": "仁爱礁Landsat 8卫星影像（2014-02-28，15米分辨率）",
+    "date": "2014-02-28",
+    "credit": "NASA/USGS Landsat 8（据文件名）",
+    "license": "未取得（Landsat影像通常为公有领域，须在文件页核验）",
+    "verified": true,
+    "note": "背景图，非事件日影像。"
+   }
+  ],
+  "image_leads": [
+   "第二轮 Commons 检索（共3次）未检索到该事件当日的 Commons 文件页；上列为背景分类页/文件，非事件日照片。"
+  ],
+  "stats": {
+   "菲方口径中方船只数": "11艘（6海警+3海军+2民兵）",
+   "菲方船只数": "4艘（据菲方通报）",
+   "水炮使用距离": "距仁爱礁约2.9海里（菲外交部）",
+   "此前最近一次水炮": "2021年11月（路透/法新社）"
+  }
+ },
+ {
+  "case_key": "ayungin_2023_10_22_collisions",
+  "category": "海上小岛",
+  "title_cn": "海警船与民兵船两度碰撞，运补仍然送达",
+  "subtitle_cn": "2023-10-22，仁爱礁（Second Thomas Shoal / Ayungin）东北偏东约13.5海里，菲方轮换补给途中与中国海警船、海上民兵船发生两次碰撞",
+  "date_start": "2023-10-22",
+  "date_end": "",
+  "location_cn": "仁爱礁（Second Thomas Shoal / Ayungin）东北偏东约13.5海里（菲方口径）",
+  "lat": 9.8,
+  "lon": 116.07,
+  "region": "南海",
+  "attacker": "中国海警 5203 号船；海上民兵船 00003 号（菲方口径）；菲方称另有多艘海警船围堵",
+  "defender": "菲律宾武装部队租用补给船“乌奈扎·梅2号”（Unaiza May 2）、“乌奈扎·梅1号”（Unaiza May 1）；PCG“卡布拉”号（BRP Cabra，MRRV-4409）",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群",
+   "异构"
+  ],
+  "attack_means_cn": "中国海警 5203 号船的拦阻机动与补给船“乌奈扎·梅2号”碰撞（06:04）；海上民兵船 00003 号与“卡布拉”号左舷接触（08:14）。菲防长称4艘菲船中3艘被7艘较大的海警船包围。",
+  "defense_means_cn": "两艘补给船并进；PCG“卡布拉”号护航；“乌奈扎·梅1号”最终抵达“马德雷山”号完成补给。无武器反制。",
+  "narrative_cn": "2023年10月22日（周日），菲方对坐滩于仁爱礁的“马德雷山”号（BRP Sierra Madre）实施轮换补给。菲律宾“西菲律宾海国家特遣部队”（NTF-WPS）通报：6时04分，在“马德雷山”号东北偏东约13.5海里处，中国海警5203号船的拦阻机动导致其与AFP租用的补给船“乌奈扎·梅2号”（Unaiza May 2）相撞；8时14分，中国海上民兵船00003号与PCG“卡布拉”号（BRP Cabra，MRRV-4409）左舷接触。“乌奈扎·梅1号”（Unaiza May 1）随后完成对“马德雷山”号及驻守人员的补给。\n菲律宾国防部长称，PCG提供的影像显示，当日4艘菲方船只中有3艘被7艘较大的中国海警船包围，并发生两次碰撞。\n中方外交部当日答记者问称：菲方2艘民船和2艘海警船未经中国政府允许，擅自闯入仁爱礁邻近海域，无视海警船警告，执意冲闯仁爱礁潟湖，并以危险方式碰撞现场执法的中国海警船和正常作业的中国渔船；中国海警依据国内法和国际法采取必要执法措施，现场操作专业、克制。中国海警在社交平台上称，是依法拦阻菲方运送“违规建筑物资”的船只；据珍氏（Janes）转述，中方还称菲方行为严重违反《国际海上避碰规则》。\nAMTI 2024年1月30日基于AIS数据的统计显示：2021年每次补给任务平均观测到1艘中方船只，2023年升至约14艘；2023年6月以来观测的8次任务中，有5次在附近观测到解放军海军舰艇；2023年全年15次观测到的任务中12次由菲方公开。该文并指出，2023年年中之前双方船只物理接触少见，此后明显增多。",
+  "defense_effect_cn": "两艘补给船中一艘受阻、一艘抵达，补给最终完成，说明多船并进、至少一艘突破的做法仍能凑效；但“乌奈扎·梅2号”受损，后续被替换（见2023-12-10案），表明租用的小型民船难以承受反复碰撞。PCG护航船被民兵船碰擦，护航无法形成屏障。菲方在事发当天即公布时间点和位置（06:04、08:14，距“马德雷山”号13.5海里），便于外部核对；中方此案未公布时间、位置与船号（检索范围内）。美联社报道称事件加剧了对武装冲突的担忧。",
+  "claims_compare_cn": "责任归属相反：菲方称5203号海警船的拦阻机动与民兵船“碰擦”造成碰撞；中方称菲方船只“以危险方式碰撞”海警船和一艘正常作业的中国渔船。货物性质同样对立：菲方称是对驻军的例行补给，中方称运送“违规建筑物资”。中方称菲方为2艘民船加2艘海警船，菲方称4艘船中3艘被7艘海警船围住，双方对对方船数的描述相互不能印证。独立来源（USNI、Janes、AP）主要转述双方说法，未见第三方影像核定谁先接触。",
+  "losses_cn": "补给船“乌奈扎·梅2号”受损（程度未检索到）；PCG“卡布拉”号左舷接触，损伤情况未检索到；未检索到人员伤亡报道。中方船只受损情况：中方称其海警船和一艘渔船被碰撞，未给出损伤细节。",
+  "analysis_cn": "与2023年8月相比，海警加民兵的围堵从“拦阻”变为“贴身”，物理接触成为常态。民兵船参与是本案的特点：它让中方可以把部分接触定性为渔船正常作业。AIS统计给出的船数增长（1艘到约14艘）说明，围堵规模是逐步放大的，防守方每次增加护航兵力，对方就以更多低成本船只对冲。对被围堵一方，公开精确时间点和位置是少数有效的反制手段。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "USNI News",
+    "title": "China Coast Guard Vessel Collides with Filipino Supply Ship in South China Sea",
+    "title_cn": "中国海警船与菲律宾补给船在南海相撞",
+    "author": "USNI News",
+    "date": "2023-10-22",
+    "url": "https://news.usni.org/2023/10/22/china-coast-guard-vessel-collides-with-filipino-supply-ship-in-south-china-sea",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Janes",
+    "title": "Beijing, Manila trade barbs after collisions in South China Sea resupply run",
+    "title_cn": "南海补给途中发生碰撞后，北京与马尼拉互相指责",
+    "author": "Janes",
+    "date": "2023-10-23",
+    "url": "https://www.janes.com/defence-news/news-detail/beijing-manila-trade-barbs-after-collisions-in-south-china-sea-resupply-run",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "中华人民共和国外交部",
+    "title": "外交部发言人就中国海警依法拦阻菲律宾擅自向仁爱礁非法“坐滩”军舰运送建筑物资答记者问",
+    "title_cn": "外交部发言人就中国海警依法拦阻菲律宾擅自向仁爱礁非法“坐滩”军舰运送建筑物资答记者问",
+    "author": "外交部发言人",
+    "date": "2023-10-22",
+    "url": "https://www.mfa.gov.cn/fyrbt_673021/dhdw_673027/202310/t20231022_11165709.shtml",
+    "type": "官方"
+   },
+   {
+    "publisher": "自由亚洲电台（RFA）中文",
+    "title": "中菲船只南海碰撞 相互指责危险冲撞",
+    "title_cn": "中菲船只南海碰撞 相互指责危险冲撞",
+    "author": "RFA",
+    "date": "2023-10-25",
+    "url": "https://www.rfa.org/mandarin/duomeiti/svideo/sv-10252023073634.html",
+    "type": "专业媒体",
+    "note": "发布日期据 URL 时间戳，待核。"
+   },
+   {
+    "publisher": "The Peninsula Qatar（转载 AP）",
+    "title": "Philippines says a coast guard ship and supply boat were rammed by Chinese vessels at disputed shoal",
+    "title_cn": "菲律宾称一艘海警船和一艘补给船在争议礁盘被中国船只冲撞",
+    "author": "AP",
+    "date": "2023-10-22",
+    "url": "https://thepeninsulaqatar.com/article/22/10/2023/philippines-says-a-coast-guard-ship-and-supply-boat-were-rammed-by-chinese-vessels-at-disputed-shoal",
+    "type": "通讯社",
+    "note": "转载稿，署名据检索摘要。"
+   },
+   {
+    "publisher": "AMTI, CSIS",
+    "title": "Tracking Tensions at Second Thomas Shoal",
+    "title_cn": "追踪仁爱礁紧张态势",
+    "author": "AMTI（CSIS 亚洲海事透明倡议）",
+    "date": "2024-01-30",
+    "url": "https://amti.csis.org/tracking-tensions-at-second-thomas-shoal/",
+    "type": "智库",
+    "note": "发布日期据 AMTI 专题归档页（经检索摘要转述）。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Second_Thomas_Shoal",
+    "file_name": "Category:Second Thomas Shoal",
+    "desc_cn": "仁爱礁（Second Thomas Shoal / Ayungin）分类页，含坐滩舰、海警船相关图片",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页；具体文件名待在分类页内人工选取。检索结果出现于 commons.wikimedia.org。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+    "file_name": "Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+    "desc_cn": "仁爱礁Landsat 8卫星影像（2014-02-28，15米分辨率）",
+    "date": "2014-02-28",
+    "credit": "NASA/USGS Landsat 8（据文件名）",
+    "license": "未取得（Landsat影像通常为公有领域，须在文件页核验）",
+    "verified": true,
+    "note": "背景图，非事件日影像。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Second_Thomas_Shoal,_Spratly_Islands.png",
+    "file_name": "Second_Thomas_Shoal,_Spratly_Islands.png",
+    "desc_cn": "仁爱礁（南沙群岛）位置图",
+    "date": "",
+    "credit": "未取得",
+    "license": "未取得（须核验）",
+    "verified": true,
+    "note": "地图，背景。"
+   }
+  ],
+  "image_leads": [
+   "第二轮 Commons 检索（共3次）未检索到该事件当日的 Commons 文件页；上列为背景分类页/文件，非事件日照片。"
+  ],
+  "stats": {
+   "碰撞次数": "2（06:04 补给船；08:14 PCG 护航船）",
+   "菲防长口径围堵比": "4艘菲船中3艘被7艘较大海警船包围",
+   "AMTI：2023年单次任务观测中方船数": "约14艘（2021年平均约1艘）",
+   "AMTI：2023年6月后8次任务中有解放军海军舰艇在场": "5次"
+  }
+ },
+ {
+  "case_key": "ayungin_2023_12_10_water_cannon",
+  "category": "海上小岛",
+  "title_cn": "水炮击瘫补给船推进系统，补给任务仍完成",
+  "subtitle_cn": "2023-12-10，仁爱礁（Second Thomas Shoal / Ayungin）海域，菲方补给船“卡拉扬”号等3艘船受损",
+  "date_start": "2023-12-10",
+  "date_end": "",
+  "location_cn": "仁爱礁（Second Thomas Shoal / Ayungin）附近海域（具体位置未检索到）",
+  "lat": 9.72,
+  "lon": 115.86,
+  "region": "南海",
+  "attacker": "中国海警（船号未检索到）",
+  "defender": "PCG“卡布拉”号（BRP Cabra）；补给船“卡拉扬”号（MV Kalayaan）、“乌奈扎·梅1号”（Unaizah Mae 1）",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "中国海警水炮（击中“卡布拉”号与“卡拉扬”号）；中方船只冲撞“乌奈扎·梅1号”（USNI 时间线口径）。",
+  "defense_means_cn": "PCG“卡布拉”号护航并拖带失去动力的“卡拉扬”号返回巴拉望（Palawan）；另一艘补给船完成任务。",
+  "narrative_cn": "2023年12月10日，菲方再次向仁爱礁“马德雷山”号（BRP Sierra Madre）实施轮换补给。美国海军学会新闻（USNI News）2024年4月4日发布的《中方骚扰仁爱礁补给任务时间线》记载：中国海警水炮同时击中PCG护航船“卡布拉”号（BRP Cabra）和补给船“卡拉扬”号（MV Kalayaan）；水进入“卡拉扬”号机舱，推进系统失效，该船由“卡布拉”号拖回巴拉望。“卡拉扬”号是此前在2023年10月22日碰撞中受损的“乌奈扎·梅2号”（Unaizah Mae 2）的替代船。另一艘补给船“乌奈扎·梅1号”（Unaizah Mae 1）被中方船只冲撞。三艘菲方船只受损，但补给任务最终完成。\n同月，菲方另有一起发生在黄岩岛（Scarborough Shoal）附近的事件：据USNI 2024年1月25日转述美国国会报告，2023年12月，中国海警对前往为菲渔民送补给的菲方船只使用水炮，其中一船发动机据报受损。该案与仁爱礁事件是否同日发生，本轮检索未能确认，亦未检索到该日中方海警或外交部的公开表述。",
+  "defense_effect_cn": "补给仍然完成，但代价上升：水炮从“阻挡”变为“致残”，补给船推进系统失效即无法自行返航，需要护航船拖带，护航船因此丧失继续执行警戒的能力。3艘船受损的结果表明，租用民船作为补给主体的做法在水炮和冲撞面前缺乏冗余，替代船只会被依次消耗（“卡拉扬”号顶替10月受损的“乌奈扎·梅2号”）。本案只有 USNI 时间线一个来源，细节待核。",
+  "claims_compare_cn": "中方对12月10日事件的表述未检索到公开记录。菲方的整体口径是“例行补给遭水炮与冲撞”；中方对同类事件的一贯口径是菲方运送建筑物资、海警依法管制（见2023-08-05、2023-10-22案）。本案不能据此推定中方当日的具体说法。",
+  "losses_cn": "3艘菲方船只受损（“卡布拉”号、“卡拉扬”号、“乌奈扎·梅1号”）；“卡拉扬”号推进系统失效，被拖回；人员伤亡未检索到。",
+  "analysis_cn": "本案体现的是损耗逻辑：中方不必阻止每一次补给，只要使每次补给都消耗一艘船，菲方可租用的船队规模就会下降，“卡拉扬”号顶替10月受损的“乌奈扎·梅2号”即是一例。对守方的要求是备用船只和具备拖带能力的护航船；对攻方，水炮对推进系统的破坏效应在本案中得到验证，2024年3月再度出现同类结果。本案只有 USNI 时间线一个来源，细节有待补充中方口径后核对。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "USNI News",
+    "title": "Timeline of Chinese Harassment of Second Thomas Shoal Resupply Missions",
+    "title_cn": "中方骚扰仁爱礁补给任务时间线",
+    "author": "USNI News",
+    "date": "2024-04-04",
+    "url": "https://news.usni.org/2024/04/04/timeline-of-chinese-harassment-of-second-thomas-shoal-resupply-missions",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "USNI News",
+    "title": "Report to Congress on China-Philippines Tensions in the South China Sea",
+    "title_cn": "国会关于中菲南海紧张局势的报告",
+    "author": "USNI News",
+    "date": "2024-01-25",
+    "url": "https://news.usni.org/2024/01/25/report-to-congress-on-china-philippines-tensions-in-the-south-china-sea",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "USNI News",
+    "title": "China Coast Guard Vessel Collides with Filipino Supply Ship in South China Sea",
+    "title_cn": "中国海警船与菲律宾补给船在南海相撞",
+    "author": "USNI News",
+    "date": "2023-10-22",
+    "url": "https://news.usni.org/2023/10/22/china-coast-guard-vessel-collides-with-filipino-supply-ship-in-south-china-sea",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Second_Thomas_Shoal",
+    "file_name": "Category:Second Thomas Shoal",
+    "desc_cn": "仁爱礁（Second Thomas Shoal / Ayungin）分类页，含坐滩舰、海警船相关图片",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页；具体文件名待在分类页内人工选取。检索结果出现于 commons.wikimedia.org。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+    "file_name": "Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+    "desc_cn": "仁爱礁Landsat 8卫星影像（2014-02-28，15米分辨率）",
+    "date": "2014-02-28",
+    "credit": "NASA/USGS Landsat 8（据文件名）",
+    "license": "未取得（Landsat影像通常为公有领域，须在文件页核验）",
+    "verified": true,
+    "note": "背景图，非事件日影像。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Second_Thomas_Shoal,_Spratly_Islands.png",
+    "file_name": "Second_Thomas_Shoal,_Spratly_Islands.png",
+    "desc_cn": "仁爱礁（南沙群岛）位置图",
+    "date": "",
+    "credit": "未取得",
+    "license": "未取得（须核验）",
+    "verified": true,
+    "note": "地图，背景。"
+   }
+  ],
+  "image_leads": [
+   "第二轮 Commons 检索（共3次）未检索到该事件当日的 Commons 文件页；上列为背景分类页/文件，非事件日照片。"
+  ],
+  "stats": {
+   "受损菲方船只": "3艘",
+   "补给任务结果": "完成（USNI 时间线口径）"
+  }
+ },
+ {
+  "case_key": "ayungin_2024_03_water_cannon_injuries",
+  "category": "海上小岛",
+  "title_cn": "三月两度水炮击伤水兵，补给改乘橡皮艇",
+  "subtitle_cn": "2024-03-05 与 2024-03-23，仁爱礁（Second Thomas Shoal / Ayungin）海域，补给船“乌奈扎·梅4号”（Unaizah May 4）两度被中国海警水炮击中，菲方水兵受伤",
+  "date_start": "2024-03-05",
+  "date_end": "2024-03-23",
+  "location_cn": "仁爱礁（Second Thomas Shoal / Ayungin）附近海域",
+  "lat": 9.72,
+  "lon": 115.86,
+  "region": "南海",
+  "attacker": "中国海警（3月5日据 USNI 为2艘海警船，其中与护航舰接触的为21555号；3月23日船号未检索到）；海上民兵（3月23日设置浮动障碍，菲军方口径）",
+  "defender": "菲律宾海军官兵乘租用补给船“乌奈扎·梅4号”；护航舰“辛达根”号（BRP Sindangan）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群",
+   "异构"
+  ],
+  "attack_means_cn": "海警船水炮持续冲击（3月23日据菲军方称近一小时的“直接喷射”）；3月5日另有海警21555号与“辛达根”号近距离接触；3月23日海上民兵布设浮动障碍。",
+  "defense_means_cn": "护航舰“辛达根”号拖带/护送受损补给船返回巴拉望；3月23日由6名海军人员改乘充气艇抵达“马德雷山”号完成换防（菲方口径，彭博转述）。",
+  "narrative_cn": "2024年3月5日，菲方向仁爱礁“马德雷山”号（BRP Sierra Madre）实施补给。据美国海军学会新闻（USNI News）当日报道及其4月4日时间线，中国海警两艘船用水炮冲击受雇补给的木质小艇“乌奈扎·梅4号”（Unaizah May 4），震碎驾驶室挡风玻璃，4名菲海军官兵轻伤；护航舰“辛达根”号（BRP Sindangan）在与海警21555号船的近距离接触中受轻微表面损伤，随后护送受损补给船返回巴拉望治疗伤员。福克斯新闻（稿源待核）称受伤者含一名菲海军将官及其4名部下，与USNI“4名水兵”的口径不一，待核。\n3月23日，同一艘“乌奈扎·梅4号”再度前往补给。菲军方称该船因中方水炮“直接喷射”无法继续前进，攻击持续近一小时，海上民兵同时布设浮动障碍；菲方特遣部队称造成“重大损坏”并有人员受伤；USNI时间线称水炮冲击对船体造成严重破坏、致多名水兵受伤并使推进系统失效，需护航船拖带返港。彭博引述菲方称，6名海军人员随后改乘充气艇抵达前哨，特遣部队宣布任务完成。伤员人数口径不一：ABS-CBN（法新社稿）和SunStar称3名海军人员受伤，菲方官员未说明伤情，USNI称“多名”。\n中方：中国海警局发言人甘羽（Gan Yu，中文写法待核）称，菲方船只企图运送建筑材料并强行闯入相关海域，海警依法采取“措施”（路透社经马来邮报转述；彭博同）。3月5日中方的表态：外交部3月6日例行记者会页面已检索到，但摘要未取得具体表述，海警局3月5日声明未检索到。",
+  "defense_effect_cn": "补给与换防最终都以“完成”收场，但手段退化为橡皮艇接驳，载货量低于补给船（推断，菲方未公布货物清单，待核）。护航舰“辛达根”号被近距离接触、补给船推进失效、人员受伤，说明单船护航无法阻止水炮；3月两次补给连续使用同一艘“乌奈扎·梅4号”，其间受损修复情况未检索到。暴露的问题：木质补给船驾驶室无防护、救护与拖带全靠护航舰、一艘护航舰难以兼顾拖带与警戒。",
+  "claims_compare_cn": "菲方称水炮是非法攻击、船只与人员受伤（3名或4名及“多名”，口径不一），并称任务完成；中方（海警局发言人）称菲船企图运送建筑材料、强行闯入，海警依法采取措施，未检索到其对伤员人数的表述。3月5日中方具体表述未检索到。伤员数在不同媒体间不一致，且未见独立医疗记录。",
+  "losses_cn": "3月5日：4名菲海军官兵轻伤（USNI），“乌奈扎·梅4号”挡风玻璃破碎，“辛达根”号表面轻损；3月23日：3名（ABS-CBN/SunStar）至“多名”（USNI）水兵受伤，“乌奈扎·梅4号”推进系统失效、受重创（USNI）。中方损失：未检索到公开记录。",
+  "analysis_cn": "水炮从拦阻手段变为致伤手段，伤情累积成为菲方对外说明“暴力升级”的依据。海上民兵布设浮动障碍是一项新做法，把阻断从“船对船”扩展到“区域封堵”。菲方以橡皮艇完成换防，说明守方的备用方案是缩小目标、绕开主航道；但这使可运载的货物量下降，对“马德雷山”号的维修补给形成压力，这也是中方强调“反对建筑材料”的实际作用点。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "USNI News",
+    "title": "4 Philippine Sailors Injured, 2 Vessels Damaged in Chinese Attempt to Block Second Thomas Shoal Resupply",
+    "title_cn": "中方试图阻断仁爱礁补给，4名菲律宾水兵受伤、2艘船受损",
+    "author": "USNI News",
+    "date": "2024-03-05",
+    "url": "https://news.usni.org/2024/03/05/4-philippine-sailors-injured-2-vessels-damaged-in-chinese-attempt-to-block-second-thomas-shoal-resupply",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "USNI News",
+    "title": "China Attacks Philippine Ship, Injures Crew in Latest Escalation of South China Sea Standoff",
+    "title_cn": "中国攻击菲律宾船只并致船员受伤，南海对峙再度升级",
+    "author": "USNI News",
+    "date": "2024-03-23",
+    "url": "https://news.usni.org/2024/03/23/china-attacks-philippine-ship-injures-crew-in-latest-escalation-of-south-china-sea-standoff",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "USNI News",
+    "title": "Timeline of Chinese Harassment of Second Thomas Shoal Resupply Missions",
+    "title_cn": "中方骚扰仁爱礁补给任务时间线",
+    "author": "USNI News",
+    "date": "2024-04-04",
+    "url": "https://news.usni.org/2024/04/04/timeline-of-chinese-harassment-of-second-thomas-shoal-resupply-missions",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Bloomberg",
+    "title": "Philippines Says China Coast Guard Blasted Water Cannon at Boat in Disputed Sea",
+    "title_cn": "菲律宾称中国海警在争议海域对一艘船喷射水炮",
+    "author": "Bloomberg",
+    "date": "2024-03-23",
+    "url": "https://www.bloomberg.com/news/articles/2024-03-23/philippines-says-china-coast-guard-blasted-water-cannon-at-boat-in-disputed-sea",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Malay Mail（转载 Reuters）",
+    "title": "China coast guard says it took measures against Philippine vessels in South China Sea",
+    "title_cn": "中国海警称已对南海菲律宾船只采取措施",
+    "author": "Reuters",
+    "date": "2024-03-23",
+    "url": "https://www.malaymail.com/amp/news/world/2024/03/23/china-coast-guard-says-it-took-measures-against-philippine-vessels-in-south-china-sea/125054",
+    "type": "通讯社",
+    "note": "署名 Reuters 据检索摘要，待核。"
+   },
+   {
+    "publisher": "ABS-CBN News",
+    "title": "Philippines says three soldiers hurt by China water cannon",
+    "title_cn": "菲律宾称三名军人被中国水炮击伤",
+    "author": "ABS-CBN / AFP",
+    "date": "2024-03-24",
+    "url": "https://news.abs-cbn.com/news/2024/3/24/philippines-says-three-soldiers-hurt-by-china-water-cannon-1541",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "SunStar",
+    "title": "3 Navy personnel hurt amid China's continuous aggression in WPS",
+    "title_cn": "在中方持续侵扰西菲律宾海之际，3名海军人员受伤",
+    "author": "SunStar",
+    "date": "",
+    "url": "https://www.sunstar.com.ph/manila/3-navy-personnel-hurt-amid-chinas-continuous-aggression-in-wps",
+    "type": "专业媒体",
+    "note": "检索结果未显示发布日期；标题据 URL slug。"
+   },
+   {
+    "publisher": "Fox News",
+    "title": "Chinese coast guard uses water cannon on Philippine boat as tensions rise near Second Thomas Shoal",
+    "title_cn": "中国海警对菲律宾船只使用水炮，仁爱礁附近紧张升级",
+    "author": "Fox News（稿源待核）",
+    "date": "",
+    "url": "https://www.foxnews.com/world/chinese-coast-guard-uses-water-cannon-philippine-boat-tensions-rise-near-second-thomas-shoal.print",
+    "type": "专业媒体",
+    "note": "检索结果未显示日期；标题据 URL slug；稿源（AP/Reuters）未核。"
+   },
+   {
+    "publisher": "中华人民共和国外交部",
+    "title": "2024年3月6日外交部发言人毛宁主持例行记者会",
+    "title_cn": "2024年3月6日外交部发言人毛宁主持例行记者会",
+    "author": "外交部发言人",
+    "date": "2024-03-06",
+    "url": "https://www.mfa.gov.cn/nanhai/chn/fyrbt/202403/t20240306_11254556.htm",
+    "type": "官方",
+    "note": "检索结果仅显示页面标题，未取得涉仁爱礁的具体表述。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Second_Thomas_Shoal",
+    "file_name": "Category:Second Thomas Shoal",
+    "desc_cn": "仁爱礁（Second Thomas Shoal / Ayungin）分类页，含坐滩舰、海警船相关图片",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页；具体文件名待在分类页内人工选取。检索结果出现于 commons.wikimedia.org。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+    "file_name": "Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+    "desc_cn": "仁爱礁Landsat 8卫星影像（2014-02-28，15米分辨率）",
+    "date": "2014-02-28",
+    "credit": "NASA/USGS Landsat 8（据文件名）",
+    "license": "未取得（Landsat影像通常为公有领域，须在文件页核验）",
+    "verified": true,
+    "note": "背景图，非事件日影像。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:China_Coast_Guard_vessels",
+    "file_name": "Category:China Coast Guard vessels",
+    "desc_cn": "中国海警船舶分类页（背景）",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景。"
+   }
+  ],
+  "image_leads": [
+   "第二轮 Commons 检索（共3次）未检索到该事件当日的 Commons 文件页；上列为背景分类页/文件，非事件日照片。"
+  ],
+  "stats": {
+   "3月5日菲方受伤（USNI）": "4名海军官兵轻伤",
+   "3月23日菲方受伤": "3名（ABS-CBN/SunStar）；USNI 称“多名”",
+   "3月23日菲军方称攻击时长": "近1小时（菲军方口径）",
+   "改乘充气艇换防人数": "6名海军人员（彭博转述菲方）"
+  }
+ },
+ {
+  "case_key": "ayungin_2024_06_17_boarding_clash",
+  "category": "海上小岛",
+  "title_cn": "海警围堵登临菲海军艇，刀斧伤人缴装备",
+  "subtitle_cn": "2024-06-17，仁爱礁（Second Thomas Shoal / Ayungin）海域，菲海军充气艇被中国海警包围、撞击并登临，一名水兵失去拇指",
+  "date_start": "2024-06-17",
+  "date_end": "",
+  "location_cn": "仁爱礁（Second Thomas Shoal / Ayungin）附近海域",
+  "lat": 9.72,
+  "lon": 115.86,
+  "region": "南海",
+  "attacker": "中国海警（含小艇，菲方口径8艘），海上民兵与解放军海军舰艇策应（AMTI 口径）",
+  "defender": "菲律宾海军（2艘硬壳充气艇 RHIB）及民用补给船“拉普拉普”号（ML Lapulapu）（英文维基条目口径）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群",
+   "异构"
+  ],
+  "attack_means_cn": "海警小艇围堵、撞击与登临；刀、斧等冷兵器破坏艇体并毁坏装备（AMTI、AFP 影像口径）；部分媒体称另有棍棒。菲方报告当日中方小艇共8艘，约为2024年其他补给任务常见的3—4艘的两倍。AMTI 称迄今未见火器、舰载武器等致命武器在该礁使用。",
+  "defense_means_cn": "菲海军官兵乘2艘充气艇；据菲军方称人员处于被围、未武装对抗状态，未使用武器；菲方事后以公开影像、外交渠道和暂停公布补给时间表应对，未援引《美菲共同防御条约》。",
+  "narrative_cn": "2024年6月17日清晨（英文维基条目记为约05:59，UTC+8），菲方对仁爱礁（Second Thomas Shoal / Ayungin）“马德雷山”号（BRP Sierra Madre）实施轮换补给，出动菲海军2艘硬壳充气艇（RHIB）和民用补给船“拉普拉普”号（ML Lapulapu）。AMTI 2024年8月22日的分析称：中国海警在海上民兵和解放军海军舰艇支援下，将一艘菲海军充气艇包围、撞击并登临，登船人员用刀和斧头破坏艇体、毁坏装备；菲方报告当日中方小艇共8艘，约为同年其他补给任务的两倍。法新社公布的菲方影像显示，一名海警人员手持刀、斧等器械；部分媒体称还有棍棒。菲武装部队总参谋长罗梅奥·布劳纳（Romeo Brawner）称，菲方人员被围、未武装，只能“赤手”应对；一名水兵失去拇指；菲军方称海警缴获或毁坏了包括枪支在内的装备。英文维基条目信息框列为8人受伤，待一手来源核实。\n中国海警局当日声明称：一艘菲律宾补给船非法闯入仁爱礁邻近海域，海警依法采取管制措施；菲方船只无视多次警告，以不专业方式危险靠近中方船只，导致擦碰，责任完全在菲方；声明未提人员受伤或船只受损。中文媒体指出，这是6月15日《海警机构行政执法程序规定》施行后海警首次对外执法，并就其中的“登临检查”作了解读。外交部发言人林剑6月20日称海警采取的措施“专业又合法”（台湾媒体转述，外交部原文未核）。菲军方驳斥碰撞说法，称是中方“蓄意高速撞击”；菲国防部长特奥多罗（Gilberto Teodoro）6月24日称中方手段“激烈又非法”，事件既非误会，也非意外。\n事后，菲方表示将不再公布补给任务时间表（BenarNews，6月24日）；菲海军官员称此后一段时间尚无补给任务（Inquirer，发布日期未显示）。AMTI 指出，马尼拉没有援引1951年《美菲共同防御条约》，但该事件是迄今最接近构成对菲公务船只“武装攻击”的一次。",
+  "defense_effect_cn": "补给任务在此次冲突后中断一段时间，AMTI 统计中方仅两次真正阻断了对“马德雷山”号的补给：2021年11月和2024年6月。小型充气艇在被多艘小艇围堵、登临时没有防护手段，人员以少对多，装备被缴或被毁（菲方口径）；一名水兵致残。菲方的对策是不动用武力、不援引条约、公开影像并转向谈判，一个月内达成临时安排（见 ayungin_provisional_2024_07 案）。AMTI 认为本案后仁爱礁出现冲突暂停，并预期中方会把同类低烈度手段用于黄岩岛和仙宾礁。",
+  "claims_compare_cn": "中方（海警局6月17日声明）称菲船非法闯入、不专业靠近造成“擦碰”，责任在菲方，未提伤亡；菲军方称是中方“蓄意高速撞击”，并有人受伤、装备被缴。关于武器：AFP 影像显示刀、斧，部分媒体称还有棍棒；菲军方称枪支被缴获，而布劳纳称人员“赤手”应对，两者并存，枪支数量与持有状态未独立核实。受伤人数：维基条目写8人，菲方一手通报数字在检索结果中未直接取得。外交部“专业又合法”的表述经台湾媒体转述，原文待核。",
+  "losses_cn": "菲方：多人受伤（维基条目写8人，待核），一名水兵失去拇指；一艘海军充气艇被破坏，装备被缴获或毁坏（含枪支，菲军方口径）。中方：声明未提损失，其他渠道未检索到。",
+  "analysis_cn": "刀、斧加大批小艇围堵登临，把烈度控制在“非火器”档位，却造成了人员伤残和阻断补给的实际效果。两个特点值得对照：其一，海警新规提供了“登临检查”的法律说法，使行动在中方叙事中成为执法；其二，中方小艇数量翻倍，说明兵力投送是逐次测试后放大的。对守方，小型艇和未武装人员在登临场景下没有应对手段，如不允许使用武器，就只有避开接触或增加护航兵力。菲方选择谈判而非援引条约，是本案最直接的后果，也直接带来7月的临时安排。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "AMTI, CSIS",
+    "title": "Shifting Tactics at Second Thomas Shoal",
+    "title_cn": "仁爱礁的战术转变",
+    "author": "AMTI（CSIS 亚洲海事透明倡议）",
+    "date": "2024-08-22",
+    "url": "https://amti.csis.org/shifting-tactics-at-second-thomas-shoal/",
+    "type": "智库"
+   },
+   {
+    "publisher": "BenarNews",
+    "title": "June 17 China-Philippines clash in the South China Sea explained",
+    "title_cn": "6月17日中菲南海冲突解读（视频）",
+    "author": "BenarNews",
+    "date": "",
+    "url": "https://www.benarnews.org/english/video/1_xtu26wxm",
+    "type": "专业媒体",
+    "note": "检索结果未显示发布日期。"
+   },
+   {
+    "publisher": "Daily Tribune（转载 AFP）",
+    "title": "Chinese sailors wield knives, axe in disputed sea clash with Philippines",
+    "title_cn": "中国水手在与菲律宾的争议海域冲突中挥舞刀斧",
+    "author": "AFP",
+    "date": "2024-06-20",
+    "url": "https://tribune.net.ph/2024/06/20/chinese-sailors-wield-knives-axe-in-disputed-sea-clash-with-philippines",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "ABS-CBN News",
+    "title": "Chinese sailors wield sticks, axe in disputed sea clash with Philippines",
+    "title_cn": "中国水手在与菲律宾的争议海域冲突中挥舞棍棒、斧头",
+    "author": "ABS-CBN / AFP",
+    "date": "2024-06-20",
+    "url": "https://www.abs-cbn.com/world/2024/6/20/chinese-sailors-wield-sticks-axe-in-disputed-sea-clash-with-philippines-1234",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "中国日报网",
+    "title": "（页面标题未显示）",
+    "title_cn": "（页面标题未显示；2024-06-19 发布）",
+    "author": "",
+    "date": "2024-06-19",
+    "url": "https://cn.chinadaily.com.cn/a/202406/19/WS6672a7f5a3107cd55d267a17.html",
+    "type": "官方",
+    "note": "日期据 URL；内容未读取。"
+   },
+   {
+    "publisher": "中时新闻网",
+    "title": "（页面标题未显示）",
+    "title_cn": "（页面标题未显示；内容涉中国海警6月17日声明与“登临检查”解读）",
+    "author": "",
+    "date": "2024-06-20",
+    "url": "https://www.chinatimes.com/cn/realtimenews/20240620002409-260409",
+    "type": "专业媒体",
+    "note": "日期据 URL；标题与内容摘要经检索摘要转述，待核。"
+   },
+   {
+    "publisher": "台灣英文新聞（Taiwan News）",
+    "title": "菲律賓國防部長鐵歐多洛(Gilberto Teodoro)24日指控中國，使用「激烈又非法」的手段阻撓菲律賓在南海補給任務",
+    "title_cn": "菲律宾国防部长特奥多罗24日指控中国以“激烈又非法”手段阻挠南海补给",
+    "author": "Taiwan News",
+    "date": "2024-06-24",
+    "url": "https://www.taiwannews.com.tw/zh/news/5895357",
+    "type": "专业媒体",
+    "note": "日期据检索摘要中的“24日”推定，待核；标题取自检索结果首句。"
+   },
+   {
+    "publisher": "BenarNews",
+    "title": "Philippines won't publicize resupply mission schedule to disputed shoal",
+    "title_cn": "菲律宾不再公布前往争议礁盘的补给任务时间表",
+    "author": "BenarNews",
+    "date": "2024-06-24",
+    "url": "https://www.benarnews.org/english/news/philippine/philippines-wont-publicize-resupply-mission-schedule-shoal-06242024144612.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Philippine Daily Inquirer",
+    "title": "West Philippine Sea: No Ayungin resupply since violent June 17 encounter",
+    "title_cn": "西菲律宾海：6月17日暴力冲突后再无仁爱礁补给",
+    "author": "Inquirer",
+    "date": "",
+    "url": "https://www.inquirer.net/?p=408902",
+    "type": "专业媒体",
+    "note": "检索结果未显示发布日期（摘要称“周二”，应在2024年7月）。"
+   },
+   {
+    "publisher": "Wikipedia",
+    "title": "June 2024 Second Thomas Shoal incident",
+    "title_cn": "2024年6月仁爱礁事件",
+    "author": "Wikipedia 编者",
+    "date": "",
+    "url": "https://en.wikipedia.org/wiki/June_2024_Second_Thomas_Shoal_incident",
+    "type": "其他",
+    "note": "二手汇编，仅作线索，不单独作为证据。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Second_Thomas_Shoal",
+    "file_name": "Category:Second Thomas Shoal",
+    "desc_cn": "仁爱礁（Second Thomas Shoal / Ayungin）分类页，含坐滩舰、海警船相关图片",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页；具体文件名待在分类页内人工选取。检索结果出现于 commons.wikimedia.org。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+    "file_name": "Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+    "desc_cn": "仁爱礁Landsat 8卫星影像（2014-02-28，15米分辨率）",
+    "date": "2014-02-28",
+    "credit": "NASA/USGS Landsat 8（据文件名）",
+    "license": "未取得（Landsat影像通常为公有领域，须在文件页核验）",
+    "verified": true,
+    "note": "背景图，非事件日影像。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:China_Coast_Guard_vessels",
+    "file_name": "Category:China Coast Guard vessels",
+    "desc_cn": "中国海警船舶分类页（背景）",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景。"
+   }
+  ],
+  "image_leads": [
+   "第二轮 Commons 检索（共3次）未检索到该事件当日的 Commons 文件页；上列为背景分类页/文件，非事件日照片。"
+  ],
+  "stats": {
+   "中方小艇数（菲方口径）": "8艘（常规3—4艘）",
+   "菲方受伤": "维基条目写8人（待核）；1人失去拇指（菲军方）",
+   "AMTI：2021年以来公开报道的使用武力": "至少10起",
+   "AMTI：2023-10至2024-06使用武力": "7起",
+   "AMTI：阻断对“马德雷山”号补给": "2次（2021-11、2024-06）"
+  }
+ },
+ {
+  "case_key": "ayungin_provisional_2024_07",
+  "category": "海上小岛",
+  "title_cn": "临时安排使运补趋稳，检查与建材之争未解",
+  "subtitle_cn": "2024年7月至2026年9月，仁爱礁（Second Thomas Shoal / Ayungin）：中菲“临时安排”（菲称“临时谅解”）下的补给与管控",
+  "date_start": "2024-07-01",
+  "date_end": "2026-09-23",
+  "location_cn": "仁爱礁（Second Thomas Shoal / Ayungin）及其补给航线",
+  "lat": 9.72,
+  "lon": 115.86,
+  "region": "南海",
+  "attacker": "（管控期）中国海警：跟监、询问确认、要求事先通报与现场检查（中方口径）",
+  "defender": "菲律宾海军/武装部队补给任务；PCG 视情护航",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [],
+  "attack_means_cn": "管控期内无直接武力使用的公开记录（至2026年3月，菲方称无危险接触）；中方手段为现场监管、询问确认与对货物范围的限制要求。具体日期的“7月”安排文本未公开。",
+  "defense_means_cn": "菲方按约一次约每六周的节奏轮换补给，运补船不再预先公布时间；不接受中方的“事先通报、现场检查”解释；继续用补给维持“马德雷山”号。",
+  "narrative_cn": "2024年6月17日冲突（见 ayungin_2024_06_17_boarding_clash）后，中菲于2024年7月通过外交渠道就仁爱礁补给达成“临时安排”（菲方称“临时谅解”），具体日期和全文未在本轮检索取得，未对外公开全文（USNI 称“尚未披露”）。AMTI 2024年8月22日的分析称，安排后中国海警在仁爱礁的存在明显减少；AMTI 的相关分析还记述：安排后首次补给于7月27日进行，没有发生事件，但双方此前已就是否预先通报、是否接受登船检查公开出现分歧；8月19日仙宾礁附近中菲海警船碰撞（另案）又使人们怀疑该安排能否维持。\n2024年12月12日，菲方派1艘民用船向“马德雷山”号运送生活物资。中国海警局发言人刘德军12月17日称，补给“经中方允许”，海警对菲船“询问确认并全程监管”（中国日报网报道）。\nAMTI 2026年3月23日的文章（作者 Liu Xiaobo，刘晓博）统计：自安排达成至2026年3月4日，菲方共执行13次轮换补给，约每六周一次；菲方称这些任务均未发生危险接触。该文称：北京强调菲方必须事先通报并接受现场检查，只准基本生活必需品，反对大量建筑材料；马尼拉没有承认检查义务，而“马德雷山”号年久失修，有持续加固需求。AMTI 的判断是，北京视该安排为过渡、目标是该舰最终撤离，马尼拉则视其为保住该舰并可能建设常设驻守设施的手段，双方“解释不同、执行相近”。\n2026年9月，中国媒体称菲方已完成15批补给。2026年9月24日，该安排下首次被确认的阻断事件发生（见 ayungin_2026_09_24_blockade）。",
+  "defense_effect_cn": "对菲方，安排恢复了补给常态：13次任务约每六周一次，且据菲方称无危险接触，“马德雷山”号得以维持驻守。代价是对检查与货物范围的争议被搁置，而非解决：中方的口径是“事先通报、现场检查、仅限生活物资”，菲方的口径是无需批准。AMTI 注意到双方对未来的预期相反：北京期待该舰最终撤离，马尼拉期待保住并可能强化驻守。对中方，安排降低了在仁爱礁出现伤亡的概率，同时保留了随时重新收紧的手段。",
+  "claims_compare_cn": "中方（刘德军，2024-12-17）称12月12日补给“经中方允许”、海警“询问确认并全程监管”；菲方称补给无需批准、任务无危险接触。2026年9月前，中国媒体称菲方曾“提前报告计划”并“经现场核查后放行”，检索摘要未给出该表述的官方原文。AMTI 称双方对通报与检查义务的理解不同，但在实践中形成默契。该安排的正式文本均未公开，上述各项只能依据双方的单方表述。",
+  "losses_cn": "管控期内未检索到人员伤亡或船只受损的公开报道（至2026年3月）。",
+  "analysis_cn": "该案的重点不是冲突，而是“执行相近、解释不同”的稳定性有多大：只要双方都不要求对方公开承认自己的解释，补给就可以进行；一旦菲方或中方改变做法，安排即失去依据。AMTI 的计数（13次任务）和中国媒体的计数（15批）可作为观察窗口，用于判断临时安排的实际寿命。2026年9月24日的阻断显示，这种稳定并不持久。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "AMTI, CSIS",
+    "title": "Divergence and Tacit Understanding in the China–Philippines Provisional Arrangement at Second Thomas Shoal",
+    "title_cn": "中菲仁爱礁临时安排中的分歧与默契",
+    "author": "Liu Xiaobo（刘晓博）",
+    "date": "2026-03-23",
+    "url": "https://amti.csis.org/divergence-and-tacit-understanding-in-the-china-philippines-provisional-arrangement-at-second-thomas-shoal/",
+    "type": "智库",
+    "note": "作者与日期据检索摘要，全文未读取。"
+   },
+   {
+    "publisher": "AMTI, CSIS",
+    "title": "Shifting Tactics at Second Thomas Shoal",
+    "title_cn": "仁爱礁的战术转变",
+    "author": "AMTI（CSIS 亚洲海事透明倡议）",
+    "date": "2024-08-22",
+    "url": "https://amti.csis.org/shifting-tactics-at-second-thomas-shoal/",
+    "type": "智库"
+   },
+   {
+    "publisher": "中国日报网",
+    "title": "菲向非法“坐滩”仁爱礁军舰运补 中国海警对菲船只询问确认并全程监管",
+    "title_cn": "菲向非法“坐滩”仁爱礁军舰运补 中国海警对菲船只询问确认并全程监管",
+    "author": "中国日报网",
+    "date": "2024-12-17",
+    "url": "https://cn.chinadaily.com.cn/a/202412/17/WS67613cb8a310b59111da9500.html",
+    "type": "官方"
+   },
+   {
+    "publisher": "USNI News",
+    "title": "Chinese Cutters, Warships Block Philippine Resupply Mission to Second Thomas Shoal",
+    "title_cn": "中国海警船与军舰阻断菲律宾对仁爱礁的补给任务",
+    "author": "USNI News",
+    "date": "2026-09-25",
+    "url": "https://news.usni.org/2026/09/25/chinese-cutters-warships-block-philippine-resupply-mission-to-second-thomas-shoal",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "观察者网",
+    "title": "非法补给仁爱礁军舰被中国阻断后，菲律宾搬出了日本",
+    "title_cn": "非法补给仁爱礁军舰被中国阻断后，菲律宾搬出了日本",
+    "author": "观察者网",
+    "date": "2026-09-27",
+    "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_09_27_902401.shtml",
+    "type": "专业媒体",
+    "note": "日期据 URL；内容经检索摘要转述，称转述中国海警披露。"
+   },
+   {
+    "publisher": "USNI News",
+    "title": "China Deploys Armed Small Boats to Second Thomas Shoal",
+    "title_cn": "中国向仁爱礁部署武装小艇",
+    "author": "USNI News",
+    "date": "2025-08-21",
+    "url": "https://news.usni.org/2025/08/21/china-deploys-armed-small-boats-to-secondthomas-shoal",
+    "type": "专业媒体",
+    "note": "仅取得标题，内容未读取。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Second_Thomas_Shoal",
+    "file_name": "Category:Second Thomas Shoal",
+    "desc_cn": "仁爱礁（Second Thomas Shoal / Ayungin）分类页，含坐滩舰、海警船相关图片",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页；具体文件名待在分类页内人工选取。检索结果出现于 commons.wikimedia.org。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+    "file_name": "Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+    "desc_cn": "仁爱礁Landsat 8卫星影像（2014-02-28，15米分辨率）",
+    "date": "2014-02-28",
+    "credit": "NASA/USGS Landsat 8（据文件名）",
+    "license": "未取得（Landsat影像通常为公有领域，须在文件页核验）",
+    "verified": true,
+    "note": "背景图，非事件日影像。"
+   }
+  ],
+  "image_leads": [
+   "第二轮 Commons 检索（共3次）未检索到该事件当日的 Commons 文件页；上列为背景分类页/文件，非事件日照片。"
+  ],
+  "stats": {
+   "AMTI：安排达成至2026-03-04菲方轮换补给次数": "13次（约每六周一次）",
+   "中国媒体口径（至2026-09前）": "15批（媒体转述，未核）",
+   "2024-12-12 补给": "1艘民船，中方称“经中方允许”"
+  }
+ },
+ {
+  "case_key": "ayungin_2026_09_24_blockade",
+  "category": "海上小岛",
+  "title_cn": "海警与海军联合阻断运补，临时安排首次被破",
+  "subtitle_cn": "2026-09-24，仁爱礁（Second Thomas Shoal / Ayungin）航线，距礁约60海里：菲方补给编队被中国海警船和解放军海军舰艇拦截，任务中止",
+  "date_start": "2026-09-24",
+  "date_end": "2026-09-25",
+  "location_cn": "距仁爱礁（Second Thomas Shoal / Ayungin）约60海里海域（菲方口径）",
+  "lat": 9.72,
+  "lon": 115.86,
+  "region": "南海",
+  "attacker": "中国海警船、解放军海军军舰（含2艘022型导弹艇，菲武装部队口径）；海上民兵船（菲方口径）",
+  "defender": "菲律宾海军补给船“拉普拉普”号（Lapu Lapu）；PCG“马拉布里戈”号（BRP Malabrigo）、“卡布拉”号（BRP Cabra）",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群",
+   "异构"
+  ],
+  "attack_means_cn": "中国海警船与解放军海军舰艇的拦截和危险机动（菲方口径）；一艘海警船近至约1,000码；另有11艘海警船与海上民兵船在“马德雷山”号所在的仁爱礁与仙宾礁一带（USNI 转述菲方）。船数口径见“口径比对”。",
+  "defense_means_cn": "PCG 2艘巡逻船护航海军补给船；遇危险机动后中止任务；发表公开声明，美国使馆表态支持，国防部长称补给将继续。",
+  "narrative_cn": "2026年9月24日（周四）夜间，菲方对仁爱礁“马德雷山”号（BRP Sierra Madre，LT-57）实施补给：菲海军运营的补给船“拉普拉普”号（Lapu Lapu）由PCG巡逻船“马拉布里戈”号（BRP Malabrigo）和“卡布拉”号（BRP Cabra）护航。菲方称，中国海警与海军舰艇在距仁爱礁约60海里处拦截，以“危险机动”造成碰撞风险，一艘海警船一度逼近“拉普拉普”号约1,000码（约900米）；PCG发言人称任务于约23时08分中止，未有人员伤亡。菲武装部队对ABS-CBN称，解放军海军出动3艘军舰，其中包括2艘022型（Houbei，“红稗”）导弹艇；USNI 另转述，有11艘海警船和海上民兵船在“马德雷山”号所在的仁爱礁与仙宾礁一带。\n船数口径不一：武装部队口径为3艘解放军海军舰艇加5艘海警船；《菲律宾星报》称15艘（1艘海军舰艇、5艘民兵船、9艘海警船）；《询问者报》转述武装部队称共8艘中国军舰和海警船。\n美国驻菲大使发表声明，谴责海警和解放军海军的“危险阻断和机动”威胁碰撞并阻碍合法例行补给；中方批评美国支持菲方的挑衅行动（USNI 转述）。中方叙事（观察者网转述中国海警披露）：9月24日菲方不顾劝阻派出运补船，海警对菲方船只实施现场跟监、喊话警告；中国媒体称此事发生在菲方9月23日于黄岩岛附近组织多国联合演练之后，该说法为单方叙事。中国外交部和南部战区的正式表态未在本轮检索取得。菲国防部长特奥多罗（Gilberto Teodoro）9月26日称后续补给将继续。《外交家》（The Diplomat）称中菲“临时谅解”似已破裂；《拉普勒》（Rappler）称这是该谅解下首次被确认的阻碍；《外交家》另有题为《争议礁盘对峙后，中国在南海举行军事演习》的报道，内容本轮未读取。同期（9月18日），USNI 报道海警21585号船撞击菲渔业局船只“马加特·萨拉马特”号（Magat Salamat，MMOV 3015），地点未检索到。",
+  "defense_effect_cn": "编队在距礁60海里处即被迫中止，拦截纵深较2023年10月的13.5海里大幅外推，未能进入近礁水域，补给任务未完成。菲方无人员伤亡，并表示将继续补给，但补给线的可持续性取决于临时安排是否恢复。中方出动导弹艇与军舰，使拦阻从海警为主变为海警与海军联合。暴露的问题：护航仅2艘PCG巡逻船，补给船为海军运营的老旧舰船；对中方船数，菲军方、媒体各给出不同数字（3+5、15、8），反映观测手段和统计口径不统一。",
+  "claims_compare_cn": "菲方：补给被“危险机动”阻断，中方出动海军，距礁60海里；美国使馆称“阻断与机动威胁碰撞，阻碍合法例行补给”。中方（经观察者网转述海警披露）：菲方不顾劝阻，海警现场跟监、喊话警告；中国媒体称这是对菲方事前多国演练之后的“强闯”。船数口径：武装部队3艘军舰+5艘海警船；《星报》1艘军舰+5艘民兵船+9艘海警船；《询问者报》共8艘。外交部、南部战区的官方表述未检索到，中方各项为媒体转述。",
+  "losses_cn": "未检索到人员伤亡或船只受损报道；补给任务中止；经济损失未检索到。",
+  "analysis_cn": "拦截点离礁60海里，意味着中方在补给船尚未接近仁爱礁时即实施阻断，由“近礁拦阻”变为“航线封控”，所需兵力也由海警小艇升级到海警加海军。该事件使“临时安排”的两种读法（菲方：无需批准；中方：事先通报、现场检查）正面碰撞，AMTI 2026年3月的分析已指出这一分歧。后续观察点：下一次补给能否恢复，中方是否继续使用导弹艇，以及美方后续的表态是否超出谴责。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "USNI News",
+    "title": "Chinese Cutters, Warships Block Philippine Resupply Mission to Second Thomas Shoal",
+    "title_cn": "中国海警船与军舰阻断菲律宾对仁爱礁的补给任务",
+    "author": "USNI News",
+    "date": "2026-09-25",
+    "url": "https://news.usni.org/2026/09/25/chinese-cutters-warships-block-philippine-resupply-mission-to-second-thomas-shoal",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Manila Times",
+    "title": "AFP: Chinese interfere during resupply mission",
+    "title_cn": "菲武装部队：中方在补给任务中进行干扰",
+    "author": "Manila Times",
+    "date": "2026-09-26",
+    "url": "https://www.manilatimes.net/2026/09/26/news/national/afp-chinese-interfere-during-resupply-mission/2433198",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Philippine Star",
+    "title": "China blocks Ayungin resupply mission anew",
+    "title_cn": "中国再度阻断仁爱礁补给任务",
+    "author": "Philstar",
+    "date": "2026-09-26",
+    "url": "https://www.philstar.com/headlines/2026/09/26/2558942/china-blocks-ayungin-resupply-mission-anew",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Manila Bulletin",
+    "title": "US condemns Chinese interference in Philippines' resupply mission in Ayungin Shoal",
+    "title_cn": "美国谴责中方干扰菲律宾对仁爱礁的补给任务",
+    "author": "Manila Bulletin",
+    "date": "2026-09-27",
+    "url": "https://mb.com.ph/2026/09/27/us-condems-chinese-interference-in-philippines-resupply-mission-in-ayungin-shoal",
+    "type": "专业媒体",
+    "note": "URL slug 拼写 condems 原样保留。"
+   },
+   {
+    "publisher": "Philippine News Agency（经 GlobalSecurity 转载）",
+    "title": "AFP reports Chinese interference in resupply mission in Ayungin Shoal",
+    "title_cn": "菲武装部队报告中方干扰仁爱礁补给任务",
+    "author": "PNA",
+    "date": "2026-09-25",
+    "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260925-pna02.htm",
+    "type": "官方",
+    "note": "日期据 URL；PNA 为菲律宾官方通讯社。"
+   },
+   {
+    "publisher": "Rappler",
+    "title": "China 'hinders' PH resupply mission to Ayungin Shoal",
+    "title_cn": "中国“阻碍”菲律宾对仁爱礁的补给任务",
+    "author": "Rappler",
+    "date": "",
+    "url": "https://www.rappler.com/philippines/china-hinders-resupply-mission-ayungin-shoal/",
+    "type": "专业媒体",
+    "note": "检索结果未显示发布日期，内容未读取。"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "New Standoff Between China and Philippines Near Second Thomas Shoal",
+    "title_cn": "中菲在仁爱礁附近再度对峙",
+    "author": "Maritime Executive",
+    "date": "",
+    "url": "https://maritime-executive.com/article/new-standoff-between-china-and-philippines-near-second-thomas-shoal",
+    "type": "专业媒体",
+    "note": "检索结果未显示发布日期，内容未读取。"
+   },
+   {
+    "publisher": "The Diplomat",
+    "title": "China Conducts Military Exercise in South China Sea After Confrontation at Disputed Shoal",
+    "title_cn": "争议礁盘对峙后，中国在南海举行军事演习",
+    "author": "The Diplomat",
+    "date": "",
+    "url": "https://thediplomat.com/2026/09/china-conducts-military-exercise-in-south-china-sea-after-confrontation-at-disputed-shoal/",
+    "type": "专业媒体",
+    "note": "检索结果仅显示 2026-09 及标题；具体日期、内容未读取。"
+   },
+   {
+    "publisher": "观察者网",
+    "title": "非法补给仁爱礁军舰被中国阻断后，菲律宾搬出了日本",
+    "title_cn": "非法补给仁爱礁军舰被中国阻断后，菲律宾搬出了日本",
+    "author": "观察者网",
+    "date": "2026-09-27",
+    "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_09_27_902401.shtml",
+    "type": "专业媒体",
+    "note": "日期据 URL；内容经检索摘要转述，称转述中国海警披露。"
+   },
+   {
+    "publisher": "中华网军事频道",
+    "title": "菲律宾再次强闯仁爱礁意欲何为 挑衅失败揭示孤立处境",
+    "title_cn": "菲律宾再次强闯仁爱礁意欲何为 挑衅失败揭示孤立处境",
+    "author": "中华网",
+    "date": "2026-09-27",
+    "url": "https://military.china.com/news/13004177/20260927/49767079.html",
+    "type": "其他",
+    "note": "日期据 URL；中国媒体评论性稿件，仅作中方叙事呈现。"
+   },
+   {
+    "publisher": "USNI News",
+    "title": "VIDEO: China Coast Guard Rams Philippine Fisheries Vessel in South China Sea",
+    "title_cn": "视频：中国海警船撞击菲律宾渔业船只",
+    "author": "USNI News",
+    "date": "2026-09-18",
+    "url": "https://news.usni.org/2026/09/18/video-china-coast-guard-rams-philippine-fisheries-vessel-in-south-china-sea",
+    "type": "专业媒体",
+    "note": "仅取得标题与摘要，地点未检索到。"
+   },
+   {
+    "publisher": "AMTI, CSIS",
+    "title": "Divergence and Tacit Understanding in the China–Philippines Provisional Arrangement at Second Thomas Shoal",
+    "title_cn": "中菲仁爱礁临时安排中的分歧与默契",
+    "author": "Liu Xiaobo（刘晓博）",
+    "date": "2026-03-23",
+    "url": "https://amti.csis.org/divergence-and-tacit-understanding-in-the-china-philippines-provisional-arrangement-at-second-thomas-shoal/",
+    "type": "智库",
+    "note": "作者与日期据检索摘要，全文未读取。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Second_Thomas_Shoal",
+    "file_name": "Category:Second Thomas Shoal",
+    "desc_cn": "仁爱礁（Second Thomas Shoal / Ayungin）分类页，含坐滩舰、海警船相关图片",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页；具体文件名待在分类页内人工选取。检索结果出现于 commons.wikimedia.org。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+    "file_name": "Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+    "desc_cn": "仁爱礁Landsat 8卫星影像（2014-02-28，15米分辨率）",
+    "date": "2014-02-28",
+    "credit": "NASA/USGS Landsat 8（据文件名）",
+    "license": "未取得（Landsat影像通常为公有领域，须在文件页核验）",
+    "verified": true,
+    "note": "背景图，非事件日影像。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:China_Coast_Guard_vessels",
+    "file_name": "Category:China Coast Guard vessels",
+    "desc_cn": "中国海警船舶分类页（背景）",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景。"
+   }
+  ],
+  "image_leads": [
+   "第二轮 Commons 检索（共3次）未检索到该事件当日的 Commons 文件页；上列为背景分类页/文件，非事件日照片。"
+  ],
+  "stats": {
+   "拦截点距仁爱礁": "约60海里（菲方口径）",
+   "中方船数（武装部队口径）": "3艘解放军海军舰艇（含2艘022型）+5艘海警船",
+   "中方船数（星报口径）": "15艘（1海军+5民兵+9海警）",
+   "中方船数（询问者报转述武装部队）": "8艘",
+   "任务中止时间（PCG）": "约23:08",
+   "最近一艘海警船距补给船": "约1,000码（USNI）"
+  }
+ },
+ {
+  "case_key": "pagasa_2026_03_25_frigate_close",
+  "category": "岛屿防卫",
+  "title_cn": "护卫舰数米逼近菲登陆舰，中业岛险碰撞",
+  "subtitle_cn": "2026-03-25，中业岛（Pag-asa / Thitu / 中业岛）附近海域，解放军海军054A型护卫舰与菲海军登陆舰“本盖特”号（BRP Benguet，LS-507）近距离接触",
+  "date_start": "2026-03-25",
+  "date_end": "",
+  "location_cn": "中业岛（Pag-asa / Thitu）附近海域，南沙群岛",
+  "lat": 11.05,
+  "lon": 114.28,
+  "region": "南海",
+  "attacker": "解放军海军054A型护卫舰“滨州”号（Binzhou，舷号532，USNI 口径）",
+  "defender": "菲律宾海军登陆舰“本盖特”号（BRP Benguet，LS-507，二战时期坦克登陆舰）；菲军西部司令部（WESCOM）",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "军舰高速近距离机动，据报道最近距离约5—8米（16—26英尺，各报道不一）；3月第一周另有中方军舰在仙宾礁（Sabina Shoal）附近对菲护卫舰使用火控雷达（仅见于检索摘要，舰名与日期待核）。",
+  "defense_means_cn": "“本盖特”号改变航向规避，未还击；西部司令部公开通报，援引《国际海上避碰规则公约》。",
+  "narrative_cn": "2026年3月25日（周三），菲海军登陆舰“本盖特”号（BRP Benguet，LS-507，二战时期坦克登陆舰）在中业岛（Pag-asa / Thitu）附近海域航行时，被解放军海军054A型导弹护卫舰“滨州”号（Binzhou，舷号532，据 USNI）逼近。中业岛是菲律宾在南沙群岛实际控制的最大岛屿（USNI 口径）。菲军西部司令部（WESCOM）称中方军舰实施“不安全、不专业机动”，迫使“本盖特”号改变航向以避免碰撞；报道称中方军舰一度近至5—8米（16—26英尺）。西部司令部称该机动具挑衅性，明显违反《国际海上避碰规则公约》，并称舰员克制，保证了人员安全并避免事态升级。\nUSNI 称这是当月菲中两国海军力量在南沙的第二次公开接触；3月第一周，一艘中国军舰曾在仙宾礁附近对一艘菲律宾护卫舰使用火控雷达（该条仅见于检索摘要，具体舰名与日期未取得）。《海事高管》（The Maritime Executive）指出，此类涉及中国海军的接触近期较少。《海事高管》该稿标题标注为视频，说明菲方公布了影像（内容未读取）。中方对3月25日事件的表态未在本轮检索取得。",
+  "defense_effect_cn": "“本盖特”号通过转向避免了碰撞，没有人员伤亡或损伤的公开报道。暴露的问题：老旧登陆舰在军舰近距离机动面前机动性与自卫能力有限，只能规避；信息来源为菲军方单方通报，中方说法、距离数据和航迹缺少独立核实。海军舰艇直接参与近距离接触，使本案较此前以海警为主的对峙更接近军事摩擦。",
+  "claims_compare_cn": "菲军西部司令部称中方军舰机动“不安全、不专业”，违反避碰规则；中方对该事件的表述未检索到公开记录。近距离数据来自不同媒体，称约5—8米（16—26英尺），无独立测定。火控雷达事件仅见于摘要转述，中方说法与具体日期均待核。",
+  "losses_cn": "未检索到人员伤亡或舰艇损伤的报道。",
+  "analysis_cn": "军舰对军舰的近距离机动在这一组案例中少见，过去的对峙多由海警和民兵船承担。3月内两次接触（火控雷达、近距离机动）显示解放军海军的介入形式在增多：雷达照射是电磁层面的警告，近距离机动是物理层面的压迫。对守方，应对手段限于规避和公开通报；若接触距离继续缩小，避碰规则之外的事故通报与沟通机制将成为关键。本案细节有限，需补充中方口径和影像核实。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "USNI News",
+    "title": "Philippine Navy Ship Avoids Collision During Chinese Frigate Harassment in South China Sea",
+    "title_cn": "菲律宾海军舰艇在中国护卫舰骚扰中避免碰撞",
+    "author": "USNI News",
+    "date": "2026-03-27",
+    "url": "https://news.usni.org/2026/03/27/philippine-navy-ship-avoids-collision-during-chinese-frigate-harassment-in-south-china-sea",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Philippine Star",
+    "title": "Philippines vessel avoids crash with China warship",
+    "title_cn": "菲律宾船只避免与中国军舰相撞",
+    "author": "Philstar",
+    "date": "2026-03-28",
+    "url": "https://www.philstar.com/headlines/2026/03/28/2517342/philippines-vessel-avoids-crash-china-warship/amp/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "DZRH News",
+    "title": "Philippine Navy outmaneuvers provocative Chinese vessel near Pag-asa Island",
+    "title_cn": "菲律宾海军在中业岛附近机动避开挑衅的中国船只",
+    "author": "DZRH",
+    "date": "2026-03-27",
+    "url": "https://www.dzrh.com.ph/post/philippine-navy-outmaneuvers-provocative-chinese-vessel-near-pag-asa-island",
+    "type": "专业媒体",
+    "note": "日期据检索摘要；标题据 URL slug。"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "VIDEO: Philippines calls close encounter with Chinese navy an escalation",
+    "title_cn": "视频：菲律宾称与中国海军的近距离接触是升级",
+    "author": "Maritime Executive",
+    "date": "2026-03-27",
+    "url": "https://maritime-executive.com/article/video-philippines-calls-close-encounter-with-chinese-navy-an-escalation",
+    "type": "专业媒体",
+    "note": "日期据检索摘要；标题据 URL slug。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Spratly_Islands",
+    "file_name": "Category:Spratly Islands",
+    "desc_cn": "南沙群岛分类页（中业岛所在群岛，背景）",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景；未检索到中业岛专属文件页。"
+   }
+  ],
+  "image_leads": [
+   "第二轮 Commons 检索（共3次）未检索到该事件当日的 Commons 文件页；上列为背景分类页/文件，非事件日照片。"
+  ],
+  "stats": {
+   "最近距离（各报道）": "约5—8米（16—26英尺）",
+   "菲方舰船": "BRP Benguet（LS-507）",
+   "中方舰船（USNI）": "054A型护卫舰“滨州”号（532）"
+  }
+ },
+ {
+  "case_key": "kinmen_2024_02_14_capsize_boarding",
+  "category": "岛屿防卫",
+  "title_cn": "金门快艇翻覆二死，海警转入登检台湾游船",
+  "subtitle_cn": "2024-02-14，金门（Kinmen）北碇岛附近，大陆籍快艇与台湾海巡署巡逻艇碰撞翻覆；2024-02-19，中国海警登临台湾观光船“King Xia”",
+  "date_start": "2024-02-14",
+  "date_end": "2024-02-19",
+  "location_cn": "金门（Kinmen）周边海域，北碇岛（Beiding）附近及水头港（Shuitou）外海，台湾福建沿海",
+  "lat": 24.45,
+  "lon": 118.4,
+  "region": "台海",
+  "attacker": "无单一攻击方：2月14日为台湾海巡署执法追缉过程中的碰撞（涉事快艇，台方称“三无”）；2月19日为中国海警局福建海警艇登检台湾观光船",
+  "defender": "台湾海巡署（Coast Guard Administration, CGA）金马澎分署；被登检的台湾观光船“King Xia”（中文船名待核）",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "2月14日：大陆籍小型快艇（台方称无船名、无登记）载4人，在台方所称禁止水域内被追缉，先蛇行规避，后急右转，艇尾撞及海巡署巡逻艇右前舷后翻覆。2月19日：2艘中国海警艇拦截台湾观光船，6名海警人员登船检查证件与航线。",
+  "defense_means_cn": "海巡署巡逻艇开启警示灯与警笛高速接近，翻覆后救起4名落水者送金门医院；2月19日海巡署另派巡逻艇赶赴现场，护送观光船返回水头港。未使用武器。",
+  "narrative_cn": "2024年2月14日，海巡署巡逻艇接获通报，称一艘大陆籍快艇在金门北碇岛附近的台方禁止水域活动。台方通报称，艇长开启警示灯与警笛高速接近，快艇先蛇行以规避登检，随后急右转，艇尾撞到巡逻艇右前侧，快艇翻覆。艇上4人落水，均被救起并送金门医院，其中2人不治。海巡署与陆委会均称该艇无船名、无登记（台湾媒体习称“三无”）。陆委会2月15日表示死亡令人遗憾，但初步调查认为执法人员依法执行职务，并无不当。国台办发言人朱凤莲称之为“恶性事件”，严重伤害同胞感情；大陆方面称死者为渔民，并表示将常态化巡查以保障渔民生命财产安全。\n2月18日，中国海警局宣布加强在厦金海域的执法力量，开展常态化执法巡查。2月19日约16时47分，2艘中国海警艇在金门附近拦截台湾观光船“King Xia”（船上船员11人、乘客23人），6名海警人员登船，查验船员证件、航线计划与证书，约17时19分返回己艇离去，历时约半小时。海巡署说明该船因乌沙角（Wushajiao，中文名待核）一带浅滩而略微偏离航线；海巡署巡逻艇在海警艇出现于雷达后赶往现场，护送该船返回水头港。台湾海洋委员会主委管碧玲称事件已升高至政治层面。台方并称，过去陆方游船误入台方水域时，海巡署只发警告而未曾登检。\n2月22日，海巡署确认金门翻覆事件系巡逻艇与快艇碰撞所致，此前数日陆方与国民党立委已持续批评台方说明不清。此后，海警艇以“执法巡查”名义进入金门限制水域成为常态（见另案 kinmen_ccg_patrols_2024_2026）。",
+  "defense_effect_cn": "海巡署在两次接触中均未诉诸武力：2月14日以追缉与救援为主，2月19日以监控、护航为主。暴露的问题有三：一是离岸一海里级的近岸水域，执法追缉本身会因高速追逐造成人员伤亡，并立即被对方转化为政治事件；二是台方对碰撞经过的最初说明不够清楚，直至2月22日才确认碰撞，给对方留下质疑空间；三是海警首次登检台湾民用船舶，台方此前“只警告不登检”的惯例被打破，海巡署只能在场外护航，无法阻止登检。",
+  "claims_compare_cn": "台方：快艇无船名无登记，在禁止水域内被追缉，因急转向撞及巡逻艇而翻覆；执法人员依法执行职务。陆方：死者为渔民，国台办称“恶性事件”，并否认存在所谓禁止、限制水域（该说法见2024年国台办表述，检索摘要转述，原文待核）。碰撞经过：海巡署2月22日才确认为碰撞，此前遭陆方与国民党立委批评。2月19日登检：海巡署称观光船因浅滩略偏航线；中国海警以执法检查名义登船。快艇是否从事捕捞、是否越线，两方均无公开影像核实。",
+  "losses_cn": "快艇乘员2人死亡、2人获救（台方口径）；台方人员无伤亡报道（未检索到公开记录）；观光船23名乘客受到惊扰，未受伤。",
+  "analysis_cn": "本案的军事含义不在碰撞本身，而在此后一周内陆方由“抗议”转入“执法”：登检民用船舶是对离岛管辖权最直接的测试。对守方，离岛近岸水域的任何追缉都需预置影像、通报与法理说明；对攻方，借民用事件建立“执法巡查”先例，成本极低，且不触发军事升级门槛。金门距厦门最近处仅数公里，双方海警艇短时即可接触，守方的预警时间以分钟计。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Wikipedia",
+    "title": "2024 Kinmen Chinese motorboat capsizing incident",
+    "title_cn": "2024年金门中国籍摩托艇翻覆事件",
+    "author": "Wikipedia",
+    "date": "",
+    "url": "https://en.wikipedia.org/wiki/2024_Kinmen_Chinese_motorboat_capsizing_incident",
+    "type": "其他",
+    "note": "仅作线索，细节以下列一手/媒体稿为准；发布日期不适用。"
+   },
+   {
+    "publisher": "Central News Agency (CNA) via GlobalSecurity",
+    "title": "Death of 2 Chinese men off Kinmen regrettable: Taiwan agency",
+    "title_cn": "陆委会：金门外海2名大陆男子死亡令人遗憾",
+    "author": "CNA",
+    "date": "2024-02-15",
+    "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2024/taiwan-240215-cna02.htm",
+    "type": "通讯社",
+    "note": "日期据 URL；标题据检索结果。"
+   },
+   {
+    "publisher": "Central News Agency (CNA) via GlobalSecurity",
+    "title": "CGA confirms Kinmen capsizing incident caused by patrol boat collision",
+    "title_cn": "海巡署确认金门翻覆事件系巡逻艇碰撞所致",
+    "author": "CNA",
+    "date": "2024-02-22",
+    "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2024/taiwan-240222-cna04.htm",
+    "type": "通讯社",
+    "note": "日期据 URL。"
+   },
+   {
+    "publisher": "Philippine Daily Inquirer (AFP)",
+    "title": "China condemns Taiwan after two nationals killed in boat crash",
+    "title_cn": "中国谴责台湾，两名大陆人在船只相撞中死亡",
+    "author": "Inquirer / AFP",
+    "date": "",
+    "url": "https://newsinfo.inquirer.net/1904909/china-condemns-taiwan-after-two-nationals-killed-in-boat-crash/amp",
+    "type": "通讯社",
+    "note": "发布日期未取得（约2024-02-15）。"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "Two Chinese Nationals Killed While Fleeing Taiwanese Coast Guard",
+    "title_cn": "两名中国人在逃避台湾海巡时死亡",
+    "author": "Maritime Executive",
+    "date": "2024-02-15",
+    "url": "https://maritime-executive.com/article/two-chinese-nationals-killed-while-fleeing-taiwanese-coast-guard",
+    "type": "专业媒体",
+    "note": "标题据 URL slug；日期据检索摘要与事件时序推定，待核。"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "China Coast Guard Boards Taiwanese Tourist Boat",
+    "title_cn": "中国海警登临台湾游船",
+    "author": "Maritime Executive",
+    "date": "2024-02-19",
+    "url": "https://maritime-executive.com/article/china-coast-guard-boards-taiwanese-tourist-boat",
+    "type": "专业媒体",
+    "note": "标题据 URL slug；日期据事件日推定，待核。"
+   },
+   {
+    "publisher": "Al Jazeera",
+    "title": "Chinese Coast Guard boards Taiwan tourist boat, triggers panic",
+    "title_cn": "中国海警登临台湾游船引发恐慌",
+    "author": "Al Jazeera",
+    "date": "2024-02-20",
+    "url": "https://www.aljazeera.com/news/2024/2/20/chinese-coast-guard-boards-taiwan-tourist-boat-triggers-panic",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Radio Free Asia",
+    "title": "Chinese coast guard causes 'panic' with Taiwan cruise ship boarding",
+    "title_cn": "中国海警登临台湾游船引发“恐慌”",
+    "author": "RFA",
+    "date": "2024-02-20",
+    "url": "https://www.rfa.org/english/news/southchinasea/ccg-taiwan-02202024030457.html",
+    "type": "专业媒体",
+    "note": "URL 据检索结果原样记录；日期据 URL（2024-02-20）。"
+   },
+   {
+    "publisher": "Taipei Times",
+    "title": "（标题未取得，2024-02-20 头版）",
+    "title_cn": "台北时报2月20日头版报道",
+    "author": "Taipei Times",
+    "date": "2024-02-20",
+    "url": "https://taipeitimes.com/News/front/archives/2024/02/20/2003813802",
+    "type": "专业媒体",
+    "note": "仅取得 URL，标题与内容摘要未取得。"
+   },
+   {
+    "publisher": "Central News Agency (CNA) via GlobalSecurity",
+    "title": "（2024-02-19 CNA 稿，标题未取得）",
+    "title_cn": "CNA 2月19日稿",
+    "author": "CNA",
+    "date": "2024-02-19",
+    "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2024/taiwan-240219-cna02.htm",
+    "type": "通讯社",
+    "note": "仅取得 URL（slug：taiwan-240219-cna02），标题未取得。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Kinmen-Matsu-Penghu_Branch,_Coast_Guard_Administration,_Ocean_Affairs_Council",
+    "file_name": "Category:Kinmen-Matsu-Penghu Branch, Coast Guard Administration, Ocean Affairs Council",
+    "desc_cn": "海洋委员会海巡署金马澎分署分类页（海巡署金门一线执法单位，分类内含巡逻艇图片）",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，非单一事件照片；具体文件名待在分类页内人工选取。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:500-ton_(Kinmen)_Class_Patrol_Rescue_vessels_of_the_Coast_Guard_Administration",
+    "file_name": "Category:500-ton (Kinmen) Class Patrol Rescue vessels of the Coast Guard Administration",
+    "desc_cn": "海巡署500吨级（金门级）巡护船分类页",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景图，非事件当日照片。"
+   }
+  ],
+  "image_leads": [
+   "未检索到2024-02-14/19事件当日的Commons文件；AFP/CNA 影像为通讯社版权，不收。"
+  ],
+  "stats": {
+   "2月14日乘员": "4人（2死2获救，台方口径）",
+   "2月19日被登检船": "King Xia，船员11人、乘客23人；6名海警登船，约16:47至17:19",
+   "海巡署随后统计（自由时报转引，2024-03）": "2月14日后海警船进入金门水域60次（口径待核，见 kinmen_ccg_patrols_2024_2026）"
+  }
+ },
+ {
+  "case_key": "kinmen_ccg_patrols_2024_2026",
+  "category": "岛屿防卫",
+  "title_cn": "海警金门“常态巡查”两年，每月约四次",
+  "subtitle_cn": "2024-02-18 起至 2026-08-05（检索所见最近一次），中国海警以“执法巡查”名义编队进入金门（Kinmen）台方限制水域，台湾海巡署一对一监控驱离",
+  "date_start": "2024-02-18",
+  "date_end": "2026-08-05",
+  "location_cn": "金门（Kinmen）周边限制水域，含烈屿（Lieyu）南方、大担、二担附近，台湾福建沿海",
+  "lat": 24.43,
+  "lon": 118.33,
+  "region": "台海",
+  "attacker": "中国海警局福建海警（中国海警局东海分局口径；通常4艘编队）",
+  "defender": "台湾海巡署金马澎分署、金门海巡队",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "海警艇4艘左右一组，分两路或从南方进入金门限制水域，停留约两小时即离开；2024年5月曾单次出动11艘，创当时纪录；2026年6月18日连续两天出现并关闭 AIS。未见使用武器或水炮的公开报道。",
+  "defense_means_cn": "海巡署巡逻艇一对一跟监，中英文广播要求转向离开，必要时公布影像；对关闭 AIS 的海警船仍能发现并驱离。未使用武器。",
+  "narrative_cn": "2024年2月14日金门快艇事件后，中国海警局于2月18日宣布加强厦金海域执法力量，开展常态化执法巡查。台方统计口径显示，2024年3月海警船自2月14日起进入金门水域已达60次（自由时报报道，转引海巡署，口径为次或艘次待核）；5月，11艘中国官方船舶同时侵入金门禁止、限制水域，为当时单次最多，且当月已是第4次；10月，海巡署称当年进入金门、马祖水域已有48次。\n进入2026年，台方通报显示模式趋于固定：3月16日至20日连续多日发现海警船接近金门限制水域，3月20日有4艘海警船分两组靠近，海巡艇一对一监控，约2小时后全数离开；4月28日4艘海警船从两个方向同时进入，约16时52分全数航出；5月7日4艘分两组进入，约17时离开，海巡署同时指出该时段正值大陆2026年伏季休渔期，并将其定性为灰色地带骚扰；6月18日（端午连假前）海警船连续两天密集出现，并蓄意关闭 AIS，仍被发现驱离；8月5日4艘海警船自烈屿南方进入限制水域，约两小时后全部离开，海巡署称其“假借执法巡查”进入。自由时报2026年5月报道称，自2024年2月事件后，该海域形成每月约4次、每次4艘编队的固定模式，累计已达117航次（媒体引述海巡署研判，非官方统计表）。\n大陆方面，中国海警局东海分局新闻发言人（检索摘要作朱安庆）定期发布“福建海警在金门附近海域依法开展常态执法巡查”稿，2026年1月、3月、4月、6月、7月均有，5月26日一稿仅称“执法巡查”；7月以来称福建海警持续强化相关海域管控，理由是维护渔民权益与厦金海域航行秩序。大陆方面不承认存在台方划定的“禁止、限制水域”，称两岸渔民自古在厦金海域传统渔场作业（国台办2024年表述，转述）。",
+  "defense_effect_cn": "海巡署每次均以同等艘数跟监、广播并驱离，未发生碰撞、登检或人员伤亡的公开报道（2024年2月19日登检事件除外）。暴露的问题：一是对方以固定节奏、固定编队反复进入，守方的巡逻艇与人员长期处于高频消耗状态；二是对方关闭 AIS、选择休渔期或连假前出现，预警与舆论压力叠加；三是单纯驱离无法改变“巡查”事实，台方关于“限制水域”的法理主张在现场逐步被稀释。统计口径混乱（次、艘次、航次）也影响了公开信息的可核性。",
+  "claims_compare_cn": "台方：海警船侵入禁止、限制水域，属灰色地带骚扰，是对金门管辖权的试探。陆方：依法开展常态执法巡查，不存在“禁止、限制水域”。数字口径：3月“60次”（自由时报转引海巡署，自2月14日起）与10月“48次”（海巡署，当年进入金门、马祖水域）数量级倒挂，应为统计口径不同（艘次与航次、起算点），不可直接相加或比较；“117航次”为媒体引述研判，非海巡署发布的统计表。陆方稿件中的次数未见公布。",
+  "losses_cn": "无人员伤亡或装备损失的公开报道（2024年2月14日事件另案）。持续性代价：海巡署跟监的人力、艇时与燃油消耗，数字未公布。",
+  "analysis_cn": "“每月约4次、每次4艘”的节奏说明这是一项被制度化的行动，不是对单一事件的反应。对攻方，频次与编队规模可调，随时可在演习、连假、选举节点上抬升；对守方，一对一跟监的对等应对在艘数不变时可维持，但一旦对方单次出动11艘（2024年5月先例），海巡署的艇数与站位将不足。离岛周边的海警“执法”与军事演习（联合利剑-2024A 期间9艘海警船在金门、马祖附近）已构成同一梯度的两端。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "中央社（Central News Agency）",
+    "title": "中國4海警假借巡查侵擾金門 海巡監控驅離",
+    "title_cn": "中国4艘海警假借巡查侵扰金门，海巡监控驱离",
+    "author": "中央社",
+    "date": "2026-08-05",
+    "url": "https://www.cna.com.tw/news/aloc/202608050314.aspx",
+    "type": "通讯社",
+    "note": "日期据 URL。"
+   },
+   {
+    "publisher": "镜周刊（Mirror Media）",
+    "title": "（2026-08-05 报道，标题未取得）",
+    "title_cn": "镜周刊2026年8月5日稿",
+    "author": "镜周刊",
+    "date": "2026-08-05",
+    "url": "https://www.mirrormedia.mg/external/mnews_20260805nm029",
+    "type": "专业媒体",
+    "note": "仅取得 URL 与日期，标题未取得。"
+   },
+   {
+    "publisher": "新头壳（Newtalk）",
+    "title": "（2026-04-28 报道，标题未取得）",
+    "title_cn": "新头壳2026年4月28日稿",
+    "author": "Newtalk",
+    "date": "2026-04-28",
+    "url": "https://newtalk.tw/news/view/2026-04-28/1032258",
+    "type": "专业媒体",
+    "note": "仅取得 URL，内容据检索摘要。"
+   },
+   {
+    "publisher": "新头壳（Newtalk）",
+    "title": "（2026-05-08 报道，标题未取得）",
+    "title_cn": "新头壳2026年5月8日稿",
+    "author": "Newtalk",
+    "date": "2026-05-08",
+    "url": "https://newtalk.tw/news/view/2026-05-08/1034032",
+    "type": "专业媒体",
+    "note": "仅取得 URL，内容据检索摘要。"
+   },
+   {
+    "publisher": "新头壳（Newtalk）",
+    "title": "（2026-06-18 报道，标题未取得）",
+    "title_cn": "新头壳2026年6月18日稿",
+    "author": "Newtalk",
+    "date": "2026-06-18",
+    "url": "https://newtalk.tw/news/view/2026-06-18/1042176",
+    "type": "专业媒体",
+    "note": "仅取得 URL，内容据检索摘要。"
+   },
+   {
+    "publisher": "自由时报（Liberty Times）",
+    "title": "（2026年5月金门海警“117航次”报道）",
+    "title_cn": "自由时报报道：金门海域累计117航次",
+    "author": "自由时报",
+    "date": "2026-05",
+    "url": "https://news.ltn.com.tw/amp/news/politics/breakingnews/5455449",
+    "type": "专业媒体",
+    "note": "该 URL 出现在同一次检索结果中，是否即“117航次”一稿待核；日期仅知2026年5月。"
+   },
+   {
+    "publisher": "新华社（Xinhua）",
+    "title": "（福建海警金门附近海域常态执法巡查通报，标题未取得）",
+    "title_cn": "新华社转发海警通报",
+    "author": "新华社",
+    "date": "2026-07-29",
+    "url": "https://www.news.cn/politics/20260729/484c95fbb63447d7849ac2c3662e6444/c.html",
+    "type": "官方",
+    "note": "标题未取得；内容据检索摘要概述（2026年1、3、4、5、6、7月均有同类稿，对应 news.cn 2026-01-24 / 03-23 / 05-26 / 06-29 URL）。"
+   },
+   {
+    "publisher": "新华社（Xinhua）",
+    "title": "（同类通报，标题未取得）",
+    "title_cn": "新华社转发海警通报",
+    "author": "新华社",
+    "date": "2026-05-26",
+    "url": "https://www.news.cn/politics/20260526/e19ae87ae6b04cba82e6537fcfc88757/c.html",
+    "type": "官方",
+    "note": "标题未取得；摘要称该稿仅写“执法巡查”无“常态”二字。"
+   },
+   {
+    "publisher": "新华社（Xinhua）",
+    "title": "（同类通报，标题未取得）",
+    "title_cn": "新华社转发海警通报",
+    "author": "新华社",
+    "date": "2026-03-23",
+    "url": "https://www.news.cn/politics/20260323/7015a83893674eb6bcfa89a56c88fc0e/c.html",
+    "type": "官方",
+    "note": "标题未取得。"
+   },
+   {
+    "publisher": "自由亚洲电台（RFA）",
+    "title": "台湾新总统就任前 中国在金门海域“常态化”执法",
+    "title_cn": "台湾新总统就任前，中国在金门海域“常态化”执法",
+    "author": "RFA",
+    "date": "2024-04-30",
+    "url": "https://www.rfa.org/mandarin/yataibaodao/gangtai/hcm-04302024082921.html",
+    "type": "专业媒体",
+    "note": "日期据 URL。"
+   },
+   {
+    "publisher": "自由亚洲电台（RFA）",
+    "title": "“执法巡查” 中国处理主权争议问题的新常态?",
+    "title_cn": "“执法巡查”：中国处理主权争议的新常态？",
+    "author": "RFA",
+    "date": "2024-02-20",
+    "url": "https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/lu-02202024100125.html",
+    "type": "专业媒体",
+    "note": "日期据 URL。"
+   },
+   {
+    "publisher": "自由亚洲电台（RFA）",
+    "title": "Record number of Chinese ships enter Taiwan waters near Kinmen island",
+    "title_cn": "创纪录数量的中国船只进入金门附近台湾水域",
+    "author": "RFA",
+    "date": "2024-05-10",
+    "url": "https://www.rfa.org/english/news/southchinasea/china-kinmen-intrusion-05102024034553.html",
+    "type": "专业媒体",
+    "note": "日期据 URL。"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "Five China Coast Guard Vessels Probe Taiwan's Waters off Kinmen",
+    "title_cn": "5艘中国海警船探入金门台方水域",
+    "author": "Maritime Executive",
+    "date": "",
+    "url": "https://maritime-executive.com/article/five-china-coast-guard-vessels-probe-taiwan-s-waters-off-kinmen",
+    "type": "专业媒体",
+    "note": "标题据 URL slug；日期未取得。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Kinmen-Matsu-Penghu_Branch,_Coast_Guard_Administration,_Ocean_Affairs_Council",
+    "file_name": "Category:Kinmen-Matsu-Penghu Branch, Coast Guard Administration, Ocean Affairs Council",
+    "desc_cn": "海巡署金马澎分署分类页",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景图。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Patrol_vessels_of_Coast_Guard_Administration",
+    "file_name": "Category:Patrol vessels of Coast Guard Administration",
+    "desc_cn": "海巡署巡逻船舰分类页",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景图。"
+   }
+  ],
+  "image_leads": [
+   "海巡署公布的跟监影像为官方发布，未取得可核验的图片页。"
+  ],
+  "stats": {
+   "2024-03（自由时报转引）": "2月14日后海警船进入金门水域60次（口径待核）",
+   "2024-05": "单次11艘中国官方船舶，创当时纪录；当月第4次",
+   "2024-10（海巡署）": "当年进入金门、马祖水域48次",
+   "2026-05（自由时报引研判）": "每月约4次、每次4艘，累计117航次",
+   "2026年检索所见通报日": "03-16至03-20、04-28、05-07、06-18、08-05"
+  }
+ },
+ {
+  "case_key": "joint_sword_2024a_2024_05_23",
+  "category": "岛屿防卫",
+  "title_cn": "联合利剑-2024A首次圈入金门马祖等离岛",
+  "subtitle_cn": "2024-05-23/24，台湾本岛四周及金门、马祖、乌丘、东引（Kinmen/Matsu/Wuqiu/Dongyin）海域，解放军东部战区“联合利剑-2024A”演习，海警同步在金马附近巡查",
+  "date_start": "2024-05-23",
+  "date_end": "2024-05-24",
+  "location_cn": "台湾海峡、台岛北部/南部/以东海空域，金门、马祖、乌丘、东引周边海域",
+  "lat": 24.5,
+  "lon": 120.5,
+  "region": "台海",
+  "attacker": "解放军东部战区（陆、海、空、火箭军）、中国海警局",
+  "defender": "台湾国防部及国军、海巡署",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "空中",
+   "水面",
+   "岸基"
+  ],
+  "patterns": [
+   "集群",
+   "异构"
+  ],
+  "attack_means_cn": "东部战区在多个方向同时划设演习区，出动战机、海军舰艇与海警船；台方第一日14时统计为飞机42架、作战舰艇15艘、海警船16艘，其中海警船4艘在台湾东部、3艘在东南、9艘在金门与马祖附近；两日合计为飞机111架次、舰船53艘（Jamestown、台湾新闻媒体转引，国防部原始发布待核）。",
+  "defense_means_cn": "台湾国防部依“经常战备时期突发状况处置规定”派遣兵力应对，持续通报共机、共舰动态；海巡署对金门、马祖附近海警船监控。未使用武器。",
+  "narrative_cn": "2024年5月20日赖清德就任后，解放军东部战区于5月23日上午宣布展开“联合利剑-2024A”演习，为期两天，称其为对“台独”分裂势力的严厉惩戒与对外部势力干涉的警告。新华社口径的演习范围覆盖台湾海峡、台岛北部、南部、以东海空域，并首次明确包括金门、马祖、乌丘、东引周边（Jamestown 的分析称这是首次将台湾离岛纳入演习范围，意在削弱台湾对这些区域的管辖）。\n台方统计：第一日14时的国防部简报称共机42架、作战舰艇15艘、海警船16艘，海警船分布于台岛东部（4艘）、东南（3艘）及金门、马祖附近（9艘）。第一日最终数据与第二日合并后，台方通报的两日合计为共机111架次（其中82架次进入防空识别区，Jamestown 口径）、舰船53艘（海军与海警合计）；5月24日一天的数据为62架次飞机、27艘海军舰艇，其中46架次越过海峡中线（来源为二手整理，待核）。第二日美国《战区》（The War Zone）以“模拟打击台湾”报道该日演练。\n东部战区宣布演习结束于5月24日。大陆官方媒体（CGTN）称演习“合法正当”；美国与台湾方面则将其视为对封锁的演练，分析人士称其模拟了对台湾的全面封锁。检索摘要中未见2024A将“要港要域封控”列为明示科目；该科目明示出现于2024年10月的“联合利剑-2024B”。金门此次被划入演习区，下一次（2024B）未划入（自由时报比较，转引）。",
+  "defense_effect_cn": "国军未发生接战或损伤，防御行动以监控、通报和兵力调度为主。暴露的问题：一是离岛与本岛同时受压，金门、马祖附近有9艘海警船，而海巡署平日的编队规模远低于此；二是演习范围首次包括东引、乌丘等军民合住的前沿小岛，驻军与居民的预警、补给与撤离方案受到检验；三是台方的统计数字（飞机、舰船、海警船）在不同时段、不同来源之间口径不一，第一日简报与两日合计的拆分难以直接比较，不利于公众与国际社会核实。",
+  "claims_compare_cn": "东部战区：演习为惩戒“台独”、警告外部干涉；中方官媒称合法正当。台方：演习破坏区域和平稳定。美国：对台湾海峡稳定表达关切（具体表述本轮未取得）。数字：Jamestown 称两日合计111架次、82架次进入防空识别区、53艘舰船；另有二手稿称第二日62架次、27艘海军舰艇；国防部第一日14时简报为42架、15艘作战舰艇、16艘海警船。以上数字时间窗不同，不可相加，且均未取得国防部原始发布。",
+  "losses_cn": "无人员伤亡或装备损失的公开报道。成本方面：台方空军战机、海军与海巡署监控兵力的出动与燃油消耗，数字未公布。",
+  "analysis_cn": "2024A把演习范围从本岛周边扩到金门、马祖、乌丘、东引，使“岛屿防卫”的对象从一座主岛变成一串前沿小岛；海警船在演习日同步出现于金马附近，则是把演习与“执法巡查”接上。对守方，离岛的补给线、通信（海缆）与居民撤离是首批受压的环节，而这些环节在演习通报中几乎看不到。数据管理上，若台方不统一发布演习日的口径（时间窗、是否含海警船），舆论与分析将长期使用二手拼接数字。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Jamestown Foundation",
+    "title": "Joint Sword-2024A: Blockades and Gray Zone Tactics",
+    "title_cn": "联合利剑-2024A：封锁与灰色地带战术",
+    "author": "Jamestown Foundation",
+    "date": "",
+    "url": "https://jamestown.org/joint-sword-2024a-blockades-and-gray-zone-tactics/",
+    "type": "智库",
+    "note": "发布日期未取得（应在2024年5月底至6月）；标题据检索结果 URL 与摘要推定。"
+   },
+   {
+    "publisher": "Wikipedia",
+    "title": "Joint Sword-2024A",
+    "title_cn": "联合利剑-2024A",
+    "author": "Wikipedia",
+    "date": "",
+    "url": "https://en.wikipedia.org/wiki/Joint_Sword-2024A",
+    "type": "其他",
+    "note": "仅作线索。"
+   },
+   {
+    "publisher": "Taipei Times",
+    "title": "（2024-05-24 报道，标题未取得）",
+    "title_cn": "台北时报2024年5月24日稿",
+    "author": "Taipei Times",
+    "date": "2024-05-24",
+    "url": "https://www.taipeitimes.com/News/front/archives/2024/05/24/2003818317",
+    "type": "专业媒体",
+    "note": "仅取得 URL，内容据检索摘要概述。"
+   },
+   {
+    "publisher": "The War Zone（TWZ）",
+    "title": "China Stages Mock Strikes On Taiwan In Day 2 Of “Punishment” Exercise",
+    "title_cn": "中国在“惩罚”演习第二日模拟打击台湾",
+    "author": "The War Zone",
+    "date": "2024-05-24",
+    "url": "https://www.twz.com/news-features/china-stages-mock-strikes-on-taiwan-in-day-2-of-punishment-exercise",
+    "type": "专业媒体",
+    "note": "日期据事件日推定。"
+   },
+   {
+    "publisher": "Central News Agency (CNA) via GlobalSecurity",
+    "title": "（2024-05-24 CNA 稿，标题未取得）",
+    "title_cn": "CNA 2024年5月24日稿",
+    "author": "CNA",
+    "date": "2024-05-24",
+    "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2024/taiwan-240524-cna02.htm",
+    "type": "通讯社",
+    "note": "仅取得 URL（slug：taiwan-240524-cna02）。"
+   },
+   {
+    "publisher": "Stars and Stripes",
+    "title": "（2024-05-24 报道，标题 slug：china-military-exercises-taiwan-lai-ching-te）",
+    "title_cn": "星条旗报：中国在赖清德就任后举行对台军演",
+    "author": "Stars and Stripes",
+    "date": "2024-05-24",
+    "url": "https://stripes.com/theaters/asia_pacific/2024-05-24/china-military-exercises-taiwan-lai-ching-te-13958945.html",
+    "type": "专业媒体",
+    "note": "标题据 URL slug。"
+   },
+   {
+    "publisher": "Caixin Global",
+    "title": "PLA begin two days of military drills around Taiwan",
+    "title_cn": "解放军开始为期两天的环台军演",
+    "author": "Caixin",
+    "date": "2024-05-23",
+    "url": "https://www.caixinglobal.com/2024-05-23/pla-begin-two-days-of-military-drills-around-taiwan-102199367.html",
+    "type": "专业媒体",
+    "note": "标题据 URL slug。"
+   },
+   {
+    "publisher": "CGTN",
+    "title": "Joint Sword-2024A military drill both legitimate and justifiable",
+    "title_cn": "联合利剑-2024A演习合法正当",
+    "author": "CGTN",
+    "date": "2024-05-26",
+    "url": "https://news.cgtn.com/news/2024-05-26/Joint-Sword-2024A-military-drill-both-legitimate-and-justifiable-1tUOnvWPk8o/share_amp.html",
+    "type": "官方",
+    "note": "中国官方媒体口径；标题据 URL slug。"
+   },
+   {
+    "publisher": "CGTN",
+    "title": "The more DPP provokes, the earlier its doomsday arrives",
+    "title_cn": "民进党越挑衅，末日来得越早",
+    "author": "CGTN",
+    "date": "2024-05-23",
+    "url": "https://news.cgtn.com/news/2024-05-23/The-more-DPP-provokes-the-earlier-its-doomsday-arrives-1tQbc7xW4xi/share_amp.html",
+    "type": "官方",
+    "note": "中国官方媒体评论；标题据 URL slug。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Taiwan_Strait",
+    "file_name": "Category:Taiwan Strait",
+    "desc_cn": "台湾海峡分类页（背景）",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景；未检索到演习当日的 Commons 文件。"
+   }
+  ],
+  "image_leads": [
+   "东部战区发布的海报、视频为官方宣传品，版权状态未核，不收；未检索到演习当日的 Commons 文件页。"
+  ],
+  "stats": {
+   "第一日14时（台国防部）": "飞机42架，作战舰艇15艘，海警船16艘（东部4、东南3、金马附近9）",
+   "两日合计（Jamestown/Taiwan News转引）": "飞机111架次（82架次进入防空识别区），舰船53艘",
+   "5月24日（二手整理）": "飞机62架次，海军舰艇27艘，46架次越过中线（待核）",
+   "演习范围": "台湾海峡、台岛北部/南部/以东，金门、马祖、乌丘、东引"
+  }
+ },
+ {
+  "case_key": "joint_sword_2024b_2024_10_14",
+  "category": "岛屿防卫",
+  "title_cn": "联合利剑-2024B首次明示封控要港",
+  "subtitle_cn": "2024-10-14，台湾海峡及台岛北部、南部、以东海空域，解放军东部战区“联合利剑-2024B”演习，4个海警编队同步环台巡查，辽宁舰编队在台岛以东",
+  "date_start": "2024-10-14",
+  "date_end": "2024-10-14",
+  "location_cn": "台湾海峡、台岛北部/南部/以东海空域",
+  "lat": 23.7,
+  "lon": 121.5,
+  "region": "台海",
+  "attacker": "解放军东部战区（陆、海、空、火箭军）、中国海警局（2901、1305、1303、2102编队）、辽宁舰航母编队",
+  "defender": "台湾国防部及国军、海巡署",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "空中",
+   "水面",
+   "岸基"
+  ],
+  "patterns": [
+   "集群",
+   "异构"
+  ],
+  "attack_means_cn": "战机、海军舰艇、火箭军与海警船协同；东部战区宣布的科目含联合海空战备警巡、要港要域封控、对海对陆打击、夺取综合制权（中国国防部/东部战区口径，经媒体转述）；海警局宣布4个编队（2901、1305、1303、2102）环台岛执法巡查；辽宁舰编队在台岛以东海空域进行舰机协同、联合制空、对海对陆打击演练。",
+  "defense_means_cn": "台湾国防部依“国军经常战备时期突发状况处置规定”派遣适当兵力应对，强烈谴责并持续通报；总统召开国安会议；未使用武器。",
+  "narrative_cn": "2024年10月14日（周一）凌晨5时02分，东部战区发布消息，宣布即日起在台湾海峡、台岛北部、南部及以东海空域展开“联合利剑-2024B”演习，参演兵力包括陆军、海军、空军与火箭军。据 Janes、USNI 摘要转述，中国国防部发言人将其与赖清德的“双十”讲话相联系，称此次演习并非此前演习的重复，旨在加大压力（原文待核）。据东部战区及央视军事节目口径，演练重点包括海空战备警巡、要港要域封控、对海对陆打击与夺取综合制权；央视军事节目援引国防大学教授的说法称，演练内容包括封控台湾主要港口，这些港口承担了台湾大部分吞吐量，也是液化天然气进口的主要通道。\n同日，中国海警局宣布海警2901、1305、1303、2102四个编队在台岛周边海域执法巡查、环岛管控，称依“一个中国原则”行动。辽宁舰航母编队位于台岛以东，开展舰机协同、联合制空、对海对陆打击等科目。台湾《中国时报》称演习持续约13小时，自清晨5时许至晚间；当日进入台湾周边空域的共机为153架次，为当时单日纪录。\n台方反应：国防部强烈谴责，称其“非理性、挑衅”，依既有规定派兵应对；总统府召开国安会议。美国国防部称此次演习“不负责任”（USNI 报道标题口径）。Janes 援引台防务部门数据称，当日进入防空识别区的共机为111架次，创纪录；另有摘要称国防部通报东部战区出动125架次（飞机、直升机、无人机）。《自由时报》比较称，2024A 划入金门，2024B 没有划入金门，澎湖西侧也未划设演习区，但在台湾本岛周边划设的区块更多、单块面积明显缩小。",
+  "defense_effect_cn": "国军以监控、通报和兵力调度应对，无接战与损伤报道。暴露的问题：一是演习宣布在清晨、当日即开始，预警时间极短；二是“要港封控”首次作为明示科目，而台湾主要港口（能源进口、集装箱吞吐）的海上交通线防护、LNG船航道管制与保险、民航航班调整，在台方通报中几乎没有涉及；三是数字口径复杂：153架次、111架次进入防空识别区、125架次三组数字对应不同统计范围，易引起外界误读。",
+  "claims_compare_cn": "中方：演习针对“台独”分裂势力，是对赖清德“双十”讲话的惩戒；海警称依“一个中国原则”行动（央视、海警局口径，经媒体转述，原文待核）。台方：演习“非理性、挑衅”，已依规应对。美方：演习“不负责任”（USNI 标题）。数字：《中国时报》153架次（单日纪录）；Janes 称111架进入防空识别区为纪录；另一摘要称125架次；各数字未对应同一时间窗，国防部原始发布待核。演习时长：Wikipedia 写14至15日，USNI 称一天，《中国时报》称约13小时。",
+  "losses_cn": "无人员伤亡或装备损失的公开报道。",
+  "analysis_cn": "2024B 把“封控”写进科目名称，同时让海警船以“执法”名义环岛，使封锁演练在法理上多了一层“海关/海警管控”的外观，而不是纯军事封锁。对守方，若对手以海警船为先导实施登检、检疫，军队被迫在“是否开火”的门槛上先行；这与金门2024年2月以来的现场做法一脉相承。港口防护的关键不在导弹拦截，而在航道通航、保险与能源进口的连续性。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "USNI News",
+    "title": "China Targets Taiwan in Major Military Exercise, Pentagon Condemns ‘Irresponsible’ Action",
+    "title_cn": "中国对台湾举行大规模军演，五角大楼谴责“不负责任”",
+    "author": "USNI News",
+    "date": "2024-10-14",
+    "url": "https://news.usni.org/2024/10/14/china-targets-taiwan-in-major-military-exercise-pentagon-condemns-irresponsible-action",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Janes",
+    "title": "China hones capability to conduct encircling attacks on Taiwan",
+    "title_cn": "中国磨练对台包围攻击能力",
+    "author": "Janes",
+    "date": "2024-10",
+    "url": "https://www.janes.com/defence-intelligence-insights/defence-and-national-security-analysis/china-hones-capability-to-conduct-encircling-attacks-on-taiwan",
+    "type": "专业媒体",
+    "note": "需订阅，仅取得标题与摘要；发布日期仅知2024年10月。"
+   },
+   {
+    "publisher": "自由亚洲电台（RFA）",
+    "title": "解放军14号清晨展开联合利剑-2024B演习 台国防部谴责",
+    "title_cn": "解放军14日清晨展开联合利剑-2024B演习，台国防部谴责",
+    "author": "RFA",
+    "date": "2024-10-13",
+    "url": "https://www.rfa.org/mandarin/Xinwen/st-pla-drill-taiwan-defense-10132024214851.html",
+    "type": "专业媒体",
+    "note": "日期据 URL（美东时间10月13日晚）。"
+   },
+   {
+    "publisher": "星岛头条（Sing Tao Headline）",
+    "title": "围台军演东部战区联合利剑 2024B演习圆满完成",
+    "title_cn": "围台军演：东部战区称联合利剑-2024B演习圆满完成",
+    "author": "星岛头条",
+    "date": "2024-10-14",
+    "url": "https://www.stheadline.com/zh-hans/china-taiwan/3391596/围台军演东部战区联合利剑-2024B演习圆满完成",
+    "type": "专业媒体",
+    "note": "日期据事件日推定；URL 含中文字符，按检索结果原样记录。"
+   },
+   {
+    "publisher": "福建省人民政府台办（转载）",
+    "title": "（2024-10-15 国防/军事信息转载，标题未取得）",
+    "title_cn": "福建省台办网站转载稿",
+    "author": "福建省台办",
+    "date": "2024-10-15",
+    "url": "https://tyjrswt.fujian.gov.cn/xwzx/gfxx/202410/t20241015_6543027.htm",
+    "type": "官方",
+    "note": "仅取得 URL，内容是否为东部战区通报全文待核。"
+   },
+   {
+    "publisher": "中国时报（China Times）",
+    "title": "（2024-10-16 评论稿，标题未取得）",
+    "title_cn": "中国时报评论",
+    "author": "中国时报",
+    "date": "2024-10-16",
+    "url": "https://www.chinatimes.com/cn/opinion/20241016004454-262110",
+    "type": "专业媒体",
+    "note": "153架次、约13小时的说法来自检索摘要对该稿的转述，待核。"
+   },
+   {
+    "publisher": "TVBS News",
+    "title": "Taiwan on high alert as China begins military drills",
+    "title_cn": "台湾高度戒备，中国开始军演",
+    "author": "TVBS News",
+    "date": "2024-10-14",
+    "url": "https://news.tvbs.com.tw/amp/english/2650674",
+    "type": "专业媒体",
+    "note": "标题据检索结果；日期据事件日推定。"
+   },
+   {
+    "publisher": "Taiwan News",
+    "title": "（2024-10-14 报道，标题未取得）",
+    "title_cn": "台湾新闻（英）",
+    "author": "Taiwan News",
+    "date": "2024-10-14",
+    "url": "https://www.taiwannews.com.tw/news/5951548",
+    "type": "专业媒体",
+    "note": "仅取得 URL。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Taiwan_Strait",
+    "file_name": "Category:Taiwan Strait",
+    "desc_cn": "台湾海峡分类页（背景）",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景；未检索到演习当日的 Commons 文件。"
+   }
+  ],
+  "image_leads": [
+   "东部战区海报/视频、台国防部图表均为官方宣传品，版权状态未核，不收。"
+  ],
+  "stats": {
+   "宣布时间": "2024-10-14 05:02（据中国时报摘要）",
+   "持续时间": "约13小时（中国时报）；Wikipedia 写10月14至15日",
+   "台方统计（口径不一）": "153架次（中国时报，单日纪录）/ 111架进入防空识别区（Janes，纪录）/ 125架次（摘要）",
+   "海警编队": "2901、1305、1303、2102"
+  }
+ },
+ {
+  "case_key": "strait_thunder_2025a_2025_04_01",
+  "category": "岛屿防卫",
+  "title_cn": "海峡雷霆-2025A演练扣押与打击港口",
+  "subtitle_cn": "2025-04-01/02，台湾海峡中南部及台岛以东，解放军东部战区“海峡雷霆-2025A”演习，山东舰编队在台岛以东，长程实弹模拟打击要港与能源设施",
+  "date_start": "2025-04-01",
+  "date_end": "2025-04-02",
+  "location_cn": "台湾海峡中部与南部、台岛以东海空域（含东海方向）",
+  "lat": 23.5,
+  "lon": 120.5,
+  "region": "台海",
+  "attacker": "解放军东部战区（山东舰航母编队、陆海空火箭军）、中国海警局",
+  "defender": "台湾国防部及国军、海巡署",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "空中",
+   "水面",
+   "岸基"
+  ],
+  "patterns": [
+   "集群",
+   "异构"
+  ],
+  "attack_means_cn": "东部战区发言人施毅称，演习主要在台湾海峡中部与南部海域，科目包括识别查证、警告驱离、拦截扣押，检验封控与对重点目标精确打击；长程实弹演练，模拟打击“要港与能源设施”；山东舰编队在台岛以东海域进行突击演练；解放军视频以模拟爆炸画面展示对台南、花莲、台中等有军事基地与港口的城市的打击。",
+  "defense_means_cn": "台湾国防部持续通报并派遣兵力应对（4月2日24小时通报：飞机76架次、海军舰艇15艘、公务船4艘，其中37架次越过海峡中线；4月3日通报：飞机59架次、海军舰艇23艘、公务船8艘）；未使用武器。",
+  "narrative_cn": "2025年4月1日，东部战区宣布在台岛周边开展联合战备警巡与军事演习，覆盖台湾海峡、台岛北部、南部及以东海空域；4月2日，东部战区新闻发言人施毅陆军大校宣布“海峡雷霆-2025A”演习在台湾海峡中部与南部海域展开，主要训练识别查证、警告驱离、拦截扣押等科目。东部战区称组织了长程实弹射击，并演练模拟打击“要港与能源设施”，山东舰航母编队在台岛以东海域协同海空兵力，进行突击演练。4月2日，东部战区宣布演习于4月1日至2日完成全部预定任务。\n解放军公开的视频以模拟爆炸画面显示对台南、花莲、台中等有军事基地与港口城市的打击；《菲律宾每日询问者报》以“演习以模拟打击港口结束”为题报道。台湾国防部4月2日（截至当日6时的24小时）通报：共机76架次、海军舰艇15艘、公务船4艘，其中37架次越过海峡中线；4月3日（截至当日6时的24小时）通报：共机59架次、海军舰艇23艘、公务船8艘，越过中线的架次，《台湾新闻》写31架次，中央社写18架次（均出自同一时间窗，口径待核）。\n与“联合利剑”系列相比，本次以“海峡雷霆”命名，并明确把“识别查证、警告驱离、拦截扣押”列为科目，这些科目与海上执法管控的程序相同，而不是单纯的火力打击。",
+  "defense_effect_cn": "国军以监控、通报应对，无接战与损伤。暴露的问题：一是“拦截扣押”类科目由海警执行时，台方缺乏对应的法律与现场处置门槛，海巡署与军队的指挥分工在公开通报中未体现；二是“要港与能源设施”是民生与能源安全的关键节点，仅靠军事防空难以覆盖；三是同一天的越过中线架次出现31与18两种说法，说明台方官方通报与媒体整理之间存在口径差。",
+  "claims_compare_cn": "中方（东部战区）：演习是对“台独”势力的警示，科目包括识别查证、警告驱离、拦截扣押，长程实弹模拟打击要港与能源设施。台方：国防部持续通报、谴责并监控；美方反应本轮未取得。数字：4月2日24小时通报为76架次/15舰/4公务船/37架次越线；4月3日为59架次/23舰/8公务船；越线架次31（台湾新闻）与18（中央社）并存。另有二手稿写“82架次飞机与舰船”（中央社标题），为合计口径，待核。",
+  "losses_cn": "无人员伤亡或装备损失的公开报道。",
+  "analysis_cn": "“拦截扣押”进入科目名称，使演习更接近一次对海上交通的管制预演：对象是进出港船舶，而不是岛上守军。与金门“登检观光船”的现场做法相互呼应，后者是单船、近岸、民事外观，前者是大范围、军事外观。对港口防御而言，航道、检疫与保险风险比导弹更先到来；守方需要在法律层面预设“对方海警登检是否构成武力攻击”的判断标准。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "USNI News",
+    "title": "Chinese Military Wraps Intimidation Drills Off Taiwan",
+    "title_cn": "中国军方结束对台恐吓性演习",
+    "author": "USNI News",
+    "date": "2025-04-02",
+    "url": "https://news.usni.org/2025/04/02/chinese-military-wraps-intimidation-drills-off-taiwan",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Al Jazeera",
+    "title": "‘Live-fire drills’: China conducts second day of war games around Taiwan",
+    "title_cn": "“实弹演练”：中国在台湾周边进行第二日军演",
+    "author": "Al Jazeera",
+    "date": "2025-04-02",
+    "url": "https://www.aljazeera.com/news/2025/4/2/live-fire-drills-china-conducts-second-day-of-war-games-around-taiwan",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Philippine Daily Inquirer (Global Nation)",
+    "title": "China: Taiwan drills ended with simulated strikes on ports",
+    "title_cn": "中国：台湾周边演习以模拟打击港口结束",
+    "author": "Inquirer",
+    "date": "2025-04-02",
+    "url": "https://globalnation.inquirer.net/?p=271378",
+    "type": "通讯社",
+    "note": "标题据检索结果；日期据事件日推定。"
+   },
+   {
+    "publisher": "The Defense Post",
+    "title": "（2025-04-03 稿，slug：china-taiwan-drills-ports-energy）",
+    "title_cn": "中国对台演习港口与能源设施",
+    "author": "The Defense Post",
+    "date": "2025-04-03",
+    "url": "https://thedefensepost.com/2025/04/03/china-taiwan-drills-ports-energy/amp/",
+    "type": "专业媒体",
+    "note": "标题据 URL slug。"
+   },
+   {
+    "publisher": "China Daily（香港版）",
+    "title": "（2025-04-02 稿，标题未取得）",
+    "title_cn": "中国日报香港版",
+    "author": "China Daily HK",
+    "date": "2025-04-02",
+    "url": "https://chinadailyhk.com/article/608457",
+    "type": "官方",
+    "note": "官方媒体；标题未取得。"
+   },
+   {
+    "publisher": "Central News Agency (CNA) via GlobalSecurity",
+    "title": "82 Chinese warplanes, ships deployed near Taiwan during drills Wednesday: MND",
+    "title_cn": "国防部：周三演习期间中国82架次飞机与舰艇部署在台周边",
+    "author": "CNA",
+    "date": "2025-04-03",
+    "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2025/taiwan-250403-cna02.htm",
+    "type": "通讯社",
+    "note": "日期据 URL。"
+   },
+   {
+    "publisher": "Taipei Times",
+    "title": "（2025-04-02 稿，标题未取得）",
+    "title_cn": "台北时报",
+    "author": "Taipei Times",
+    "date": "2025-04-02",
+    "url": "https://taipeitimes.com/News/front/archives/2025/04/02/2003834496",
+    "type": "专业媒体",
+    "note": "仅取得 URL。"
+   },
+   {
+    "publisher": "Prothom Alo（AFP）",
+    "title": "59 Chinese warplanes, 23 warships detected around island: Taiwan",
+    "title_cn": "台湾称周边发现59架中国军机、23艘军舰",
+    "author": "Prothom Alo",
+    "date": "2025-04-03",
+    "url": "https://en.prothomalo.com/international/asia/zs3ohqn0s0",
+    "type": "通讯社",
+    "note": "日期据事件时序推定。"
+   },
+   {
+    "publisher": "The Standard (HK)",
+    "title": "China completes live fire drills simulated strikes",
+    "title_cn": "中国完成实弹演练与模拟打击",
+    "author": "The Standard",
+    "date": "2025-04-02",
+    "url": "https://www.thestandard.com.hk/world/article/71493/China-completes-live-fire-drills-simulated-strikes",
+    "type": "专业媒体",
+    "note": "标题据 URL slug。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Taiwan_Strait",
+    "file_name": "Category:Taiwan Strait",
+    "desc_cn": "台湾海峡分类页（背景）",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景；未检索到演习当日的 Commons 文件。"
+   }
+  ],
+  "image_leads": [
+   "东部战区视频/图像为官方宣传品，版权状态未核，不收。"
+  ],
+  "stats": {
+   "4月1日-2日6时（台国防部）": "飞机76架次，海军舰艇15艘，公务船4艘，37架次越线",
+   "4月2日-3日6时（台国防部）": "飞机59架次，海军舰艇23艘，公务船8艘；越线31架次（Taiwan News）/18架次（CNA）",
+   "演习科目（施毅）": "识别查证、警告驱离、拦截扣押，长程实弹模拟打击要港与能源设施"
+  }
+ },
+ {
+  "case_key": "justice_mission_2025_2025_12_29",
+  "category": "岛屿防卫",
+  "title_cn": "正义使命-2025实弹区叠压台方限制水域",
+  "subtitle_cn": "2025-12-29/30，台湾本岛四周及以东，解放军东部战区“正义使命-2025”演习，含要港要域封控、夺控要港、火箭弹射击",
+  "date_start": "2025-12-29",
+  "date_end": "2025-12-30",
+  "location_cn": "台湾海峡及台岛北部、西南、东南、以东海空域；演习区一度与台湾近海限制水域重叠",
+  "lat": 23.7,
+  "lon": 121.3,
+  "region": "台海",
+  "attacker": "解放军东部战区（陆、海、空、火箭军）、中国海警局",
+  "defender": "台湾国防部及国军、海巡署",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "空中",
+   "水面",
+   "岸基"
+  ],
+  "patterns": [
+   "集群",
+   "异构"
+  ],
+  "attack_means_cn": "东部战区发言人施毅称：陆军、海军、空军、火箭军参演，科目含海空战备警巡、夺取综合制权、要港要域封控、外线立体慑阻；12月30日在台岛以东海域演练立体投送、夺控要港。实弹：东部战区称向台岛北方与南方海域发射火箭弹；路透社（经台湾新闻转引）称实弹演练约10小时；一份来源称从福建发射27枚 PCH191 火箭弹（单一来源，待核）；Janes 称实弹区共7个，部分首次进入台湾领海（2022年以来首次）；视频显示054A护卫舰与052D驱逐舰射击。",
+  "defense_means_cn": "台湾国防部通报并监控，称演习区在南部、台东以东、澎湖以西与北部均与限制水域重叠，但海军与海警船均未进入12海里限制线；第一日国防部称解放军尚未实弹，持续监控火箭军动向。未使用武器。",
+  "narrative_cn": "2025年12月29日，东部战区发言人施毅宣布，当日起东部战区组织陆军、海军、空军、火箭军，在台湾海峡及台岛北部、西南、东南与以东海空域开展“正义使命-2025”演习。官方列出的科目包括海空战备警巡、夺取综合制权、要港要域封控、外线立体慑阻；12月30日，东部战区又在台岛以东海域演练立体投送与夺控要港等科目，称演习圆满完成（USNI 以“结束封锁演习”报道）。演习发生在美国批准对台出售逾110亿美元军备与日中外交危机的背景下（Wikipedia 口径）。\n台方统计：第一日前约7.5小时，国防部侦获共机89架次、舰艇28艘（海军15艘、海警13艘，一份分析口径）；另一份基于国防部通报的统计为第一日共机130架次、海军舰艇14艘、海警船14艘、两栖舰4艘；再一份称同一时段追踪到18艘海军舰艇与14艘海警船水面船只，并有一艘075型两栖攻击舰及3艘护航舰位于台湾东南约160海里。舰艇数15、14、18三组数字并存，窗口与统计口径不同。12月30日6时至31日6时的24小时：共机77架次，海军舰艇17艘，公务船8艘，其中35架次越过中线（台湾新闻）。\n实弹方面：东部战区称向台岛北、南海域发射火箭弹；路透社称实弹演练约10小时；有来源称使用 PCH191 火箭炮27枚；Janes 称实弹区7个，部分首次进入台湾领海；国防部称公告的演习区在南部、台东以东、澎湖以西及北部与限制水域重叠，但海军与海警船均未进入12海里限制线。全球台湾研究所（GTI）指出，演习具体行动的公开信息有限。有分析（《小战争期刊》，转引台湾远景基金会）称此次演习进一步预演了夺取澎湖及台湾东部部分地区的入侵作战。",
+  "defense_effect_cn": "国军以监控、通报应对，无接战与损伤；国防部强调解放军船只未进入12海里限制线，但实弹区已叠压限制水域。暴露的问题：一是数字口径冲突严重（89架次、130架次、77架次对应不同时间窗），且各来源对海警船与海军舰艇的合并方式不同；二是演习区压向澎湖以西、台东以东，预演对离岛（澎湖）与东部港口（花莲、台东）的封控，而国军的前沿预警与通信在演习通报中缺乏公开细节；三是实弹区进入领海范围，台方的现场应对门槛（是否算侵入、是否驱离）没有公开说明。",
+  "claims_compare_cn": "中方：东部战区称演习为对“台独”势力与外部干涉的惩戒，科目含要港要域封控、夺控要港（新华社、中国日报、福建台办转载，标题未取得，内容据检索摘要）。台方：国防部称演习区与限制水域重叠但船只未入12海里；监控火箭军动向。数字：第一日89架次（前7.5小时）、130架次（基于国防部通报，全日）；30-31日24小时77架次。实弹：东部战区称发射火箭弹，路透称实弹约10小时，PCH191/27枚为单一来源。外部：美国军售与日中关系紧张被视为背景，因果关系各方表述不同。",
+  "losses_cn": "无人员伤亡或装备损失的公开报道。",
+  "analysis_cn": "与2024年两次演习比，“正义使命”把实弹区压到领海边缘，并把“夺控要港”写入科目，演习的对象从“封锁”扩展为“夺取”。对守方，离岛（澎湖）和东部港口的防护需要独立于本岛的预警与补给方案；对港口而言，最先受压的是通航管制而非炮火。公开信息少、数字口径混乱，使外界很难判断演习的真实规模，这本身是演习信息战的一部分。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Wikipedia",
+    "title": "Justice Mission-2025",
+    "title_cn": "正义使命-2025",
+    "author": "Wikipedia",
+    "date": "",
+    "url": "https://en.wikipedia.org/wiki/Justice_Mission-2025",
+    "type": "其他",
+    "note": "仅作线索（日期、背景）。"
+   },
+   {
+    "publisher": "Janes",
+    "title": "Justice Mission 2025 sheds light on maritime playbook for Taiwan contingency",
+    "title_cn": "“正义使命-2025”揭示台海突发事态的海上作战手册",
+    "author": "Janes",
+    "date": "2026-01",
+    "url": "https://www.janes.com/defence-intelligence-insights/defence-and-national-security-analysis/justice-mission-2025-sheds-light-on-maritime-playbook-for-taiwan-contingency",
+    "type": "专业媒体",
+    "note": "需订阅；仅取得标题与摘要，日期仅知2026年初。"
+   },
+   {
+    "publisher": "Taiwan Security Monitor（GMU）",
+    "title": "Creeping Closer: Timeline and Analysis of the Justice Mission 2025 Joint Exercise",
+    "title_cn": "逼近：正义使命-2025联合演习的时间线与分析",
+    "author": "Taiwan Security Monitor",
+    "date": "",
+    "url": "https://tsm.schar.gmu.edu/creeping-closer-timeline-and-analysis-of-the-justice-mission-2025-joint-exercise/",
+    "type": "智库",
+    "note": "发布日期未取得。"
+   },
+   {
+    "publisher": "Global Taiwan Institute",
+    "title": "（PLA 正义使命-2025 相关分析，标题未取得）",
+    "title_cn": "全球台湾研究所分析",
+    "author": "GTI",
+    "date": "2026-01",
+    "url": "https://globaltaiwan.org/?p=34943",
+    "type": "智库",
+    "note": "仅取得 URL 与摘要（称公开信息有限）；日期仅知2026年1月。"
+   },
+   {
+    "publisher": "Al Jazeera",
+    "title": "China fires several rockets around Taiwan during live military drills",
+    "title_cn": "中国在对台实弹演习中发射多枚火箭弹",
+    "author": "Al Jazeera",
+    "date": "2025-12-30",
+    "url": "https://www.aljazeera.com/news/2025/12/30/china-kicks-off-second-day-of-military-drills-around-taiwan",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "The Defense Post",
+    "title": "（2025-12-29 稿，slug：china-military-drills-taiwan-port-blockade）",
+    "title_cn": "中国对台军演港口封锁",
+    "author": "The Defense Post",
+    "date": "2025-12-29",
+    "url": "https://thedefensepost.com/2025/12/29/china-military-drills-taiwan-port-blockade/amp/",
+    "type": "专业媒体",
+    "note": "标题据 URL slug。"
+   },
+   {
+    "publisher": "新华社（Xinhua）",
+    "title": "（东部战区“正义使命-2025”通报，标题未取得）",
+    "title_cn": "新华社稿",
+    "author": "新华社",
+    "date": "2025-12-29",
+    "url": "https://www.news.cn/politics/20251229/c41ead75cb4c4f61b70eeb85d3f6e725/c.html",
+    "type": "官方",
+    "note": "标题未取得；内容据检索摘要概述（施毅发布演习消息）。"
+   },
+   {
+    "publisher": "新华社（Xinhua）",
+    "title": "（东部战区12月30日演练通报，标题未取得）",
+    "title_cn": "新华社稿",
+    "author": "新华社",
+    "date": "2025-12-30",
+    "url": "https://www.news.cn/tw/20251230/5839001d7bac4bcb8614a400ce8e57c2/c.html",
+    "type": "官方",
+    "note": "标题未取得；摘要称30日在台岛以东演练立体投送、夺控要港。"
+   },
+   {
+    "publisher": "中国日报（China Daily）",
+    "title": "（2025-12-29 稿，标题未取得）",
+    "title_cn": "中国日报",
+    "author": "中国日报",
+    "date": "2025-12-29",
+    "url": "https://cn.chinadaily.com.cn/a/202512/29/WS6951c63ca310942cc4998fd7.html",
+    "type": "官方",
+    "note": "标题未取得。"
+   },
+   {
+    "publisher": "福建省人民政府台办（转载）",
+    "title": "（2025-12-29 转载稿，标题未取得）",
+    "title_cn": "福建省台办网站转载稿",
+    "author": "福建省台办",
+    "date": "2025-12-29",
+    "url": "https://tyjrswt.fj.gov.cn/xwzx/gfxx/202512/t20251229_7062098.htm",
+    "type": "官方",
+    "note": "标题未取得。"
+   },
+   {
+    "publisher": "RTHK",
+    "title": "（2025-12-29 稿，标题未取得）",
+    "title_cn": "香港电台报道",
+    "author": "RTHK",
+    "date": "2025-12-29",
+    "url": "https://news.rthk.hk/rthk/en/component/k2/1837813-20251229.htm",
+    "type": "通讯社",
+    "note": "标题未取得。"
+   },
+   {
+    "publisher": "Taiwan News",
+    "title": "（12月30-31日24小时国防部通报稿，标题未取得）",
+    "title_cn": "台湾新闻（英）",
+    "author": "Taiwan News",
+    "date": "",
+    "url": "https://www.taiwannews.com.tw/en/news/6274287",
+    "type": "专业媒体",
+    "note": "发布日期未取得；77架次、17艘、8艘、35架次越线数据据检索摘要。"
+   },
+   {
+    "publisher": "Small Wars Journal",
+    "title": "PLA Justice Mission 2025 Further Rehearses Taiwan Invasion Operations",
+    "title_cn": "解放军“正义使命-2025”进一步预演入侵台湾作战",
+    "author": "Small Wars Journal",
+    "date": "2026-01-19",
+    "url": "https://smallwarsjournal.com/2026/01/19/pla-justice-mission-2025-further-rehearses-taiwan-invasion-operations/",
+    "type": "智库",
+    "note": "全文需登录，内容据检索摘要。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Taiwan_Strait",
+    "file_name": "Category:Taiwan Strait",
+    "desc_cn": "台湾海峡分类页（背景）",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景；未检索到演习当日的 Commons 文件。"
+   }
+  ],
+  "image_leads": [
+   "东部战区发布的演习视频/图像为官方宣传品，版权状态未核，不收；Wikipedia 条目 Justice Mission-2025 含图片，需人工取 Commons 文件名。"
+  ],
+  "stats": {
+   "演习时间": "2025-12-29 至 12-30",
+   "第一日前7.5小时（分析口径，台国防部数据）": "共机89架次，舰艇28艘（海军15、海警13）",
+   "第一日全日（另一来源，基于国防部通报）": "共机130架次，海军14艘，海警14艘，两栖舰4艘",
+   "12-30至12-31 24小时（台湾新闻）": "共机77架次，海军17艘，公务船8艘，35架次越线",
+   "实弹": "约10小时（路透）；7个实弹区（Janes）；27枚 PCH191（单一来源，待核）"
+  }
+ },
+ {
+  "case_key": "yeonpyeong_2024_01_05_artillery",
+  "category": "岛屿防卫",
+  "title_cn": "朝鲜连炮三日，延坪岛居民入避难所",
+  "subtitle_cn": "2024-01-05 起，延坪岛（Yeonpyeong）、白翎岛（Baengnyeong）以北西海岸炮击，韩军陆战队就地实弹回应",
+  "date_start": "2024-01-05",
+  "date_end": "2024-01-08",
+  "location_cn": "韩国西北岛屿：延坪岛（Yeonpyeong）、白翎岛（Baengnyeong）附近海域，北方界线（NLL）以北缓冲区",
+  "lat": 37.67,
+  "lon": 125.7,
+  "region": "日本海-朝鲜半岛",
+  "attacker": "朝鲜人民军（海岸炮兵，具体部队未公开）",
+  "defender": "韩国联合参谋本部（JCS）、驻延坪岛与白翎岛陆战队",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "岸基"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "海岸炮射击，落点在北方界线以北、依2018年南北军事协议划定的海上缓冲区：1月5日约9时与11时两轮，韩方称超过200发；1月6日16时至17时，延坪岛西北方向超过60发；1月8日16时至17时10分前后，延坪岛以北约90发（《韩国先驱报》转引韩军）。炮弹型号未公布。",
+  "defense_means_cn": "韩国陆战队在岛上实弹射击回应（1月5日，国防部口径）；延坪岛居民依广播入避难所约12时至14时30分；渡轮停航；联合参谋本部持续监控并公开通报。后续未对等还击：韩军消息人士称无以牙还牙计划（1月8日）。",
+  "narrative_cn": "2024年1月5日，朝鲜在西海岸向北方界线（NLL）以北海域连续发射海岸炮，韩国联合参谋本部通报称，当日上午约9时和11时先后两轮，在延坪岛和白翎岛附近海域，炮弹落于2018年南北军事协议所设海上缓冲区内，韩方称总数超过200发。联合参谋本部称未造成人员伤亡或财产损失，并称朝鲜须对这一不断升级的危机“承担全部责任”，要求其立即停止。\n韩方反应：国防部称驻两岛陆战队就地实弹射击回应。延坪岛乡公所官员称，当日12时至14时30分广播要求居民就近避难，理由是军队训练；法新社称两岛居民被命令撤入避难所，渡轮停航，这被其称为自2010年朝鲜炮击延坪岛以来朝鲜半岛最严重的军事升级之一。\n1月6日16时至17时，联合参谋本部通报朝方又从延坪岛西北方向射击60余发；1月8日，《韩国先驱报》引联合参谋本部称朝方16时至17时10分向延坪岛以北海域射击约90发，韩国军方消息人士称无对等还击计划，亚洲新闻网络（ANN）以“第三天”报道西海岸炮击。\n背景：2023年11月，首尔因朝鲜发射侦察卫星而部分中止2018年军事协议，朝鲜随后宣布全面废除。朝方称其实弹训练对边境岛屿“连间接影响都没有”（检索摘要转述，出处与日期待核）。炮弹落点均未触及岛屿，官方称无损失。",
+  "defense_effect_cn": "岛上无伤亡，居民撤入避难所，渡轮停航，说明岛上防御的重点是人员掩护和预警，而非拦截：炮弹落在水中，不构成拦截条件，韩方以实弹回应而非还击。暴露的问题：一是2018年协议废止后，缓冲区不再有法律约束，朝鲜可随时以射击代替对话；二是延坪岛居民在离朝鲜海岸炮兵射程内，每次射击都要重复疏散，社会成本高；三是韩方“就地实弹回应”的发数和落点未在检索结果中取得，无法评估反击是否对称。",
+  "claims_compare_cn": "韩国联合参谋本部：朝方射击超过200发（1月5日），60余发（1月6日），约90发（1月8日），炮弹落在北方界线以北缓冲区，属“升级危机”，责任全在朝方。朝方：实弹训练对边境岛屿没有“间接影响”（转述，原文待核）。发数均为韩方单方口径，缺少独立核实；1月5日的两轮射击时间9时与11时为联合参谋本部口径。",
+  "losses_cn": "无人员伤亡与财产损失（联合参谋本部口径）；经济代价为渡轮停航与居民疏散，数字未公布。",
+  "analysis_cn": "本案是岛屿防御中“火力恫吓”的典型：射击不落岛，却迫使有人居住的岛屿停摆。守方的手段是公开通报、实弹回应和克制，攻方付出的是炮弹和外交成本。岛上没有可用的拦截手段针对水面落弹，因此“防御成功”只能理解为未被破坏。对类似的岛链前沿，核心问题是居民撤离、渡轮与补给线的连续性，而非火力对等。2018年协议废止后，缓冲区不再有约束力，射击频次和落点完全取决于对方意图，守方只能被动地反复疏散与通报。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Stars and Stripes",
+    "title": "（2024-01-05 稿，slug：north-korea-artillery-barrage）",
+    "title_cn": "朝鲜炮击",
+    "author": "Stars and Stripes",
+    "date": "2024-01-05",
+    "url": "https://stripes.com/theaters/asia_pacific/2024-01-05/north-korea-artillery-barrage-12561337.html",
+    "type": "专业媒体",
+    "note": "标题据 URL slug。"
+   },
+   {
+    "publisher": "Guardian Nigeria（AFP）",
+    "title": "North Korea fires 60 rounds of artillery near South Korean border island",
+    "title_cn": "朝鲜在韩国边境岛屿附近发射60发炮弹",
+    "author": "AFP",
+    "date": "2024-01-06",
+    "url": "https://guardian.ng/news/world/asia/north-korea-fires-60-rounds-of-artillery-near-south-korean-border-island/",
+    "type": "通讯社",
+    "note": "日期据事件日推定。"
+   },
+   {
+    "publisher": "Tribune.net.ph（AFP）",
+    "title": "North Korea fires 60 rounds of artillery near South Korean border island",
+    "title_cn": "朝鲜在韩国边境岛屿附近发射60发炮弹",
+    "author": "AFP",
+    "date": "2024-01-06",
+    "url": "https://tribune.net.ph/2024/01/06/north-korea-fires-60-rounds-of-artillery-near-south-korean-border-island",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Malay Mail（AFP）",
+    "title": "North Korea fires 60 rounds of artillery near Yeonpyeong island",
+    "title_cn": "朝鲜在延坪岛附近发射60发炮弹",
+    "author": "AFP",
+    "date": "2024-01-06",
+    "url": "https://www.malaymail.com/news/world/2024/01/06/north-korea-fires-60-rounds-of-artillery-near-yeonpyeong-island/110990",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "The Peninsula Qatar（AFP）",
+    "title": "North Korea fires 60 rounds of artillery near Yeonpyeong island",
+    "title_cn": "朝鲜在延坪岛附近发射60发炮弹",
+    "author": "AFP",
+    "date": "2024-01-06",
+    "url": "https://thepeninsulaqatar.com/article/06/01/2024/north-korea-fires-60-rounds-of-artillery-near-yeonpyeong-island",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Janes",
+    "title": "Pyongyang fired artillery shells into waters near border, says South Korea",
+    "title_cn": "韩国称平壤向边境附近海域发射炮弹",
+    "author": "Janes",
+    "date": "2024-01-05",
+    "url": "https://www.janes.com/defence-intelligence-insights/defence-news/weapons/pyongyang-fired-artillery-shells-into-waters-near-border-says-south-korea",
+    "type": "专业媒体",
+    "note": "需订阅；日期据事件日推定。"
+   },
+   {
+    "publisher": "Asia News Network",
+    "title": "North Korea fires shells near western sea border for third day",
+    "title_cn": "朝鲜连续第三日在西海岸边境附近射击",
+    "author": "ANN",
+    "date": "2024-01-07",
+    "url": "https://asianews.network/?p=129139",
+    "type": "通讯社",
+    "note": "日期据“第三日”推定，待核。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Yeonpyeong_Island",
+    "file_name": "Category:Yeonpyeong Island",
+    "desc_cn": "延坪岛分类页（含岛景与2010年军事图片）",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Fire_damage_on_Yeonpyeong_Island.jpg",
+    "file_name": "Fire_damage_on_Yeonpyeong_Island.jpg",
+    "desc_cn": "2010年11月朝鲜炮击后延坪岛火灾损毁（历史背景图，非2024年）",
+    "date": "2010-11",
+    "credit": "未取得",
+    "license": "未取得（须核验）",
+    "verified": true,
+    "note": "非2024事件照片，仅作岛屿受击背景。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Yeonpyeong_Island_live_firing_range_map.png",
+    "file_name": "Yeonpyeong_Island_live_firing_range_map.png",
+    "desc_cn": "延坪岛实弹射击区示意图",
+    "date": "",
+    "credit": "未取得",
+    "license": "未取得（须核验）",
+    "verified": true,
+    "note": "地图，背景。"
+   }
+  ],
+  "image_leads": [
+   "韩国联合参谋本部、国防部官方图片未检索到可核验的图片页。"
+  ],
+  "stats": {
+   "1月5日（韩国JCS）": "两轮（约9时、11时），超过200发，落于北方界线以北缓冲区",
+   "1月6日（JCS）": "16时至17时，延坪岛西北，60余发",
+   "1月8日（先驱报转引JCS）": "16时至17时10分，延坪岛以北，约90发",
+   "居民避难（延坪岛乡公所）": "12时至14时30分",
+   "伤亡": "无（JCS）"
+  }
+ },
+ {
+  "case_key": "yonaguni_2025_11_drone_and_sam",
+  "category": "岛屿防卫",
+  "title_cn": "无人机贴近与那国岛，防空导弹排至2031年",
+  "subtitle_cn": "2025-11-15，与那国岛（Yonaguni）与台湾之间空域，疑似中国无人机飞越，航空自卫队南西航空方面队战机紧急起飞；11月下旬，防卫相小泉进次郎宣布部署03式中程地对空导弹，2031年3月前就位",
+  "date_start": "2025-11-15",
+  "date_end": "2025-11-25",
+  "location_cn": "与那国岛（Yonaguni）及其与台湾之间空域，日本西南诸岛",
+  "lat": 24.46,
+  "lon": 123.0,
+  "region": "东海-西太",
+  "attacker": "疑似中国军用无人机（型号未公布，部分媒体称高空侦察无人机）",
+  "defender": "日本防卫省、航空自卫队南西航空方面队；陆上自卫队与那国驻屯地",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "空中",
+   "电磁"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "疑似中国无人机在与那国岛与台湾之间空域飞越，日方称飞行路径往返太平洋与东海（2024财年同类飞行共17次，该年针对中国军用无人机的紧急起飞为30次，创纪录）。",
+  "defense_means_cn": "航空自卫队南西航空方面队战机紧急起飞（scramble）；地面方面：与那国岛已有电子战/监视部队（摘要称自2016年驻有约160人，性质待核），防卫省计划2026财年在与那国驻屯地和健军驻屯地部署电子战部队，2027财年扩至那霸驻屯地；03式中程地对空导弹（Type 03 Chu-SAM）2031年3月前部署。",
+  "narrative_cn": "日本防卫省在X平台（原推特）上通报：2025年11月15日（周六），确认一架疑似中国来源的无人机飞越与那国岛与台湾之间，航空自卫队南西航空方面队战机紧急起飞。《军事识别》（Army Recognition）称一架疑似中国高空侦察无人机于11月24日通过该海域，日期与防卫省通报不一致，日期待核，本案以防卫省口径11月15日为准。此类飞行并非首次：2024财年针对中国军用无人机的紧急起飞为30次，创纪录，其中17架往返于与那国岛与台湾之间，航线自东海出太平洋再返回（《外交家》转引）。\n防卫相小泉进次郎于2025年11月宣布，与那国岛将部署03式中程地对空导弹，用于拦截来袭飞机与导弹；报道称部署时间表为2031年3月前，是2022年首次宣布以来首次给出明确期限。防卫省同时说明，电子战部队将在地面对来袭敌机实施干扰，削弱或致盲预警机等平台的雷达，计划2026财年部署于与那国驻屯地和健军驻屯地，2027财年部署于那霸驻屯地。检索摘要称，与那国岛自2016年起驻有约160人的电子战部队，主要负责监视附近舰船动向（性质描述待核，通常称沿岸监视部队）。\n外交背景：首相高市早苗关于日本可能介入台湾有事的表态后，中日关系恶化；中国政府在小泉访问该岛后批评日方推进导弹部署。2025年11月25日前后，防务媒体（FW Mag、The Defense Post）集中报道该部署与无人机事件。宫古岛与石垣岛的导弹、电子战部署情况本轮检索未取得。",
+  "defense_effect_cn": "紧急起飞只能监视与驱赶，无法在无人机飞越时实施拦截，也未见击落或迫降的报道。暴露的问题：一是与那国岛距台湾约70英里（约110公里，FW Mag 标题口径），无人机往返航线几乎贴近岛屿，预警与反应窗口很短；二是03式中SAM到2031年才就位，其间岛上防空仅靠现有部队与空中战斗巡逻，存在数年空档；三是电子战部队的部署跨财年分散，各驻屯地之间的协同与补给尚未公开。",
+  "claims_compare_cn": "日本防卫省：2025年11月15日确认疑似中国无人机飞越与那国岛与台湾之间，战机紧急起飞。Army Recognition：11月24日一架疑似中国高空侦察无人机通过该海域（与防卫省日期不符，可能为另一次或误记）。中国方面：批评日本推进导弹部署，对无人机事件的表态本轮未取得。导弹时间表：2031年3月前（防卫相口径，摘要转述）。",
+  "losses_cn": "无损失报道。",
+  "analysis_cn": "与那国岛位于日本最西端，距台湾约70英里（FW Mag 标题口径），无人机可一次飞行跨越其与台湾之间的空域，既是侦察，也是试探日方的反应流程。对守方，岛屿防空不仅是拦截问题，还包括预警、识别、报告与战机基地（那霸、石垣等）之间的衔接；导弹到位前，最大的缺口在时间。无人机飞行的次数年年增加，可视为对守方应急反应标准动作的反复演练。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "The Defense Post",
+    "title": "（2025-11-25 稿，slug：japan-suspected-china-drone-taiwan）",
+    "title_cn": "日本在疑似中国无人机逼近台湾附近后紧急起飞",
+    "author": "The Defense Post",
+    "date": "2025-11-25",
+    "url": "https://thedefensepost.com/2025/11/25/japan-suspected-china-drone-taiwan/amp/",
+    "type": "专业媒体",
+    "note": "标题据 URL slug。"
+   },
+   {
+    "publisher": "Army Recognition",
+    "title": "Chinese drone incursion prompts Japan fighter scramble near strategically vital Yonaguni Island",
+    "title_cn": "中国无人机闯入促使日本在战略要地与那国岛附近起飞战机",
+    "author": "Army Recognition",
+    "date": "2025-11-25",
+    "url": "https://www.armyrecognition.com/archives/archives-aerospace-defense/defense-news-aerospace-2025/chinese-drone-incursion-prompts-japan-fighter-scramble-near-strategically-vital-yonaguni-island",
+    "type": "专业媒体",
+    "note": "标题据 URL slug；日期据同期推定；该稿将事件写为11月24日，与防卫省11月15日不符。"
+   },
+   {
+    "publisher": "Taiwan News",
+    "title": "（2025-11 稿，标题未取得）",
+    "title_cn": "台湾新闻（英）",
+    "author": "Taiwan News",
+    "date": "2025-11",
+    "url": "https://www.taiwannews.com.tw/en/news/6259703",
+    "type": "专业媒体",
+    "note": "仅取得 URL；日期仅知2025年11月。"
+   },
+   {
+    "publisher": "FW Mag（fw-mag.com）",
+    "title": "Japan to deploy Type 03 CHU SAM air defence systems 70 miles from Taiwan",
+    "title_cn": "日本将在距台湾70英里处部署03式中SAM",
+    "author": "FW Mag",
+    "date": "2025-11-25",
+    "url": "https://www.fw-mag.com/shownews/802/japan-to-deploy-type-03-chu-sam-air-defence-systems-70-miles-from-taiwan",
+    "type": "专业媒体",
+    "note": "出版者名据 URL 域名记录。"
+   },
+   {
+    "publisher": "ESUT",
+    "title": "Japan setzt auf Abschreckung: Mittelstreckenraketen auf Yonaguni",
+    "title_cn": "日本以威慑为主：与那国岛部署中程导弹",
+    "author": "ESUT",
+    "date": "2025-11",
+    "url": "https://esut.de/en/2025/11/meldungen/65618/japan-setzt-auf-abschreckung-mittelstreckenraketen-auf-yonaguni/",
+    "type": "专业媒体",
+    "note": "标题据 URL slug；日期仅知2025年11月。"
+   },
+   {
+    "publisher": "Yahoo News（AFP）",
+    "title": "Japan to deploy missiles on island near Taiwan by 2031",
+    "title_cn": "日本将在2031年前于台湾附近岛屿部署导弹",
+    "author": "AFP",
+    "date": "2025-11",
+    "url": "https://www.yahoo.com/news/articles/japan-deploy-missiles-island-near-033054243.html",
+    "type": "通讯社",
+    "note": "标题据检索结果；日期仅知2025年11月下旬。"
+   },
+   {
+    "publisher": "The Diplomat（镜像 sv7.thediplomat.com）",
+    "title": "Japanese fighter jets scrambled 30 times against Chinese military drones in FY2024, the highest on record",
+    "title_cn": "日本战机在2024财年针对中国军用无人机紧急起飞30次，创纪录",
+    "author": "The Diplomat",
+    "date": "2025-04",
+    "url": "https://sv7.thediplomat.com/2025/04/japanese-fighter-jets-scrambled-30-times-against-chinese-military-drones-in-fy2024-the-highest-on-record",
+    "type": "专业媒体",
+    "note": "该 URL 为 thediplomat.com 镜像子域名，日期据 URL（2025年4月）。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Yonaguni_Island_coast.jpg",
+    "file_name": "Yonaguni_Island_coast.jpg",
+    "desc_cn": "与那国岛海岸景观",
+    "date": "2007-10-15",
+    "credit": "未取得",
+    "license": "CC BY-SA 2.0（检索摘要称已于2011年复审确认）",
+    "verified": true,
+    "note": "背景图，非事件照片。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Yonaguni-Jima.jpg",
+    "file_name": "Yonaguni-Jima.jpg",
+    "desc_cn": "与那国岛远景",
+    "date": "",
+    "credit": "未取得",
+    "license": "未取得（须核验）",
+    "verified": true,
+    "note": "背景图。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Yonaguni_map_view3.jpg",
+    "file_name": "Yonaguni_map_view3.jpg",
+    "desc_cn": "与那国岛地图",
+    "date": "",
+    "credit": "未取得",
+    "license": "未取得（须核验）",
+    "verified": true,
+    "note": "地图，背景。"
+   }
+  ],
+  "image_leads": [
+   "防卫省统合幕僚监部公开的中国无人机航迹图为官方发布，未检索到可核验的图片页。"
+  ],
+  "stats": {
+   "事件日": "2025-11-15（防卫省口径）；Army Recognition 称11-24（待核）",
+   "2024财年针对中国军用无人机紧急起飞": "30次（创纪录），其中17架往返与那国岛与台湾之间",
+   "03式中SAM": "2031年3月前部署（防卫相口径）",
+   "电子战部队": "2026财年：与那国、健军；2027财年：那霸"
+  }
+ },
+ {
+  "case_key": "matsu_cables_2023_02",
+  "category": "海上小岛",
+  "title_cn": "马祖两条海缆一周内先后被截断",
+  "subtitle_cn": "2023-02-02 与 2023-02-08，马祖（Matsu）与台湾本岛之间海底光缆先后被中国渔船、中国籍货轮损坏",
+  "date_start": "2023-02-02",
+  "date_end": "2023-02-08",
+  "location_cn": "马祖列岛（Matsu）与台湾本岛之间海底光缆路径，台湾海峡北部",
+  "lat": 26.16,
+  "lon": 119.95,
+  "region": "台海",
+  "attacker": "中国渔船（2月2日）、中国籍货轮（2月8日）；台方未公布是否蓄意",
+  "defender": "台湾中华电信、海巡署、国家通讯传播委员会（NCC）；马祖居民约1.2万人",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水下",
+   "水面"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "渔船锚泊或拖网勾断海底光缆；货轮同样损坏附近另一条光缆。具体船名、作业方式未在本轮检索取得。",
+  "defense_means_cn": "岸基微波与卫星链路作为备援；中华电信抢修；海巡署追查肇事船。",
+  "narrative_cn": "2023年2月2日，一艘中国渔船截断连接马祖与台湾本岛的海底光缆之一；2月8日，另一艘中国籍货轮又损坏邻近的另一条光缆（《外交政策》2023-02-21引述）。海巡署称肇事者为中国渔船，并已进入中国领海。由于两条海缆先后中断，马祖约1.2万居民的网络、电话等服务降级，居民依靠微波与卫星备援维持有限通信，直至中华电信完成修复。\n台湾国家通讯传播委员会（NCC）称，没有迹象表明这些事件是蓄意的；台湾媒体与海巡署仍指向中国船只。《外交政策》于2023年2月21日报道此事，并在2025年1月23日的后续文章中再次讨论中国是否又一次试图切断台湾前线居民的通信（该文章细节本轮未取得）。后续的2025年2月“宏泰58”号案见另案（penghu_cable_hongtai58_2025_02）。\n本案无水下装备或爆炸攻击，破坏手段是船舶普通作业，难以与事故区分：这是此类灰色地带手法的特点——行为在法律上可以辩称为过失，实际效果则是切断离岛的通信。",
+  "defense_effect_cn": "备援链路（微波、卫星）保证了基本通信，但带宽与稳定性明显降低，居民日常网络受影响；肇事船已离开，台方没有拘留或扣押的公开记录。暴露的问题：离岛通信依赖少数几条海缆，缺乏冗余；法律上缺乏对“疑似故意但可辩称过失”行为的威慑手段；取证和追责需要在对方管辖水域取证，无法实施。海缆修复完成前，岛上的网络、电话和政务通信靠微波与卫星维持，带宽有限；本轮检索未取得中断时长和修复费用的公开数字。",
+  "claims_compare_cn": "台方海巡署：渔船截断光缆后进入中国领海，指向中国船只。NCC：无迹象显示为蓄意。大陆方面：本轮检索未取得对2023年马祖海缆事件的表态；2025年案中，大陆称此类事件为“寻常海上事故”并被台方夸大。蓄意与否，各方均无公开证据。",
+  "losses_cn": "两条海缆中断，马祖居民约1.2万人通信降级（具体中断时长与修复费用本轮未取得）。",
+  "analysis_cn": "海缆是离岛“看不见的补给线”：一次锚泊就能让整个岛群失去宽带，而且攻击者无需承认。守方的有效对策不在于拦截，而在于冗余（微波、卫星、多路径海缆）和取证（AIS、雷达轨迹）。2025年澎湖案已有法院判决（见另案），2023年马祖案则未检索到追责记录。对岛群居民人口较少的离岛，一次锚泊即可使整个岛群降级，攻击者无需承担军事升级的代价，守方也难以在对方管辖水域内取证。因此冗余设计比追责更直接地决定了损失大小。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Foreign Policy",
+    "title": "Matsu Islands Internet cables China Taiwan",
+    "title_cn": "马祖群岛互联网海缆、中国与台湾",
+    "author": "Foreign Policy",
+    "date": "2023-02-21",
+    "url": "https://foreignpolicy.com/2023/02/21/matsu-islands-internet-cables-china-taiwan/",
+    "type": "专业媒体",
+    "note": "标题据 URL slug；日期据 URL。"
+   },
+   {
+    "publisher": "Foreign Policy",
+    "title": "Did China Try to Cut Off Taiwan’s Front-Line Residents Again?",
+    "title_cn": "中国是否又一次试图切断台湾前线居民的通信？",
+    "author": "Foreign Policy",
+    "date": "2025-01-23",
+    "url": "https://foreignpolicy.com/2025/01/23/taiwan-china-cables-internet-matsu-islands/",
+    "type": "专业媒体",
+    "note": "日期据 URL；内容本轮仅见摘要。"
+   },
+   {
+    "publisher": "W.Media",
+    "title": "Chunghwa Telecom to work on connectivity in Matsu Islands after incident",
+    "title_cn": "中华电信将在事件后改善马祖连通性",
+    "author": "W.Media",
+    "date": "",
+    "url": "https://w.media/chunghwa-telecom-to-work-on-connectivity-in-matsu-islands-after-incident/",
+    "type": "专业媒体",
+    "note": "发布日期未取得（约2023-02）。"
+   },
+   {
+    "publisher": "Gigazine",
+    "title": "Taiwan submarine cable cut",
+    "title_cn": "台湾海底电缆被切断",
+    "author": "Gigazine",
+    "date": "2023-03-09",
+    "url": "https://gigazine.net/gsc_news/en/20230309-taiwan-submarine-cable-cut",
+    "type": "专业媒体",
+    "note": "标题据 URL slug；日期据 URL。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Kinmen-Matsu-Penghu_Branch,_Coast_Guard_Administration,_Ocean_Affairs_Council",
+    "file_name": "Category:Kinmen-Matsu-Penghu Branch, Coast Guard Administration, Ocean Affairs Council",
+    "desc_cn": "海巡署金马澎分署分类页",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景。"
+   }
+  ],
+  "image_leads": [
+   "未检索到海缆事件相关的Commons文件。"
+  ],
+  "stats": {
+   "事件": "2023-02-02 渔船截断一条；2023-02-08 货轮损坏另一条",
+   "影响人口": "马祖约1.2万居民（Foreign Policy 口径）",
+   "备援": "微波、卫星"
+  }
+ },
+ {
+  "case_key": "penghu_cable_hongtai58_2025_02",
+  "category": "海上小岛",
+  "title_cn": "“宏泰58”拖锚割断澎湖海缆，船长获刑三年",
+  "subtitle_cn": "2025-02-22 至 02-25，台南北门外海约5海里，多哥籍货轮“宏泰58”号（Hong Tai 58）割断中华电信台澎3号海底电缆；2025-06-12 台南地方法院判船长有期徒刑三年",
+  "date_start": "2025-02-22",
+  "date_end": "2025-06-12",
+  "location_cn": "台南北门区（Beimen）外海约5海里，台湾—澎湖（Penghu）3号海底电缆路径",
+  "lat": 23.28,
+  "lon": 120.02,
+  "region": "台海",
+  "attacker": "多哥籍货轮“宏泰58”号（Hong Tai 58），船长王某（中国籍，姓氏据判决报道）及船员共8人（含船长）",
+  "defender": "台湾中华电信（台澎3号海缆维护方）、海巡署、台南地方检察署与地方法院",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水下",
+   "水面"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "货轮在禁锚区内逗留，船长下令抛锚并来回航行拖锚，海缆完全中断（法院采认的海巡署证据口径）。",
+  "defense_means_cn": "海巡署与检方对该船及船员展开调查，检察官起诉船长；台南地方法院审理，以故意损害海缆判刑。离岛通信备援情形本轮未取得。",
+  "narrative_cn": "2025年2月22日至25日凌晨3时，多哥籍货轮“宏泰58”号（Hong Tai 58）由船长王某指挥、共8人（含船长）在台湾—澎湖3号海底电缆所在海域逗留，该海缆由中华电信维护，位于台南北门区外海约5海里。据地方法院与海巡署资料，船长在此期间下令抛锚并来回航行，最终使3号海缆完全中断，台澎通信受到影响。\n事发后海巡署与检方调查该船及船员，检察官起诉船长。船长承认下达抛锚命令，但否认故意，称属疏忽；台南地方法院不予采信，于2025年6月12日（周四）以故意损害海缆判处有期徒刑三年，可上诉（中央社、法新社转引）。法新社标题称其为“具里程碑意义的案件”（landmark case）。部分2026年转载稿称船长还须向中华电信赔偿约1822万元新台币，仅见于二手转载，待核。\n大陆方面否认涉案，称此类事件为“寻常海上事故”，被台湾方面夸大（检索摘要口径，原文待核）。《外交政策》2025年1月23日的文章讨论了马祖方向的又一起海缆事件（细节本轮未取得）；2023年马祖海缆案见另案（matsu_cables_2023_02）。",
+  "defense_effect_cn": "本案与2023年马祖案的主要差异是取证和追责链完整：法院文件引用海巡署资料，认定船只2月22日至25日在海缆区域逗留并来回拖锚。司法层面，法院采认“来回航行拖锚”的行为证据，否定“疏忽”抗辩，形成了对类似行为的先例。暴露的问题：一是该海缆位于离岸仅5海里的禁锚区，货轮在区内逗留约三天，公开资料未显示期间有驱离；二是船籍为多哥、船长为中国籍，涉及第三国船籍的执法与保险责任问题；三是判决可上诉，实际威慑效果有待观察。",
+  "claims_compare_cn": "台方：船只在禁锚区逗留，船长下令抛锚并来回航行，属故意损害海缆，法院判刑三年。船长：承认下令抛锚，否认故意，称疏忽。大陆：否认涉案，称是“寻常海上事故”，被台湾夸大。损害赔偿：约1822万元新台币仅见二手转载稿，待核。",
+  "losses_cn": "台澎3号海缆完全中断（具体通信影响与修复费用本轮未取得）；船长获刑三年；赔偿金额待核。",
+  "analysis_cn": "与2023年相比，台方从“指认”进入“取证—起诉—判决”，海缆案成为可判刑的刑事案件。对攻方，匿名船籍、普通锚泊作业使行为在法律上始终存在“过失”抗辩；对守方，关键在于禁锚区的实时监控、AIS 与雷达轨迹的保存，以及船旗国、船东、保险之间的责任链。海缆保护不是港口或岛屿防空问题，而是海上交通与执法问题，但后果由离岛居民承担。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Central News Agency (CNA) via GlobalSecurity",
+    "title": "Chinese ship captain handed 3-year sentence over severed telecoms cable",
+    "title_cn": "中国籍船长因割断电信海缆被判三年",
+    "author": "CNA",
+    "date": "2025-06-12",
+    "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2025/taiwan-250612-cna05.htm",
+    "type": "通讯社",
+    "note": "日期据 URL。"
+   },
+   {
+    "publisher": "The Namibian（AFP）",
+    "title": "Taiwan jails China captain for undersea cable sabotage in landmark case",
+    "title_cn": "台湾因海缆破坏重判中国籍船长，开创先例",
+    "author": "AFP",
+    "date": "2025-06-12",
+    "url": "https://www.namibian.com.na/taiwan-jails-china-captain-for-undersea-cable-sabotage-in-landmark-case/",
+    "type": "通讯社",
+    "note": "日期据事件日推定。"
+   },
+   {
+    "publisher": "SubTel Forum",
+    "title": "Chinese Captain Sentenced for Taiwan Cable Damage",
+    "title_cn": "中国籍船长因台湾海缆损坏被判刑",
+    "author": "SubTel Forum",
+    "date": "2025-06",
+    "url": "https://subtelforum.com/chinese-captain-sentenced-for-taiwan-cable-damage/",
+    "type": "专业媒体",
+    "note": "日期仅知2025年6月。"
+   },
+   {
+    "publisher": "Taiwan News",
+    "title": "（宏泰58海缆案报道，标题未取得）",
+    "title_cn": "台湾新闻（英）",
+    "author": "Taiwan News",
+    "date": "",
+    "url": "https://www.taiwannews.com.tw/en/news/6132909",
+    "type": "专业媒体",
+    "note": "仅取得 URL；日期未取得。"
+   },
+   {
+    "publisher": "Foreign Policy",
+    "title": "Did China Try to Cut Off Taiwan’s Front-Line Residents Again?",
+    "title_cn": "中国是否又一次试图切断台湾前线居民的通信？",
+    "author": "Foreign Policy",
+    "date": "2025-01-23",
+    "url": "https://foreignpolicy.com/2025/01/23/taiwan-china-cables-internet-matsu-islands/",
+    "type": "专业媒体",
+    "note": "日期据 URL；本案以外的2025年1月事件，细节未取得。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Kinmen-Matsu-Penghu_Branch,_Coast_Guard_Administration,_Ocean_Affairs_Council",
+    "file_name": "Category:Kinmen-Matsu-Penghu Branch, Coast Guard Administration, Ocean Affairs Council",
+    "desc_cn": "海巡署金马澎分署分类页",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景。"
+   }
+  ],
+  "image_leads": [
+   "未检索到“宏泰58”号相关Commons文件；海巡署影像为官方发布，未取得图片页。"
+  ],
+  "stats": {
+   "海缆": "台湾—澎湖3号海底电缆（中华电信），北门外海约5海里",
+   "逗留时间": "2025-02-22 至 02-25 03:00",
+   "判决": "2025-06-12 台南地方法院，有期徒刑3年（可上诉）",
+   "船员": "8人（含船长）",
+   "赔偿（待核）": "约1822万元新台币（二手转载）"
+  }
+ },
+ {
+  "case_key": "scarborough_2025_08_11_collision",
+  "category": "海上小岛",
+  "title_cn": "海警追菲船撞上海军舰，一年后确认两人殉职",
+  "subtitle_cn": "2025-08-11，黄岩岛（Scarborough Shoal / Bajo de Masinloc）附近，中国海警船与解放军海军052D型驱逐舰“桂林”舰（舷号164）追逐菲海警船“苏禄”号（BRP Suluan）时相撞",
+  "date_start": "2025-08-11",
+  "date_end": "2026-08-05",
+  "location_cn": "黄岩岛（Scarborough Shoal / Bajo de Masinloc）附近海域，南海",
+  "lat": 15.19,
+  "lon": 117.76,
+  "region": "南海",
+  "attacker": "中国海警局舰船（舷号3104 或“南屿”，各来源不一）与解放军海军052D型驱逐舰“桂林”舰（Guilin，舷号164），共同驱赶菲律宾海警船",
+  "defender": "菲律宾海警（PCG）“苏禄”号（BRP Suluan）巡逻船及在场渔民",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "海警船与海军驱逐舰协同拦阻、高速追逐菲海警船；菲方公布的视频显示舷号164的海军舰艇舰艏撞上海警船舰艏，海警船前部严重受损。",
+  "defense_means_cn": "“苏禄”号规避并拍摄记录；菲海警事后表示可提供援助；菲政府否认对碰撞负责，称其为“不幸的结果”。美方谴责中方“鲁莽行为”。",
+  "narrative_cn": "2025年8月11日，菲律宾海警巡逻船“苏禄”号（BRP Suluan）在黄岩岛（Scarborough Shoal，菲称 Bajo de Masinloc）附近海域被中国海警船与解放军海军舰艇追逐驱赶。菲海警公布的视频显示，舷号164的中国海军舰艇（052D型驱逐舰“桂林”舰，Guilin）高速冲向海警船，两舰舰艏相撞，海警船前部严重受损。维基百科条目称海警船为江岛级3104号并失去动力；《海事洞察》（Marine Insight）等报道则称海警船为“南屿”（Nanyu，中文名待核），舷号3104与“南屿”如何对应本轮检索未能核清。\n中国海警局8月11日称，菲律宾船只闯入中国“固有领土”，海警依法驱离，通报未提及相撞与人员伤亡。8月12日，菲军方（周二）公开指责中国造成碰撞；美方谴责“中方针对菲律宾船只的最新鲁莽行为”。8月15日，中国国防部发言人蒋斌称，海警船依法采取监视、跟踪、拦阻、管控等措施驱离菲船，菲船多次实施高速闯入、急转向切入等危险动作，中方保留采取必要反制措施的权利（GlobalSecurity 转载 2025-08-15 国防部稿，内容据摘要概述）。\n当时菲国安顾问阿尼奥（Eduardo Año）称，事故造成2名中国人员死亡、1人失踪。2026年8月初，中国人民武装警察部队（海警属武警系统）追授易新宇（Yi Xinyu，21岁）、程龙（Cheng Long，25岁）“人民武警忠诚卫士”称号并记一等功，官方记录显示两人于2025年8月11日在“海上维权行动”中牺牲，姓名亦列入退役军人事务部主办的烈士纪念网站；这是北京首次官方确认伤亡，距事发近一年。《台北时报》称宣布时间为周三，《南华早报》称周四，均在2026年8月第一周。北京的公告未提及菲方所称的失踪第三人。",
+  "defense_effect_cn": "未见“苏禄”号受损的报道；菲海警公布的碰撞视频成为事实核查的主要证据。暴露的问题：中方海警船与海军舰艇在同一现场协同拦阻，舰艇间沟通与操纵失误可能导致己方重大损失，这本身也是灰色地带行动的风险；菲方依靠单艘巡逻船对抗两艘中方大型舰艇，无力改变局面。信息层面，北京隐瞒近一年才确认伤亡，使各方长期缺乏可核实的事实基础。",
+  "claims_compare_cn": "中国海警局（8月11日）：菲船闯入“固有领土”，依法驱离，不提碰撞。中国国防部（8月15日）：中方依法管控，菲船多次危险动作，保留反制权。菲方：中方造成碰撞，“苏禄”号无责；国安顾问称2死1失踪。美方：谴责中方鲁莽行为。船名：维基称海警船3104号；Marine Insight 等报道称“南屿”（Nanyu），两者的对应关系待核。公告日期：《台北时报》称周三（8月5日），《南华早报》称周四（8月6日），均在2026年8月第一周。",
+  "losses_cn": "中方：海警船前部严重受损（维基称失去动力）；人员2死（官方2026-08确认，易新宇21岁、程龙25岁），菲方曾称另有1人失踪，北京公告未提及。菲方：无损失。",
+  "analysis_cn": "本案不是菲方受害，而是中方两个系统在同一场景中互撞：拦阻方过多、协同不足，造成己方伤亡。此类灰色地带行动的风险外溢，既包括与对手的碰撞，也包括己方编队内部的事故。对守方，记录与公布影像是直接的反制手段；对攻方，海警与海军同场拦阻增加了军事化色彩，同时也加大了事故和升级的风险。伤亡信息延迟近一年公布，说明官方叙事在事实和舆论之间有取舍。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Wikipedia",
+    "title": "2025 China Coast Guard and People's Liberation Army Navy ship collision incident",
+    "title_cn": "2025年中国海警与解放军海军舰艇相撞事件",
+    "author": "Wikipedia",
+    "date": "",
+    "url": "https://en.wikipedia.org/wiki/2025_China_Coast_Guard_and_People%27s_Liberation_Army_Navy_ship_collision_incident",
+    "type": "其他",
+    "note": "仅作线索。"
+   },
+   {
+    "publisher": "SunStar",
+    "title": "China vessels collide off Bajo de Masinloc",
+    "title_cn": "中国船只在黄岩岛外相撞",
+    "author": "SunStar Manila",
+    "date": "2025-08-11",
+    "url": "https://www.sunstar.com.ph/manila/china-vessels-collide-off-bajo-de-masinloc",
+    "type": "专业媒体",
+    "note": "日期据事件日推定。"
+   },
+   {
+    "publisher": "Click2Houston（AP）",
+    "title": "Philippines blames China for South China Sea collision in disputed waters",
+    "title_cn": "菲律宾指责中国造成南海争议水域碰撞",
+    "author": "AP",
+    "date": "2025-08-12",
+    "url": "https://www.click2houston.com/news/world/2025/08/12/philippines-blames-china-for-south-china-sea-collision-in-disputed-waters/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Malay Mail",
+    "title": "South China Sea slip-up: Chinese vessels collide in pursuit of Philippines patrol",
+    "title_cn": "南海失误：中国船只追逐菲巡逻船时相撞",
+    "author": "Malay Mail",
+    "date": "2025-08-11",
+    "url": "https://www.malaymail.com/amp/news/world/2025/08/11/south-china-sea-slip-up-chinese-vessels-collide-in-pursuit-of-philippines-patrol/187212",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "The Defense Post",
+    "title": "Chinese Vessels Collide While Pursuing Philippine Boat in South China Sea",
+    "title_cn": "中国船只在追逐菲船时相撞",
+    "author": "The Defense Post",
+    "date": "2025-08-11",
+    "url": "https://thedefensepost.com/2025/08/11/chinese-vessels-collide",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Philippine Daily Inquirer",
+    "title": "Chinese ships collide off Scarborough, PH Coast Guard offers aid",
+    "title_cn": "中国船只在黄岩岛外相撞，菲海警提议援助",
+    "author": "Inquirer",
+    "date": "2025-08-11",
+    "url": "https://www.inquirer.net/?p=452305",
+    "type": "专业媒体",
+    "note": "日期据事件日推定。"
+   },
+   {
+    "publisher": "GlobalSecurity（转载 Global Times/国防部）",
+    "title": "（2025-08-15 国防部例行记者会稿，标题未取得）",
+    "title_cn": "国防部发言人蒋斌答记者问转载",
+    "author": "中国国防部/环球时报",
+    "date": "2025-08-15",
+    "url": "https://www.globalsecurity.org/military/library/news/2025/08/mil-250815-globaltimes03.htm",
+    "type": "官方",
+    "note": "仅取得 URL；蒋斌表述据检索摘要概述，原文待核。"
+   },
+   {
+    "publisher": "South China Morning Post",
+    "title": "China confirms 2 deaths in Scarborough Shoal crash during Philippine ship chase",
+    "title_cn": "中国确认黄岩岛追逐菲船碰撞中2人死亡",
+    "author": "SCMP",
+    "date": "2026-08-06",
+    "url": "https://scmp.com/news/china/military/article/3363212/china-confirms-2-deaths-scarborough-shoal-crash-during-philippine-ship-chase",
+    "type": "专业媒体",
+    "note": "标题据 URL slug；日期据同期报道推定。"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "China confirms death of 2 coast guards after collision near disputed Scarborough Shoal",
+    "title_cn": "中国确认海警2人在黄岩岛争议海域碰撞后死亡",
+    "author": "Marine Insight",
+    "date": "2026-08",
+    "url": "https://www.marineinsight.com/china-confirms-death-of-2-coast-guards-after-collision-near-disputed-scarborough-shoal/",
+    "type": "专业媒体",
+    "note": "日期仅知2026年8月。"
+   },
+   {
+    "publisher": "Baird Maritime",
+    "title": "After a year, Beijing finally acknowledges fatalities in South China Sea collision",
+    "title_cn": "一年之后，北京终于承认南海碰撞中的死亡",
+    "author": "Baird Maritime",
+    "date": "2026-08",
+    "url": "https://www.bairdmaritime.com/security/non-naval-security/coast-guard/after-a-year-beijing-finally-acknowledges-fatalities-in-south-china-sea-collision",
+    "type": "专业媒体",
+    "note": "日期仅知2026年8月。"
+   },
+   {
+    "publisher": "The Star（马来西亚）",
+    "title": "Two Chinese coast guard personnel marked as “martyrs” after South China Sea collision last year",
+    "title_cn": "两名中国海警人员在去年南海碰撞后被追认为“烈士”",
+    "author": "The Star",
+    "date": "2026-08-06",
+    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/06/two-chinese-coast-guard-personnel-marked-as-martyrs-after-south-china-sea-collision-last-year",
+    "type": "专业媒体",
+    "note": "日期据 URL。"
+   },
+   {
+    "publisher": "GMA Network",
+    "title": "China calls 2 CCG personnel ‘martyrs’ after August 2025 collision while pursuing PH boat",
+    "title_cn": "中国称2名海警人员为“烈士”",
+    "author": "GMA News",
+    "date": "2026-08",
+    "url": "https://www.gmanetwork.com/news/topstories/nation/997612/china-calls-2-ccg-personnel-martyrs-after-august-2025-collision-while-pursuing-ph-boat/story/",
+    "type": "专业媒体",
+    "note": "标题据 URL slug；日期仅知2026年8月。"
+   },
+   {
+    "publisher": "Taipei Times",
+    "title": "（2026-08-08 稿，标题未取得）",
+    "title_cn": "台北时报",
+    "author": "Taipei Times",
+    "date": "2026-08-08",
+    "url": "https://www.taipeitimes.com/News/world/archives/2026/08/08/2003862157",
+    "type": "专业媒体",
+    "note": "仅取得 URL。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:2025_China_Coast_Guard_and_People's_Liberation_Army_Navy_ship_collision_incident",
+    "file_name": "Category:2025 China Coast Guard and People's Liberation Army Navy ship collision incident",
+    "desc_cn": "2025年8月11日黄岩岛中国海警与海军舰艇相撞事件分类页（含菲海警公布的碰撞视频）",
+    "date": "2025-08-11",
+    "credit": "菲律宾海警（视频来源，据检索摘要）",
+    "license": "未取得（须核验）",
+    "verified": true,
+    "note": "分类页；具体文件名待在分类页内人工选取。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Scarborough_Shoal",
+    "file_name": "Category:Scarborough Shoal",
+    "desc_cn": "黄岩岛分类页",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:China_Coast_Guard_CCG_3105_near_Scarborough_Shoal_02.02.24.jpg",
+    "file_name": "China_Coast_Guard_CCG_3105_near_Scarborough_Shoal_02.02.24.jpg",
+    "desc_cn": "中国海警3105号于黄岩岛附近（2024年2月2日，非本案船只，作同类船型背景）",
+    "date": "2024-02-02",
+    "credit": "未取得",
+    "license": "未取得（须核验）",
+    "verified": true,
+    "note": "非本案舷号3104，同级背景图。"
+   }
+  ],
+  "image_leads": [
+   "菲海警公布的碰撞视频在 Commons 分类页内，文件名与许可待人工核验。"
+  ],
+  "stats": {
+   "中方人员": "2死（易新宇21岁、程龙25岁；2026-08官方确认）；菲方曾称1人失踪",
+   "船只": "海军052D“桂林”舰（164）；海警船3104（维基）/“南屿”（Marine Insight 口径）",
+   "菲方船只": "BRP Suluan",
+   "官方确认时间": "2026年8月第一周（台北时报周三/SCMP周四）"
+  }
+ },
+ {
+  "case_key": "sabina_2024_08_collisions",
+  "category": "海上小岛",
+  "title_cn": "仙宾礁八月三撞，菲海警旗舰被撞破",
+  "subtitle_cn": "2024-08-19、08-25、08-31，仙宾礁（Sabina / Escoda Shoal）附近，中国海警船与菲海警船碰撞，8月31日“特蕾莎·马格巴努阿”号（BRP Teresa Magbanua）被海警5205号撞击",
+  "date_start": "2024-08-19",
+  "date_end": "2024-08-31",
+  "location_cn": "仙宾礁（Sabina Shoal / Escoda Shoal，菲称 Escoda），南沙群岛",
+  "lat": 9.7,
+  "lon": 115.87,
+  "region": "南海",
+  "attacker": "中国海警局舰船，8月31日为“海警5205”（Zhaojun/718B型，约100米，Janes 口径）",
+  "defender": "菲律宾海警（PCG）：“卡贝·恩加诺”号（BRP Cape Engaño）、“巴加凯”号（BRP Bagacay）、“特蕾莎·马格巴努阿”号（BRP Teresa Magbanua，97米）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "海警船横切、冲撞：8月19日撞击“卡贝·恩加诺”号甲板并撞及“巴加凯”号；8月25日海警船与菲海警船碰撞（中方称“管控措施”）；8月31日“海警5205”三次撞击“马格巴努阿”号。",
+  "defense_means_cn": "菲海警船规避、拍摄并公布受损照片；“马格巴努阿”号当时锚泊于仙宾礁内；菲方称正研究对华提起法律行动（PTV 标题口径）；美国谴责中方“危险机动”。未使用武器。",
+  "narrative_cn": "2024年8月19日，菲海警“卡贝·恩加诺”号与“巴加凯”号前往帕塔岛（Patag）和拉瓦克岛（Lawak，菲占南沙岛礁）途中，在仙宾礁（Sabina Shoal，菲称 Escoda）附近被中国海警船撞击。菲国安会称“卡贝·恩加诺”号于3时24分被撞，甲板出现破洞；“巴加凯”号于3时40分被另一艘海警船撞及左右舷，结构轻微受损（摘要未注明时制）。《马尼拉公报》图说称“卡贝·恩加诺”号破洞直径1.10米，位于右舷尾部。\n8月25日（周日），中国海警船与菲海警船在仙宾礁附近碰撞，中方称其采取“依法管控措施”；本轮检索未取得该日受损详情。\n8月31日，“特蕾莎·马格巴努阿”号（BRP Teresa Magbanua）被“海警5205”（Janes 称为 Zhaojun/718B 型，约100米）撞击三次；菲海警称中方“蓄意冲撞三次，我方并无挑衅”。中国海警局发言人刘德军称，菲船以“不专业、危险”方式“故意碰撞”中国海警船。损伤方面，Janes 称菲船飞行甲板附近凹陷约90厘米，船尾船体撕裂口宽约1.5米；菲通讯社（PNA）称受损在驾驶台翼与干舷；《海事高管》称菲方公布了一处破洞及若干凹痕的照片；各报道均未提及人员受伤。菲方称该船当时锚泊在仙宾礁内；中方此前已就该船长期停留提出外交抗议（摘要口径）。此后动向（撤离等）本轮检索未取得，待核。",
+  "defense_effect_cn": "菲海警船在三次碰撞中均未被击沉，无人员伤亡报道，受损部位集中于甲板、船尾与驾驶台翼，说明冲撞以逼迫驱离为主，而非致命打击。暴露的问题：一是菲海警船体量小于对方百米级海警船，8月19日一天内两船先后被撞；二是破洞和凹陷对船只续航与守礁任务的影响，本轮检索未取得；三是碰撞在8月内由一次升至三次，菲方的外交抗议和法律研究没有改变现场态势。",
+  "claims_compare_cn": "菲方：中国海警船“蓄意冲撞”，事先无挑衅；8月19日撞击发生在前往帕塔岛、拉瓦克岛途中。中方：刘德军称菲船“故意碰撞”，中方“采取管控措施”；8月25日中方称其为“依法管控”。美方：谴责中方“危险机动”。损伤口径：90厘米凹陷与1.5米裂口（Janes）、驾驶台翼与干舷受损（PNA）、一处破洞与若干凹痕（《海事高管》），三者描述的部位不同，应以菲海警公布的原始照片核对。",
+  "losses_cn": "菲方：“卡贝·恩加诺”号甲板破洞（直径约1.10米，菲方图说）、“巴加凯”号轻微受损、“马格巴努阿”号船体多处受损；无人员伤亡报道。中方：未取得损伤通报。",
+  "analysis_cn": "仙宾礁的特点是菲方以海警船常驻，而不是坐滩舰，因此对方的手段从水炮转为冲撞：目标是迫使船只离开，而不是击毁。对守方，船体加强、海上拖带、备用船替换是比外交抗议更实际的措施；对攻方，冲撞的风险在于一旦造成死亡，将触发条约义务（美菲共同防御条约）的讨论。本案细节中日期、时间、受损部位在不同来源之间尚有出入。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Janes",
+    "title": "Philippine 97 m OPV sustains damages after collision with China Coast Guard",
+    "title_cn": "菲律宾97米近海巡逻船在与中国海警碰撞后受损",
+    "author": "Janes",
+    "date": "2024-08-31",
+    "url": "https://www.janes.com/defence-intelligence-insights/defence-news/sea/philippine-97-m-opv-sustains-damages-after-collision-with-china-coast-guard",
+    "type": "专业媒体",
+    "note": "需订阅；日期据事件日推定。"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "Video: Third Collision Incident Between Chinese and Philippines Coast Guards",
+    "title_cn": "视频：中菲海警第三次碰撞事件",
+    "author": "Maritime Executive",
+    "date": "2024-08-31",
+    "url": "https://maritime-executive.com/article/video-third-collision-incident-between-chinese-coast-guard-and-philippines",
+    "type": "专业媒体",
+    "note": "标题据 URL slug；日期据事件日推定。"
+   },
+   {
+    "publisher": "The Manila Times",
+    "title": "Chinese ships ram PCG lead vessel",
+    "title_cn": "中国船只撞击菲海警旗舰",
+    "author": "Manila Times",
+    "date": "2024-09-01",
+    "url": "https://manilatimes.net/2024/09/01/news/chinese-ships-ram-pcg-lead-vessel/1968075/amp",
+    "type": "专业媒体",
+    "note": "日期据 URL。"
+   },
+   {
+    "publisher": "The Globe and Mail",
+    "title": "Beijing accuses Philippines of deliberate collision between coast guards",
+    "title_cn": "北京指责菲律宾在海警船之间故意碰撞",
+    "author": "Globe and Mail（Reuters/AFP）",
+    "date": "2024-08-31",
+    "url": "https://theglobeandmail.com/world/article-beijing-accuses-philippines-of-deliberate-collision-between-coast",
+    "type": "通讯社",
+    "note": "标题据 URL slug；日期据事件日推定。"
+   },
+   {
+    "publisher": "Philippine News Agency",
+    "title": "China vessel damages BRP Magbanua; PH ‘seriously concerned’",
+    "title_cn": "中国船只损坏“马格巴努阿”号，菲方“严重关切”",
+    "author": "PNA",
+    "date": "2024-08-31",
+    "url": "https://alpha.pna.gov.ph/articles/1232353",
+    "type": "官方",
+    "note": "日期据事件日推定。"
+   },
+   {
+    "publisher": "Voice of America",
+    "title": "China, Philippines trade accusations after ships collide",
+    "title_cn": "船只碰撞后中菲互相指责",
+    "author": "VOA",
+    "date": "2024-08-31",
+    "url": "https://www.voanews.com/amp/china-philippines-trade-accusations-after-ships-collide/7767067.html",
+    "type": "通讯社",
+    "note": "日期据事件日推定。"
+   },
+   {
+    "publisher": "LBC",
+    "title": "Chinese and Philippine vessels collide at disputed atoll",
+    "title_cn": "中国与菲律宾船只在争议环礁相撞",
+    "author": "LBC",
+    "date": "2024-08-19",
+    "url": "https://lbc.co.uk/world-news/1a374f2f6ea542c788138735fdc3f138",
+    "type": "通讯社",
+    "note": "日期据事件日推定（具体对应哪次碰撞待核）。"
+   },
+   {
+    "publisher": "Manila Bulletin",
+    "title": "Irresponsible maneuvers: senators blast China anew after collision in Escoda Shoal",
+    "title_cn": "不负责任的机动：参议员再次痛斥中国",
+    "author": "Manila Bulletin",
+    "date": "2024-08-19",
+    "url": "https://mb.com.ph/2024/8/19/irresponsible-maneuvers-senators-blast-china-anew-after-collision-in-escoda-shoal",
+    "type": "专业媒体",
+    "note": "日期据 URL。"
+   },
+   {
+    "publisher": "GMA News",
+    "title": "US condemns China’s ‘dangerous maneuvers’ in latest collisions at Escoda Shoal",
+    "title_cn": "美国谴责中国在仙宾礁最新碰撞中的“危险机动”",
+    "author": "GMA News",
+    "date": "2024-08",
+    "url": "https://gmanetwork.com/news/topstories/nation/917562/us-condemns-china-s-dangerous-maneuvers-in-latest-collisions-at-escoda-shoal/story",
+    "type": "专业媒体",
+    "note": "标题据 URL slug；日期仅知2024年8月。"
+   },
+   {
+    "publisher": "PTV News",
+    "title": "PH eyes case vs. China after Escoda Shoal collision",
+    "title_cn": "菲律宾考虑就仙宾礁碰撞起诉中国",
+    "author": "PTV",
+    "date": "2024-08",
+    "url": "https://ptvnews.ph/ph-eyes-case-vs-china-after-escoda-shoal-collision/",
+    "type": "官方",
+    "note": "日期仅知2024年8月。"
+   },
+   {
+    "publisher": "Philippine Daily Inquirer",
+    "title": "West PH Sea: PCG gathering evidence vs China on Escoda shoal collision",
+    "title_cn": "西菲律宾海：海警收集仙宾礁碰撞证据",
+    "author": "Inquirer",
+    "date": "2024-08",
+    "url": "https://www.inquirer.net/?p=411505",
+    "type": "专业媒体",
+    "note": "日期仅知2024年8月。"
+   },
+   {
+    "publisher": "Asia News Network",
+    "title": "2 Philippine Coast Guard ships damaged in collision with Chinese vessels",
+    "title_cn": "2艘菲海警船在与中国船只碰撞中受损",
+    "author": "ANN",
+    "date": "2024-08-19",
+    "url": "https://asianews.network/?p=162531",
+    "type": "通讯社",
+    "note": "日期据事件日推定。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:China_Coast_Guard_vessels",
+    "file_name": "Category:China Coast Guard vessels",
+    "desc_cn": "中国海警船舶分类页（背景）",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景；未检索到仙宾礁事件当日Commons文件。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:CCGV_5201_Shadowing_of_BRP_Malapascua.jpg",
+    "file_name": "CCGV_5201_Shadowing_of_BRP_Malapascua.jpg",
+    "desc_cn": "中国海警5201号跟踪菲海警“马拉帕斯卡”号（2023年3月，同类船型背景，非本案）",
+    "date": "2023-03-21",
+    "credit": "未取得",
+    "license": "未取得（须核验）",
+    "verified": true,
+    "note": "非本案船只，仅作海警船型背景（检索摘要称拍摄于仁爱礁东北约2海里）。"
+   }
+  ],
+  "image_leads": [
+   "菲海警公布的受损照片为官方发布，未取得可核验图片页。"
+  ],
+  "stats": {
+   "8月19日": "Cape Engaño 甲板破洞直径1.10米（菲方图说）；Bagacay 轻微受损",
+   "8月31日": "Teresa Magbanua 被海警5205撞击三次；飞行甲板附近凹陷约90厘米、船尾裂口约1.5米（Janes）",
+   "人员伤亡": "无报道"
+  }
+ },
+ {
+  "case_key": "guam_2024_12_10_ftm_intercept",
+  "category": "岛屿防卫",
+  "title_cn": "关岛首次弹道导弹拦截试验，SM-3 IIA命中",
+  "subtitle_cn": "2024-12-10（关岛当地时间约22:45），安德森空军基地（Andersen AFB）附近，美国导弹防御局（MDA）“飞行试验-02”（Flight Experiment Mission-02）：宙斯盾关岛系统发射SM-3 Block IIA拦截中程弹道导弹靶弹（试验，非实战）",
+  "date_start": "2024-12-10",
+  "date_end": "",
+  "location_cn": "关岛（Guam），安德森空军基地（Andersen Air Force Base）及其西太平洋方向海域",
+  "lat": 13.58,
+  "lon": 144.92,
+  "region": "东海-西太",
+  "attacker": "无实际攻击方：L3Harris公司研制的MRBM Type 1中程弹道导弹靶弹（试验靶标）",
+  "defender": "美国导弹防御局（MDA）；宙斯盾关岛系统（Aegis Guam System，洛克希德·马丁公司集成）；美国空军试验中心全球到达联合试验部队（据 Edwards/AFTC 稿标题）",
+  "outcome": "防御成功",
+  "domains": [
+   "空中",
+   "岸基"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "中程弹道导弹靶弹（L3Harris MRBM Type 1，摘要口径；个别媒体称中远程）1枚，来源方式（空射/地射）本轮摘要未取得。",
+  "defense_means_cn": "宙斯盾关岛系统：AN/TPY-6雷达加垂直发射系统（VLS），发射RTX公司制造的“标准-3”Block IIA（SM-3 Block IIA）1枚，拦截中程弹道导弹靶弹；陆军“综合作战指挥系统”（IBCS）未参与（MDA发言人口径）。",
+  "narrative_cn": "2024年12月10日（关岛当地时间约22时45分），美国导弹防御局（MDA）在关岛完成“飞行试验-02”（Flight Experiment Mission-02，FEM-02）。试验中，宙斯盾关岛系统（Aegis Guam System）的AN/TPY-6雷达对来袭的中程弹道导弹靶弹（L3Harris公司研制的MRBM Type 1）进行了端到端跟踪，并由垂直发射系统发射RTX公司的“标准-3”Block IIA导弹将其拦截；残骸按计划落入关岛以外的海中。MDA称试验成功，称这是关岛首次弹道导弹拦截，也是AN/TPY-6雷达首次在实飞弹道导弹试验中用于端到端跟踪（摘要口径）。\n试验的作用，据MDA说明，是为未来的关岛防御体系（Guam Defense System）提供概念、需求验证、数据采集与模型成熟方面的支持。官员称这是保护西太平洋免受潜在威胁的“关键里程碑”。MDA同时称，2024年5月的评估计划在此后十年内每年最多进行两次飞行试验。陆军的IBCS未用于本次试验。\n以上为一次性、预先通报的单靶拦截试验，不涉及实战中的饱和攻击、多弹种来袭或电子对抗，也不代表关岛防御体系已达到初始作战能力。本轮检索未取得拦截高度、速度、制导细节和试验成本。",
+  "defense_effect_cn": "试验证明了宙斯盾关岛系统能完成从探测、跟踪到SM-3 Block IIA发射和拦截的链路，残骸落点按计划在海中。局限：单靶、预设条件、单一弹种；未验证多目标、诱饵、巡航导弹与弹道导弹混合来袭，也未验证与陆军防空系统的联合作战（IBCS 未参与）；SM-3 Block IIA 单价高、库存有限，对抗大规模来袭的弹药消耗与成本比未在本轮检索中取得数据。",
+  "claims_compare_cn": "MDA、美国媒体：试验成功，首次从关岛拦截弹道导弹，目标为中程弹道导弹。个别媒体称靶弹为“中远程”，多数称“中程”；关于靶弹发射方式及雷达的首次使用范围，各稿表述有细微差异，需以MDA发布稿核对。中国方面对该试验的表态本轮未取得。",
+  "losses_cn": "无损失（试验）。残骸落入海中。",
+  "analysis_cn": "关岛的防御问题不是单次拦截，而是持续的多方向、多弹种饱和来袭，而本次试验验证的是链条中的一环。对类似的海岛基地，雷达、拦截弹与指挥系统的集成度、弹药库存和补给，比单次拦截成功更能反映真实防御能力。试验次数（计划每年至多两次）也提示这一体系仍处于逐步成形阶段。试验在预先设定的靶弹轨迹、雷达与发射位置下进行；实战中的来袭方向、数量和欺骗手段由对方决定，两者之间的差距，需要更多试验和部署来填补。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Naval News",
+    "title": "U.S. MDA conducts first ballistic missile intercept from Guam",
+    "title_cn": "美国导弹防御局首次在关岛完成弹道导弹拦截",
+    "author": "Naval News",
+    "date": "2024-12",
+    "url": "https://www.navalnews.com/naval-news/2024/12/u-s-mda-conducts-first-ballistic-missile-intercept-from-guam/",
+    "type": "专业媒体",
+    "note": "日期仅知2024年12月（据 URL）。"
+   },
+   {
+    "publisher": "BenarNews",
+    "title": "US missile test intercepts, downs ballistic target from Guam air base",
+    "title_cn": "美国导弹试验在关岛空军基地拦截并击落弹道导弹靶标",
+    "author": "BenarNews",
+    "date": "2024-12-10",
+    "url": "https://www.benarnews.org/english/news/pacific/ballistic-missile-test-12102024145520.html",
+    "type": "通讯社",
+    "note": "日期据 URL。"
+   },
+   {
+    "publisher": "Radio Free Asia",
+    "title": "US missile test intercepts, downs ballistic target from Guam air base",
+    "title_cn": "美国导弹试验在关岛空军基地拦截并击落弹道导弹靶标",
+    "author": "RFA",
+    "date": "2024-12-10",
+    "url": "https://rfa.org/english/pacific/2024/12/10/us-intercepts-missile-guam-air-base/",
+    "type": "专业媒体",
+    "note": "日期据 URL。"
+   },
+   {
+    "publisher": "Edwards Air Force Base（美国空军）",
+    "title": "Global Reach Combined Test Force supports historic ballistic missile intercept",
+    "title_cn": "全球到达联合试验部队支持历史性弹道导弹拦截",
+    "author": "Edwards AFB / AFTC",
+    "date": "2024-12",
+    "url": "https://www.edwards.af.mil/News/Display/Article/4023494/global-reach-combined-test-force-supports-historic-ballistic-missile-intercept/",
+    "type": "官方",
+    "note": "标题据检索结果；发布日期仅知2024年12月；稿件内容本轮未取得。"
+   },
+   {
+    "publisher": "Air Force Test Center（AFTC）",
+    "title": "Global Reach Combined Test Force supports historic ballistic missile intercept in Guam",
+    "title_cn": "全球到达联合试验部队支持关岛历史性弹道导弹拦截",
+    "author": "AFTC",
+    "date": "2024-12",
+    "url": "https://www.aftc.af.mil/News/Article/4024207/global-reach-combined-test-force-supports-historic-ballistic-missile-intercept/",
+    "type": "官方",
+    "note": "发布日期仅知2024年12月。"
+   },
+   {
+    "publisher": "Defense Daily",
+    "title": "MDA, Lockheed Martin successful in first flight test of Guam Defense System",
+    "title_cn": "MDA与洛克希德·马丁成功完成关岛防御系统首次飞行试验",
+    "author": "Defense Daily",
+    "date": "2024-12",
+    "url": "https://defensedaily.com/mda-lockheed-martin-successful-in-first-flight-test-of-guam-defense-system/missile-defense",
+    "type": "专业媒体",
+    "note": "标题据 URL slug；日期仅知2024年12月。"
+   },
+   {
+    "publisher": "FW Mag",
+    "title": "First anti-ballistic interception for the Guam Defense System",
+    "title_cn": "关岛防御系统首次反弹道拦截",
+    "author": "FW Mag（Gabriele Molinelli）",
+    "date": "2024-12-17",
+    "url": "https://fw-mag.com/shownews/312/first-anti-ballistic-interception-for-the-guam-defense-system",
+    "type": "专业媒体",
+    "note": "日期据检索结果。"
+   },
+   {
+    "publisher": "Honolulu Star-Advertiser",
+    "title": "（关岛拦截试验报道，标题未取得）",
+    "title_cn": "檀香山星报",
+    "author": "Star-Advertiser",
+    "date": "2024-12",
+    "url": "https://staradvertiser.com/?p=1358882",
+    "type": "专业媒体",
+    "note": "仅取得 URL；该稿将靶弹称为“中远程”。"
+   },
+   {
+    "publisher": "256today",
+    "title": "Missile Defense Agency ballistic missile intercept test in Guam called success",
+    "title_cn": "导弹防御局关岛弹道导弹拦截试验被称成功",
+    "author": "256today",
+    "date": "2024-12",
+    "url": "https://256today.com/missile-defense-agency-ballistic-missile-intercept-test-in-guam-called-success/",
+    "type": "其他",
+    "note": "转载稿，仅作线索；日期仅知2024年12月。"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:SM_3_Block_IIA_launched_from_the_Aegis_Ashore_Missile_Defense_Test_Complex_at_Hawaii.jpg",
+    "file_name": "SM_3_Block_IIA_launched_from_the_Aegis_Ashore_Missile_Defense_Test_Complex_at_Hawaii.jpg",
+    "desc_cn": "SM-3 Block IIA 从夏威夷考艾岛宙斯盾岸基导弹防御试验场发射（2018-12-10，同型导弹，非关岛）",
+    "date": "2018-12-10",
+    "credit": "美国导弹防御局（据检索摘要）",
+    "license": "未取得（须核验；美国联邦政府作品通常为公有领域）",
+    "verified": true,
+    "note": "同型导弹背景图，非本次关岛试验。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Aegis_Ballistic_Missile_Defense_System",
+    "file_name": "Category:Aegis Ballistic Missile Defense System",
+    "desc_cn": "宙斯盾弹道导弹防御系统分类页",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Missile_Defense_Agency",
+    "file_name": "Category:Missile Defense Agency",
+    "desc_cn": "导弹防御局分类页",
+    "date": "",
+    "credit": "各文件作者见分类页",
+    "license": "各文件分别核验",
+    "verified": true,
+    "note": "分类页，背景。"
+   }
+  ],
+  "image_leads": [
+   "未检索到本次关岛试验当日的Commons文件；MDA、DVIDS官方图片未在检索结果中出现图片页，不收。"
+  ],
+  "stats": {
+   "试验名": "Flight Experiment Mission-02（FEM-02）",
+   "拦截弹": "SM-3 Block IIA（RTX）",
+   "靶弹": "L3Harris MRBM Type 1 中程弹道导弹靶标",
+   "时间": "2024-12-10 约22:45（关岛当地）",
+   "IBCS": "未使用（MDA发言人）",
+   "计划": "未来十年每年最多2次飞行试验（MDA 2024年5月评估）"
+  }
+ }
+]

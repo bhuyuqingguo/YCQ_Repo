@@ -1,0 +1,2432 @@
+[
+ {
+  "case_key": "bs_novorossiysk_2023_08_04",
+  "category": "周边港口",
+  "title_cn": "无人艇远程奔袭新罗西斯克重创登陆舰",
+  "subtitle_cn": "2023年8月4日 新罗西斯克海军基地外“奥列涅戈尔斯基矿工”号大型登陆舰遭乌克兰无人艇袭击",
+  "date_start": "2023-08-04",
+  "date_end": "",
+  "location_cn": "俄罗斯克拉斯诺达尔边疆区新罗西斯克港及海军基地外（Novorossiysk）",
+  "lat": 44.7,
+  "lon": 37.8,
+  "region": "黑海",
+  "attacker": "乌克兰安全局（SBU）与乌克兰海军（据路透社援引乌方情报消息源；乌方未以官方名义认领）",
+  "defender": "俄罗斯海军黑海舰队新罗西斯克海军基地",
+  "outcome": "遭偷袭受损",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "自杀式无人艇（USV）2艘（俄国防部口径）；乌方消息源称命中艇携带约450千克TNT当量装药；分析人士估算航程约740千米。",
+  "defense_means_cn": "基地外警戒兵力火力拦截（俄国防部称2艘无人艇均在基地外被摧毁）；事后港口短暂暂停民用船舶进出。",
+  "narrative_cn": "2023年8月4日凌晨，俄罗斯黑海舰队驻新罗西斯克（Novorossiysk）的海军基地遭乌克兰无人艇袭击。俄罗斯国防部当日通报称，2艘乌克兰无人艇企图袭击新罗西斯克海军基地，在基地外被摧毁，未造成损失。同日，经路透社核实的社交媒体视频显示，黑海舰队大型登陆舰“奥列涅戈尔斯基矿工”号（Olenegorsky Gornyak）由拖船拖向岸边，舰体向左舷大角度倾斜。另一段据称由攻击无人艇拍摄的画面显示，该艇高速逼近登陆舰，在其左舷附近起爆后画面中断。\n\n一名乌克兰情报消息人士对路透社称，该舰被一艘携带450千克TNT的无人艇命中，舰体出现严重破口，目前无法执行作战任务；行动由乌克兰安全局（SBU）与乌克兰海军联合实施。乌方未以官方名义认领。报道称该舰当时约有100名舰员在舰，伤亡情况未检索到公开记录。乌克兰分析人士安德里·雷任科（Andriy Ryzhenko）估算，无人艇自可能的出发海域航行约740千米抵达目标。路透社评论称，这是乌克兰海军首次将作战力量投送到距本国海岸如此远的海域。\n\n袭击发生后，新罗西斯克港一度暂停民用船舶进出，随后恢复正常作业。同一天，俄方还通报在克里米亚上空击落13架乌方无人机。新罗西斯克此前被视为远离前线、相对安全的后方基地，此次事件是乌方水面无人艇首次在克里米亚以外的俄本土军港得手，此后新罗西斯克多次成为乌方空中、水面及水下打击的目标（见本组2025—2026年各案）。",
+  "defense_effect_cn": "俄方宣称2艘无人艇全部在基地外被摧毁，但经路透社核实的视频显示登陆舰严重倾斜并被拖带，说明至少1艘无人艇突入至可攻击距离。暴露的问题：一是基地外锚泊/驻泊舰艇缺乏有效的物理隔离（拦阻网、浮栅）；二是夜间对低矮高速小目标的探测和火力反应时间不足，主要依赖舰炮和轻武器临机拦截；三是袭击造成港口民船进出暂停，单次低成本攻击即带来商港运营代价。",
+  "claims_compare_cn": "俄国防部（8月4日）：2艘无人艇被摧毁，无损失。乌方情报消息源（8月4日，对路透社）：登陆舰被450千克装药命中，严重破口，丧失战斗力。独立证据：路透社核实的视频显示舰体严重左倾、被拖向岸边，与俄方“无损失”说法不符。乌方未正式认领，俄方未承认受损。",
+  "losses_cn": "俄方：大型登陆舰“奥列涅戈尔斯基矿工”号严重受损（视频与乌方口径），俄方未承认；人员伤亡未检索到公开记录。乌方：无人艇至少2艘损失（俄方口径）。经济：新罗西斯克港民船进出短暂中断。",
+  "analysis_cn": "本案的战术意义在于作战距离：水面无人艇以约740千米航程夜间抵近俄本土军港，命中锚泊大型舰艇。攻击方以单价远低于舰艇的无人艇换取一艘大型登陆舰较长时间退出现役，成本交换比明显有利于攻击方。对防御方而言，舰队离开克里米亚并不等于脱离威胁，港口外泊位与锚地需要拦阻设施、海面雷达/光电持续警戒和武装直升机等多层手段，单靠舰艇自身火力难以保证拦截率。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Al Arabiya English（阿拉伯卫视英文网）",
+    "title": "Ukrainian sea drone attack on Novorossiysk naval base damages Russian warship",
+    "title_cn": "乌克兰海上无人机袭击新罗西斯克海军基地致俄军舰受损",
+    "author": "Al Arabiya / Reuters",
+    "date": "2023-08-04",
+    "url": "https://english.alarabiya.net/News/world/2023/08/04/Ukrainian-sea-drone-attack-at-port-of-Novorossiysk-damaged-Russian-naval-vessel-",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Deccan Herald（转载路透社）",
+    "title": "Russian navy vessel damaged in drone attack: Ukraine source",
+    "title_cn": "乌方消息源：俄海军舰艇在无人机袭击中受损",
+    "author": "Reuters",
+    "date": "2023-08-04",
+    "url": "https://deccanherald.com/world/russian-navy-vessel-damaged-in-drone-attack-ukraine-source-1243703.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "gCaptain",
+    "title": "Ukrainian Drone Disables Russian Warship Near Russia's Novorossiysk Port",
+    "title_cn": "乌克兰无人机使新罗西斯克港附近俄军舰丧失战斗力",
+    "author": "gCaptain",
+    "date": "2023-08-04",
+    "url": "https://gcaptain.com/ukrainian-drone-disables-russian-warship-near-russias-novorossiysk-port",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "CBC News（加拿大广播公司）",
+    "title": "Ukraine-Russia Novorossiysk naval drone attack",
+    "title_cn": "新罗西斯克海上无人机袭击",
+    "author": "CBC News",
+    "date": "2023-08-04",
+    "url": "https://amp.cbc.ca/news/world/ukraine-russia-novorossisysk-naval-drone-attack-1.6928208",
+    "type": "其他"
+   },
+   {
+    "publisher": "Euromaidan Press（欧洲广场新闻）",
+    "title": "Maritime drones attack Russian naval base",
+    "title_cn": "海上无人机袭击俄海军基地",
+    "author": "Euromaidan Press",
+    "date": "2023-08-04",
+    "url": "https://euromaidanpress.com/2023/08/04/maritime-drones-attack-russian-naval-base/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Novaya Gazeta Europe（新报·欧洲版）",
+    "title": "Sea drones attempt attack on Russia's Novorossiysk, 13 UAVs downed in Crimea",
+    "title_cn": "海上无人机企图袭击新罗西斯克，克里米亚上空13架无人机被击落",
+    "author": "Novaya Gazeta Europe",
+    "date": "2023-08-04",
+    "url": "https://novayagazeta.eu/articles/2023/08/04/sea-drones-attempt-attack-on-russias-novorossiysk-13-uavs-downed-in-crimea-zelensky-says-russia-launched-almost-2000-shahed-drones-at-ukraine-since-war-began-en-news",
+    "type": "其他"
+   },
+   {
+    "publisher": "Ukrinform（乌克兰国家通讯社）",
+    "title": "Marine drones attack Russian naval base in Novorosiisk, warship allegedly damaged",
+    "title_cn": "海上无人机袭击新罗西斯克俄海军基地，据称一艘军舰受损",
+    "author": "Ukrinform",
+    "date": "2023-08-04",
+    "url": "https://ukrinform.net/rubric-ato/3744311-marine-drones-attack-russian-naval-base-in-novorosiisk-warship-allegedly-damaged.html",
+    "type": "通讯社"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://gcaptain.com/ukrainian-drone-disables-russian-warship-near-russias-novorossiysk-port",
+    "file_name": "",
+    "desc_cn": "报道内嵌社媒视频画面：受损的“奥列涅戈尔斯基矿工”号左倾、由拖船拖带（视频经路透社核实；非Commons文件，版权归原发布者）",
+    "date": "2023-08-04",
+    "credit": "社交媒体视频（经路透社核实）",
+    "license": "版权未明",
+    "verified": false
+   },
+   {
+    "file_page": "https://euromaidanpress.com/2023/08/04/maritime-drones-attack-russian-naval-base/",
+    "file_name": "",
+    "desc_cn": "报道内嵌攻击无人艇第一视角画面（据称）",
+    "date": "2023-08-04",
+    "credit": "乌方发布/社交媒体",
+    "license": "版权未明",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B4%D0%B5%D1%81%D0%B0%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0_775_%C2%AB%D0%9E%D0%BB%D0%B5%D0%BD%D0%B5%D0%B3%D0%BE%CC%81%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%80%D0%BD%D1%8F%CC%81%D0%BA%C2%BB_2H1A7688WI.jpg",
+    "file_name": "Большой десантный корабль проекта 775 «Оленего́рский горня́к» 2H1A7688WI.jpg",
+    "desc_cn": "775型大型登陆舰“奥列涅戈尔斯基矿工”号舰影（非事发影像；拍摄时间待核，检索摘要称其所在分类收有2021年圣彼得堡海军节阅兵预演照片）。所属分类：Category:Olenegorskiy Gornyak (ship, 1975)",
+    "date": "",
+    "credit": "",
+    "license": "",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Novorossiysk_port_2022.jpg",
+    "file_name": "Novorossiysk port 2022.jpg",
+    "desc_cn": "新罗西斯克港全景（作港区背景图，非事发影像）。相关分类：Category:Port of Novorossiysk、Category:Novorossiysk naval base、Category:Tsemes Bay",
+    "date": "2022（据文件名）",
+    "credit": "",
+    "license": "",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "来袭无人艇": "2艘（俄国防部口径）",
+   "装药": "约450千克TNT（乌方消息源）",
+   "估算航程": "约740千米（分析人士）",
+   "在舰人员": "约100人（报道）"
+  }
+ },
+ {
+  "case_key": "bs_rus_port_defense_2023_2026",
+  "category": "周边港口",
+  "title_cn": "俄黑海港口防御：高拦截宣称难护港内舰",
+  "subtitle_cn": "2023—2026年 俄罗斯黑海舰队港口/基地防御措施与拦截口径综述（舰队东撤新罗西斯克、防空与反潜、损害控制）",
+  "date_start": "2023-08-04",
+  "date_end": "2026-08-12",
+  "location_cn": "克里米亚塞瓦斯托波尔、费奥多西亚、刻赤及俄罗斯新罗西斯克等港口",
+  "lat": 44.7,
+  "lon": 37.8,
+  "region": "黑海",
+  "attacker": "乌克兰国防军、乌克兰安全局（SBU）、乌克兰国防部情报总局（HUR）、乌克兰无人系统部队",
+  "defender": "俄罗斯海军黑海舰队、俄空天军防空部队、港口运营方",
+  "outcome": "部分拦截",
+  "domains": [
+   "空中",
+   "水面",
+   "水下"
+  ],
+  "patterns": [
+   "异构",
+   "集群",
+   "饱和"
+  ],
+  "attack_means_cn": "空射巡航导弹（“风暴阴影/SCALP”）、ATACMS弹道导弹、“海王星”导弹、远程无人机、“帕利亚尼察”喷气无人机、水面无人艇、“水下海宝宝”无人潜航器（详见各分案）。",
+  "defense_means_cn": "区域防空（含S-300、S-400）；舰载防空；巡逻舰火力拦截无人艇；伊尔-38N反潜巡逻机水下探测；舰队主力东撤新罗西斯克；能源设施自动关断与人员疏散。港口拦阻网、浮栅、沉驳堵口及阿布哈兹奥恰姆奇雷建点见“浮栅、沉驳与新建点：俄港口被动防御”一案；武装直升机巡逻仍未检索核实。",
+  "narrative_cn": "本案综合本组各分案中可检索核实的俄方防御措施与拦截口径。\n\n一、拦截口径。俄方在多次港口遇袭后公布了较高的拦截数字：2023年8月4日新罗西斯克，称2艘无人艇全部在基地外被摧毁；9月13日塞瓦斯托波尔船坞，称10枚巡航导弹中击落7枚，3艘无人艇被巡逻舰摧毁；9月22日舰队司令部，称击落5枚导弹；11月4日刻赤“扎利夫”船厂，称15枚中击落13枚；12月26日费奥多西亚，称击落2架发射导弹的苏-24（乌方否认）；2024年5月19日塞瓦斯托波尔，俄方Telegram频道称12枚ATACMS中击落9枚。上述每一次，乌方目标舰艇或设施仍被命中，其中多次经卫星图像或经核实视频证实。\n\n二、舰队后撤。英国国防部在2023年11月“阿斯科尔德”号遇袭后评估，俄方可能考虑将造船设施迁往距前线更远处；2024年8月“顿河畔罗斯托夫”号沉没后评估，黑海舰队在克里米亚驻泊风险进一步上升。2024年5月“旋风”号被毁后，乌海军发言人称克里米亚已无俄方可发射“口径”的水面战斗舰。舰队随后集中于新罗西斯克。《欧洲广场新闻》2026年8月13日评论称，俄方为求安全将舰队撤至新罗西斯克，乌方则在那里以15类武器同时打击。\n\n三、新罗西斯克的防御。2025—2026年，新罗西斯克多次遇袭：2025年11月乌方称命中S-400发射装置；2025年12月SBU称先击毁叶伊斯克机场的伊尔-38N反潜机，再以无人潜航器突入潜艇泊位；2026年4月6日“马卡罗夫海军上将”号发射防空导弹仍被无人机命中；2026年8月12日乌方称命中S-300系统30N6E雷达，至少4艘水面舰受损。CPC码头遇袭时，管道自动关断系统避免了原油泄漏，人员疏散避免了伤亡。\n\n四、防御外延。本组第二轮补充了舰队东撤之外的情况：2024年11月6日乌方无人机首次袭击里海区舰队卡斯皮斯克基地；2024年1月起乌斯季卢加、普里莫尔斯克等波罗的海能源港相继遇袭；2024年8月高加索港铁路渡轮被击沉。俄方需要防护的港口范围已从克里米亚扩展到里海和波罗的海沿岸（见各分案）。",
+  "defense_effect_cn": "从可核实结果看，俄方防御在“数量拦截”上宣称成绩较高（按俄方口径单次约70%—87%），但对静止的高价值港内目标而言，漏网的2—3枚导弹或1艘无人艇即足以造成舰艇被毁或长期停用。舰队东撤新罗西斯克推迟但未消除威胁：随着乌方远程无人机、喷气无人机、导弹和水下平台的发展，新罗西斯克在2025—2026年成为新的打击中心。防空传感器（S-300/S-400）与反潜探测平台（伊尔-38N）本身成为优先打击目标，暴露出防御体系的单点依赖。能源设施层面的损害控制（自动关断、疏散）较为有效。",
+  "claims_compare_cn": "俄方：历次公布较高拦截率，多数情况下仅承认“受损”或不予置评（如2024年8月潜艇、2024年5月“旋风”号）。乌方：历次宣称命中，部分首报存在偏差（“科夫罗韦茨”号未证实；司令部“34人死亡”被俄方视频反驳；4月6日首报舰名有误）。独立证据（卫星图、核实视频）多数情况下支持“目标被命中”，而对“击沉/摧毁”程度的支持因案而异。",
+  "losses_cn": "见各分案。按本组可核实口径，2023—2026年俄黑海舰队在港内被击中的舰艇包括大型登陆舰（“奥列涅戈尔斯基矿工”“明斯克”“新切尔卡斯克”“亚马尔”“亚速”“奥尔尚斯基”）、潜艇（“顿河畔罗斯托夫”及2025年12月新罗西斯克“基洛”级1艘）、导弹舰（“阿斯科尔德”“旋风”、“暴徒-M”1艘）、护卫舰（“埃森海军上将”“马卡罗夫海军上将”）、巡逻舰“瓦西里·贝科夫”、侦察船“伊万·胡尔斯”等，具体程度口径不一。",
+  "analysis_cn": "俄方港口防御的核心矛盾在于：防空体系按“拦截数量”设计，而攻击方追求的是对少数静止高价值目标的“必中”。在敌方远程火力覆盖内，舰艇停泊于固定港口即处于可预测位置，提高拦截率的边际收益递减。舰队后撤是以空间换时间，其有效期取决于对手远程打击手段的发展速度；本组案例显示该期限约为一至两年。对任何依托港口驻泊的舰队而言，被动防护（拦阻、遮蔽、分散）与传感器冗余，可能比单纯增加拦截弹更有效。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Euromaidan Press（欧洲广场新闻）",
+    "title": "Russia pulled its fleet back to Novorossiysk to keep it safe. Ukraine hit it there with 15 kinds of weapons at once",
+    "title_cn": "俄方将舰队撤至新罗西斯克以求安全，乌方以15类武器同时打击",
+    "author": "Euromaidan Press",
+    "date": "2026-08-13",
+    "url": "https://euromaidanpress.com/2026/08/13/russia-pulled-its-fleet-back-to-novorossiysk-to-keep-it-safe-ukraine-hit-it-there-with-15-kinds-of-weapons-at-once/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Espreso Global",
+    "title": "British intelligence assesses consequences for Russia of Ukraine's strike on Askold ship in Kerch",
+    "title_cn": "英国情报评估乌打击刻赤“阿斯科尔德”号对俄影响",
+    "author": "Espreso（援引英国国防部）",
+    "date": "2023-11（具体日未核）",
+    "url": "https://global.espreso.tv/british-intelligence-assesses-consequences-for-russia-of-ukraines-strike-on-askold-ship-in-kerch",
+    "type": "其他"
+   },
+   {
+    "publisher": "Rubryka",
+    "title": "Rostov-on-Don submarine sinking heightens risks for Russian fleet in Crimea – British intelligence",
+    "title_cn": "英国情报：“顿河畔罗斯托夫”号沉没加大俄舰队在克里米亚的风险",
+    "author": "Rubryka（援引英国国防部）",
+    "date": "2024-08-07",
+    "url": "https://rubryka.com/en/2024/08/07/u-brytanskij-rozvidtsi-vvazhayut-shho-potoplennya-submaryny-rostov-na-donu-zbilshuye-ryzyky-dlya-flotu-rf-u-krymu",
+    "type": "其他"
+   },
+   {
+    "publisher": "Novaya Gazeta Europe（新报·欧洲版）",
+    "title": "Ukrainian military sinks Black Sea Fleet's sole remaining corvette capable of firing cruise missiles",
+    "title_cn": "乌军击沉黑海舰队仅存的可发射巡航导弹的轻型舰",
+    "author": "Novaya Gazeta Europe",
+    "date": "2024-05-21",
+    "url": "https://novayagazeta.eu/en/articles/2024/05/21/ukrainian-military-sinks-black-sea-fleets-sole-remaining-corvette-capable-of-firing-cruise-missiles-en-news",
+    "type": "其他"
+   },
+   {
+    "publisher": "Kyiv Post（基辅邮报）",
+    "title": "Ukraine Unveils Details of Unprecedented Novorossiysk Underwater Drone Strike",
+    "title_cn": "乌克兰披露新罗西斯克水下无人机打击细节",
+    "author": "Kyiv Post",
+    "date": "2025-12-23（推定）",
+    "url": "https://www.kyivpost.com/post/66839",
+    "type": "其他"
+   },
+   {
+    "publisher": "VOA（美国之音，经GlobalSecurity转载）",
+    "title": "Russia Says Ukraine Missile Attack Hits Sevastopol Shipyard",
+    "title_cn": "俄方称乌导弹袭击命中塞瓦斯托波尔船厂",
+    "author": "VOA",
+    "date": "2023-09-13",
+    "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2023/09/ukraine-230913-voa01.htm",
+    "type": "其他"
+   },
+   {
+    "publisher": "Militarnyi",
+    "title": "The Ministry of Defense of the Russian Federation admits the Ukrainian missile hit the warship in kerch",
+    "title_cn": "俄国防部承认乌导弹命中刻赤军舰",
+    "author": "Militarnyi",
+    "date": "2023-11-04（推定）",
+    "url": "https://mil.in.ua/en/news/the-ministry-of-defense-of-the-russian-federation-admits-the-ukrainian-missile-hit-the-warship-in-kerch",
+    "type": "其他"
+   },
+   {
+    "publisher": "Ukrainska Pravda（乌克兰真理报）",
+    "title": "Oil terminal in Russia's Novorossiysk halts operations after sea drone attack",
+    "title_cn": "俄新罗西斯克石油码头遭海上无人机袭击后停运",
+    "author": "Ukrainska Pravda",
+    "date": "2025-11-29",
+    "url": "https://www.pravda.com.ua/eng/news/2025/11/29/8009546",
+    "type": "其他"
+   },
+   {
+    "publisher": "Qatar Tribune（卡塔尔论坛报，转载德新社）",
+    "title": "Ukraine strikes Russian port of Novorossiysk",
+    "title_cn": "乌克兰打击俄新罗西斯克港",
+    "author": "dpa（德新社）",
+    "date": "2026-08-13（推定，据配图日期）",
+    "url": "https://www.qatar-tribune.com/article/248572/world/ukraine-strikes-russian-port-of-novorossiysk",
+    "type": "通讯社"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Soviet_and_Russian_Black_Sea_Fleet.jpg",
+    "file_name": "Soviet and Russian Black Sea Fleet.jpg",
+    "desc_cn": "黑海舰队舰艇图片（具体内容、拍摄地点与时间待核；检索摘要提及一则2007年图片说明列出“莫斯科”号巡洋舰及“新切尔卡斯克”号等登陆舰，未能确认即为本文件）",
+    "date": "",
+    "credit": "",
+    "license": "",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "俄方宣称单次拦截率": "约70%（2023-09-13，7/10）至约87%（2023-11-04，13/15）（俄方口径）",
+   "ATACMS拦截": "9/12（2024-05-19，俄方Telegram频道口径）",
+   "本组港内被击舰艇": "约19艘次（乌方及开源口径汇总，含未证实的“科夫罗韦茨”号，程度不一）",
+   "2026-08-12俄方宣称拦截": "502架无人机（当夜全境总数，俄国防部口径）"
+  }
+ },
+ {
+  "case_key": "bs_sevastopol_2023_09_13",
+  "category": "周边港口",
+  "title_cn": "巡航导弹夜袭塞港船坞毁两艘在修舰艇",
+  "subtitle_cn": "2023年9月13日 塞瓦斯托波尔北方造船厂（Sevmorzavod）干船坞内“明斯克”号登陆舰与“顿河畔罗斯托夫”号潜艇遭导弹及无人艇打击",
+  "date_start": "2023-09-13",
+  "date_end": "",
+  "location_cn": "克里米亚塞瓦斯托波尔，北方造船厂/奥尔忠尼启则船厂干船坞（Sevmorzavod / Ordzhonikidze shipyard, Sevastopol）",
+  "lat": 44.615,
+  "lon": 33.54,
+  "region": "黑海",
+  "attacker": "乌克兰空军（据报以苏-24挂载“风暴阴影/SCALP-EG”巡航导弹；乌方未正式确认弹型），乌克兰国防部情报总局（HUR）对外确认命中",
+  "defender": "俄罗斯海军黑海舰队、塞瓦斯托波尔防空体系",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "空中",
+   "水面"
+  ],
+  "patterns": [
+   "异构",
+   "饱和",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "巡航导弹10枚+无人艇3艘（俄国防部口径）；英国天空新闻援引未具名西方及乌方消息源称使用英制“风暴阴影”巡航导弹。",
+  "defense_means_cn": "防空系统拦截（俄方称击落7枚导弹）；巡逻舰拦截无人艇（俄方称3艘无人艇被巡逻舰摧毁）；船坞内舰艇无机动和隐蔽条件。",
+  "narrative_cn": "2023年9月13日凌晨，塞瓦斯托波尔北方造船厂（Sevmorzavod，又称奥尔忠尼启则船厂）遭乌克兰导弹打击。俄罗斯国防部通报称，乌方以10枚巡航导弹和3艘无人艇实施攻击，防空兵器击落其中7枚导弹，3艘无人艇被一艘巡逻舰摧毁；袭击造成2艘在修舰艇受损，俄方称两舰将完全修复并继续服役。塞瓦斯托波尔俄方任命的行政长官米哈伊尔·拉兹沃扎耶夫（Mikhail Razvozhayev）在Telegram称，船厂起火，24人受伤。\n\n两艘受损舰艇分别为大型登陆舰“明斯克”号（Minsk）和“基洛”级（Kilo）潜艇“顿河畔罗斯托夫”号（Rostov-on-Don，B-237），均位于干船坞内修理。乌克兰国防部情报总局代表安德里·尤索夫（Andriy Yusov）对路透社表示：“我们确认一艘大型登陆舰和一艘潜艇被命中”，并称两舰很可能无法修复，但拒绝透露所用武器。乌方罕见地公开认领了此次打击。英国天空新闻援引未具名消息源称，乌方使用了英国提供的“风暴阴影”巡航导弹；CNN称无法独立核实。\n\n英国国防部依据开源影像判断，“明斯克”号“几乎可以肯定已在功能上被摧毁”，潜艇很可能遭受灾难性损伤，修复需要多年、耗资数亿美元，清理残骸可能使干船坞数月无法使用。荷兰开源情报组织Oryx根据影像判定“明斯克”号被摧毁而非仅受损。Naval News依据“冲突情报小组”（CIT）提供的照片判断潜艇“很可能全损”，认为俄方修复说法不现实。“顿河畔罗斯托夫”号是黑海舰队4艘可发射“口径”巡航导弹的潜艇之一。\n\n后续：2023年10月31日的影像显示“明斯克”号舰体已被移出船坞（上层建筑被毁后拆解），潜艇仍留坞内；2024年6月1日，拖船将潜艇从船坞移至黑海舰队第13修船厂。该艇此后于2024年8月2日再次被击（见本组相关案例）。",
+  "defense_effect_cn": "按俄方口径拦截率为7/10，但剩余导弹即命中两艘坞内舰艇，说明对高价值固定目标而言，较高拦截率仍不足以避免重大损失。干船坞内舰艇无法机动、无法实施烟幕以外的伪装，且两座船坞相邻，单次打击即造成两艘主战舰艇退出。俄方称以巡逻舰摧毁3艘无人艇，表明本次为导弹与无人艇的协同攻击，但未阻止导弹命中。船坞本身受损也影响黑海舰队在克里米亚的修理能力。",
+  "claims_compare_cn": "俄国防部（9月13日）：10枚导弹中7枚被击落，3艘无人艇被摧毁，2艘在修舰受损、将完全修复。拉兹沃扎耶夫：24人受伤。乌方HUR尤索夫（9月13日）：确认命中大型登陆舰和潜艇，很可能无法修复。英国国防部（9月15日前后）：“明斯克”号几乎肯定功能性摧毁。Oryx、Naval News依影像判断两舰严重损毁。分歧集中在“受损可修”与“摧毁”之间，后续影像（“明斯克”号被拆解）更支持后者。",
+  "losses_cn": "俄方：“明斯克”号大型登陆舰功能性摧毁（英国防部、Oryx口径；俄方称可修复）；“顿河畔罗斯托夫”号潜艇严重受损；船厂起火，24人受伤（俄方口径）；干船坞受损。乌方：俄方称3艘无人艇被摧毁、7枚导弹被击落。",
+  "analysis_cn": "本案是乌方对克里米亚修船设施的首次重大精确打击，选择在船坞内静止目标上集中使用防区外巡航导弹，规避了对机动舰艇的目标指示难题。导弹与无人艇同时来袭，分散了防御注意力。对防御方的启示：修船设施是舰队维持能力的瓶颈，船坞内舰艇是最易命中的高价值目标；在敌方远程精确火力覆盖范围内保留修理设施，需要配置更密集的近程防空和物理遮蔽，或将修理任务后撤。英方评估中的“船坞数月不可用”是比单舰损失更持久的代价。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Daily Maverick（转载路透社）",
+    "title": "Ukraine says it hit Russian naval targets in attack on Crimea",
+    "title_cn": "乌克兰称在袭击克里米亚中命中俄海军目标",
+    "author": "Reuters",
+    "date": "2023-09-13",
+    "url": "https://www.dailymaverick.co.za/article/2023-09-13-ukraine-says-it-hit-russian-naval-targets-in-attack-on-crimea/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "VOA（美国之音，经GlobalSecurity转载）",
+    "title": "Russia Says Ukraine Missile Attack Hits Sevastopol Shipyard",
+    "title_cn": "俄方称乌导弹袭击命中塞瓦斯托波尔船厂",
+    "author": "VOA",
+    "date": "2023-09-13",
+    "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2023/09/ukraine-230913-voa01.htm",
+    "type": "其他"
+   },
+   {
+    "publisher": "CNN",
+    "title": "Crimea missile attack: Ukraine-Russia",
+    "title_cn": "克里米亚导弹袭击",
+    "author": "CNN",
+    "date": "2023-09-13",
+    "url": "https://amp.cnn.com/cnn/2023/09/13/europe/crimea-missile-attack-ukraine-russia-intl",
+    "type": "其他"
+   },
+   {
+    "publisher": "CKPG Today（转载美联社）",
+    "title": "A Crimean shipyard is on fire after a Ukrainian attack with 2 ships damaged and 24 people injured",
+    "title_cn": "乌袭击后克里米亚船厂起火，2艘舰受损、24人受伤",
+    "author": "Associated Press",
+    "date": "2023-09-13",
+    "url": "https://ckpgtoday.ca/?p=392634",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Naval News",
+    "title": "Russian Submarine Hit By Missile, Rostov-on-Don, Gone",
+    "title_cn": "被导弹击中的俄潜艇“顿河畔罗斯托夫”号已报废",
+    "author": "Naval News",
+    "date": "2023-09（具体日未核）",
+    "url": "https://www.navalnews.com/naval-news/2023/09/russian-submarine-hit-by-missile-rostov-on-don-gone/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Euromaidan Press（欧洲广场新闻）",
+    "title": "British intel: Sevastopol missile strikes deal major blow to Russia's Black Sea fleet",
+    "title_cn": "英国情报：塞瓦斯托波尔导弹打击重创俄黑海舰队",
+    "author": "Euromaidan Press（援引英国国防部）",
+    "date": "2023-09-15",
+    "url": "https://euromaidanpress.com/2023/09/15/british-intel-sevastopol-missile-strikes-deal-major-blow-to-russias-black-sea-fleet/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Euromaidan Press（欧洲广场新闻）",
+    "title": "Oryx: Russian warship Minsk destroyed, not merely damaged",
+    "title_cn": "Oryx：俄舰“明斯克”号被摧毁而非仅受损",
+    "author": "Euromaidan Press（援引Oryx）",
+    "date": "2023-09-13",
+    "url": "https://euromaidanpress.com/2023/09/13/oryx-russian-warship-minsk-destroyed-not-merely-damaged/",
+    "type": "OSINT"
+   },
+   {
+    "publisher": "Ukrainska Pravda（乌克兰真理报）",
+    "title": "Satellite images show aftermath of Ukrainian attack on Sevastopol Bay",
+    "title_cn": "卫星图像显示乌方袭击塞瓦斯托波尔湾后的情况",
+    "author": "Ukrainska Pravda",
+    "date": "2023-09-13",
+    "url": "https://www.pravda.com.ua/eng/news/2023/09/13/7419676",
+    "type": "其他"
+   },
+   {
+    "publisher": "Militarnyi",
+    "title": "OSINT researcher releases photo of damaged Russian ship Minsk",
+    "title_cn": "开源情报研究者发布受损俄舰“明斯克”号照片",
+    "author": "Militarnyi（援引MT Anderson）",
+    "date": "2023-11（具体日未核）",
+    "url": "https://mil.in.ua/en/news/osint-researcher-releases-photo-of-damaged-russian-ship-minsk",
+    "type": "OSINT"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://www.pravda.com.ua/eng/news/2023/09/13/7419676",
+    "file_name": "",
+    "desc_cn": "卫星图像：塞瓦斯托波尔湾北方造船厂干船坞遭袭后情况（报道内嵌，原图提供方见报道）",
+    "date": "2023-09-13",
+    "credit": "商业卫星（提供方待核）",
+    "license": "版权未明",
+    "verified": false
+   },
+   {
+    "file_page": "https://www.navalnews.com/naval-news/2023/09/russian-submarine-hit-by-missile-rostov-on-don-gone/",
+    "file_name": "",
+    "desc_cn": "冲突情报小组（CIT）提供的坞内受损潜艇照片（Naval News称已核验未打码原图）",
+    "date": "2023-09",
+    "credit": "Conflict Intelligence Team / Naval News",
+    "license": "版权未明",
+    "verified": false
+   },
+   {
+    "file_page": "https://mil.in.ua/en/news/osint-researcher-releases-photo-of-damaged-russian-ship-minsk",
+    "file_name": "",
+    "desc_cn": "2023年10月31日影像：“明斯克”号舰体已移出船坞、潜艇仍在坞内（MT Anderson发布）",
+    "date": "2023-10-31",
+    "credit": "MT Anderson（OSINT）",
+    "license": "版权未明",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:%C2%AB%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%C2%BB.jpg",
+    "file_name": "«Ростов-на-Дону».jpg",
+    "desc_cn": "636.3型潜艇“顿河畔罗斯托夫”号（B-237）舰影（非事发影像；拍摄时间待核）。所属分类：Category:B-237 Rostov-na-Donu (submarine, 2014)",
+    "date": "",
+    "credit": "",
+    "license": "",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "来袭导弹": "10枚（俄国防部口径）",
+   "俄称拦截导弹": "7枚",
+   "来袭无人艇": "3艘（俄国防部口径，称全部被摧毁）",
+   "受伤人数": "24人（俄方口径）",
+   "受损舰艇": "2艘（登陆舰1、潜艇1）"
+  }
+ },
+ {
+  "case_key": "bs_sevastopol_hq_2023_09_22",
+  "category": "周边港口",
+  "title_cn": "导弹击中黑海舰队司令部，伤亡说法悬殊",
+  "subtitle_cn": "2023年9月22日 塞瓦斯托波尔俄黑海舰队司令部大楼遭乌克兰巡航导弹打击",
+  "date_start": "2023-09-22",
+  "date_end": "2023-09-26",
+  "location_cn": "克里米亚塞瓦斯托波尔，俄罗斯黑海舰队司令部（Black Sea Fleet HQ, Sevastopol）",
+  "lat": 44.616,
+  "lon": 33.526,
+  "region": "黑海",
+  "attacker": "乌克兰空军（空军司令奥列什丘克公开致谢飞行员），乌克兰特种作战部队（SSO）对外发布战果",
+  "defender": "俄罗斯黑海舰队、塞瓦斯托波尔防空体系",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "空射巡航导弹（英国天空新闻援引乌空军代表称为“风暴阴影”；BBC分析认为可能是“风暴阴影”或乌制“海王星”）；乌特种作战部队称为两阶段空中打击。俄方称来袭导弹数量各报道在5—10枚之间。",
+  "defense_means_cn": "防空系统拦截（俄国防部称击落5枚导弹）；事后消防灭火。",
+  "narrative_cn": "2023年9月22日，塞瓦斯托波尔市中心的俄罗斯黑海舰队司令部大楼遭导弹命中。俄方任命的塞瓦斯托波尔行政长官拉兹沃扎耶夫在Telegram证实舰队司令部被击中，并持续通报灭火进展。Planet Labs当日卫星图像显示城市上空升起浓烟；现场照片显示大楼屋顶及至少一层上部楼层被毁。俄罗斯国防部称防空系统击落5枚导弹，起初通报1名军人死亡，随后更正为失踪；其他报道中俄方口径的被拦截导弹数在5至10枚之间。\n\n乌方方面，空军司令米科拉·奥列什丘克（Mykola Oleshchuk）公开感谢参战飞行员，并称这不会是最后一次。英国天空新闻援引乌空军代表称使用了“风暴阴影”巡航导弹；乌克兰国防部情报总局局长布达诺夫（Kyrylo Budanov）拒绝回答是否使用西方武器；BBC分析认为可能是“风暴阴影”或乌制“海王星”。乌克兰特种作战部队（SSO）9月23日发布声明，称打击发生在舰队指挥人员开会期间（行动代号被媒体称作“捕蟹笼”），造成数十名占领者伤亡，包括舰队高级领导。此后SSO进一步发表声明称袭击造成34名军官死亡，并暗示黑海舰队司令维克托·索科洛夫（Viktor Sokolov）在内，但未点名、未提供证据。\n\n9月26日，俄罗斯国防部发布视频，显示一名胸前名牌为“索科洛夫·V·N”、屏幕标注“黑海舰队”字样的军官参加国防部长绍伊古主持的视频会议。CNN称无法确认视频拍摄时间与人物身份。乌方随后表示正在“核实信息”，并称其说法来自“公开来源”。至检索截止，未见独立来源证实索科洛夫死亡或乌方所称34人死亡数字。",
+  "defense_effect_cn": "俄方宣称拦截5枚导弹，但司令部大楼仍被命中且严重损毁，说明塞瓦斯托波尔城区核心目标未能获得有效防空掩护。舰队指挥机关长期设于前沿城市固定建筑内，坐标公开、结构不具备抗精确打击能力，是本次暴露的主要问题。另一方面，乌方宣传的“斩首”效果未得到证实，俄方以视频反驳，显示打击对指挥体系的实际影响存在较大不确定性。",
+  "claims_compare_cn": "俄国防部（9月22日）：击落5枚导弹，1名军人死亡后改为失踪。乌SSO（9月23日）：会议期间命中，数十人伤亡；（随后声明）：34名军官死亡，暗示含舰队司令。俄国防部（9月26日）：发布索科洛夫出席视频会议画面。乌方（9月26日）：正在核实。拉兹沃扎耶夫：确认起火。各方仅在“大楼被命中、起火”上一致，伤亡数字相差悬殊。",
+  "losses_cn": "俄方：黑海舰队司令部大楼屋顶及上部楼层被毁（影像）；人员伤亡：俄方称1名军人失踪；乌方称34名军官死亡（乌方口径，无独立证实）。乌方：俄方称5枚导弹被击落。",
+  "analysis_cn": "本案目标为固定指挥设施而非舰艇，乌方事后宣称打击针对会议时段，意在放大指挥层面效果。从可核实结果看，打击达成了物理摧毁，但人员杀伤说法因俄方视频而存疑，乌方信息战口径前后调整。对防御方的启示：前沿港口城市内的舰队指挥机关应分散、地下化或后撤；对攻击方而言，“斩首”类战果宣传若缺乏证据，易被对手以影像反驳，损害后续通报可信度。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Meduza（美杜莎）",
+    "title": "Ukraine strikes Russian Black Sea Fleet headquarters in Crimea",
+    "title_cn": "乌克兰打击克里米亚俄黑海舰队司令部",
+    "author": "Meduza",
+    "date": "2023-09-22",
+    "url": "https://meduza.io/en/feature/2023/09/22/ukraine-strikes-russian-black-sea-fleet-headquarters-in-crimea",
+    "type": "其他"
+   },
+   {
+    "publisher": "Meduza（美杜莎）",
+    "title": "What we know so far about Ukraine's attack on Russia's Black Sea Fleet headquarters",
+    "title_cn": "乌克兰袭击俄黑海舰队司令部：目前已知情况",
+    "author": "Meduza",
+    "date": "2023-09-23",
+    "url": "https://meduza.io/en/feature/2023/09/23/what-we-know-so-far-about-ukraine-s-attack-on-russia-s-black-sea-fleet-headquarters",
+    "type": "其他"
+   },
+   {
+    "publisher": "Ukrainska Pravda（乌克兰真理报）",
+    "title": "\"Crab trap\": Special Operations Forces strike Black Sea Fleet HQ during commanders' meeting",
+    "title_cn": "“捕蟹笼”：特种作战部队在指挥官会议期间打击黑海舰队司令部",
+    "author": "Ukrainska Pravda（援引乌SSO）",
+    "date": "2023-09-23",
+    "url": "https://pravda.com.ua/eng/news/2023/09/23/7421073",
+    "type": "其他"
+   },
+   {
+    "publisher": "Euromaidan Press（欧洲广场新闻）",
+    "title": "Ukraine strikes Russian Black Sea fleet HQ in occupied Crimea",
+    "title_cn": "乌克兰打击被占克里米亚的俄黑海舰队司令部",
+    "author": "Euromaidan Press",
+    "date": "2023-09-22",
+    "url": "https://euromaidanpress.com/2023/09/22/ukraine-strikes-russian-black-sea-fleet-hq-in-occupied-crimea/",
+    "type": "其他"
+   },
+   {
+    "publisher": "News On 6（转载美联社）",
+    "title": "Russia Says Ukrainian Missiles Hit Key Navy Base In Occupied Crimea",
+    "title_cn": "俄方称乌导弹命中被占克里米亚关键海军基地",
+    "author": "Associated Press",
+    "date": "2023-09-22",
+    "url": "https://www.newson6.com/story/650d8602f030aa077d722958/white",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "The Star（肯尼亚星报，转载通讯社）",
+    "title": "Russia shows video to prove top commander is alive",
+    "title_cn": "俄方发布视频证明高级指挥官仍在世",
+    "author": "通讯社稿",
+    "date": "2023-09-26",
+    "url": "https://www.the-star.co.ke/news/world/2023-09-26-russia-shows-video-to-prove-top-commander-is-alive",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "KTVZ（转载CNN）",
+    "title": "Ukraine clarifying whether Russian commander was killed in strike after video purportedly shows him alive",
+    "title_cn": "视频疑显示俄指挥官在世后，乌方正核实其是否在袭击中死亡",
+    "author": "CNN",
+    "date": "2023-09-26",
+    "url": "https://ktvz.com/news/national-world/cnn-world/2023/09/26/ukraine-clarifying-whether-russian-commander-was-killed-in-strike-after-video-purportedly-shows-him-alive/",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://meduza.io/en/feature/2023/09/23/what-we-know-so-far-about-ukraine-s-attack-on-russia-s-black-sea-fleet-headquarters",
+    "file_name": "",
+    "desc_cn": "Planet Labs卫星图像：2023年9月22日塞瓦斯托波尔司令部遭袭后城区上空浓烟（检索摘要提及，具体刊载页待核）",
+    "date": "2023-09-22",
+    "credit": "Planet Labs",
+    "license": "版权未明",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Project_11451_MPK-220_Vladimirets_in_Sewastopol_2010.jpg",
+    "file_name": "Project 11451 MPK-220 Vladimirets in Sewastopol 2010.jpg",
+    "desc_cn": "塞瓦斯托波尔南湾内的小型反潜舰MPK-220“弗拉基米雷茨”号，作塞瓦斯托波尔港区/黑海舰队驻地背景图（非事发影像）",
+    "date": "2010（据文件名）",
+    "credit": "",
+    "license": "",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "俄称击落导弹": "5枚（俄国防部；其他报道5—10枚不等）",
+   "俄方人员损失": "1名军人失踪（俄国防部更正后口径）",
+   "乌方宣称死亡": "34名军官（乌SSO，未证实）"
+  }
+ },
+ {
+  "case_key": "bs_kerch_zaliv_2023_11_04",
+  "category": "周边港口",
+  "title_cn": "刻赤船厂在建“口径”导弹舰遭巡航导弹命中",
+  "subtitle_cn": "2023年11月4日 刻赤“扎利夫”造船厂码头“阿斯科尔德”号22800型导弹舰遭乌克兰空射巡航导弹打击",
+  "date_start": "2023-11-04",
+  "date_end": "",
+  "location_cn": "克里米亚刻赤，“扎利夫”造船厂（Zaliv Shipyard, Kerch）",
+  "lat": 45.31,
+  "lon": 36.44,
+  "region": "黑海",
+  "attacker": "乌克兰空军（空军司令奥列什丘克暗示使用法制SCALP巡航导弹）",
+  "defender": "俄罗斯黑海舰队、刻赤地区防空体系、“扎利夫”造船厂",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "饱和"
+  ],
+  "attack_means_cn": "空射巡航导弹15枚（俄国防部口径），乌方暗示为SCALP-EG。",
+  "defense_means_cn": "防空系统拦截（俄国防部称击落13枚）。",
+  "narrative_cn": "2023年11月4日，克里米亚刻赤“扎利夫”造船厂遭导弹打击。俄罗斯国防部当晚通报，乌方向该船厂发射15枚巡航导弹，防空兵器击落13枚，至少2枚命中一艘舰艇和船厂设施；俄方未提供拦截证据。乌克兰空军司令奥列什丘克随后发布画面，称命中一艘携带“口径”导弹的舰艇，并暗示使用了法制SCALP巡航导弹。乌克兰军方随后确认受损舰艇为22800型（“暴风”级，Karakurt）小型导弹舰“阿斯科尔德”号（Askold）。\n\n“阿斯科尔德”号为该型中较新的一艘，最多可携带8枚“口径”巡航导弹，具备对乌克兰境内目标实施远程打击的能力。报道称该舰自2022年10月起进行试航，尚未正式编入黑海舰队；英国国防部称其于2021年下水。事后卫星图像显示该舰左舷、上层建筑和桅杆受损严重。乌方一份声明称其可能无法修复，后续报道称修复时间表不明。\n\n英国国防部在情报通报中评估，乌方对克里米亚造船基础设施的打击能力，很可能促使俄方考虑将造船和修船活动迁往距前线更远的地点。本案与9月13日塞瓦斯托波尔船坞打击、9月22日司令部打击一起，构成乌方2023年秋季针对克里米亚海军支撑设施的连续打击。",
+  "defense_effect_cn": "按俄方口径拦截率达13/15（约87%），但2枚漏网导弹即命中在建导弹舰，再次说明对固定、高价值的船厂目标，高拦截率不能等同于有效防护。在建或试航舰艇停靠船厂码头，缺乏机动能力和自身防空战备，是体系中的薄弱环节。刻赤位于克里米亚东端，此前被视为相对后方，此次打击表明乌方空射巡航导弹已能覆盖半岛全境的造船设施。",
+  "claims_compare_cn": "俄国防部（11月4日）：15枚导弹中13枚被击落，至少2枚命中舰艇与船厂；未点名舰艇。乌空军司令奥列什丘克（11月4日后）：命中携“口径”导弹舰艇，暗示用SCALP。乌军方：确认为“阿斯科尔德”号，可能无法修复。卫星图像：左舷、上层建筑、桅杆严重受损。双方在“命中”一点上一致，分歧在损伤程度与拦截数。",
+  "losses_cn": "俄方：22800型导弹舰“阿斯科尔德”号严重受损（俄方承认命中，未说明程度）；船厂设施受损。人员伤亡未检索到公开记录。乌方：俄方称13枚导弹被击落。",
+  "analysis_cn": "本案攻击方将新造舰艇作为目标，属于“在出生地摧毁平台”的打法，直接削减黑海舰队未来的“口径”发射平台数量。防御方承认命中，是少见的双方事实交叉。英国评估指出的“造船后撤”压力，与此后俄方将舰艇和修造活动向新罗西斯克等更远港口转移的趋势一致。对远程防区外打击，船厂需要的是点防空加物理防护（遮蔽棚、分散停靠）的组合，而不仅是区域防空。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "The Maritime Executive（海事执行官）",
+    "title": "Video: Ukraine Confirms Direct Hit on Another Russian Warship",
+    "title_cn": "视频：乌克兰确认直接命中又一艘俄军舰",
+    "author": "The Maritime Executive",
+    "date": "2023-11-05（推定）",
+    "url": "https://maritime-executive.com/article/video-ukraine-confirms-strike-on-another-russian-warship",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The War Zone（战区）",
+    "title": "Russian Warship Seen Badly Damaged By Ukrainian Cruise Missile",
+    "title_cn": "俄军舰被乌巡航导弹严重损伤的画面",
+    "author": "The War Zone",
+    "date": "2023-11（具体日未核）",
+    "url": "https://www.twz.com/russian-warship-seen-badly-damaged-by-ukrainian-cruise-missile",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Militarnyi",
+    "title": "The Ministry of Defense of the Russian Federation admits the Ukrainian missile hit the warship in Kerch",
+    "title_cn": "俄国防部承认乌导弹命中刻赤军舰",
+    "author": "Militarnyi",
+    "date": "2023-11-04（推定）",
+    "url": "https://mil.in.ua/en/news/the-ministry-of-defense-of-the-russian-federation-admits-the-ukrainian-missile-hit-the-warship-in-kerch",
+    "type": "其他"
+   },
+   {
+    "publisher": "Kyiv Post（基辅邮报）",
+    "title": "Ukraine Confirms Destruction of Major Russian Warship",
+    "title_cn": "乌克兰确认摧毁一艘重要俄军舰",
+    "author": "Kyiv Post",
+    "date": "2023-11（具体日未核）",
+    "url": "https://www.kyivpost.com/post/23747",
+    "type": "其他"
+   },
+   {
+    "publisher": "Espreso Global",
+    "title": "British intelligence assesses consequences for Russia of Ukraine's strike on Askold ship in Kerch",
+    "title_cn": "英国情报评估乌打击刻赤“阿斯科尔德”号对俄影响",
+    "author": "Espreso（援引英国国防部）",
+    "date": "2023-11（具体日未核）",
+    "url": "https://global.espreso.tv/british-intelligence-assesses-consequences-for-russia-of-ukraines-strike-on-askold-ship-in-kerch",
+    "type": "其他"
+   },
+   {
+    "publisher": "Espreso Global",
+    "title": "Russian Ministry of Defense admits attack on Zaliv shipbuilding yard in Crimea",
+    "title_cn": "俄国防部承认克里米亚“扎利夫”船厂遭袭",
+    "author": "Espreso",
+    "date": "2023-11-04（推定）",
+    "url": "https://global.espreso.tv/russian-ministry-of-defense-admits-attack-on-zaliv-shipbuilding-yard-in-crimea",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://www.twz.com/russian-warship-seen-badly-damaged-by-ukrainian-cruise-missile",
+    "file_name": "",
+    "desc_cn": "受损“阿斯科尔德”号照片/卫星图（报道内嵌）：左舷、上层建筑、桅杆损伤",
+    "date": "2023-11",
+    "credit": "见原报道",
+    "license": "版权未明",
+    "verified": false
+   },
+   {
+    "file_page": "https://maritime-executive.com/article/video-ukraine-confirms-strike-on-another-russian-warship",
+    "file_name": "",
+    "desc_cn": "乌空军发布的命中瞬间视频截图（报道内嵌）",
+    "date": "2023-11",
+    "credit": "乌克兰空军",
+    "license": "版权未明",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "来袭导弹": "15枚（俄国防部口径）",
+   "俄称拦截": "13枚",
+   "命中": "至少2枚（俄国防部口径）",
+   "受损舰艇载弹能力": "最多8枚“口径”"
+  }
+ },
+ {
+  "case_key": "bs_feodosia_2023_12_26",
+  "category": "周边港口",
+  "title_cn": "费奥多西亚港内登陆舰被导弹击毁坐沉",
+  "subtitle_cn": "2023年12月26日 克里米亚费奥多西亚港“新切尔卡斯克”号大型登陆舰遭乌克兰空射巡航导弹击毁",
+  "date_start": "2023-12-26",
+  "date_end": "",
+  "location_cn": "克里米亚费奥多西亚港（Feodosia / Feodosiia）",
+  "lat": 45.03,
+  "lon": 35.39,
+  "region": "黑海",
+  "attacker": "乌克兰空军战术航空兵",
+  "defender": "俄罗斯黑海舰队、克里米亚防空体系",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "空射巡航导弹（乌空军口径；俄方称“空中制导导弹”），发射平台据俄方说法为苏-24（乌方否认俄方击落说法）。",
+  "defense_means_cn": "防空系统对空作战（俄方称击落2架发射导弹的苏-24，乌方否认）。",
+  "narrative_cn": "2023年12月26日凌晨约2时30分，乌克兰空军战术航空兵以巡航导弹打击停泊在克里米亚费奥多西亚港的黑海舰队大型登陆舰“新切尔卡斯克”号（Novocherkassk）。乌克兰空军在Telegram发布消息，空军司令奥列什丘克随后宣布舰艇被摧毁，乌克兰国防部亦称该舰“今夜在费奥多西亚被摧毁”。\n\n俄罗斯国防部当日承认该舰在费奥多西亚受损，称是在“击退乌克兰武装部队使用空中制导导弹的攻击过程中”受损，同时声称防空兵器击落2架发射导弹的乌军苏-24，乌克兰空军否认这一说法。克里米亚俄方任命的负责人谢尔盖·阿克肖诺夫（Sergey Aksyonov）称，袭击造成1人死亡、2人受伤、6栋建筑受损。当日即有被毁舰艇照片流出。\n\n《纽约时报》记者克里斯蒂安·特里伯特（Christiaan Triebert）发布12月26日拍摄的Maxar卫星图像，显示该舰残骸仍在冒烟、大部分已坐沉水中。这一图像与乌方“摧毁”的说法相符，俄方则仅承认“受损”。本次打击使黑海舰队可用大型登陆舰数量进一步减少，费奥多西亚港作为克里米亚东南部的次要驻泊点同样不再安全。",
+  "defense_effect_cn": "导弹在夜间命中港内锚泊舰艇，俄方未通报拦截导弹数量，仅称击落2架载机（乌方否认，无独立证据）。大型登陆舰在港内一次打击即坐沉（舰上载荷情况待核）。防御问题：港内舰艇集中、位置固定，防空对低空突防巡航导弹的预警时间不足；平民区与港区相邻，造成平民伤亡和建筑损毁。",
+  "claims_compare_cn": "乌空军/国防部（12月26日）：舰艇被摧毁。俄国防部（12月26日）：舰艇“受损”，并击落2架苏-24。乌空军：否认损失飞机。阿克肖诺夫：1死2伤，6栋建筑受损。Maxar卫星图（12月26日）：残骸冒烟、大部分坐沉。独立影像支持“摧毁/坐沉”，俄方击落苏-24一说未见证据。",
+  "losses_cn": "俄方：大型登陆舰“新切尔卡斯克”号坐沉（卫星图），俄方仅承认受损；舰员伤亡未检索到公开记录；当地1人死亡、2人受伤、6栋建筑受损（俄方口径）。乌方：俄称击落2架苏-24，乌方否认。",
+  "analysis_cn": "本案与9月塞瓦斯托波尔船坞打击手法一致，均为空射巡航导弹打击港内静止舰艇，但目标位于克里米亚东南部的次级港口，表明乌方打击已覆盖黑海舰队在半岛内的全部主要驻泊点。俄方“受损”与卫星图像“坐沉”之间的落差，是本组案例中俄方口径与独立证据冲突最直观的一例。此后黑海舰队主力加速向新罗西斯克转移。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Ukrainska Pravda（乌克兰真理报）",
+    "title": "Russia confirms that Ukraine destroyed Novocherkassk ship in Feodosiia",
+    "title_cn": "俄方证实“新切尔卡斯克”号在费奥多西亚遭乌方打击",
+    "author": "Ukrainska Pravda",
+    "date": "2023-12-26",
+    "url": "https://pravda.com.ua/eng/news/2023/12/26/7434598",
+    "type": "其他"
+   },
+   {
+    "publisher": "Ukrainska Pravda（乌克兰真理报）",
+    "title": "Photos of destroyed Novocherkassk landing ship emerge",
+    "title_cn": "被毁“新切尔卡斯克”号登陆舰照片曝光",
+    "author": "Ukrainska Pravda",
+    "date": "2023-12-26",
+    "url": "https://www.pravda.com.ua/eng/news/2023/12/26/7434630",
+    "type": "其他"
+   },
+   {
+    "publisher": "Novaya Gazeta Europe（新报·欧洲版）",
+    "title": "Ukraine destroys Russian landing ship in annexed Crimea",
+    "title_cn": "乌克兰在被吞并的克里米亚摧毁俄登陆舰",
+    "author": "Novaya Gazeta Europe",
+    "date": "2023-12-26",
+    "url": "https://novayagazeta.eu/articles/2023/12/26/ukraine-destroys-russian-landing-ship-in-annexed-crimea-en-news",
+    "type": "其他"
+   },
+   {
+    "publisher": "Euromaidan Press（欧洲广场新闻）",
+    "title": "Ukraine destroys Russian Navy's Novocherkassk landing craft in occupied Crimea",
+    "title_cn": "乌克兰在被占克里米亚摧毁俄海军“新切尔卡斯克”号登陆舰",
+    "author": "Euromaidan Press",
+    "date": "2023-12-26",
+    "url": "https://euromaidanpress.com/2023/12/26/ukraine-destroys-russian-navys-novocherkassk-landing-craft-in-occupied-crimea",
+    "type": "其他"
+   },
+   {
+    "publisher": "Gulf Times（海湾时报，转载通讯社）",
+    "title": "Ukraine strikes Russian warship",
+    "title_cn": "乌克兰打击俄军舰",
+    "author": "通讯社稿",
+    "date": "2023-12-26（推定）",
+    "url": "https://www.gulf-times.com/article/674340/international/ukraine-strikes-russian-warship/amp",
+    "type": "通讯社"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://www.pravda.com.ua/eng/news/2023/12/26/7434630",
+    "file_name": "",
+    "desc_cn": "费奥多西亚港内“新切尔卡斯克”号遭袭后照片（报道汇总）",
+    "date": "2023-12-26",
+    "credit": "社交媒体/见原报道",
+    "license": "版权未明",
+    "verified": false
+   },
+   {
+    "file_page": "https://novayagazeta.eu/articles/2023/12/26/ukraine-destroys-russian-landing-ship-in-annexed-crimea-en-news",
+    "file_name": "",
+    "desc_cn": "Maxar卫星图像（2023-12-26拍摄）：残骸冒烟、大部分坐沉（由《纽约时报》特里伯特转发；具体刊载页待核）",
+    "date": "2023-12-26",
+    "credit": "Maxar Technologies",
+    "license": "版权未明",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:BDK_Novocherkassk_2012_G1.jpg",
+    "file_name": "BDK Novocherkassk 2012 G1.jpg",
+    "desc_cn": "775型大型登陆舰“新切尔卡斯克”号（舷号142）舰影（非事发影像）。所属分类：Category:Novocherkassk (ship, 1976)",
+    "date": "2012（据文件名）",
+    "credit": "",
+    "license": "",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:BDK_Novocherkassk_2012_G2.jpg",
+    "file_name": "BDK Novocherkassk 2012 G2.jpg",
+    "desc_cn": "“新切尔卡斯克”号大型登陆舰另一角度舰影（非事发影像）",
+    "date": "2012（据文件名）",
+    "credit": "",
+    "license": "",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "打击时间": "约02:30（乌空军口径）",
+   "当地伤亡": "1死2伤（俄方口径）",
+   "受损建筑": "6栋（俄方口径）",
+   "俄称击落载机": "2架苏-24（乌方否认）"
+  }
+ },
+ {
+  "case_key": "baltic_ust_luga_2024_01_21",
+  "category": "周边港口",
+  "title_cn": "无人机远袭乌斯季卢加，诺瓦泰克码头起火停产",
+  "subtitle_cn": "2024年1月21日 俄罗斯列宁格勒州乌斯季卢加港（Ust-Luga）诺瓦泰克（Novatek）出口码头遭无人机袭击起火、部分停产",
+  "date_start": "2024-01-21",
+  "date_end": "",
+  "location_cn": "俄罗斯列宁格勒州芬兰湾南岸乌斯季卢加港诺瓦泰克码头（Ust-Luga / Усть-Луга）",
+  "lat": 59.68,
+  "lon": 28.4,
+  "region": "波罗的海-北海",
+  "attacker": "乌克兰安全部门（国际文传电讯社-乌克兰援引匿名消息源；乌方未正式认领）",
+  "defender": "俄罗斯防空部队；码头运营方诺瓦泰克公司",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "远程攻击无人机（乌方媒体口径）；型号、数量未检索到公开记录；路透社称无法核实是否为乌方无人机所为。",
+  "defense_means_cn": "未检索到俄方拦截通报；事后人员疏散、灭火；在港4艘油轮于爆炸后1小时内离港。",
+  "narrative_cn": "2024年1月21日凌晨，列宁格勒州乌斯季卢加港（Ust-Luga）诺瓦泰克（Novatek）码头发生爆炸并起火，乌克兰媒体称系无人机袭击所致。诺瓦泰克是俄罗斯最大的液化天然气生产商，该公司称因火灾被迫暂停这一大型波罗的海出口码头的部分作业，并将起火原因归于“外部影响”。\n\n列宁格勒州州长德罗兹坚科（Alexander Drozdenko）称火灾未造成人员伤亡，人员已疏散。俄罗斯通讯社报道，2座储罐和1座泵站受损，火势随后得到控制。据报道，袭击发生时港内靠泊4艘油轮，均在爆炸后1小时内离港，没有船舶受损。\n\n国际文传电讯社-乌克兰（Interfax-Ukraine）援引匿名消息源称，此次火灾是乌克兰安全部门特别行动的结果；路透社表示无法核实袭击是否由乌克兰无人机实施。英国海事安全咨询公司安布雷（Ambrey）指出，这是4天内乌方无人机第二次袭击俄罗斯波罗的海港口。\n\n乌斯季卢加位于芬兰湾南岸，远离俄乌前线，此前被视为安全的出口枢纽。此次袭击表明乌方远程无人机已能触及俄罗斯波罗的海沿岸能源港。此后，2025—2026年同一水域的普里莫尔斯克港多次遇袭（见“普里莫尔斯克油港8个月内三度遭无人机袭击”一案）。本轮检索未找到乌斯季卢加在2025—2026年遇袭的可靠报道。",
+  "defense_effect_cn": "未检索到俄方当夜拦截通报。港口远离前线，防空配置相对薄弱，攻击方得以命中储罐和泵站。损害控制较为有效：人员及时疏散，无人员伤亡；4艘油轮在1小时内离港，避免了船舶受损和连锁火灾。代价是码头部分作业暂停，停产时长未检索到公开记录。",
+  "claims_compare_cn": "诺瓦泰克：火灾由“外部影响”引起，暂停部分作业。州长德罗兹坚科：无伤亡，人员已疏散。俄通讯社：2座储罐、1座泵站受损。乌方：未正式认领；国际文传电讯社-乌克兰援引匿名消息源称为安全部门特别行动。路透社：无法核实是否为无人机。安布雷：4天内第二次波罗的海港口遇袭。各方对“起火、部分停产”一致，分歧在攻击方式与责任归属。",
+  "losses_cn": "俄方：储罐2座、泵站1座受损（俄通讯社口径）；码头部分作业暂停；无人员伤亡（州长口径）。船舶：无损（报道口径）。",
+  "analysis_cn": "本案攻击目标是能源出口港而非军港，指向俄方出口收入。防御方在人员疏散、油轮应急离港方面处置迅速，降低了损失，但未能阻止无人机抵达目标。远离前线的港口遇袭，迫使防御方把防空资源分散到广阔后方；攻击方以少量无人机即可造成停产，并对航运与保险产生连带影响。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Cyprus Mail（塞浦路斯邮报，转载路透社）",
+    "title": "Fire erupts at Russia's Novatek Baltic Sea terminal after explosions heard",
+    "title_cn": "俄诺瓦泰克波罗的海码头传出爆炸声后起火",
+    "author": "Reuters",
+    "date": "2024-01-21",
+    "url": "https://cyprus-mail.com/2024/01/21/fire-erupts-at-russias-novatek-baltic-sea-terminal-after-explosions-heard",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Gulf Times（海湾时报）",
+    "title": "Russia suspends operations at gas export terminal after drone strike",
+    "title_cn": "俄方在无人机袭击后暂停天然气出口码头作业",
+    "author": "Gulf Times",
+    "date": "2024-01-21（推定）",
+    "url": "https://www.gulf-times.com/article/675938/international/russia-suspends-operations-at-gas-export-terminal-after-drone-strike",
+    "type": "其他"
+   },
+   {
+    "publisher": "Philippine Daily Inquirer（菲律宾每日询问者报）",
+    "title": "Fire at Russia's Novatek Baltic Sea terminal after explosions",
+    "title_cn": "爆炸后俄诺瓦泰克波罗的海码头起火",
+    "author": "Inquirer（转载通讯社）",
+    "date": "2024-01-21（推定）",
+    "url": "https://newsinfo.inquirer.net/?p=1892094",
+    "type": "其他"
+   },
+   {
+    "publisher": "Splash247",
+    "title": "Novatek's Baltic terminal attacked by long-range drones from Ukraine",
+    "title_cn": "诺瓦泰克波罗的海码头遭乌克兰远程无人机袭击",
+    "author": "Splash247",
+    "date": "2024-01-22（推定）",
+    "url": "https://splash247.com/?p=199696",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "USM（Ukrainian Shipping Magazine）",
+    "title": "“Novatek” stopped working in a Russian port after an attack by Ukrainian UAVs",
+    "title_cn": "乌无人机袭击后诺瓦泰克俄港口码头停工",
+    "author": "USM",
+    "date": "2024-01（推定）",
+    "url": "https://en.usm.media/novatek-stopped-working-in-a-russian-port-after-an-attack-by-ukrainian-uavs/",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "受损储罐": "2座（俄通讯社口径）",
+   "受损泵站": "1座（俄通讯社口径）",
+   "在港油轮": "4艘，爆炸后1小时内离港（报道口径）",
+   "人员伤亡": "无（州长口径）"
+  }
+ },
+ {
+  "case_key": "bs_sevastopol_2024_03_24",
+  "category": "周边港口",
+  "title_cn": "塞港连夜遭导弹打击，四舰一通信枢纽受损",
+  "subtitle_cn": "2024年3月23—24日 塞瓦斯托波尔“亚马尔”号、“亚速”号大型登陆舰及黑海舰队通信中心遭乌克兰导弹打击",
+  "date_start": "2024-03-23",
+  "date_end": "2024-03-26",
+  "location_cn": "克里米亚塞瓦斯托波尔港区及黑海舰队设施（Sevastopol）",
+  "lat": 44.61,
+  "lon": 33.53,
+  "region": "黑海",
+  "attacker": "乌克兰国防军（乌总参谋部通报；开源情报称使用“风暴阴影”巡航导弹，未获官方确认）",
+  "defender": "俄罗斯黑海舰队、塞瓦斯托波尔防空体系",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "巡航导弹（开源情报称3月23日至少3枚“风暴阴影”命中黑海舰队通信枢纽，3月24日打击亦使用“风暴阴影”；乌方未公布弹型与数量）。",
+  "defense_means_cn": "待核：未检索到俄国防部关于本次拦截数量的通报。",
+  "narrative_cn": "据开源情报调查者称，2024年3月23日，至少3枚“风暴阴影”巡航导弹命中塞瓦斯托波尔的俄黑海舰队主要通信枢纽。3月24日，乌克兰总参谋部宣布，国防军成功打击塞瓦斯托波尔港内的大型登陆舰“亚马尔”号（Yamal）和“亚速”号（Azov）、一处通信中心及黑海舰队若干基础设施。乌克兰国防部情报总局（HUR）称“亚马尔”号受损严重：上甲板出现破口，舰体明显向右舷倾斜，俄方正在抽水。\n\n3月26日，乌克兰方面进一步确认，侦察船“伊万·胡尔斯”号（Ivan Khurs）和大型登陆舰“康斯坦丁·奥尔尚斯基”号（Kostiantyn Olshansky）在3月24日的打击中同样受损。Naval News据此报道“乌克兰以导弹打击塞瓦斯托波尔四艘俄舰”。乌克兰海军发言人德米特罗·普列坚丘克（Dmytro Pletenchuk）称，俄方在役大型登陆舰仅剩5艘，另有4艘因遇袭在修。\n\n俄方未就舰艇受损发布官方声明。卫星图像分析人士对受损程度尚未形成一致意见，部分社交媒体关于两舰“被击沉/消灭”的说法未得到卫星证据支持。本次打击延续了乌方对塞瓦斯托波尔港内舰艇和指挥通信设施的持续压制，打击对象从单舰扩大到港区内多个目标。",
+  "defense_effect_cn": "俄方拦截数据待核。从结果看，港内同时停泊的多艘大型登陆舰和舰队通信枢纽在两夜内先后被命中，说明截至2024年3月塞瓦斯托波尔防空仍无法阻止空射巡航导弹对港区目标的连续打击。大型登陆舰集中停泊在主港，单次打击即可波及多舰。",
+  "claims_compare_cn": "乌总参谋部（3月24日）：命中“亚马尔”“亚速”号、通信中心及基础设施。HUR：“亚马尔”号上甲板破口、右倾。乌方（3月26日）：“伊万·胡尔斯”号、“奥尔尚斯基”号亦受损。俄方：未发布舰艇受损官方声明。开源情报：3月23日至少3枚“风暴阴影”命中通信枢纽。卫星分析：损伤程度无共识，不支持“击沉”说法。",
+  "losses_cn": "俄方：大型登陆舰“亚马尔”号、“亚速”号受损，侦察船“伊万·胡尔斯”号、大型登陆舰“奥尔尚斯基”号受损（乌方口径），通信枢纽受损（开源情报）；人员伤亡未检索到公开记录。乌方：待核。",
+  "analysis_cn": "本案的打击目标组合（登陆舰+舰队通信枢纽）显示乌方在压缩黑海舰队可用舰艇的同时打击其指挥通信能力。普列坚丘克“5艘在役、4艘在修”的说法若属实，意味着黑海舰队的两栖投送能力已大幅下降。俄方保持沉默、乌方战果逐日追加，是本案口径的主要特点，损伤程度仍需以卫星图像独立核实。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Ukrainska Pravda（乌克兰真理报）",
+    "title": "Ukrainian forces hit two Russian landing ships and communications centre in Sevastopol, Crimea",
+    "title_cn": "乌军在克里米亚塞瓦斯托波尔命中两艘俄登陆舰及通信中心",
+    "author": "Ukrainska Pravda（援引乌总参谋部）",
+    "date": "2024-03-24",
+    "url": "https://pravda.com.ua/eng/news/2024/03/24/7447873",
+    "type": "其他"
+   },
+   {
+    "publisher": "Naval News",
+    "title": "Ukraine strikes four Russian ships with missile attacks in Sevastopol",
+    "title_cn": "乌克兰以导弹打击塞瓦斯托波尔四艘俄舰",
+    "author": "Naval News",
+    "date": "2024-03（具体日未核）",
+    "url": "https://www.navalnews.com/naval-news/2024/03/ukraine-strikes-four-russian-ships-with-missile-attacks-in-sevastopol/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Al Jazeera（半岛电视台）",
+    "title": "Ukraine says it hit two Russian landing ships off occupied Crimea",
+    "title_cn": "乌克兰称在被占克里米亚附近命中两艘俄登陆舰",
+    "author": "Al Jazeera",
+    "date": "2024-03-24",
+    "url": "https://www.aljazeera.com/news/2024/3/24/ukraine-says-it-hit-two-russian-ships-off-occupied-crimea",
+    "type": "其他"
+   },
+   {
+    "publisher": "Euromaidan Press（欧洲广场新闻）",
+    "title": "Ukraine's military confirms damaging two more Russian Black Sea Fleet's large landing ships",
+    "title_cn": "乌军确认再伤黑海舰队两艘大型登陆舰",
+    "author": "Euromaidan Press",
+    "date": "2024-03-24",
+    "url": "https://euromaidanpress.com/2024/03/24/ukraines-military-confirms-damaging-2-russian-landing-ships-in-black-sea-fleet/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Online.ua",
+    "title": "DIU discloses details of Russian large landing ship \"Yamal\" hitting",
+    "title_cn": "乌情报总局披露命中“亚马尔”号细节",
+    "author": "Online.ua（援引HUR）",
+    "date": "2024-03（具体日未核）",
+    "url": "https://news.online.ua/en/diu-discloses-details-of-russian-large-landing-ship-yamal-hitting-875527",
+    "type": "其他"
+   },
+   {
+    "publisher": "Defence Express（乌克兰防务快讯）",
+    "title": "Ukrainian warriors damage 5 Russian Black Sea Fleet ships in March 2024",
+    "title_cn": "乌军2024年3月击伤5艘俄黑海舰队舰艇",
+    "author": "Defence Express",
+    "date": "2024-03（具体日未核）",
+    "url": "https://en.defence-ua.com/news/ukrainian_warriors_damage_5_russian_black_sea_fleet_ships_in_march_2024-10025.html",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://en.wikipedia.org/wiki/Russian_landing_ship_Azov",
+    "file_name": "",
+    "desc_cn": "维基百科“亚速”号条目（条目内含该舰图片，Commons文件名待核）",
+    "date": "",
+    "credit": "见条目",
+    "license": "待核",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "受损舰艇": "4艘（乌方口径：登陆舰3、侦察船1）",
+   "通信枢纽命中导弹": "至少3枚“风暴阴影”（开源情报，3月23日）",
+   "俄在役大型登陆舰": "5艘在役、4艘在修（乌海军发言人口径）"
+  }
+ },
+ {
+  "case_key": "bs_rus_passive_defense_2024_2026",
+  "category": "周边港口",
+  "title_cn": "浮栅、沉驳与新建点：俄港口被动防御",
+  "subtitle_cn": "2024—2026年 俄罗斯在塞瓦斯托波尔湾口、新罗西斯克设置浮栅、拦阻网与沉驳，并在阿布哈兹奥恰姆奇雷扩建港口以防乌方无人艇",
+  "date_start": "2024-04-05",
+  "date_end": "2026-06-26",
+  "location_cn": "克里米亚塞瓦斯托波尔湾口（Sevastopol Bay）；俄罗斯新罗西斯克海军基地及进港航道（Novorossiysk）；格鲁吉亚阿布哈兹地区奥恰姆奇雷港（Ochamchire / Очамчыра，俄方控制）",
+  "lat": 44.62,
+  "lon": 33.53,
+  "region": "黑海",
+  "attacker": "乌克兰海军、乌克兰安全局（SBU）、乌克兰国防部情报总局（HUR）的水面与水下无人平台（防御所针对的威胁）",
+  "defender": "俄罗斯黑海舰队；俄联邦安全局边防局海岸警卫队（奥恰姆奇雷）",
+  "outcome": "部分拦截",
+  "domains": [
+   "水面",
+   "水下"
+  ],
+  "patterns": [
+   "集群",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "防御所针对的威胁：乌方水面无人艇（单艇或成批）、无人潜航器（如2025年12月“水下海宝宝”）；空中无人机与导弹不受物理拦阻影响。",
+  "defense_means_cn": "物理拦阻：塞瓦斯托波尔湾口两道防波堤之间设4道浮栅和1排4艘驳船，首批2艘驳船于4月5日至10日间沉放（年份推定为2024年）；新罗西斯克海军基地附近及进港航道设拦阻网、浮栅和驳船；奥恰姆奇雷港内可见橙色浮栅（2026年6月26日卫星图）。兵力调整：舰艇大部撤离塞瓦斯托波尔；在奥恰姆奇雷疏浚扩建港口。主动拦截：舰载武器与巡逻兵力拦截来袭无人艇（俄国防部称2024年7月3日摧毁2艘驶向新罗西斯克的无人艇）。",
+  "narrative_cn": "本案汇总2024—2026年俄方在黑海港口采取的被动防御措施，与“俄黑海港口防御：高拦截宣称难护港内舰”一案（拦截口径与舰队后撤）互为补充。\n\n一、塞瓦斯托波尔湾口拦阻。据乌克兰媒体援引监测团体，俄军在塞瓦斯托波尔湾口两道防波堤之间设置了4道浮栅，并布设1排4艘驳船，首批2艘驳船于4月5日至10日间（年份推定为2024年）沉放于湾口，目的是保护仍留在港内的舰艇。此前，《商业内幕》（Business Insider）援引《战区》（The War Zone）对Planet Labs卫星图像的分析报道，一场大风暴冲脱了部分浮栅，部分驳船在图像中已不可见，修复所需时间不明。军事专家对这类拦阻能否挡住大装药无人艇持怀疑态度。另据卫星图像分析，俄方此后已把大部分舰艇撤离塞瓦斯托波尔。\n\n二、新罗西斯克的拦阻网与浮栅。舰队东撤后，开源报道称卫星图像显示新罗西斯克黑海舰队基地附近和进港航道上出现拦阻网、浮栅和驳船。俄方同时依靠舰艇火力拦截来袭无人艇：2024年7月3日，俄国防部称摧毁2艘驶向新罗西斯克的乌方无人艇，当地临时关闭海滩入口。但2025年12月15日，乌方“水下海宝宝”无人潜航器仍进入新罗西斯克潜艇泊位实施攻击（见该案）。\n\n三、奥恰姆奇雷建点。2023年，阿布哈兹时任领导人布扎尼亚（Aslan Bzhania）对俄官方媒体《消息报》称，俄方将在当地建立新的海军基地，俄方当时未正式确认。BBC获取的卫星图像显示，自2022年起当地已在疏浚和施工；Bellingcat分析认为2024年初以来施工加速；《华尔街日报》报道港口持续升级，进出口拓宽以容纳更大船只，专家认为可停靠携带巡航导弹的舰艇，但规模较小。《新闻周刊》援引BlackSky图像称，2025年上半年当地新建大型货物仓库、铺设混凝土基础和铁路线，但近几个月施工放缓，显示莫斯科可能降低了这一远离乌方打击范围的替代锚地的优先级；2026年6月26日的图像显示港内设有橙色浮栅，与其他黑海设施中用于防范乌方无人机的拦阻设施相同。该港由俄联邦安全局边防局海岸警卫队使用。",
+  "defense_effect_cn": "物理拦阻对水面无人艇有一定阻滞作用。本组未检索到2024年4月以后塞瓦斯托波尔湾内舰艇被无人艇命中的公开记录，但同期舰艇大部撤离，难以把这一结果单独归功于拦阻设施。局限有四：一是对空中无人机和导弹无效，2024年8月2日“顿河畔罗斯托夫”号即在塞瓦斯托波尔港内被导弹击中；二是对水下平台防护不足，2025年12月无人潜航器进入新罗西斯克潜艇泊位；三是易受海况破坏，风暴可冲脱浮栅、移位驳船，需持续维护；四是沉驳堵口会压缩己方舰艇进出通道。奥恰姆奇雷建点在2026年放缓，替代锚地尚未形成规模。",
+  "claims_compare_cn": "拦阻设施的信息主要来自乌方媒体、克里米亚Telegram监测频道和开源卫星分析，俄方未公开说明。乌方媒体强调俄方被迫“自沉船只”、拦阻效果有限；西方分析人士认为拦阻并非不可穿透。奥恰姆奇雷：阿布哈兹方面2023年宣布建基地，俄方未正式确认；Bellingcat、《华尔街日报》称施工加速，《新闻周刊》2026年称放缓，后者为单一来源。俄国防部关于拦截无人艇的通报（如2024年7月3日）未见独立核实。",
+  "losses_cn": "防御方代价：沉放驳船至少2艘（监测团体口径）；浮栅维护与风暴损失（卫星图像）；舰艇撤离塞瓦斯托波尔带来的基地功能损失；奥恰姆奇雷港建设投入（金额未检索到公开记录）。",
+  "analysis_cn": "俄方的被动防御以湾口封堵为核心，针对的是水面无人艇。这类措施成本低、见效快，但只封住一个方向：攻击方随即转向空中无人机、导弹和无人潜航器。塞瓦斯托波尔和新罗西斯克都出现了“湾口封堵—对手换手段—港内舰艇仍被命中”的过程。奥恰姆奇雷建点放缓，说明在打击范围之外另建锚地同样受资金、规模和优先级限制。拦阻设施需要与水下探测、近程防空和舰艇分散部署配套，才能形成完整的港口防护。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Online.ua",
+    "title": "Russians sink barges to protect rest of ships in occupied Sevastopol",
+    "title_cn": "俄军在被占塞瓦斯托波尔沉放驳船以保护剩余舰艇",
+    "author": "Online.ua（援引监测团体）",
+    "date": "2024-04（推定）",
+    "url": "https://news.online.ua/en/russians-sink-barges-to-protect-rest-of-ships-in-occupied-sevastopol-877953",
+    "type": "其他"
+   },
+   {
+    "publisher": "The EurAsian Times（欧亚时报）",
+    "title": "（原题待核；URL意为“自沉舰船：乌无人潜航器袭击令莫斯科不安”）",
+    "title_cn": "自沉舰船：乌无人潜航器袭击令莫斯科不安",
+    "author": "The EurAsian Times",
+    "date": "具体日未核",
+    "url": "https://www.eurasiantimes.com/sinking-its-own-ships-as-ukraines-uuv-attacks-traumatizes-moscow",
+    "type": "其他"
+   },
+   {
+    "publisher": "AOL（转载Business Insider）",
+    "title": "Russia's navy could be open to a sea-drone attack after a huge storm",
+    "title_cn": "大风暴后俄海军或易遭海上无人机袭击",
+    "author": "Business Insider（援引The War Zone、Planet Labs图像）",
+    "date": "具体日未核（推定2023年末）",
+    "url": "https://www.aol.com/russias-navy-could-open-sea-115848618.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "USM（Ukrainian Shipping Magazine）",
+    "title": "The invaders are trying to save Sevastopol Bay from Ukrainian drones",
+    "title_cn": "占领者试图保护塞瓦斯托波尔湾免遭乌无人机袭击",
+    "author": "USM",
+    "date": "具体日未核",
+    "url": "https://en.usm.media/?p=147710",
+    "type": "其他"
+   },
+   {
+    "publisher": "Al Jazeera（半岛电视台）",
+    "title": "Ukrainian maritime attack on Black Sea port Novorossiysk repelled: Russia",
+    "title_cn": "俄方称击退乌方对黑海新罗西斯克港的海上袭击",
+    "author": "Al Jazeera",
+    "date": "2024-07-03",
+    "url": "https://www.aljazeera.com/news/2024/7/3/ukrainian-maritime-attack-on-black-sea-port-novorossiysk-repelled-russia",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Moscow Times（莫斯科时报俄文版）",
+    "title": "（原题待核；URL意为“乌克兰用海上无人机袭击俄黑海舰队自克里米亚撤离的驻地”）",
+    "title_cn": "乌克兰用海上无人机袭击黑海舰队撤离驻地",
+    "author": "The Moscow Times",
+    "date": "2024-07-03",
+    "url": "https://ru.themoscowtimes.com/2024/07/03/ukraina-atakovala-morskimi-dronami-mesto-evakuatsii-chernomorskogo-flota-rossii-iz-krima-a135655",
+    "type": "其他"
+   },
+   {
+    "publisher": "Meduza（美杜莎）",
+    "title": "（原题待核；URL意为“新罗西斯克报告遭海上无人机袭击，当局临时关闭海滩入口”）",
+    "title_cn": "新罗西斯克遭海上无人机袭击，当局临时关闭海滩",
+    "author": "Meduza",
+    "date": "2024-07-03",
+    "url": "https://meduza.io/news/2024/07/03/v-novorossiyske-soobschili-ob-atake-morskih-dronov-vlasti-vremenno-zakryli-vhod-na-plyazh",
+    "type": "其他"
+   },
+   {
+    "publisher": "Newsweek（新闻周刊）",
+    "title": "（原题待核；URL意为“照片显示俄秘密基地工程停滞”）",
+    "title_cn": "照片显示俄秘密基地（奥恰姆奇雷）工程停滞",
+    "author": "Newsweek（援引BlackSky图像）",
+    "date": "2026（具体日未核，引用2026-06-26图像）",
+    "url": "https://newsweek.com/photos-show-work-grind-to-halt-at-secret-russian-base-12286620",
+    "type": "其他"
+   },
+   {
+    "publisher": "JAMnews",
+    "title": "Construction accelerates at planned Russian Navy Base in disputed Abkhazia",
+    "title_cn": "争议地区阿布哈兹拟建俄海军基地施工加速",
+    "author": "JAMnews（援引Bellingcat）",
+    "date": "2024（推定）",
+    "url": "https://jam-news.net/construction-at-russian-navy-base-in-abkhazia",
+    "type": "其他"
+   },
+   {
+    "publisher": "GEAB Conflict Blog",
+    "title": "Bellingcat: Russia accelerates navy base construction in Ochamchire",
+    "title_cn": "Bellingcat：俄加快奥恰姆奇雷海军基地建设",
+    "author": "GEAB（援引Bellingcat）",
+    "date": "2024（推定）",
+    "url": "https://geabconflict.net/blog/bellingcat-russia-accelerates-navy-base-construction-in-ochamchire/",
+    "type": "OSINT"
+   },
+   {
+    "publisher": "Yahoo News（转述《华尔街日报》）",
+    "title": "Russia's new naval base raises fears of Georgia's involvement in Ukraine war, WSJ reports",
+    "title_cn": "《华尔街日报》：俄新海军基地引发格鲁吉亚被卷入乌克兰战争的担忧",
+    "author": "Yahoo News / The Wall Street Journal",
+    "date": "具体日未核",
+    "url": "https://www.yahoo.com/news/russia-naval-raises-fears-georgia-205800251.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "Ochamchire Naval Base",
+    "title_cn": "奥恰姆奇雷海军基地（条目）",
+    "author": "Wikipedia编者",
+    "date": "检索时版本（2026-10）",
+    "url": "https://en.wikipedia.org/wiki/Ochamchire_Naval_Base",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Project_11451_MPK-220_Vladimirets_in_Sewastopol_2010.jpg",
+    "file_name": "Project 11451 MPK-220 Vladimirets in Sewastopol 2010.jpg",
+    "desc_cn": "塞瓦斯托波尔南湾内的小型反潜舰MPK-220“弗拉基米雷茨”号，作塞瓦斯托波尔港区/黑海舰队驻地背景图（非事发影像）",
+    "date": "2010（据文件名）",
+    "credit": "",
+    "license": "",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Novorossiysk_port_2022.jpg",
+    "file_name": "Novorossiysk port 2022.jpg",
+    "desc_cn": "新罗西斯克港全景（作港区背景图，非事发影像）。相关分类：Category:Port of Novorossiysk、Category:Novorossiysk naval base、Category:Tsemes Bay",
+    "date": "2022（据文件名）",
+    "credit": "",
+    "license": "",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "塞港湾口浮栅": "4道（监测团体口径）",
+   "塞港湾口驳船": "1排4艘，首批2艘于4月5—10日沉放（年份推定2024年）",
+   "俄方宣称摧毁无人艇（2024-07-03）": "2艘（俄国防部口径）",
+   "奥恰姆奇雷浮栅可见日期": "2026-06-26（《新闻周刊》引卫星图）"
+  }
+ },
+ {
+  "case_key": "bs_sevastopol_2024_05_19",
+  "category": "周边港口",
+  "title_cn": "ATACMS齐射塞港码头，末艘“口径”水面舰被毁",
+  "subtitle_cn": "2024年5月18—19日 塞瓦斯托波尔“旋风”号22800型导弹舰遭ATACMS弹道导弹打击（另称“科夫罗韦茨”号扫雷舰被毁）",
+  "date_start": "2024-05-19",
+  "date_end": "2024-05-21",
+  "location_cn": "克里米亚塞瓦斯托波尔港码头（Sevastopol）",
+  "lat": 44.61,
+  "lon": 33.53,
+  "region": "黑海",
+  "attacker": "乌克兰国防军（乌总参谋部、国防部通报）",
+  "defender": "俄罗斯黑海舰队、塞瓦斯托波尔防空体系",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "饱和"
+  ],
+  "attack_means_cn": "美制ATACMS战术弹道导弹，俄方Telegram频道称至少12枚。",
+  "defense_means_cn": "防空系统拦截（俄方Telegram频道称击落9枚；俄官方拦截数据待核）。",
+  "narrative_cn": "2024年5月18日夜至19日，塞瓦斯托波尔遭导弹打击。乌克兰国防部和总参谋部首先通报，当夜摧毁俄黑海舰队“科夫罗韦茨”号（Kovrovets）扫雷舰；有未经证实的报道称该舰当时位于克里米亚近海。俄方未证实“科夫罗韦茨”号受损，至检索截止也未见独立来源核实。\n\n与此同时，包括俄方军事博主在内的多个开源情报账号称，在此次ATACMS齐射中，停靠在塞瓦斯托波尔港码头的22800型（Karakurt级）小型导弹舰“旋风”号（Tsiklon）被命中。俄方Telegram频道称，周日至少12枚美制ATACMS导弹射向塞瓦斯托波尔，其中9枚被击落，3枚命中“旋风”号停靠的码头。5月21日，乌克兰总参谋部宣布已获得“旋风”号被摧毁的必要确认。美国战争研究所（ISW）利用事后卫星图像佐证了乌方说法。俄方未承认该舰受损。\n\n乌克兰海军发言人普列坚丘克此前表示，“旋风”号是俄方留在克里米亚的最后一艘水面战斗舰艇（能发射“口径”巡航导弹）。另有亲乌地方频道称，“旋风”号停靠处附近一栋建筑受损。本次打击是乌方使用弹道导弹打击港内舰艇的案例，与此前以空射巡航导弹为主的打击方式不同。",
+  "defense_effect_cn": "按俄方频道口径，12枚ATACMS中9枚被拦截（75%），3枚命中码头即摧毁停靠舰艇。弹道导弹末段速度高、预警时间短，对港内静止舰艇的威胁大于亚声速巡航导弹。到2024年5月，克里米亚境内已无可发射“口径”的水面舰艇可供部署（乌方口径），说明黑海舰队在塞瓦斯托波尔已难以安全驻泊主战舰艇。",
+  "claims_compare_cn": "乌国防部/总参（5月19日）：摧毁“科夫罗韦茨”号扫雷舰（俄方未证实，无独立核实）。俄方Telegram频道：至少12枚ATACMS、9枚被击落、3枚命中码头。乌总参（5月21日）：确认“旋风”号被摧毁。ISW：卫星图像佐证。俄官方：未承认“旋风”号受损。乌方通报对象由“科夫罗韦茨”号转为“旋风”号，前者至今缺乏佐证。",
+  "losses_cn": "俄方：22800型导弹舰“旋风”号被毁（乌方口径，ISW卫星图像佐证）；“科夫罗韦茨”号扫雷舰被毁（乌方口径，未证实）；码头及附近建筑受损。人员伤亡未检索到公开记录。乌方：俄方频道称9枚ATACMS被击落。",
+  "analysis_cn": "本案的价值在于两点：一是弹道导弹进入对港打击序列，防御方需要的是反导能力而非一般防空；二是乌方通报目标前后变化，提示单方首报可能不准确，需要卫星图像二次确认。“旋风”号被毁后，黑海舰队在克里米亚丧失水面“口径”发射平台，进一步推动舰队向新罗西斯克集中，而后者又在2025—2026年成为新的打击中心。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Novaya Gazeta Europe（新报·欧洲版）",
+    "title": "Ukrainian military sinks Black Sea Fleet's sole remaining corvette capable of firing cruise missiles",
+    "title_cn": "乌军击沉黑海舰队仅存的可发射巡航导弹的轻型舰",
+    "author": "Novaya Gazeta Europe",
+    "date": "2024-05-21",
+    "url": "https://novayagazeta.eu/en/articles/2024/05/21/ukrainian-military-sinks-black-sea-fleets-sole-remaining-corvette-capable-of-firing-cruise-missiles-en-news",
+    "type": "其他"
+   },
+   {
+    "publisher": "Euromaidan Press（欧洲广场新闻）",
+    "title": "Ukraine destroys Tsyklon, Russia's last surface Kalibr missile ship in occupied Crimea",
+    "title_cn": "乌克兰摧毁被占克里米亚俄最后一艘水面“口径”导弹舰“旋风”号",
+    "author": "Euromaidan Press",
+    "date": "2024-05-21",
+    "url": "https://euromaidanpress.com/2024/05/21/ukraine-destroys-tsyklon-russias-last-surface-kalibr-missile-ship-in-occupied-crimea",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Maritime Executive（海事执行官）",
+    "title": "Ukraine Confirms Strike on Last Russian Guided Missile Warship in Crimea",
+    "title_cn": "乌克兰确认打击克里米亚最后一艘俄导弹舰",
+    "author": "The Maritime Executive",
+    "date": "2024-05-21（推定）",
+    "url": "https://maritime-executive.com/article/ukraine-confirms-strike-on-last-russian-guided-missile-warship-in-crimea",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The War Zone（战区）",
+    "title": "Rumors Swirl Around Attacks On Russian Black Sea Fleet Warships",
+    "title_cn": "围绕俄黑海舰队军舰遇袭的传闻",
+    "author": "The War Zone",
+    "date": "2024-05（具体日未核）",
+    "url": "https://twz.com/news-features/rumors-swirl-around-attacks-on-russian-black-sea-fleet-warships",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "LIGA.net",
+    "title": "Ukrainian forces hit Tsiklon, last missile carrier of Black Sea Fleet in Crimea",
+    "title_cn": "乌军命中黑海舰队在克里米亚最后的导弹载舰“旋风”号",
+    "author": "LIGA.net",
+    "date": "2024-05（具体日未核）",
+    "url": "https://news.liga.net/en/politics/news/vsu-porazili-malyy-raketnyy-korabl-tsirkon-v-sevastopole-19-maya",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "来袭ATACMS": "至少12枚（俄方Telegram频道口径）",
+   "俄称拦截": "9枚（同上）",
+   "命中码头": "3枚（同上）"
+  }
+ },
+ {
+  "case_key": "bs_sevastopol_2024_08_02",
+  "category": "周边港口",
+  "title_cn": "修复中的“顿河畔罗斯托夫”号潜艇港内二度被击",
+  "subtitle_cn": "2024年8月2日 塞瓦斯托波尔港内“顿河畔罗斯托夫”号潜艇遭乌克兰导弹打击（乌方称被击沉）",
+  "date_start": "2024-08-02",
+  "date_end": "",
+  "location_cn": "克里米亚塞瓦斯托波尔港（Sevastopol）",
+  "lat": 44.61,
+  "lon": 33.53,
+  "region": "黑海",
+  "attacker": "乌克兰国防军（乌总参谋部通报）",
+  "defender": "俄罗斯黑海舰队、塞瓦斯托波尔防空体系",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "导弹（路透社、BBC援引乌总参称为导弹袭击；弹型与数量待核）。",
+  "defense_means_cn": "待核：未检索到俄方关于本次拦截的通报。",
+  "narrative_cn": "2024年8月3日，乌克兰总参谋部发布声明称，8月2日（周五）乌军在塞瓦斯托波尔港成功打击黑海舰队“基洛”级潜艇“顿河畔罗斯托夫”号（B-237），该艇“被命中后当场沉没”。BBC和路透社援引乌总参网上发布的信息报道称，导弹袭击击沉了这艘锚泊在港内的潜艇。CNN称无法独立核实，俄罗斯国防部未予置评，俄政府和军方渠道亦未证实此次袭击。\n\n乌总参指出，该艇在2023年9月13日塞瓦斯托波尔船坞遇袭时已严重受损，此后经过修理，并在塞瓦斯托波尔港水域进行测试。开源影像显示，2024年6月1日拖船将其从塞瓦斯托波尔海军造船厂干船坞移往黑海舰队第13修船厂。该艇是俄方4艘可发射“口径”巡航导弹的“基洛”级潜艇之一。\n\n英国国防情报部门评估，该艇此前很可能未完全修复，其沉没进一步加大了黑海舰队在克里米亚驻泊的风险。乌克兰“克里米亚之风”（Crimean Wind）组织称卫星图像显示了命中位置；另有媒体报道卫星图像显示港内一处浮动设施受损，但这不等同于证实潜艇沉没。至检索截止，未检索到独立影像直接证实潜艇沉没。",
+  "defense_effect_cn": "防御方拦截情况待核。同一艘潜艇在约11个月内两次在港内被命中，说明修复期间的舰艇仍处于对方持续监视和打击范围内；在克里米亚港内修理受损舰艇，等于为对方提供可预测的静止目标。英方评估所指的“驻泊风险上升”，与此后舰队向新罗西斯克集中的趋势一致。",
+  "claims_compare_cn": "乌总参（8月3日）：8月2日命中，潜艇当场沉没。路透社/BBC：转述乌方说法。CNN：无法独立核实。俄国防部：未置评。英国国防情报：该艇很可能未完全修复，沉没提高舰队风险。“克里米亚之风”：卫星图像显示命中位置。独立影像：仅见港内浮动设施受损，未直接证实沉没。",
+  "losses_cn": "俄方：“基洛”级潜艇“顿河畔罗斯托夫”号沉没（乌方口径，未独立证实）。人员伤亡未检索到公开记录。乌方：待核。",
+  "analysis_cn": "本案说明对手对“修复后返场”的舰艇保持跟踪，并选择其出坞测试、锚泊等暴露时段实施二次打击。对防御方而言，受损舰艇修理地点与时间的保密、修理期间的伪装和遮蔽，与防空同样重要。从证据层面看，本案乌方单方声明为主，俄方沉默，独立影像不足，可信度低于2023年9月首次打击。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Ukrainska Pravda（乌克兰真理报）",
+    "title": "Ukrainian forces sink Russian Black Sea Fleet submarine in Sevastopol – Ukraine's General Staff",
+    "title_cn": "乌总参：乌军在塞瓦斯托波尔击沉俄黑海舰队潜艇",
+    "author": "Ukrainska Pravda（援引乌总参谋部）",
+    "date": "2024-08-03",
+    "url": "https://www.pravda.com.ua/eng/news/2024/08/03/7468800/",
+    "type": "其他"
+   },
+   {
+    "publisher": "USNI News（美国海军学会新闻）",
+    "title": "Russian Attack Submarine Sunk in Missile Strike on Black Sea Port Claims Ukraine",
+    "title_cn": "乌克兰称俄攻击型潜艇在黑海港口遭导弹击沉",
+    "author": "USNI News",
+    "date": "2024-08-04",
+    "url": "https://news.usni.org/2024/08/04/russian-attack-submarine-sunk-in-missile-strike-on-black-sea-port-claims-ukraine",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Interfax-Ukraine（国际文传电讯社乌克兰分社）",
+    "title": "（俄文报道，2024-08-03 17:15）",
+    "title_cn": "乌总参通报击沉“顿河畔罗斯托夫”号",
+    "author": "Interfax-Ukraine",
+    "date": "2024-08-03",
+    "url": "https://ru.interfax.com.ua/news/general/1004612.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "KVIA（转载CNN）",
+    "title": "Russian submarine sunk in Crimean port, Ukraine claims",
+    "title_cn": "乌克兰称俄潜艇在克里米亚港口被击沉",
+    "author": "CNN",
+    "date": "2024-08-03",
+    "url": "https://kvia.com/news/us-world/cnn-world/2024/08/03/russian-submarine-sunk-in-crimean-port-ukraine-claims/",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Maritime Executive（海事执行官）",
+    "title": "Ukraine Claims to Have Sunk a Russian Submarine",
+    "title_cn": "乌克兰称击沉一艘俄潜艇",
+    "author": "The Maritime Executive",
+    "date": "2024-08（具体日未核）",
+    "url": "https://maritime-executive.com/article/ukraine-claims-to-have-sunk-a-russian-submarine",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Rubryka",
+    "title": "Rostov-on-Don submarine sinking heightens risks for Russian fleet in Crimea – British intelligence",
+    "title_cn": "英国情报：“顿河畔罗斯托夫”号沉没加大俄舰队在克里米亚的风险",
+    "author": "Rubryka（援引英国国防部）",
+    "date": "2024-08-07",
+    "url": "https://rubryka.com/en/2024/08/07/u-brytanskij-rozvidtsi-vvazhayut-shho-potoplennya-submaryny-rostov-na-donu-zbilshuye-ryzyky-dlya-flotu-rf-u-krymu",
+    "type": "其他"
+   },
+   {
+    "publisher": "Ukrinform（乌克兰国家通讯社）",
+    "title": "Russian submarine destruction: satellite images show impact site in Crimea",
+    "title_cn": "俄潜艇被毁：卫星图像显示克里米亚命中位置",
+    "author": "Ukrinform",
+    "date": "2024-08（具体日未核）",
+    "url": "https://ukrinform.net/rubric-ato/3891734-russian-submarine-destruction-satellite-images-show-impact-site-in-crimea.html",
+    "type": "通讯社"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://ukrinform.net/rubric-ato/3891734-russian-submarine-destruction-satellite-images-show-impact-site-in-crimea.html",
+    "file_name": "",
+    "desc_cn": "卫星图像：塞瓦斯托波尔港命中位置（“克里米亚之风”提供，报道内嵌）",
+    "date": "2024-08",
+    "credit": "Crimean Wind / 商业卫星（提供方待核）",
+    "license": "版权未明",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:%C2%AB%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%C2%BB.jpg",
+    "file_name": "«Ростов-на-Дону».jpg",
+    "desc_cn": "636.3型潜艇“顿河畔罗斯托夫”号（B-237）舰影（非事发影像；拍摄时间待核）。所属分类：Category:B-237 Rostov-na-Donu (submarine, 2014)",
+    "date": "",
+    "credit": "",
+    "license": "",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "两次遇袭间隔": "约11个月（2023-09-13至2024-08-02）",
+   "俄方黑海“口径”潜艇总数": "4艘（报道口径）"
+  }
+ },
+ {
+  "case_key": "bs_port_kavkaz_2024_08_22",
+  "category": "周边港口",
+  "title_cn": "高加索港铁路渡轮遭导弹击沉，港口部分受阻",
+  "subtitle_cn": "2024年8月22日 俄罗斯克拉斯诺达尔边疆区高加索港（Port Kavkaz）“康罗商人”号（Conro Trader）铁路渡轮遭乌克兰导弹打击沉没",
+  "date_start": "2024-08-22",
+  "date_end": "",
+  "location_cn": "俄罗斯克拉斯诺达尔边疆区刻赤海峡东岸丘什卡沙嘴高加索港（Port Kavkaz / Порт Кавказ）",
+  "lat": 45.33,
+  "lon": 36.67,
+  "region": "黑海",
+  "attacker": "乌克兰海军（海军发言人普列坚丘克确认）；所用武器乌方未公布",
+  "defender": "克拉斯诺达尔边疆区港口防空体系；渡轮运营方",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "导弹，型号未经证实：乌克兰海军发言人未说明所用武器；俄方Telegram频道Mash称可能为“风暴阴影”（Storm Shadow）巡航导弹；有媒体图片说明及维基共享资源分类页信息框称为R-360“海王星”（Neptune）反舰导弹，均非一手来源。数量未检索到公开记录。",
+  "defense_means_cn": "港口区域防空（拦截情况未检索到公开记录）；事后组织船员搜救与灭火，边疆区应急指挥部称港区陆域无火情。",
+  "narrative_cn": "刻赤海峡铁路渡轮线连接克里米亚的克里木港（Port Krym）与克拉斯诺达尔边疆区的高加索港（Port Kavkaz），是克里米亚大桥之外俄方向克里米亚运送燃料和物资的另一条通道。据《欧洲广场新闻》援引俄方媒体，高加索港是黑海—亚速海水域仅次于新罗西斯克的第二大港。\n\n2024年8月22日，高加索港内的铁路渡轮“康罗商人”号（Conro Trader）遭乌方打击后沉没。俄方官员和媒体称，该渡轮当时装载30节燃料罐车，被命中后沉没。该船1978年由德国基尔HDW船厂建造，长约109米。克拉斯诺达尔边疆区行政长官孔德拉季耶夫（Veniamin Kondratyev）通报，现场已救出17名船员，另有2人在搜寻中；边疆区应急指挥部称港区陆域没有火情。另有报道称获救船员为4人，TradeWinds则称对渡轮是否沉没及船上15名船员下落的报道互相矛盾。\n\n8月23日，乌克兰海军发言人普列坚丘克（Dmytro Pletenchuk）正式确认该渡轮被摧毁，称其是俄军后勤链中最重要的环节之一，主要运输燃料和润滑油，也运送武器；在受损渡轮移出泊位之前，高加索港的作业将部分受阻。乌方未说明所用武器。俄方Telegram频道Mash称乌军可能向港口发射了“风暴阴影”巡航导弹，另有媒体图片说明称是“海王星”导弹，均未经证实。\n\n此前，“康罗商人”号已在2024年5月30日的一次打击中受损；同航线的另一艘铁路渡轮“斯拉维亚宁”号（Slavyanin）更早被击中，据报正在亚速海等待修理。两艘渡轮先后失去作业能力，刻赤海峡铁路渡轮线的可用运力随之下降。",
+  "defense_effect_cn": "未检索到俄方关于此次来袭导弹拦截情况的通报。渡轮在港内靠泊并装载燃料罐车，属静止、易燃的高价值目标，被命中后即沉没。2024年5月30日该船已遭打击，不到三个月后在同一港口再次被击中，说明首次遇袭后港口防空未能补强到足以阻止二次打击，渡轮也未改变作业方式。沉船占用泊位，打捞前港口作业部分受阻（乌方口径），单次打击的效果延伸为港口通过能力的持续下降。",
+  "claims_compare_cn": "俄方（边疆区行政长官孔德拉季耶夫，8月22日）：渡轮沉没，救出17人，2人在搜寻；另有报道称救出4人；TradeWinds称是否沉没及15名船员下落的报道互相矛盾。乌克兰海军（8月23日）：确认摧毁，该船运送燃料、润滑油和武器，港口部分受阻；未说明武器。武器类型：Mash称“风暴阴影”，有媒体称“海王星”，均未证实。双方对“渡轮沉没”的结果一致，分歧在船员人数与伤亡、所用武器。",
+  "losses_cn": "俄方：铁路渡轮“康罗商人”号（约109米）沉没，所载30节燃料罐车损失（俄方口径）；船员获救17人、2人失踪（边疆区行政长官口径，另有报道称获救4人）。港口：泊位被沉船占用，作业部分受阻（乌方口径）。乌方：未检索到公开记录。",
+  "analysis_cn": "本案打击对象不是军舰，而是军民两用的后勤节点。铁路渡轮运量大、航线固定、在港装卸时间长，且装载燃料，被命中后损失远超船体本身。后勤港的防空配置通常低于军港，但其战时承担的运输任务使其与军港同样成为优先目标。对同一船只的二次打击说明攻击方对目标状态有持续监视，而防御方在首次遇袭后的补强不足。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Euromaidan Press（欧洲广场新闻）",
+    "title": "Fuel-laden ferry sinks in Russian port after alleged Ukrainian strike – Russian media",
+    "title_cn": "俄媒：满载燃料的渡轮在俄港口疑遭乌方打击后沉没",
+    "author": "Euromaidan Press（援引俄方媒体）",
+    "date": "2024-08-22",
+    "url": "https://euromaidanpress.com/2024/08/22/fuel-laden-ferry-sinks-in-russian-port-after-alleged-ukrainian-strike-russian-media/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Ukrainska Pravda（乌克兰真理报）",
+    "title": "Ukrainian Navy confirms destruction of Russia's Conro Trader ferry",
+    "title_cn": "乌克兰海军确认摧毁俄“康罗商人”号渡轮",
+    "author": "Ukrainska Pravda",
+    "date": "2024-08-23",
+    "url": "https://pravda.com.ua/eng/news/2024/08/23/7471528",
+    "type": "其他"
+   },
+   {
+    "publisher": "Rubryka",
+    "title": "（原题待核；URL意为“乌克兰海军正式确认摧毁克拉斯诺达尔边疆区高加索港渡轮”）",
+    "title_cn": "乌克兰海军正式确认摧毁高加索港渡轮",
+    "author": "Rubryka",
+    "date": "2024-08-23",
+    "url": "https://rubryka.com/en/2024/08/23/u-vms-ukrayiny-ofitsijno-pidtverdyly-znyshhennya-poromu-v-portu-kavkaz-u-krasnodarskomu-krayi-rf",
+    "type": "其他"
+   },
+   {
+    "publisher": "Espreso Global",
+    "title": "Ukrainian Navy confirms ferry hit in Russian port of Kavkaz",
+    "title_cn": "乌克兰海军确认命中俄高加索港渡轮",
+    "author": "Espreso",
+    "date": "2024-08-23（推定）",
+    "url": "https://global.espreso.tv/russia-ukraine-war-ukrainian-navy-confirms-ferry-hit-in-russian-port-of-kavkaz",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Maritime Executive（海事执行官）",
+    "title": "（原题待核；URL意为“视频：俄刻赤海峡渡轮遭乌袭击后被大火焚毁”）",
+    "title_cn": "视频：俄刻赤海峡渡轮遭乌袭击后被大火焚毁",
+    "author": "The Maritime Executive",
+    "date": "2024-08（具体日未核）",
+    "url": "https://www.maritime-executive.com/article/video-russian-kerch-strait-ferry-destroyed-by-fire-after-ukrainian-attack",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "（原题待核；URL意为“观看：乌克兰打击摧毁克里米亚高加索港满载燃料的俄渡轮”）",
+    "title_cn": "乌克兰打击摧毁高加索港满载燃料的俄渡轮",
+    "author": "Marine Insight",
+    "date": "2024-08（具体日未核）",
+    "url": "https://www.marineinsight.com/watch-ukrainian-strike-destroys-fuel-laden-russian-ferry-in-crimeas-kavkaz-port/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "TradeWinds",
+    "title": "（原题待核；URL意为“乌克兰炸毁俄重要黑海港口滚装渡轮”）",
+    "title_cn": "乌克兰炸毁俄重要黑海港口滚装渡轮",
+    "author": "TradeWinds",
+    "date": "2024-08（具体日未核）",
+    "url": "https://tradewindsnews.com/cruise-and-ferry/ukraine-blows-up-ro-ro-ferry-in-vital-russian-black-sea-port/2-1-1697811",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Wikimedia Commons（维基共享资源）",
+    "title": "Category:Conro Trader (ship, 1978)",
+    "title_cn": "“康罗商人”号（1978年建造）分类页（信息框称2024-08-22遭R-360“海王星”导弹摧毁，非一手来源）",
+    "author": "Commons编者",
+    "date": "检索时版本（2026-10）",
+    "url": "https://commons.wikimedia.org/wiki/Category:Conro_Trader_(ship,_1978)",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Port_Kavkaz.jpg",
+    "file_name": "Port Kavkaz.jpg",
+    "desc_cn": "刻赤海峡东岸高加索港港区（拍摄时间待核，非事发影像）。相关分类：Category:Port Kavkaz、Category:Kerch Strait ferry line、Category:Conro Trader (ship, 1978)",
+    "date": "",
+    "credit": "",
+    "license": "",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "所载燃料罐车": "30节（俄方口径）",
+   "船长": "约109米（1978年HDW基尔船厂建造）",
+   "获救船员": "17人（边疆区行政长官口径；另有报道称4人）",
+   "搜寻中/失踪": "2人（边疆区行政长官口径）",
+   "该船遇袭次数": "2次（2024-05-30受损，2024-08-22沉没）"
+  }
+ },
+ {
+  "case_key": "caspian_kaspiysk_2024_11_06",
+  "category": "周边港口",
+  "title_cn": "无人机首袭里海区舰队卡斯皮斯克基地",
+  "subtitle_cn": "2024年11月6日 俄罗斯达吉斯坦共和国卡斯皮斯克（Kaspiysk）里海区舰队基地遭乌克兰远程无人机袭击，“猎豹”级护卫舰受损",
+  "date_start": "2024-11-06",
+  "date_end": "",
+  "location_cn": "俄罗斯达吉斯坦共和国卡斯皮斯克海军基地（Kaspiysk / Каспийск），里海西岸",
+  "lat": 42.88,
+  "lon": 47.64,
+  "region": "其他",
+  "attacker": "乌克兰国防部情报总局（HUR）（据HUR公布的目标信息）",
+  "defender": "俄罗斯海军里海区舰队及防空部队",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "远程无人机；分析人士H. I. 萨顿（H I Sutton）据报识别为乌制A-22“狐蝠”（Foxbat）——由民用超轻型飞机改装的大型无人机；数量未检索到公开记录。",
+  "defense_means_cn": "区域防空（达吉斯坦共和国领导人称在卡斯皮斯克上空击落1架无人机）；英国国防部评估来袭无人机很可能飞越俄罗斯大片领土而未被拦截。",
+  "narrative_cn": "2024年11月6日，俄罗斯海军里海区舰队位于达吉斯坦共和国卡斯皮斯克（Kaspiysk）的基地遭无人机袭击，据报这是乌方首次打击该基地。卡斯皮斯克地处里海西岸，距俄乌前线很远，此前被视为后方基地。\n\n乌克兰国防部情报总局（HUR）称，袭击目标为“猎豹”级（Gepard，11661型）导弹护卫舰“鞑靼斯坦”号（Tatarstan）和“达吉斯坦”号（Dagestan）。另有报道称21631型“暴徒-M”（Buyan-M）小型导弹舰也受损，但证据较弱。达吉斯坦共和国领导人梅利科夫（Sergei Melikov）当日称，俄军在卡斯皮斯克上空击落1架乌方无人机，未说明后续情况。\n\n美国战争研究所（ISW）分析袭击后的卫星图像后认为，图像不足以识别舰艇或码头的具体损伤；图像显示袭击时港内有3艘“暴徒”级、2艘“暴徒-M”级、1艘“毒蜘蛛”级（Tarantul）、1艘“猎豹”级和1艘“卡拉库尔特”级（Karakurt）舰艇。英国国防部11月15日情报通报称，至少2艘俄“猎豹”级护卫舰在里海受损，但损伤程度不明；并评估来袭无人机很可能飞越俄罗斯大片领土而未被拦截。\n\n分析人士H. I. 萨顿据报将所用无人机识别为A-22“狐蝠”，即以民用超轻型飞机为基础改装的大型无人机。此次袭击使乌方对俄海军港口的打击范围从黑海、亚速海扩展到里海。本轮检索未核实卡斯皮斯克2025—2026年的后续遇袭情况。",
+  "defense_effect_cn": "达吉斯坦方面称击落1架无人机，但英国国防部评估来袭无人机长途飞越俄境未被拦截，说明俄方纵深防空对低速、低空、由超轻型飞机改装的无人机存在探测和拦截空档。港内8艘舰艇集中停泊，即便只有少量无人机突防，也有机会命中高价值目标。卡斯皮斯克此前被视为远离战场的后方基地，此次袭击后俄方需要为更远的海军基地配置防空。",
+  "claims_compare_cn": "HUR：袭击“鞑靼斯坦”号、“达吉斯坦”号护卫舰。部分乌方媒体：“暴徒-M”级也受损。达吉斯坦领导人梅利科夫（11月6日）：击落1架无人机，未提损失。ISW（11月6—7日）：卫星图像不足以识别具体损伤。英国国防部（11月15日）：至少2艘“猎豹”级受损，程度不明，来袭无人机很可能未被拦截。分歧在受损舰艇的数量和类型，以及俄方是否成功拦截。",
+  "losses_cn": "俄方：“猎豹”级护卫舰至少2艘受损，程度不明（英国国防部评估）；“暴徒-M”级受损（部分乌方媒体口径，证据弱）。人员伤亡：未检索到公开记录。乌方：无人机至少1架被击落（俄方口径）。",
+  "analysis_cn": "本案以少量长航程无人机打击距前线很远的海军基地，体现的是突防纵深而非数量。A-22这类改装超轻型飞机雷达反射面积小、速度低，容易被纵深防空忽视。对防御方而言，后方基地的安全不能以地理距离为前提；对攻击方而言，即便造成的损伤有限，也迫使对方把防空资源分散到里海方向。证据方面，损伤程度只有英国国防部的概括性评估，缺少独立影像佐证。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "The Maritime Executive（海事执行官）",
+    "title": "Ukraine Hits Russian Navy's Caspian Flotilla With Long-Range Drone Strike",
+    "title_cn": "乌克兰以远程无人机打击俄海军里海区舰队",
+    "author": "The Maritime Executive",
+    "date": "2024-11-06（推定）",
+    "url": "https://maritime-executive.com/article/ukraine-hits-russian-navy-s-caspian-flotilla-in-long-range-strike",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Ukrainska Pravda（乌克兰真理报）",
+    "title": "ISW analyses Ukrainian drone strike on Russian ships in Caspian Sea",
+    "title_cn": "ISW分析乌无人机打击里海俄舰",
+    "author": "Ukrainska Pravda（援引ISW）",
+    "date": "2024-11-07",
+    "url": "https://www.pravda.com.ua/eng/news/2024/11/07/7483322/",
+    "type": "其他"
+   },
+   {
+    "publisher": "UATV",
+    "title": "ISW analyzed a Ukrainian drone strike on Russian ships in the Caspian Sea",
+    "title_cn": "ISW分析乌无人机打击里海俄舰",
+    "author": "UATV（援引ISW）",
+    "date": "2024-11-07（推定）",
+    "url": "https://uatv.ua/en/?p=1039450",
+    "type": "其他"
+   },
+   {
+    "publisher": "Kyiv Post（基辅邮报）",
+    "title": "British Defence Intelligence Update Ukraine 15 November 2024",
+    "title_cn": "英国国防情报乌克兰局势通报（2024年11月15日）",
+    "author": "UK Ministry of Defence（英国国防部）",
+    "date": "2024-11-15",
+    "url": "https://www.kyivpost.com/amp/post/42340",
+    "type": "官方"
+   },
+   {
+    "publisher": "LB.ua",
+    "title": "（原题待核；URL意为“英国情报确认两艘（俄舰）被击中”）",
+    "title_cn": "英国情报确认两艘俄舰被击中",
+    "author": "LB.ua（援引英国国防部）",
+    "date": "2024-11-15",
+    "url": "https://en.lb.ua/news/2024/11/15/33532_british_intel_confirms_defeat_two.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "Militarnyi",
+    "title": "Strike drones attack a military unit in Dagestan",
+    "title_cn": "攻击无人机袭击达吉斯坦一处军事单位",
+    "author": "Militarnyi",
+    "date": "2024-11-06（推定）",
+    "url": "https://mil.in.ua/en/news/strike-drones-attack-a-military-unit-in-dagestan",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Caspian_Frigate_Dagestan.jpg",
+    "file_name": "Caspian Frigate Dagestan.jpg",
+    "desc_cn": "里海区舰队“猎豹”级护卫舰“达吉斯坦”号参加阿斯特拉罕阅兵（据检索摘要为2012年，非事发影像）。所属分类：Category:Dagestan (ship, 2012)、Category:Gepard class frigates",
+    "date": "2012（据检索摘要）",
+    "credit": "",
+    "license": "",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "受损护卫舰": "至少2艘“猎豹”级（英国国防部评估）",
+   "袭击时港内舰艇": "8艘（ISW卫星图：“暴徒”3、“暴徒-M”2、“毒蜘蛛”1、“猎豹”1、“卡拉库尔特”1）",
+   "俄方宣称击落": "1架（达吉斯坦领导人口径）"
+  }
+ },
+ {
+  "case_key": "baltic_primorsk_2025_09_2026_05",
+  "category": "周边港口",
+  "title_cn": "普里莫尔斯克油港8个月内三度遭无人机袭击",
+  "subtitle_cn": "2025年9月12日—2026年5月 俄罗斯列宁格勒州普里莫尔斯克港（Primorsk）石油码头及在港油轮多次遭乌克兰无人机袭击（以2026年3月23日为代表）",
+  "date_start": "2025-09-12",
+  "date_end": "2026-05-02",
+  "location_cn": "俄罗斯列宁格勒州芬兰湾北岸普里莫尔斯克港俄油运公司石油码头（Primorsk / Приморск，Transneft）",
+  "lat": 60.35,
+  "lon": 28.65,
+  "region": "波罗的海-北海",
+  "attacker": "乌克兰国防军（2026年3月23日由乌克兰总参谋部通报）；实施部队番号未检索到公开记录",
+  "defender": "俄罗斯防空部队；港口运营方俄油运—普里莫尔斯克港公司（Transneft-Port Primorsk）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "远程攻击无人机（型号、数量未检索到公开记录）。",
+  "defense_means_cn": "区域防空（拦截数据未检索到公开记录）；灭火与人员疏散；部分装船作业暂停；受损油轮移至港外锚泊。",
+  "narrative_cn": "普里莫尔斯克（Primorsk）是俄罗斯在波罗的海最大的石油出口港，由国有管道运输公司俄油运（Transneft）运营。2025年9月至2026年5月，该港至少三次遭乌克兰无人机袭击。\n\n第一次是2025年9月12日。列宁格勒州州长德罗兹坚科（Alexander Drozdenko）称，乌方袭击使普里莫尔斯克港一艘船受损，这是该港首次被击中。俄媒ASTRA援引俄政府消息源称，无人机命中2个泊位和阿芙拉型油轮“库斯托”号（Kusto），部分装船作业暂停。\n\n第二次是2026年3月23日夜。德罗兹坚科在Telegram上称：“一座油罐受损，引发火灾，正在灭火，人员已疏散。”乌克兰总参谋部称命中俄油运—普里莫尔斯克港石油码头，据初步信息储油罐区和装油设施均受影响，现场确认起火。有报道称大火波及大部分泊位和2艘油轮；另有基于油轮跟踪数据的报道称该港石油出口一度完全中断（单一来源）。\n\n第三次是2026年5月初（周五夜间，据推算为5月1日）。无人机袭击再次在港内引发火灾，德罗兹坚科予以确认。美联社报道乌方同时命中3艘“影子船队”油轮；路透社报道被击中的“库斯托”号和“彩云”号（Cai Yun）仍在港外锚泊，港口于次日（周六）部分恢复作业，但因受损预计以较低能力运行。俄油运公司未回应路透社的置评请求。军事媒体Militarnyi另报道袭击后油轮一度未进港（对应哪一次袭击待核）。\n\n“库斯托”号在三次袭击中两度被列为受损船舶。俄方只公布有限细节，损伤程度与对出口量的影响未获独立核实。",
+  "defense_effect_cn": "俄方未公布拦截数据。港口在8个月内三次被击中，首次遇袭后的防空补强未能阻止后续袭击。储罐区、装油设施与靠泊油轮集中在同一港区，单次命中即可引发大面积火灾并波及油轮。损害控制（疏散、灭火）未见人员伤亡的公开报告，但无法避免停运：2026年3月出口一度中断（单一来源），5月复航后能力下降。在港油轮反复被击中，使船东和保险方的风险上升，这是港口防御之外的连带代价。",
+  "claims_compare_cn": "俄方（州长德罗兹坚科）：先后确认2025年9月船舶受损、2026年3月油罐起火、2026年5月港内起火，未披露伤亡和拦截数。乌克兰总参谋部（2026年3月23日）：储罐区与装油设施受影响，确认起火。ASTRA（2025年9月）：2个泊位与“库斯托”号被击中。美联社（2026年5月）：3艘“影子船队”油轮被击中；路透社：2艘被点名油轮仍锚泊，港口部分恢复。俄油运：未回应。分歧主要在受损油轮数量与出口中断程度。",
+  "losses_cn": "俄方：油罐至少1座起火（2026年3月，州长口径）；储罐区与装油设施受损（乌总参口径）；泊位2个受损（2025年9月，ASTRA口径）；油轮“库斯托”号（2025年9月、2026年5月）、“彩云”号（2026年5月）受损，美联社称2026年5月共3艘；出口一度中断、复航后能力下降（报道口径）。人员伤亡：未检索到公开记录。",
+  "analysis_cn": "普里莫尔斯克系列袭击显示，乌方对俄能源港的打击由单次偷袭转向对同一港口的反复打击，并把在港油轮一并作为目标，港口防御问题随之延伸到航运与保险领域。波罗的海沿岸港口远离前线，防空资源有限，攻击方可选择防御薄弱的时段和方向。防御方难以为每个出口港配置足够的近程防空，储罐分散、防火隔离等被动防护与快速恢复能力决定了停运时长。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Hellenic Shipping News（希腊航运新闻）",
+    "title": "Ukrainian drone strike sets tanker ablaze in first attack on Primorsk",
+    "title_cn": "乌无人机首次袭击普里莫尔斯克，一艘油轮起火",
+    "author": "Hellenic Shipping News",
+    "date": "2025-09-12（推定）",
+    "url": "https://www.hellenicshippingnews.com/?p=1105039",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Kyiv Post（基辅邮报）",
+    "title": "（原题待核；页面注明“3月23日基辅时间12:24更新，补充乌方参与袭击的确认报道”）",
+    "title_cn": "普里莫尔斯克港遇袭（更新稿）",
+    "author": "Kyiv Post",
+    "date": "2026-03-23（推定）",
+    "url": "https://www.kyivpost.com/post/72399",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Boston Globe（波士顿环球报，转载美联社）",
+    "title": "Ukraine hits key Russian oil-loading port, 3 'shadow fleet' tankers",
+    "title_cn": "乌克兰打击俄关键装油港及3艘“影子船队”油轮",
+    "author": "Associated Press",
+    "date": "2026-05-03",
+    "url": "https://www.bostonglobe.com/2026/05/03/world/ukraine-hits-key-russian-oil-loading-port-3-shadow-fleet-tankers/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Baird Maritime（转载路透社）",
+    "title": "Russia's Primorsk oil terminal partially reopens after drone strikes",
+    "title_cn": "俄普里莫尔斯克石油码头在无人机袭击后部分重新开放",
+    "author": "Reuters",
+    "date": "2026-05（推定）",
+    "url": "https://www.bairdmaritime.com/shipping/ports/russias-primorsk-oil-terminal-partially-reopens-after-drone-strikes",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Militarnyi",
+    "title": "Tankers Still Not Entering the Russian Port of Primorsk in the Leningrad Region",
+    "title_cn": "油轮仍未进入列宁格勒州普里莫尔斯克港",
+    "author": "Militarnyi",
+    "date": "具体日未核",
+    "url": "https://militarnyi.com/en/news/tankers-not-entering-primorsk-leningrad/",
+    "type": "其他"
+   },
+   {
+    "publisher": "NV（新声音）",
+    "title": "（原题待核；URL意为“乌克兰确认打击俄港口和炼油厂”）",
+    "title_cn": "乌克兰确认打击俄港口和炼油厂",
+    "author": "NV",
+    "date": "具体日未核",
+    "url": "https://english.nv.ua/amp/ukraine-confirms-strikes-on-russian-port-and-refinery-50594112.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "USM（Ukrainian Shipping Magazine）",
+    "title": "UAVs caused a fire in the port of Primorsk on the Baltic Sea",
+    "title_cn": "无人机在波罗的海普里莫尔斯克港引发火灾",
+    "author": "USM",
+    "date": "具体日未核",
+    "url": "https://en.usm.media/uavs-caused-a-fire-in-the-port-of-primorsk-on-the-baltic-sea/",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "遇袭次数": "至少3次（2025-09-12、2026-03-23、2026-05初）",
+   "被点名受损油轮": "“库斯托”号（2次）、“彩云”号；美联社称2026年5月共3艘",
+   "受损泊位": "2个（2025年9月，ASTRA口径）",
+   "出口中断": "2026年3月一度完全中断（单一来源，油轮跟踪数据）"
+  }
+ },
+ {
+  "case_key": "bs_novorossiysk_2025_11_14",
+  "category": "周边港口",
+  "title_cn": "“海王星”与无人机夜袭新罗西斯克港与军港",
+  "subtitle_cn": "2025年11月13—14日 新罗西斯克海军基地、谢斯哈里斯石油码头及S-400阵地遭乌克兰导弹与无人机打击",
+  "date_start": "2025-11-14",
+  "date_end": "",
+  "location_cn": "俄罗斯新罗西斯克海军基地、港口及谢斯哈里斯石油码头（Sheskharis oil terminal, Novorossiysk）",
+  "lat": 44.7,
+  "lon": 37.8,
+  "region": "黑海",
+  "attacker": "乌克兰国防军（乌总参谋部通报；乌克兰海军参与“海王星”导弹打击）",
+  "defender": "俄罗斯黑海舰队新罗西斯克基地、港口防空体系（含S-400）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "异构",
+   "集群"
+  ],
+  "attack_means_cn": "“海王星”（Neptune）巡航导弹+攻击无人机（数量待核）。",
+  "defense_means_cn": "S-400等防空系统（乌方称一具S-400发射装置被命中）；拦截数据待核。",
+  "narrative_cn": "2025年11月13日夜至14日，乌克兰对新罗西斯克实施导弹与无人机联合打击。乌克兰总参谋部11月14日通报，使用“海王星”导弹和攻击无人机打击新罗西斯克海军基地，记录到港口重要基础设施、谢斯哈里斯石油码头、一具S-400防空系统发射装置以及一处导弹储存点受损，后者发生殉爆和起火，损伤程度仍在评估中；乌克兰海军方面称以“海王星”巡航导弹打击了俄境内战略目标。\n\n谢斯哈里斯码头是俄南部最大的石油装船综合设施之一。《基辅独立报》援引路透社消息称，遇袭后俄方暂停该港石油出口。乌总参同夜通报的目标还包括萨拉托夫炼油厂和恩格斯附近的“晶体”燃料储存设施。\n\n至检索截止，未检索到独立来源或卫星图像证实本次打击中有军舰受损，亦未检索到俄国防部关于本次拦截数量的公开通报。本次打击之后，新罗西斯克在11月下旬又两次遭袭（见“CPC码头”案），乌方媒体称两周内三次成功打击该港。",
+  "defense_effect_cn": "乌方称S-400发射装置被命中，若属实，说明港口区域防空系统本身成为打击对象，防空阵地与被保护目标共处同一打击范围。石油码头受损后出口暂停，体现对能源港的打击可直接转化为经济损失。俄方拦截数据与受损评估均待核。",
+  "claims_compare_cn": "乌总参（11月14日）：港口基础设施、谢斯哈里斯码头、S-400发射装置、导弹储存点受损。路透社（经《基辅独立报》转述）：港口暂停石油出口。俄方官方口径：待核（未检索到）。舰艇是否受损：未检索到证据。",
+  "losses_cn": "俄方：谢斯哈里斯石油码头及港口设施受损、石油出口暂停（路透社）；S-400发射装置与导弹储存点受损（乌方口径）。人员伤亡待核。乌方：待核。",
+  "analysis_cn": "本案将军港、能源码头和防空阵地作为同一批次目标，打击对象从舰艇转向港口的综合功能（驻泊、出口、防护）。对防御方而言，军商合一的港口一旦成为舰队主要基地，其能源出口设施也随之进入打击序列，防空资源需同时覆盖军用泊位与民用码头，压力倍增。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Ukrainska Pravda（乌克兰真理报）",
+    "title": "Ukraine's General Staff names Russian strategic targets hit: Neptunes used to strike Novorossiysk – video",
+    "title_cn": "乌总参公布命中的俄战略目标：以“海王星”打击新罗西斯克（视频）",
+    "author": "Ukrainska Pravda（援引乌总参谋部）",
+    "date": "2025-11-14",
+    "url": "https://www.pravda.com.ua/eng/news/2025/11/14/8007335",
+    "type": "其他"
+   },
+   {
+    "publisher": "Babel",
+    "title": "The General Staff confirmed the attacks by the Ukrainian Forces on the naval base, the oil refinery, and the fuel depot",
+    "title_cn": "乌总参确认打击海军基地、炼油厂和燃料库",
+    "author": "Babel",
+    "date": "2025-11-14（推定）",
+    "url": "https://babel.ua/en/news/123054-the-general-staff-confirmed-the-attacks-by-the-ukrainian-forces-on-the-naval-base-the-oil-refinery-and-the-fuel-depot",
+    "type": "其他"
+   },
+   {
+    "publisher": "Censor.NET",
+    "title": "Defence forces strike Russia's Krasnodar Krai with Neptune missiles",
+    "title_cn": "国防军以“海王星”导弹打击俄克拉斯诺达尔边疆区",
+    "author": "Censor.NET",
+    "date": "2025-11-14（推定）",
+    "url": "https://censor.net/en/news/3585110/defence-forces-strike-russia-s-krasnodar-krai-with-neptune-missiles",
+    "type": "其他"
+   },
+   {
+    "publisher": "LIGA.net",
+    "title": "Ukrainian Armed Forces hit Novorossiysk and other facilities with Neptune missiles",
+    "title_cn": "乌军以“海王星”导弹打击新罗西斯克等设施",
+    "author": "LIGA.net",
+    "date": "2025-11-14（推定）",
+    "url": "https://news.liga.net/en/politics/news/ukrainian-armed-forces-hit-novorossiysk-and-other-facilities-with-neptune-missiles",
+    "type": "其他"
+   },
+   {
+    "publisher": "USM",
+    "title": "The Ukrainian Navy attacked strategic targets in the Russian Federation with Neptune cruise missiles",
+    "title_cn": "乌克兰海军以“海王星”巡航导弹打击俄战略目标",
+    "author": "USM",
+    "date": "2025-11-14（推定）",
+    "url": "https://en.usm.media/?p=184209",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Kyiv Independent（基辅独立报）",
+    "title": "Russia shuts down key Black Sea export terminal in Novorossiysk after drone attack, Reuters reports",
+    "title_cn": "路透社：俄方在无人机袭击后关闭新罗西斯克黑海关键出口码头",
+    "author": "The Kyiv Independent（援引路透社）",
+    "date": "2025-11-14（推定）",
+    "url": "https://kyivindependent.com/russia-shuts-down-key-black-sea-export-terminal-in-novorossiysk-after-drone-attack-reuters-reports/",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Novorossiysk_port_2022.jpg",
+    "file_name": "Novorossiysk port 2022.jpg",
+    "desc_cn": "新罗西斯克港全景（作港区背景图，非事发影像）。相关分类：Category:Port of Novorossiysk、Category:Novorossiysk naval base、Category:Tsemes Bay",
+    "date": "2022（据文件名）",
+    "credit": "",
+    "license": "",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "乌方称命中目标": "港口基础设施、谢斯哈里斯码头、S-400发射装置1具、导弹储存点1处",
+   "石油出口": "暂停（路透社）"
+  }
+ },
+ {
+  "case_key": "bs_novorossiysk_cpc_2025_11_29",
+  "category": "周边港口",
+  "title_cn": "无人艇炸毁CPC单点系泊浮筒，出口中断",
+  "subtitle_cn": "2025年11月25日、29日 新罗西斯克里海管道财团（CPC）海运码头先后遭无人机与无人艇袭击，SPM-2单点系泊装置严重受损",
+  "date_start": "2025-11-25",
+  "date_end": "2025-11-29",
+  "location_cn": "俄罗斯新罗西斯克附近里海管道财团海运码头（CPC Marine Terminal）",
+  "lat": 44.66,
+  "lon": 37.65,
+  "region": "黑海",
+  "attacker": "未经官方认领（CPC未点名攻击方；媒体报道及乌方信息源指向乌克兰）",
+  "defender": "里海管道财团（CPC）海运码头、俄方港口防空体系",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中",
+   "水面"
+  ],
+  "patterns": [
+   "异构",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "11月25日：无人机（CPC称战斗部破片击中行政楼）；11月29日：水面无人艇（数量待核）攻击海上单点系泊装置。",
+  "defense_means_cn": "管道紧急自动关断系统（防止原油外泄）；人员疏散至掩蔽所；暂停装船；防空拦截数据待核。",
+  "narrative_cn": "里海管道财团（CPC）主管线长逾1500千米，连接哈萨克斯坦西部油田与新罗西斯克海运码头，约承担全球石油供应的1%。2025年11月25日夜间，新罗西斯克市遭无人机袭击，CPC通报其海运码头行政楼被无人机战斗部破片击中受损，无人员受伤，员工转移至掩蔽所；海上单点系泊（SPM）浮筒装船作业一度暂停。《基辅邮报》援引消息源称，石油出口栈桥的装油臂和管汇也被击中，并称一艘俄海军登陆舰（可能为1171型“貘”级）可能受损，该说法未获证实。\n\n11月29日莫斯科时间4时06分，CPC码头遭水面无人艇袭击。CPC通报称SPM-2单点系泊装置严重受损，无法继续运行；应急系统自动关断相关管道，初步看未发生原油泄漏；CPC及承包商人员无伤亡；码头暂停装船，并表示在“无人机威胁消除后”按既定规则恢复发运。CPC称这是对民用设施的第三次侵犯；Ports Europe称这是两周内乌方无人机第三次成功打击新罗西斯克。\n\nCPC未点名攻击方，乌方在上述来源中未立即置评。Energy Intelligence随后报道，俄罗斯和哈萨克斯坦的黑海装船在新一轮袭击后恢复（具体恢复日期与SPM-2修复进度待核）。",
+  "defense_effect_cn": "防御效果主要体现在损害控制而非拦截：管道自动关断避免了原油泄漏，人员疏散避免了伤亡。但海上单点系泊浮筒位于开阔海域，缺乏物理防护，无人艇可直接抵近；一次袭击即使一座SPM停运，体现了海上能源设施相对岸上设施更难防护。民用能源设施依赖周边军方防空和海上警戒，单靠运营方难以应对。",
+  "claims_compare_cn": "CPC（11月25日）：行政楼被无人机破片击中，无人受伤。《基辅邮报》消息源：装油臂、管汇受损，登陆舰或受损（未证实）。CPC（11月29日）：SPM-2严重受损，04:06遭无人艇袭击，无泄漏、无伤亡。攻击方：未认领。各方在设施受损事实上一致，分歧在攻击方归属和附带军舰受损。",
+  "losses_cn": "CPC：海运码头行政楼受损（11月25日）；SPM-2单点系泊装置严重受损、无法运行（11月29日）；装船暂停。人员：无伤亡（CPC口径）。军方：登陆舰受损说法未证实。",
+  "analysis_cn": "本案是对多国参股的国际能源出口设施实施的打击，攻击方通过空中与水面两种手段先后打击岸上设施和海上浮筒。海上SPM是港口能源体系中最暴露、最难防护的节点。案件同时带有外交风险：CPC的出口方主要为哈萨克斯坦油田，打击后果超出交战双方范围（外交反应待核）。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "TASS（塔斯社）",
+    "title": "Building at CPC marine terminal damaged by drone",
+    "title_cn": "CPC海运码头建筑遭无人机损伤",
+    "author": "TASS",
+    "date": "2025-11-25（推定）",
+    "url": "https://tass.com/economy/2048699/amp",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "The Maritime Executive（海事执行官）",
+    "title": "Ukraine May Have Hit Another Russian Navy Ship in Novorossiysk",
+    "title_cn": "乌克兰或在新罗西斯克又命中一艘俄海军舰艇",
+    "author": "The Maritime Executive",
+    "date": "2025-11（具体日未核）",
+    "url": "https://maritime-executive.com/article/ukraine-may-have-hit-another-russian-navy-ship-in-novorossiysk?rand=17996",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Ukrainska Pravda（乌克兰真理报）",
+    "title": "Oil terminal in Russia's Novorossiysk halts operations after sea drone attack",
+    "title_cn": "俄新罗西斯克石油码头遭海上无人机袭击后停运",
+    "author": "Ukrainska Pravda",
+    "date": "2025-11-29",
+    "url": "https://www.pravda.com.ua/eng/news/2025/11/29/8009546",
+    "type": "其他"
+   },
+   {
+    "publisher": "Euromaidan Press（欧洲广场新闻）",
+    "title": "Drone boats strike oil terminal in Novorossiysk, Russia",
+    "title_cn": "无人艇袭击俄罗斯新罗西斯克石油码头",
+    "author": "Euromaidan Press",
+    "date": "2025-11-29",
+    "url": "https://euromaidanpress.com/2025/11/29/drone-boats-strike-oil-terminal-in-novorossiysk-russia/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Ports Europe",
+    "title": "Ukraine naval drones sanctioned again Russia's Novorossiysk port oil terminal",
+    "title_cn": "乌克兰海上无人机再次“制裁”俄新罗西斯克港石油码头",
+    "author": "Ports Europe",
+    "date": "2025-11（具体日未核）",
+    "url": "https://www.portseurope.com/ukraine-naval-drones-sanctioned-again-russias-novorossiysk-port-oil-terminal/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Energy Intelligence",
+    "title": "Russian, Kazakh Black Sea Loadings Resume After Fresh Attacks",
+    "title_cn": "新一轮袭击后俄、哈黑海装船恢复",
+    "author": "Energy Intelligence",
+    "date": "2025-11或12（具体日未核）",
+    "url": "https://www.energyintel.com/0000019a-bb49-d672-a9be-bb5f66b00000",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Ukrainian News（乌克兰新闻社）",
+    "title": "Port in Novorossiysk attacked by naval drones: oil shipment stopped, local authorities and publics",
+    "title_cn": "新罗西斯克港遭海上无人机袭击：石油装运停止",
+    "author": "Ukrainian News",
+    "date": "2025-11-29（推定）",
+    "url": "https://ukranews.com/en/news/1119873-port-in-novorossiysk-attacked-by-naval-drones-oil-shipment-stopped-local-authorities-and-publics",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "CPC主管线长度": "逾1500千米",
+   "占全球石油供应": "约1%",
+   "11月29日袭击时间": "莫斯科时间04:06（CPC口径）",
+   "两周内遇袭次数": "3次（Ports Europe/CPC口径）"
+  }
+ },
+ {
+  "case_key": "bs_novorossiysk_ssb_2025_12_15",
+  "category": "周边港口",
+  "title_cn": "首次无人潜航器突入军港袭击潜艇",
+  "subtitle_cn": "2025年12月15日 乌克兰安全局以“水下海宝宝”（Sub Sea Baby）无人潜航器袭击新罗西斯克海军基地潜艇泊位内的“基洛”级潜艇",
+  "date_start": "2025-12-15",
+  "date_end": "2025-12-23",
+  "location_cn": "俄罗斯新罗西斯克海军基地潜艇泊位（Novorossiysk naval base, submarine pen）",
+  "lat": 44.7,
+  "lon": 37.8,
+  "region": "黑海",
+  "attacker": "乌克兰安全局（SBU）第13总局与乌克兰海军联合实施",
+  "defender": "俄罗斯黑海舰队新罗西斯克海军基地",
+  "outcome": "遭偷袭受损",
+  "domains": [
+   "水下",
+   "空中"
+  ],
+  "patterns": [
+   "偷袭/突防",
+   "异构"
+  ],
+  "attack_means_cn": "“水下海宝宝”（Sub Sea Baby）无人潜航器（UUV，数量与技术参数未公开）；前置行动：打击叶伊斯克机场的伊尔-38N反潜巡逻机（SBU口径）。",
+  "defense_means_cn": "潜艇泊位位于基地内侧；伊尔-38N反潜巡逻机为黑海方向唯一可探测该型潜航器的空中平台（SBU口径）；其他水下防御措施待核。",
+  "narrative_cn": "2025年12月15日（据福克斯新闻报道日期；SBU未公布具体时间），乌克兰安全局（SBU）宣布，其“水下海宝宝”（Sub Sea Baby）无人潜航器在新罗西斯克港命中一艘俄罗斯“基洛”级潜艇，称该艇配有4具“口径”巡航导弹发射装置，曾用于打击基辅等地。SBU称行动由该局第13总局与乌克兰海军共同实施，并发布视频，显示潜航器命中停泊在海军基地潜艇泊位最内侧的一艘改进型“基洛”级潜艇艇尾。\n\n各方对损伤程度说法不一：《基辅邮报》报道称潜艇被击沉，福克斯新闻称潜艇遭“严重损伤”；Naval News指出，没有独立证据证实潜艇沉没。俄罗斯黑海舰队在Telegram上否认袭击造成损失，称没有潜艇或艇员受到伤害。乌方未公布该潜航器的技术参数，其名称显示与已用于打击俄方船舶和克里米亚大桥的“海宝宝”（Sea Baby）水面无人艇存在关联。\n\n12月23日，SBU披露行动细节称，此次水下打击的前提是事先命中叶伊斯克（Yeysk）空军基地的一架伊尔-38N反潜巡逻机；SBU称俄方在黑海方向仅有一架该型飞机能够探测“水下海宝宝”向目标接近。各方报道均称这是首次以无人潜航器对潜艇实施的打击。",
+  "defense_effect_cn": "若SBU说法属实，本案暴露出俄方军港水下防御的空白：潜艇泊位位于基地内侧，仍被水下平台抵近命中，说明港口入口缺乏有效的水下探测和拦阻（具体防御设施待核）。SBU关于“先打反潜机、再实施水下突击”的说法，提示防御方的反潜探测资源单点化，一旦被摧毁即形成探测窗口。俄方否认受损，损伤程度无法独立核实。",
+  "claims_compare_cn": "SBU（12月15日）：水下无人潜航器命中“基洛”级潜艇，发布视频。《基辅邮报》：击沉。福克斯新闻：严重损伤。Naval News：无独立证据证实沉没。俄黑海舰队（Telegram）：无潜艇或艇员受损。SBU（12月23日）：行动前先摧毁叶伊斯克伊尔-38N。分歧集中在“击沉/重创”与“无损失”之间，目前仅有攻击方视频。",
+  "losses_cn": "俄方：“基洛”级潜艇1艘受损或沉没（乌方口径），俄方否认；伊尔-38N反潜机1架被击（SBU口径）。人员伤亡未检索到公开记录。乌方：待核。",
+  "analysis_cn": "本案标志港口攻防进入水下无人平台阶段，攻击链条由空中（先打反潜机）与水下（潜航器突入）两步构成。对港口防御而言，水面拦阻网和浮栅对水下平台作用有限，需要声呐阵列、水下拦阻网和反潜巡逻的组合；反潜探测平台过少会成为整个体系的单点故障。由于证据仅来自攻击方视频，本案评级保持在B。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Naval News",
+    "title": "Ukraine strikes Russian submarine with 'Sub Sea Baby' drone",
+    "title_cn": "乌克兰以“水下海宝宝”无人潜航器打击俄潜艇",
+    "author": "Naval News",
+    "date": "2025-12（具体日未核）",
+    "url": "https://www.navalnews.com/?p=81275",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Kyiv Post（基辅邮报）",
+    "title": "Russia Loses Submarine to Ukrainian Underwater Drone in Unprecedented Attack",
+    "title_cn": "俄方在前所未有的袭击中被乌水下无人机击毁一艘潜艇",
+    "author": "Kyiv Post",
+    "date": "2025-12-15（推定）",
+    "url": "https://www.kyivpost.com/post/66281",
+    "type": "其他"
+   },
+   {
+    "publisher": "Kyiv Post（基辅邮报）",
+    "title": "Ukraine Unveils Details of Unprecedented Novorossiysk Underwater Drone Strike",
+    "title_cn": "乌克兰披露新罗西斯克水下无人机打击细节",
+    "author": "Kyiv Post",
+    "date": "2025-12-23（推定）",
+    "url": "https://www.kyivpost.com/post/66839",
+    "type": "其他"
+   },
+   {
+    "publisher": "Fox News（福克斯新闻）",
+    "title": "Ukraine says it carried out first-ever underwater drone strike on Russian submarine in Novorossiysk",
+    "title_cn": "乌克兰称在新罗西斯克首次以水下无人机打击俄潜艇",
+    "author": "Fox News",
+    "date": "2025-12-15",
+    "url": "https://www.foxnews.com/world/ukraine-says-carried-out-first-ever-underwater-drone-strike-russian-submarine-novorossiysk.amp",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Insider（内幕）",
+    "title": "（标题待核）",
+    "title_cn": "关于“水下海宝宝”袭击的报道",
+    "author": "The Insider",
+    "date": "2025-12（具体日未核）",
+    "url": "https://theins.press/en/news/287783",
+    "type": "其他"
+   },
+   {
+    "publisher": "Defence Matters",
+    "title": "Ukraine says underwater drone disabled Russian submarine in Novorossiysk port",
+    "title_cn": "乌克兰称水下无人机使新罗西斯克港内俄潜艇失去战斗力",
+    "author": "Defence Matters",
+    "date": "2025-12（具体日未核）",
+    "url": "https://defencematters.eu/?p=3444",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://www.navalnews.com/?p=81275",
+    "file_name": "",
+    "desc_cn": "SBU发布视频截图：无人潜航器接近并命中泊位内“基洛”级潜艇艇尾（报道内嵌）",
+    "date": "2025-12-15",
+    "credit": "乌克兰安全局（SBU）",
+    "license": "版权未明（乌政府机构发布）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kilo-Class_Russian_Submarine_MOD_45165129.jpg",
+    "file_name": "Kilo-Class Russian Submarine MOD 45165129.jpg",
+    "desc_cn": "俄罗斯“基洛”级潜艇（作型号示意，非事发艇、非事发影像；文件名含“MOD”，或为英国国防部图片，作者与许可待核）",
+    "date": "",
+    "credit": "",
+    "license": "",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "潜艇“口径”发射装置": "4具（SBU口径）",
+   "前置打击": "伊尔-38N反潜机1架（SBU口径）",
+   "俄方口径": "无潜艇、无艇员受损"
+  }
+ },
+ {
+  "case_key": "bs_novorossiysk_frigates_2026_03_04",
+  "category": "周边港口",
+  "title_cn": "无人机连续袭击新罗西斯克两艘“口径”护卫舰",
+  "subtitle_cn": "2026年3月2日、4月6日 新罗西斯克港“埃森海军上将”号与“马卡罗夫海军上将”号护卫舰先后遭乌克兰无人机袭击",
+  "date_start": "2026-03-02",
+  "date_end": "2026-04-06",
+  "location_cn": "俄罗斯新罗西斯克港/海军基地（Novorossiysk）",
+  "lat": 44.7,
+  "lon": 37.8,
+  "region": "黑海",
+  "attacker": "乌克兰安全局（SBU，3月2日，据SBU消息源）；乌克兰无人系统部队（4月6日，指挥官布罗夫迪通报）",
+  "defender": "俄罗斯黑海舰队、舰载防空及港口防空体系",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "攻击无人机（型号与数量待核）。",
+  "defense_means_cn": "舰载防空导弹拦截（4月6日“马卡罗夫海军上将”号发射防空导弹，未能阻止无人机命中）；港口防空拦截数据待核。",
+  "narrative_cn": "据《欧洲广场新闻》2026年3月5日援引SBU消息源报道，在3月2日对新罗西斯克港的无人机袭击中，黑海舰队11356R型（“格里戈罗维奇海军上将”级）护卫舰“埃森海军上将”号（Admiral Essen，可携8枚“口径”巡航导弹）被命中：无人机击中该舰中部上层建筑，电子战和雷达系统受损，舰上热诱饵和干扰物发射装置发生爆炸；起火持续约18小时；消息源称该舰已无法发射“口径”导弹。据维基百科条目所引，乌克兰总参谋部于3月6日确认“埃森海军上将”号和“马卡罗夫海军上将”号均已受损（原始通报待核）。\n\n4月6日，乌克兰无人系统部队宣布成功袭击新罗西斯克港内的“马卡罗夫海军上将”号（Admiral Makarov）护卫舰。报道称该舰在遇袭时发射了防空导弹，但未能阻止无人机命中，损伤程度仍在评估。无人系统部队指挥官布罗夫迪（Brovdi）最初在帖文中将目标写为“格里戈罗维奇海军上将”号，随后更正为“马卡罗夫海军上将”号。\n\n上述两次袭击中，乌方所用均为空中无人机，未检索到使用水面无人艇的记录。损伤说法主要来自SBU匿名消息源和乌方部队通报，至检索截止未检索到俄方官方承认或3—4月间独立卫星图像佐证。两舰此后在2026年8月12日再次遇袭（见下一案），开源分析称这是两舰2026年内第三次被击中。",
+  "defense_effect_cn": "4月6日案例显示舰载防空在港内对低空无人机的拦截失败：护卫舰发射了防空导弹仍被命中。停泊状态下的舰艇雷达视界受港区建筑和地形遮挡，反应时间压缩，昂贵的舰空导弹对低成本无人机的交换比不利。3月2日热诱饵与干扰物发射装置殉爆，说明舰面外露设备在无人机打击下易引发次生损伤。",
+  "claims_compare_cn": "SBU消息源（3月5日报道）：“埃森海军上将”号上层建筑被击中，雷达/电子战受损，起火约18小时，无法发射“口径”。乌总参（3月6日，据二手来源）：两舰受损。乌无人系统部队（4月6日）：命中“马卡罗夫海军上将”号，先误报舰名后更正。俄方：未检索到官方表态。独立证据：3—4月间未检索到。",
+  "losses_cn": "俄方：“埃森海军上将”号受损（乌方消息源称“口径”发射能力丧失）；“马卡罗夫海军上将”号受损（乌方口径，程度未明）。人员伤亡未检索到公开记录。乌方：待核。",
+  "analysis_cn": "黑海舰队主力护卫舰东撤新罗西斯克后，在港内遭到乌方远程无人机反复袭击，打击方式由早期巡航导弹/无人艇转向更低成本的空中无人机。指挥官首报舰名错误、随后更正，显示乌方对港内具体舰艇的识别仍依赖事后核对。本案证据层级较低，应与8月12日卫星图像案例配合使用。",
+  "confidence": "C",
+  "sources": [
+   {
+    "publisher": "Euromaidan Press（欧洲广场新闻）",
+    "title": "Russia's frigate Admiral Essen can no longer fire Kalibr missiles after Ukrainian strike, SBU sources confirm",
+    "title_cn": "SBU消息源证实：俄“埃森海军上将”号护卫舰遇袭后已无法发射“口径”导弹",
+    "author": "Euromaidan Press（援引SBU消息源）",
+    "date": "2026-03-05",
+    "url": "https://euromaidanpress.com/2026/03/05/russias-frigate-admiral-essen-can-no-longer-fire-kalibr-missiles-after-ukrainian-strike-sbu-sources-confirm/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "Russian frigate Admiral Essen",
+    "title_cn": "俄罗斯护卫舰“埃森海军上将”号（条目）",
+    "author": "Wikipedia编者",
+    "date": "检索时版本（2026-10）",
+    "url": "https://en.wikipedia.org/wiki/Russian_frigate_Admiral_Essen",
+    "type": "其他"
+   },
+   {
+    "publisher": "Kyiv Post（基辅邮报）",
+    "title": "（标题待核；检索结果中涉及“马卡罗夫海军上将”号4月6日遇袭）",
+    "title_cn": "待核",
+    "author": "Kyiv Post",
+    "date": "2026-04（推定，待核）",
+    "url": "https://www.kyivpost.com/post/73338",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Insider（内幕）",
+    "title": "（标题待核）",
+    "title_cn": "待核",
+    "author": "The Insider",
+    "date": "2026（具体日未核）",
+    "url": "https://theins.press/en/news/291167",
+    "type": "其他"
+   },
+   {
+    "publisher": "GlobalMilitary.net",
+    "title": "（原题待核；URL意为“俄黑海‘口径’护卫舰2026年内三度被击中”）",
+    "title_cn": "俄黑海“口径”护卫舰2026年内三度被击中",
+    "author": "GlobalMilitary.net",
+    "date": "2026-08（推定）",
+    "url": "https://www.globalmilitary.net/news/russia-kalibr-frigates-black-sea-hit-three-times-2026/",
+    "type": "OSINT"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://en.wikipedia.org/wiki/Russian_frigate_Admiral_Essen",
+    "file_name": "",
+    "desc_cn": "维基百科“埃森海军上将”号条目（含该舰图片，Commons文件名待核）",
+    "date": "",
+    "credit": "见条目",
+    "license": "待核",
+    "verified": false
+   },
+   {
+    "file_page": "https://en.wikipedia.org/wiki/Russian_frigate_Admiral_Makarov",
+    "file_name": "",
+    "desc_cn": "维基百科“马卡罗夫海军上将”号条目（含该舰图片，Commons文件名待核）",
+    "date": "",
+    "credit": "见条目",
+    "license": "待核",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:%C2%AB%D0%90%D0%B4%D0%BC%D0%B8%D1%80%D0%B0%D0%BB_%D0%AD%D1%81%D1%81%D0%B5%D0%BD%C2%BB.jpg",
+    "file_name": "«Адмирал Эссен».jpg",
+    "desc_cn": "11356R型护卫舰“埃森海军上将”号舰影（非事发影像；检索摘要称该图说明将其称为“警戒舰”，拍摄时间待核）",
+    "date": "",
+    "credit": "",
+    "license": "",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Admiral_Essen_ship_(July_2016).jpg",
+    "file_name": "Admiral Essen ship (July 2016).jpg",
+    "desc_cn": "“埃森海军上将”号护卫舰（2016年7月，非事发影像）。所属分类：Category:Admiral Grigorovich class frigates",
+    "date": "2016-07（据文件名）",
+    "credit": "",
+    "license": "",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "“埃森海军上将”号起火持续": "约18小时（SBU消息源）",
+   "受损护卫舰": "2艘（乌方口径）",
+   "“埃森海军上将”号载弹": "8枚“口径”"
+  }
+ },
+ {
+  "case_key": "bs_novorossiysk_2026_08_12",
+  "category": "周边港口",
+  "title_cn": "15类武器异构齐袭新罗西斯克，四舰受损",
+  "subtitle_cn": "2026年8月12日 乌克兰以无人机、“帕利亚尼察”喷气无人机、“海王星”导弹及海上无人平台联合打击新罗西斯克海军基地与港口",
+  "date_start": "2026-08-12",
+  "date_end": "2026-08-13",
+  "location_cn": "俄罗斯新罗西斯克海军基地、港口泊位及谢斯哈里斯石油码头（Novorossiysk）",
+  "lat": 44.7,
+  "lon": 37.8,
+  "region": "黑海",
+  "attacker": "乌克兰国防军总参谋部与乌克兰安全局（SBU）联合行动（泽连斯基、乌总参、SBU通报）",
+  "defender": "俄罗斯黑海舰队新罗西斯克基地、港口防空体系（含S-300）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中",
+   "水面"
+  ],
+  "patterns": [
+   "异构",
+   "集群",
+   "饱和"
+  ],
+  "attack_means_cn": "泽连斯基称首次在一次行动中组合使用超过15种打击系统，包括“帕利亚尼察”（Palianytsia）喷气无人机、“佩克洛”（Peklo）无人机、远程型“海王星”导弹及一组海上无人平台/无人艇；具体数量待核。",
+  "defense_means_cn": "港口防空系统（乌方称S-300系统30N6E雷达被命中）；新罗西斯克市长称防空系统启动；俄国防部称当夜共拦截502架乌方作战无人机（德新社报道，为当夜全境总数，未单列新罗西斯克方向）；舰艇与港口方向的拦截数据未检索到。",
+  "narrative_cn": "2026年8月12日凌晨，乌克兰对俄黑海舰队主要基地新罗西斯克发动大规模联合打击。新罗西斯克市长安德烈·克拉夫琴科（Andrey Kravchenko）通报，当夜发布导弹和无人机警报，城市遭无人艇攻击，防空系统启动，无人机残骸落在6栋居民楼上，初步报告有伤亡。\n\n乌克兰总统泽连斯基称，此次行动首次在一次打击中组合使用了超过15种打击系统，包括“帕利亚尼察”和“佩克洛”无人机、远程型“海王星”导弹和一组海上无人平台。SBU称，乌方无人机、“帕利亚尼察”喷气无人机、“海王星”导弹和海上平台发射的打击系统成功命中指定目标；乌总参谋部与SBU确认此为联合行动。乌总参在Telegram通报，4艘舰艇遭不同程度损伤：11356R型护卫舰“马卡罗夫海军上将”号（Admiral Makarov，黑海舰队旗舰）和“埃森海军上将”号（Admiral Essen），22160型巡逻舰“瓦西里·贝科夫”号（Vasily Bykov），以及一艘“暴徒-M”（Buyan-M）型小型导弹舰；两艘护卫舰均为“口径”导弹载舰。报道还称S-300系统的30N6E雷达、港口一处码头上的发射阵地、谢斯哈里斯石油码头区域及港内3个泊位被击中。\n\nNaval News刊发Vantor卫星图像分析，判断两艘护卫舰均受中等程度损伤，命中集中在舰首垂直发射系统（VLS）附近并引发火灾，损伤程度足以使其VLS失效。记者杰克·爱泼斯坦（Jake Epstein）在X上发布Vantor图像，称3艘护卫舰和1艘巡逻舰受损，另有2艘潜艇可能受损。俄方Telegram频道“军事情报员”（Military Informant）称卫星图像显示“马卡罗夫海军上将”号舰首上甲板出现破洞；Militarnyi援引开源账号称“埃森海军上将”号UKSK 3S14八联装“口径”发射模块和“要求-M”作战信息控制系统受损。亲俄频道“克里米亚之风”（Krymsky Veter）称两舰将至少一年无法服役。《海事执行官》则称，独立获取的卫星图像显示损伤并非灾难性，截至周三未见目标起火或下沉。\n\n补充口径：据德新社，俄国防部称当夜全境拦截502架乌方无人机，未提舰艇损伤；克拉斯诺达尔边疆区行政长官称3人死亡。开源团体Exilenova+另称扫雷舰、侦察船受损；有开源分析称两艘护卫舰已是年内第三次被击中。9月9日该港再次遇袭（见下一案）。",
+  "defense_effect_cn": "新罗西斯克是黑海舰队为躲避克里米亚打击而集中的“后方基地”，本次至少4艘水面舰艇同时受损，说明该基地防空与港口警戒在多类型、多方向同时来袭时出现饱和。乌方称S-300雷达被命中，表明攻击方先压制或同时打击防空传感器。防空拦截产生的残骸落入6栋居民楼，显示城区内港口防空的附带风险。俄国防部只公布当夜全境拦截502架无人机的总数，未说明新罗西斯克方向的拦截情况和舰艇损伤；大量拦截宣称与港内多舰受损并存，说明拦截总数不能反映要地防护效果。",
+  "claims_compare_cn": "乌总参/SBU/泽连斯基（8月12日）：4舰受损，并命中S-300雷达、码头发射阵地、谢斯哈里斯码头区域与3个泊位。Naval News（Vantor图）：两护卫舰中等损伤，VLS可能失效。爱泼斯坦：3护卫舰+1巡逻舰受损，2潜艇可能受损。《海事执行官》：损伤非灾难性。“克里米亚之风”：两舰至少停用一年。市长克拉夫琴科：无人艇来袭、居民楼受损、有伤亡。俄国防部（据德新社）：当夜全境拦截502架无人机，未提舰艇损伤。克拉斯诺达尔边疆区行政长官：3人死亡。Exilenova+：两护卫舰及扫雷舰、侦察船、巡逻舰受损。分歧主要在损伤严重程度与受损舰数。",
+  "losses_cn": "俄方：护卫舰2艘（“马卡罗夫海军上将”号、“埃森海军上将”号）中等损伤、VLS可能失效（Naval News卫星图分析）；巡逻舰1艘、导弹舰1艘受损（乌方口径）；S-300雷达1部受损（乌方口径）；居民楼6栋受损（市长口径）；3人死亡（克拉斯诺达尔边疆区行政长官口径）；扫雷舰、侦察船另有受损（Exilenova+口径）。乌方：待核。",
+  "analysis_cn": "本案是本组案例中异构程度最高的一次：空中（喷气无人机、常规无人机）、导弹（“海王星”）与水面无人平台在同一时段对同一港口发起攻击，并伴随对防空雷达的打击。命中集中于护卫舰舰首VLS，显示攻击方意在消除“口径”发射能力，而非单纯击沉舰艇。对港口防御的启示：舰队集中于单一后方基地，会使对方的打击资源同样集中；防空传感器被压制后，港内停泊舰艇对多域来袭几乎没有自卫余地。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Naval News",
+    "title": "Ukrainian Drone Strike Damages Russian Frigates in Novorossiysk",
+    "title_cn": "乌克兰无人机打击致新罗西斯克俄护卫舰受损",
+    "author": "Naval News",
+    "date": "2026-08（具体日未核）",
+    "url": "https://www.navalnews.com/naval-news/2026/08/ukrainian-drone-strike-russian-frigates-novorossiysk/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Kyiv Post（基辅邮报）",
+    "title": "Satellite Images Reveal Damage to 2 Russian Frigates After Ukraine's Novorossiysk Strike",
+    "title_cn": "卫星图像显示乌袭击新罗西斯克后两艘俄护卫舰受损",
+    "author": "Kyiv Post",
+    "date": "2026-08（具体日未核）",
+    "url": "https://www.kyivpost.com/post/82729",
+    "type": "其他"
+   },
+   {
+    "publisher": "Euromaidan Press（欧洲广场新闻）",
+    "title": "Russia pulled its fleet back to Novorossiysk to keep it safe. Ukraine hit it there with 15 kinds of weapons at once",
+    "title_cn": "俄方将舰队撤至新罗西斯克以求安全，乌方以15类武器同时打击",
+    "author": "Euromaidan Press",
+    "date": "2026-08-13",
+    "url": "https://euromaidanpress.com/2026/08/13/russia-pulled-its-fleet-back-to-novorossiysk-to-keep-it-safe-ukraine-hit-it-there-with-15-kinds-of-weapons-at-once/",
+    "type": "其他"
+   },
+   {
+    "publisher": "LIGA.net",
+    "title": "General Staff: Ukraine hit four Russian warships in Novorossiysk",
+    "title_cn": "乌总参：乌军在新罗西斯克命中四艘俄军舰",
+    "author": "LIGA.net（援引乌总参谋部）",
+    "date": "2026-08-12（推定）",
+    "url": "https://news.liga.net/en/amp/war/news/general-staff-ukraine-hit-four-russian-warships-in-novorossiysk",
+    "type": "其他"
+   },
+   {
+    "publisher": "UNN（乌克兰独立新闻社）",
+    "title": "The General Staff reported that four Russian ships were hit in Novorossiysk, two of them Kalibr missile carriers",
+    "title_cn": "乌总参：新罗西斯克4艘俄舰被击中，其中两艘为“口径”导弹载舰",
+    "author": "UNN",
+    "date": "2026-08-12（推定）",
+    "url": "https://unn.ua/en/news/the-general-staff-reported-that-four-russian-ships-were-hit-in-novorossiysk-two-of-them-kalibr-missile-carriers",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Censor.NET",
+    "title": "Ukraine war latest: Ukraine strikes four Russian warships in Novorossiysk",
+    "title_cn": "乌克兰战事：乌军打击新罗西斯克四艘俄军舰",
+    "author": "Censor.NET",
+    "date": "2026-08-12（推定）",
+    "url": "https://censor.net/en/news/4018113/ukraine-war-latest-ukraine-strikes-four-russian-warships-in-novorossiysk",
+    "type": "其他"
+   },
+   {
+    "publisher": "Censor.NET",
+    "title": "Defence Forces attack on Novorossiysk: traces of fire detected at Russian naval base. SATELLITE IMAGES",
+    "title_cn": "国防军袭击新罗西斯克：卫星图像显示俄海军基地火灾痕迹",
+    "author": "Censor.NET",
+    "date": "2026-08（具体日未核）",
+    "url": "https://censor.net/en/photonews/4018123/fire-traces-seen-at-novorossiysk-naval-base-from-space",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Maritime Executive（海事执行官）",
+    "title": "Ukraine Confirms Hits on Four Russian Warships at Novorossiysk",
+    "title_cn": "乌克兰确认命中新罗西斯克四艘俄军舰",
+    "author": "The Maritime Executive",
+    "date": "2026-08（具体日未核）",
+    "url": "https://maritime-executive.com/article/ukraine-confirms-hits-on-four-russian-warships-at-novorossiysk",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Militarnyi",
+    "title": "Russia May Have Lost Two Kalibr Missile Carriers — Admiral Makarov and Admiral Essen",
+    "title_cn": "俄方或失去两艘“口径”载舰——“马卡罗夫海军上将”号与“埃森海军上将”号",
+    "author": "Militarnyi",
+    "date": "2026-08（具体日未核）",
+    "url": "https://militarnyi.com/en/news/russia-may-have-lost-two-kalibr-missile-carriers-admiral-makarov-and-admiral-essen/",
+    "type": "其他"
+   },
+   {
+    "publisher": "UNITED24 Media",
+    "title": "Russia may have lost two key Kalibr missile carriers in Novorossiysk strike",
+    "title_cn": "俄方或在新罗西斯克遭袭中失去两艘关键“口径”载舰",
+    "author": "UNITED24 Media",
+    "date": "2026-08（具体日未核）",
+    "url": "https://united24media.com/war-in-ukraine/russia-may-have-lost-two-key-kalibr-missile-carriers-in-novorossiysk-strike-21859",
+    "type": "其他"
+   },
+   {
+    "publisher": "Defence Blog",
+    "title": "Satellite images confirm damage to two Russian missile frigates",
+    "title_cn": "卫星图像证实两艘俄导弹护卫舰受损",
+    "author": "Defence Blog",
+    "date": "2026-08（具体日未核）",
+    "url": "https://defence-blog.com/satellite-images-confirm-damage-to-two-russian-missile-frigates/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "X（杰克·爱泼斯坦帖文）",
+    "title": "New satellite imagery shows damage at Russia's naval base in Novorossiysk today following a large-scale Ukrainian drone and missile attack",
+    "title_cn": "新卫星图像显示乌大规模无人机和导弹袭击后新罗西斯克海军基地受损",
+    "author": "Jake Epstein（图源 Vantor）",
+    "date": "2026-08-12（推定）",
+    "url": "https://x.com/byjepstein/status/2087602432528261287",
+    "type": "OSINT"
+   },
+   {
+    "publisher": "LIGA.net",
+    "title": "Novorossiysk Was Attacked by Drones: Debris from the Downed Drones Fell on Houses – Video",
+    "title_cn": "新罗西斯克遭无人机袭击：被击落无人机残骸落在民房上（视频）",
+    "author": "LIGA.net（援引新罗西斯克市长）",
+    "date": "2026-08-12（推定）",
+    "url": "https://news.liga.net/en/war/news/novorossiysk-was-attacked-by-drones-debris-from-the-downed-drones-fell-on-houses-video",
+    "type": "其他"
+   },
+   {
+    "publisher": "Qatar Tribune（卡塔尔论坛报，转载德新社）",
+    "title": "Ukraine strikes Russian port of Novorossiysk",
+    "title_cn": "乌克兰打击俄新罗西斯克港",
+    "author": "dpa（德新社）",
+    "date": "2026-08-13（推定，据配图日期）",
+    "url": "https://www.qatar-tribune.com/article/248572/world/ukraine-strikes-russian-port-of-novorossiysk",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Militarnyi",
+    "title": "Two Frigates, Minesweeper, Reconnaissance and Patrol Ships Damaged at Russian Naval Base in Novorossiysk — Exilenova+",
+    "title_cn": "Exilenova+：新罗西斯克俄海军基地两艘护卫舰及扫雷舰、侦察船、巡逻舰受损",
+    "author": "Militarnyi（援引Exilenova+）",
+    "date": "2026-08（具体日未核）",
+    "url": "https://militarnyi.com/en/news/two-frigates-minesweeper-reconnaissance-and-patrol-ships-damaged-at-russian-naval-base-in-novorossiysk-exilenova/",
+    "type": "OSINT"
+   },
+   {
+    "publisher": "GlobalMilitary.net",
+    "title": "（原题待核；URL意为“俄黑海‘口径’护卫舰2026年内三度被击中”）",
+    "title_cn": "俄黑海“口径”护卫舰2026年内三度被击中",
+    "author": "GlobalMilitary.net",
+    "date": "2026-08（推定）",
+    "url": "https://www.globalmilitary.net/news/russia-kalibr-frigates-black-sea-hit-three-times-2026/",
+    "type": "OSINT"
+   },
+   {
+    "publisher": "Shelter（乌克兰）",
+    "title": "（原题待核；URL意为“总参确认在新罗西斯克命中四艘俄军舰”）",
+    "title_cn": "乌总参确认在新罗西斯克命中四艘俄军舰",
+    "author": "Shelter",
+    "date": "2026-08-12（推定）",
+    "url": "https://shelter.in.ua/en/viyna/henshtab-pidtverdyv-urazennia-chotyryokh-viyskovykh-korabliv-rf-u-novorosiysku",
+    "type": "其他"
+   },
+   {
+    "publisher": "UNITED24 Media",
+    "title": "（原题待核；URL意为“乌大规模打击新罗西斯克海军基地，四艘俄军舰受损”）",
+    "title_cn": "乌大规模打击新罗西斯克海军基地，四艘俄军舰受损",
+    "author": "UNITED24 Media",
+    "date": "2026-08-12（推定）",
+    "url": "https://united24media.com/war-in-ukraine/four-russian-warships-damaged-in-mass-ukrainian-strike-on-novorossiysk-naval-base-21630",
+    "type": "其他"
+   },
+   {
+    "publisher": "Newsweek（新闻周刊）",
+    "title": "（原题待核；URL意为“乌克兰重创普京黑海据点的俄舰队”）",
+    "title_cn": "乌克兰重创俄黑海据点舰队",
+    "author": "Newsweek",
+    "date": "2026-08（具体日未核）",
+    "url": "https://www.newsweek.com/ukraine-hammers-russian-fleet-in-putin-black-sea-stronghold-12317953",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://x.com/byjepstein/status/2087602432528261287",
+    "file_name": "",
+    "desc_cn": "Vantor卫星图像：新罗西斯克海军基地遇袭当日，护卫舰舰首VLS附近火损痕迹",
+    "date": "2026-08-12",
+    "credit": "Vantor（经Jake Epstein发布）",
+    "license": "版权归Vantor",
+    "verified": false
+   },
+   {
+    "file_page": "https://www.navalnews.com/naval-news/2026/08/ukrainian-drone-strike-russian-frigates-novorossiysk/",
+    "file_name": "",
+    "desc_cn": "Naval News刊发的Vantor卫星图像分析：“埃森海军上将”号、“马卡罗夫海军上将”号舰首VLS区域损伤标注",
+    "date": "2026-08",
+    "credit": "Vantor / Naval News",
+    "license": "版权归Vantor",
+    "verified": false
+   },
+   {
+    "file_page": "https://censor.net/en/photonews/4018123/fire-traces-seen-at-novorossiysk-naval-base-from-space",
+    "file_name": "",
+    "desc_cn": "卫星图像：新罗西斯克海军基地火灾痕迹（Censor.NET图片报道）",
+    "date": "2026-08",
+    "credit": "见原报道",
+    "license": "版权未明",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Admiral_Essen_ship_(July_2016).jpg",
+    "file_name": "Admiral Essen ship (July 2016).jpg",
+    "desc_cn": "“埃森海军上将”号护卫舰（2016年7月，非事发影像）。所属分类：Category:Admiral Grigorovich class frigates",
+    "date": "2016-07（据文件名）",
+    "credit": "",
+    "license": "",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Novorossiysk_port_2022.jpg",
+    "file_name": "Novorossiysk port 2022.jpg",
+    "desc_cn": "新罗西斯克港全景（作港区背景图，非事发影像）。相关分类：Category:Port of Novorossiysk、Category:Novorossiysk naval base、Category:Tsemes Bay",
+    "date": "2022（据文件名）",
+    "credit": "",
+    "license": "",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "打击系统种类": "超过15种（泽连斯基口径）",
+   "受损舰艇": "4艘（乌总参口径；Naval News确认至少4艘水面舰）",
+   "受损居民楼": "6栋（新罗西斯克市长口径）",
+   "受损泊位": "3个（报道口径）",
+   "俄方宣称拦截": "502架无人机（俄国防部，当夜全境总数，德新社报道）",
+   "死亡": "3人（克拉斯诺达尔边疆区行政长官口径）",
+   "两护卫舰2026年内被击次数": "3次（开源分析口径）"
+  }
+ },
+ {
+  "case_key": "bs_novorossiysk_2026_09_09",
+  "category": "周边港口",
+  "title_cn": "新罗西斯克军港与燃油码头再遭夜袭",
+  "subtitle_cn": "2026年9月9日 乌克兰国防军打击俄罗斯新罗西斯克海军基地与海港燃油码头",
+  "date_start": "2026-09-09",
+  "date_end": "",
+  "location_cn": "俄罗斯新罗西斯克海军基地及海港燃油码头（Novorossiysk）",
+  "lat": 44.7,
+  "lon": 37.8,
+  "region": "黑海",
+  "attacker": "乌克兰国防军（乌克兰总参谋部通报）",
+  "defender": "俄罗斯黑海舰队新罗西斯克基地及港口、城区防空体系",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "无人机（俄方报道口径）；型号、数量未检索到可确认对应本次的公开记录。",
+  "defense_means_cn": "港口与城区防空（拦截数据未检索到公开记录）。",
+  "narrative_cn": "2026年9月9日夜，乌克兰总参谋部通报，乌克兰国防军部队打击了新罗西斯克海军基地，基地和海港燃油码头出现火情，损伤程度正在评估。这距8月12日的大规模联合打击（见“15类武器异构齐袭新罗西斯克”一案）不到一个月。\n\n俄方报道称，乌克兰无人机于周三夜间袭击新罗西斯克，造成包括1名儿童在内的4人死亡，燃油码头和一栋公寓楼起火；当地官员通报4人死亡、至少29人受伤。乌克兰政府方面称多艘军舰被击中，其中包括一艘“口径”导弹载舰（舰名未检索到）。上述报道正文未标明日期，9月9日恰为周三，本组据此对应到本次袭击，仍需核实。\n\n截至检索时，未检索到俄国防部对本次拦截数量的通报，也未检索到对应本次袭击的卫星图像分析。2026年新罗西斯克已多次遇袭：3月初和4月6日护卫舰遇袭（见“无人机连续袭击新罗西斯克两艘‘口径’护卫舰”一案）、8月12日四舰受损，以及本次打击。协调方提供的“2026年5月新罗西斯克打击”线索，本轮检索未找到公开记录。",
+  "defense_effect_cn": "不到一个月内新罗西斯克再次被突破，基地与燃油码头起火，城区伤亡较多，说明8月12日之后港口防空未能恢复或补强到足以阻止后续袭击。城区与港区相邻，防空交战和无人机坠落导致平民伤亡，是港口防空在城市环境中难以避免的附带代价。舰艇受损情况缺少独立证据。",
+  "claims_compare_cn": "乌克兰总参谋部（9月9日）：命中新罗西斯克海军基地，基地与燃油码头起火，损伤评估中。乌政府方面（据报道）：多艘军舰被击中，含1艘“口径”载舰。俄方（据报道）：乌无人机袭击致4人死亡（含1名儿童）、至少29人受伤，燃油码头和公寓楼起火。俄国防部拦截口径：未检索到。双方对“袭击发生、燃油码头起火”一致；舰艇受损只有乌方声称。",
+  "losses_cn": "俄方：燃油码头起火（双方口径）；多艘军舰被击中（乌方口径，未证实）；4人死亡、至少29人受伤（俄方地方官员口径）。乌方：未检索到公开记录。",
+  "analysis_cn": "8月12日至9月9日新罗西斯克两次遇袭，打击对象兼顾舰艇与能源设施。舰队东撤后集中于单一港口，使对手可以在短周期内反复打击，同一港口的防空与损管资源持续消耗。本案证据以双方简短通报为主，舰艇损伤需要后续卫星图像核实。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Censor.NET",
+    "title": "Enemy naval base 'Novorossiysk' has been struck, - General Staff",
+    "title_cn": "乌总参：敌新罗西斯克海军基地被击中",
+    "author": "Censor.NET（援引乌克兰总参谋部）",
+    "date": "2026-09-09（推定）",
+    "url": "https://censor.net/en/news/4022535/defense-forces-struck-a-russian-naval-base-in-novorossiysk",
+    "type": "其他"
+   },
+   {
+    "publisher": "Armed Forces of Ukraine（乌克兰武装部队官网）",
+    "title": "（原题待核；URL意为“新罗西斯克海军基地被击中”）",
+    "title_cn": "新罗西斯克海军基地被击中",
+    "author": "乌克兰武装部队",
+    "date": "2026（具体日未核，对应8月12日或9月9日通报待核）",
+    "url": "https://zsu.gov.ua/en/news/novorossiysk-naval-base-hit",
+    "type": "官方"
+   },
+   {
+    "publisher": "Ground News（新闻聚合）",
+    "title": "Russia says Ukrainian drone attack killed four in Novorossiysk",
+    "title_cn": "俄方称乌无人机袭击致新罗西斯克4人死亡",
+    "author": "Ground News（聚合多家报道）",
+    "date": "具体日未核（文内称“周三”，推定2026-09-09）",
+    "url": "https://ground.news/article/9520ec9f-d9e2-4af3-859a-790049a7ccf0",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Novorossiysk_port_2022.jpg",
+    "file_name": "Novorossiysk port 2022.jpg",
+    "desc_cn": "新罗西斯克港全景（作港区背景图，非事发影像）。相关分类：Category:Port of Novorossiysk、Category:Novorossiysk naval base、Category:Tsemes Bay",
+    "date": "2022（据文件名）",
+    "credit": "",
+    "license": "",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "死亡": "4人，含1名儿童（俄方地方官员口径）",
+   "受伤": "至少29人（俄方地方官员口径）",
+   "距上次大规模打击": "28天（2026-08-12至09-09）"
+  }
+ }
+]

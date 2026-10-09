@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"
+     width="512" height="512" role="img" aria-label="鸿眼 HONGEYE">
+  <title>鸿眼 HONGEYE 品牌标</title>
+
+  <style>
+    svg {
+      --navy:   #F7F4EC;   /* 藏青 · 飞翼主体 */
+      --accent: #2E93D6; /* 飞鸿蓝 · 上弧 */
+      --brass:  #A8842F;  /* 黄铜金 · 下弧 */
+      --warn:   #E08A2E;   /* 预警橙 · 指示节点 */
+      --w-ring: 16.0;
+      --w-tail: 9.0;
+    }
+    .ring { fill:none; stroke-linecap:round; stroke-width:var(--w-ring); }
+    .tail { fill:none; stroke-linecap:round; stroke-width:var(--w-tail); }
+    .ring-up   { stroke:var(--accent); }
+    .ring-down { stroke:var(--brass); }
+    .tail-up   { stroke:var(--accent); opacity:.85; }
+    .tail-down { stroke:var(--brass);  opacity:.85; }
+    .wing      { fill:var(--navy); }
+    .warn-dot  { fill:var(--warn); }
+    .warn-ping { fill:none; stroke:var(--warn); stroke-width:2.5; opacity:.4; }
+  </style>
+
+  <rect id="bg" width="512" height="512" fill="#12233B"/>
+  <g id="视野环">
+    <path class="ring ring-down" d="M 71.82 323.04 A 196.00 196.00 0 0 0 440.18 323.04"/>
+    <path class="ring ring-up"   d="M 440.18 188.96 A 196.00 196.00 0 0 0 71.82 188.96"/>
+  </g>
+  <g id="旋涡尾">
+    <path class="tail tail-down" d="M 383.50 290.16 A 132.00 132.00 0 0 1 340.85 357.12"/>
+    <path class="tail tail-up"   d="M 128.50 221.84 A 132.00 132.00 0 0 1 171.15 154.88"/>
+  </g>
+  <g id="飞翼">
+    <path class="wing" d="M 256.00 160.00 L 406.00 300.00 L 374.00 272.00 L 336.00 306.00 L 296.00 276.00 L 256.00 312.00 L 216.00 276.00 L 176.00 306.00 L 138.00 272.00 L 106.00 300.00 Z"/>
+  </g>
+  <g id="预警指示">
+    <circle class="warn-ping" cx="376.67" cy="101.55" r="25"/>
+    <circle class="warn-dot"  cx="376.67" cy="101.55" r="13"/>
+  </g>
+</svg>

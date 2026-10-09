@@ -1,0 +1,2714 @@
+[
+ {
+  "case_key": "rs_galaxy_leader_hijack_2023_11_19",
+  "category": "远海机动编组",
+  "title_cn": "直升机机降劫持商船，船员被扣14个月",
+  "subtitle_cn": "2023-11-19 红海荷台达外海 胡塞武装直升机机降劫持'银河领袖'号（Galaxy Leader）汽车运输船",
+  "date_start": "2023-11-19",
+  "date_end": "2025-07-06",
+  "location_cn": "红海南部荷台达（Hodeidah）外海（后押往荷台达、萨利夫 Al Salif）",
+  "lat": 14.8,
+  "lon": 42.6,
+  "coord_note": "劫持点坐标为按'荷台达附近'估算的近似值；荷台达港约 14.80N 42.95E",
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（Ansar Allah）海军/特种部队，使用直升机机降",
+  "defender": "'银河领袖'号（Galaxy Leader）：巴哈马籍汽车运输（滚装）船，运营方为马恩岛 Ray Car Carriers，与以色列船运业人士存在所有权关联；无护航",
+  "outcome": "遭偷袭受损",
+  "domains": [
+   "空中",
+   "水面"
+  ],
+  "patterns": [
+   "单平台",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "直升机载武装人员对航行中商船实施空降/机降登临。胡塞次日公布视频：一架涂有也门与巴勒斯坦解放组织旗帜的直升机落于船上，武装人员跳上甲板。本轮检索未见直升机型号、人数的权威记录。",
+  "defense_means_cn": "公开信息未见该船遭登临前的武装保安、预警或舰艇响应记录（未检索到公开记录）。事发时该船空载（压载）航行，无货物。",
+  "narrative_cn": "2023年11月19日，巴哈马籍汽车运输船'银河领袖'号（Galaxy Leader）在红海荷台达（Hodeidah）附近海域压载航行，航线为土耳其科尔菲兹（Körfez）至印度皮帕瓦夫（Pipavav）。胡塞武装当日发动登临行动，并于次日公开视频：一架挂有也门与巴勒斯坦解放组织旗帜的直升机在航行中的该船上空作业，持枪人员由直升机跳上甲板。该船由马恩岛 Ray Car Carriers 运营，与以色列船运业大亨存在所有权关联；货运媒体称其当时由日本邮船（NYK）租用。国际海事组织（IMO）的红海事件清单列该船为巴哈马籍滚装货船，船上25名船员（菲律宾17人、保加利亚2人、乌克兰3人、墨西哥2人、罗马尼亚1人）被扣为人质；也有报道称船上22人，德国 Hansa 称24人，人数口径不一。船舶随后被驶往荷台达，后转移至萨利夫（Al Salif）停泊，二者均为胡塞控制港口。以色列称此事为'伊朗恐怖行为'，伊朗否认介入。此后红海商船战役在约一年多时间内累计超过百次袭击，该船是胡塞第一次对商船的扣押。2025年1月22日，胡塞最高政治委员会宣布释放全部船员，由阿曼斡旋接收，胡塞将其与加沙停火及哈马斯请求相联系；部分媒体记为1月23日。2025年7月6日，以色列空军夜间袭击荷台达、拉斯伊萨（Ras Isa）、萨利夫三港，并称同时打击'银河领袖'号，将其定性为'胡塞恐怖政权的恐怖基础设施'；Maritime Executive 以图片报道称该船'部分沉没'。",
+  "defense_effect_cn": "该船无任何有效自卫：压载状态低速直行，近胡塞海岸线，遭直升机突袭后几乎没有反制窗口。公开记录中看不到登临前的预警、邻近舰艇响应或船上保安的信息，这一点本轮检索未能查到。事件的代价集中在人员与航运：25名船员被扣约14个月；航运公司此后对'以色列关联'船舶普遍回避红海。从防御角度看，直升机垂直登临对慢速、近岸、无护航商船的突然性极强，而此后胡塞转向导弹与无人艇，登临手段使用频率下降。",
+  "claims_compare_cn": "船员人数：IMO清单为25人；另有报道22人、Hansa 称24人。责任归属：胡塞称其针对以色列关联船舶并以此声援加沙；以方称系'伊朗恐怖行为'；伊朗否认。美方2023年12月称伊朗提供了行动与情报协助（据二手综述，美方原始声明本轮未检索到）。释放日期：多数媒体1月22日，部分记为1月23日。2025年7月以方称击中船舶并称其被改作'恐怖用途'，胡塞方面本轮检索未见对此的详细回应。",
+  "losses_cn": "人员：25名船员（口径见上）被扣约14个月，释放时未见伤亡报告。船舶：2025-07-06被以军打击后据Maritime Executive图片报道'部分沉没'，损失程度未见独立勘验。",
+  "analysis_cn": "这是胡塞商船战役中唯一一次直升机机降劫持，也是此后各类袭击中'人质化'手段的起点：扣人扣船既能展示行动能力，又可在谈判中换取政治条件，1年多后船员的释放与加沙停火直接挂钩。战术上，行动对象是慢速压载船，且位于胡塞海岸线能见距离内，对手几乎无预警时间；对防御方而言，更难处理的是事后：船与人质停在胡塞控制的港口内，公开信息中未见任何解救或收复尝试；以军在船员获释约5个月后才对该船动手。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "International Maritime Organization (国际海事组织)",
+    "title": "Incidents in the Red Sea - up to 14 March 2024",
+    "title_cn": "红海事件清单（截至2024年3月14日）",
+    "author": "IMO",
+    "date": "2024-03-14",
+    "url": "https://wwwcdn.imo.org/localresources/en/MediaCentre/HotTopics/Documents/Red Sea/Incidents in the Red Sea  - up to 14 March 2024.pdf",
+    "type": "官方"
+   },
+   {
+    "publisher": "JNS",
+    "title": "Yemen's Houthis publish footage of Galaxy Leader hijacking",
+    "title_cn": "胡塞公布'银河领袖'号劫持视频",
+    "author": "JNS",
+    "date": "2023-11-20",
+    "url": "https://www.jns.org/yemens-houthis-publish-footage-of-galaxy-leader-hijacking/",
+    "type": "专业媒体",
+    "date_note": "日期按事件次日推定，页面日期未在检索摘要中显示"
+   },
+   {
+    "publisher": "Al-Ahram (金字塔报)",
+    "title": "Yemen's Houthis hijacked an Israeli-owned vessel in the Red Sea",
+    "title_cn": "也门胡塞武装在红海劫持一艘以色列所有的船只",
+    "author": "Ahram Online",
+    "date": "2023-11-19",
+    "url": "https://english.ahram.org.eg/News/512512.aspx",
+    "type": "专业媒体",
+    "date_note": "日期按事件当日推定"
+   },
+   {
+    "publisher": "Al Arabiya English (阿拉伯卫星电视台)",
+    "title": "Yemen's Houthis release crew of Galaxy Leader after more than a year: Report",
+    "title_cn": "也门胡塞武装在一年多后释放'银河领袖'号船员",
+    "author": "Al Arabiya",
+    "date": "2025-01-22",
+    "url": "https://english.alarabiya.net/News/gulf/2025/01/22/yemen-s-houthis-release-crew-of-galaxy-leader-after-more-than-a-year-report",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Maritime Executive",
+    "title": "Galaxy Leader Crew Released After 14 Months Captivity by Houthis",
+    "title_cn": "'银河领袖'号船员被扣14个月后获释",
+    "author": "Maritime Executive",
+    "date": "2025-01-22",
+    "url": "https://maritime-executive.com/article/galaxy-leader-crew-released-after-14-months-captivity-by-houthis",
+    "type": "专业媒体",
+    "date_note": "日期按获释日推定"
+   },
+   {
+    "publisher": "USNI News",
+    "title": "Houthis Release Galaxy Leader Crew; Trump Designates Group a Foreign Terrorist Organization",
+    "title_cn": "胡塞释放'银河领袖'号船员；特朗普将该组织列为外国恐怖组织",
+    "author": "USNI News",
+    "date": "2025-01-22",
+    "url": "https://news.usni.org/?p=114302",
+    "type": "专业媒体",
+    "date_note": "日期按报道事件日推定"
+   },
+   {
+    "publisher": "Maritime Executive",
+    "title": "Photos: Hijacked Car Carrier Galaxy Leader Has Partially Sunk",
+    "title_cn": "图片：被劫持的汽车运输船'银河领袖'号已部分沉没",
+    "author": "Maritime Executive",
+    "date": "",
+    "url": "https://maritime-executive.com/article/photos-hijacked-car-carrier-galaxy-leader-has-partially-sunk",
+    "type": "专业媒体",
+    "date_note": "页面日期本轮检索未显示"
+   },
+   {
+    "publisher": "Kurdistan24",
+    "title": "Israel Launches Wave of Strikes on Yemen's Hodeida Port and Huthi Targets",
+    "title_cn": "以色列对也门荷台达港及胡塞目标发动一轮空袭",
+    "author": "Kurdistan24",
+    "date": "2025-07-07",
+    "url": "https://www.kurdistan24.net/en/story/850315/israel-launches-wave-of-strikes-on-yemens-hodeida-port-and-huthi-targets",
+    "type": "通讯社",
+    "date_note": "日期按事件次日推定"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Car_carrier_Galaxy_Leader.jpg",
+    "file_name": "Car_carrier_Galaxy_Leader.jpg",
+    "desc_cn": "NYK 运营的'银河领袖'号汽车运输船在德国不来梅港（Bremerhaven）停靠的照片（被劫前的港口场景）",
+    "date": "",
+    "credit": "",
+    "license": "未核实（检索结果未显示作者与许可，使用前须在 Commons 页面核实）",
+    "verified": true,
+    "note": "文件页URL及说明（NYK 运营、不来梅港）见于本轮检索结果；拍摄日期他组记作2007-11-07，本轮未见，不采用"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Galaxy_Leader_(ship,_2002)",
+    "file_name": "（Commons 分类页）Category:Galaxy Leader (ship, 2002)",
+    "desc_cn": "'银河领袖'号分类页，检索摘要称含2个文件，登记运营方 Nippon Yusen、船籍巴哈马，并记载劫持事件",
+    "date": "",
+    "credit": "",
+    "license": "各文件不一，使用前须核实",
+    "verified": true,
+    "note": "分类页见于本轮检索结果；其中2个文件的名称与内容未核实"
+   }
+  ],
+  "image_note": "第二轮在 Commons 检索到'银河领袖'号被劫前照片及分类页；Commons 无劫持过程图（Houthi 公布的视频截图版权不明，不收录）。",
+  "stats": {
+   "被扣船员": "25人（IMO清单；另有22、24人口径）",
+   "扣押时长": "约14个月（2023-11-19至2025-01-22）",
+   "船籍": "巴哈马",
+   "释放斡旋": "阿曼"
+  }
+ },
+ {
+  "case_key": "rs_rubymar_2024_02_18",
+  "category": "远海机动编组",
+  "title_cn": "反舰弹道导弹致散货船弃船沉没",
+  "subtitle_cn": "2024-02-18 至 03-02 亚丁湾—红海曼德海峡'鲁比马尔'号（Rubymar）散货船遭胡塞反舰弹道导弹击中后沉没",
+  "date_start": "2024-02-18",
+  "date_end": "2024-03-02",
+  "location_cn": "曼德海峡附近海域（Bab el-Mandeb）；来源对水域归属有'亚丁湾'与'红海'两种表述",
+  "lat": 13.0,
+  "lon": 43.2,
+  "coord_note": "近似值，按'曼德海峡/穆哈（Mokha）外海'估算",
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（以反舰弹道导弹打击）",
+  "defender": "'鲁比马尔'号（Rubymar）：伯利兹籍、英国所有的散货船，载约2万吨化肥；无护航",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "空中",
+   "岸基"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "反舰弹道导弹（ASBM）。美军中央司令部称2月18日该船被一枚反舰弹道导弹击中；法国海洋污染机构 Cedre 称机舱被两枚导弹击中。",
+  "defense_means_cn": "无舰载防空。船员弃船撤离（全部安全）；此后沿海无港口愿意接收拖带，船舶漂流约12天，于3月2日凌晨约2时15分沉没。",
+  "narrative_cn": "2024年2月18日，伯利兹籍、英国所有的散货船'鲁比马尔'号（Rubymar）在曼德海峡一带遭胡塞武装反舰弹道导弹打击。美国中央司令部（CENTCOM）称其被一枚反舰弹道导弹击中；法国海洋污染研究机构 Cedre 称机舱遭两枚导弹命中，数字有出入。船员全部撤离、无人员死亡。受损后，该船进水、拖带计划多次受阻：最近的吉布提（Djibouti）港因爆炸风险拒绝接收，经营方称'没有任何港口愿意接收该船'；也门政府表示愿意协助打捞并拖入港口；胡塞领导人则称，若换取救援物资车队进入加沙，可以拖带这艘'英国沉船'。一说该船在无人驾驶漂流中拖锚，2月26日前已漂移70公里以上，并可能损及海底光缆（来自二手综述，原始证据本轮未检索）。CENTCOM 称，该船于3月2日凌晨约2时15分沉没，被AP称为胡塞战役中首艘被彻底摧毁的商船。船载化肥吨位口径不一：CENTCOM 称约21,000吨，Cedre 称22,000吨，环保团体绿色和平（Greenpeace MENA）引用 CENTCOM 数字时为41,000吨，船舶经纪数据为18,000吨磷酸二铵/硫酸铵。沉没后，Cedre 与联合国委托评估称当时舱内燃油、化肥无泄漏迹象，沉船完整躺在海底，但提示大量化肥进入海水将引发富营养化、藻华。胡塞副外长 Hussein al-Ezzi 在沉没次日称将继续打击英国船只。",
+  "defense_effect_cn": "船舶本身无反导手段，生存依赖船员撤离与拖带，而拖带环节在政治和安全上全部失败：邻近港口拒收、胡塞将拖带与加沙援助挂钩，船舶漂流12天后自沉。可见反舰弹道导弹对商船的致命性不在一次命中，而在命中后缺乏可用的救助港与保险安排。CENTCOM 同时提示沉船对航道有水下碰撞风险。",
+  "claims_compare_cn": "CENTCOM 称2月18日被一枚反舰弹道导弹击中并于3月2日沉没；Cedre 称遭两枚导弹命中机舱，并将水域写作亚丁湾；AP 把事件写作红海曼德海峡一带。胡塞曾称该船被击中后'几乎立刻沉没'（被报道称为虚假），并在沉没后数日内未立即承认。化肥吨位：18,000吨（经纪数据）、21,000吨（CENTCOM 经爱尔兰 Agriland 转引）、22,000吨（Cedre）、41,000吨（绿色和平引 CENTCOM）。",
+  "losses_cn": "船舶全损（沉没）；船员全部撤离，无死亡；船载约18,000至41,000吨化肥随船沉入海底（口径见上）；可能的海底光缆损伤为二手说法，未经本轮检索证实。",
+  "analysis_cn": "该案例的关键在后半段：导弹只造成中度损伤，真正的沉没来自无处靠港、无法拖带的漂流。对攻击方而言，不需要连续命中，只要把受损船留在无人接手的状态，就能让它自行消失。对防御方，护航只能管到命中之前和人员撤离，已受损船舶的拖带与靠港取决于事先有无可接纳的泊位和拖船安排，这是本案暴露出的空白。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Euronews",
+    "title": "Ship hit earlier by Yemen's Houthi rebels sinks in Red Sea",
+    "title_cn": "此前被也门胡塞武装击中的船只在红海沉没",
+    "author": "Euronews",
+    "date": "2024-03-02",
+    "url": "https://www.euronews.com/2024/03/02/ship-hit-earlier-by-yemens-houthi-rebels-sinks-in-red-sea",
+    "type": "通讯社",
+    "date_note": "日期取自URL路径"
+   },
+   {
+    "publisher": "Agriland",
+    "title": "Missile strike sinks ship carrying 21,000t of fertiliser in Red Sea",
+    "title_cn": "导弹袭击击沉载2.1万吨化肥的红海船只",
+    "author": "Agriland",
+    "date": "2024-03-02",
+    "url": "https://www.agriland.ie/farming-news/missile-strike-sinks-ship-carrying-21000t-of-fertiliser-in-red-sea/",
+    "type": "专业媒体",
+    "date_note": "日期按事件日推定"
+   },
+   {
+    "publisher": "Arab News",
+    "title": "Houthis vow to sink more UK ships in the Red Sea",
+    "title_cn": "胡塞誓言击沉更多英国船只",
+    "author": "Arab News",
+    "date": "2024-03-03",
+    "url": "https://www.arabnews.com/node/2470321/amp",
+    "type": "通讯社",
+    "date_note": "日期按报道的'沉没次日'推定"
+   },
+   {
+    "publisher": "Cedre (法国海洋污染研究与实验中心)",
+    "title": "Rubymar",
+    "title_cn": "鲁比马尔（Spills 条目）",
+    "author": "Cedre",
+    "date": "",
+    "url": "https://wwz.cedre.fr/en/Resources/Spills/Spills/Rubymar",
+    "type": "官方",
+    "date_note": "页面日期本轮检索未显示"
+   },
+   {
+    "publisher": "L'Orient-Le Jour",
+    "title": "Sunken Rubymar cargo ship sits intact at the bottom of the Red Sea",
+    "title_cn": "沉没的'鲁比马尔'号完整躺在红海海底",
+    "author": "L'Orient-Le Jour",
+    "date": "",
+    "url": "https://today.lorientlejour.com/article/1370834/sunken-rubymar-cargo-ship-sits-intact-at-the-bottom-of-the-red-sea.html",
+    "type": "通讯社",
+    "date_note": "页面日期本轮检索未显示"
+   },
+   {
+    "publisher": "Greenpeace MENA",
+    "title": "Sunken Rubymar presents imminent danger to marine ecosystems",
+    "title_cn": "沉没的'鲁比马尔'号对海洋生态构成迫在眉睫的危险",
+    "author": "Greenpeace MENA",
+    "date": "",
+    "url": "https://www.greenpeace.org/mena/en/?p=13444",
+    "type": "其他",
+    "date_note": "页面日期本轮检索未显示"
+   },
+   {
+    "publisher": "Maritime Executive",
+    "title": "Video: Rubymar's Position is Precarious as Ship Becomes Political Pawn",
+    "title_cn": "视频：'鲁比马尔'号处境岌岌可危，沦为政治棋子",
+    "author": "Maritime Executive",
+    "date": "",
+    "url": "https://maritime-executive.com/article/video-rubymar-s-position-is-precarious-as-ship-becomes-political-pawn",
+    "type": "专业媒体",
+    "date_note": "页面日期本轮检索未显示（沉没前）"
+   },
+   {
+    "publisher": "Hellenic Shipping News",
+    "title": "Freight rates on notice after Rubymar sinks, first ship casualty of Red Sea crisis",
+    "title_cn": "'鲁比马尔'号沉没后运价受关注，红海危机首艘船舶损失",
+    "author": "Hellenic Shipping News",
+    "date": "2024-03-02",
+    "url": "https://www.hellenicshippingnews.com/?p=1030678",
+    "type": "专业媒体",
+    "date_note": "日期按事件日推定"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:MV_Rubymar_sinks_in_the_Red_Sea_on_2_March_2024.jpg",
+    "file_name": "MV Rubymar sinks in the Red Sea on 2 March 2024.jpg",
+    "desc_cn": "'鲁比马尔'号2024年3月2日在红海沉没的照片，1,329×748 像素、约85 KB（据分类页所列）",
+    "date": "2024-03-02",
+    "credit": "",
+    "license": "未核实",
+    "verified": false,
+    "note": "文件名及尺寸见于本轮检索结果中 Category:Rubymar 页文字；文件页URL按 Commons 命名规则由文件名推得，未在检索结果中直接出现；作者与许可未知"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:MV_Rubymar_oil_spill.jpg",
+    "file_name": "MV Rubymar oil spill.jpg",
+    "desc_cn": "'鲁比马尔'号溢油照片，640×400 像素、约58 KB（据分类页所列）",
+    "date": "",
+    "credit": "",
+    "license": "未核实",
+    "verified": false,
+    "note": "文件名及尺寸见于本轮检索结果中 Category:Rubymar 页文字；文件页URL由文件名推得，未在检索结果中直接出现；拍摄日期、作者、许可未知"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Rubymar_(ship,_1997)",
+    "file_name": "（Commons 分类页）Category:Rubymar (ship, 1997)",
+    "desc_cn": "'鲁比马尔'号分类页，检索摘要称含3个文件，记载1997年日本尾道造船所建造，2024年亚丁湾导弹打击与红海沉没",
+    "date": "",
+    "credit": "",
+    "license": "各文件不一，使用前须核实",
+    "verified": true,
+    "note": "分类页见于本轮检索结果"
+   }
+  ],
+  "image_note": "第二轮在 Commons 的 Category:Rubymar 页文字中见到两个文件名（沉没照、溢油照）；文件页URL由文件名推得，标 verified:false，需到 Commons 复核作者与许可。CENTCOM 受损照片仍待补查 centcom.mil。",
+  "stats": {
+   "首次命中": "2024-02-18（CENTCOM）",
+   "沉没": "2024-03-02 约02:15（CENTCOM）",
+   "漂流时长": "约12天",
+   "化肥吨位": "18,000–41,000吨（口径不一）",
+   "人员伤亡": "无（船员全部撤离）"
+  }
+ },
+ {
+  "case_key": "rs_true_confidence_2024_03_06",
+  "category": "远海机动编组",
+  "title_cn": "亚丁湾弹道导弹致3死，首次商船人员遇难",
+  "subtitle_cn": "2024-03-06 亚丁湾亚丁港外约50海里'真正信心'号（True Confidence）散货船遭胡塞反舰弹道导弹击中",
+  "date_start": "2024-03-06",
+  "date_end": "2024-03-09",
+  "location_cn": "亚丁湾，亚丁（Aden）港外约50海里",
+  "lat": 12.2,
+  "lon": 44.5,
+  "coord_note": "按'亚丁港外约50海里'估算的近似值",
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（反舰弹道导弹）",
+  "defender": "'真正信心'号（True Confidence）：巴巴多斯籍、利比里亚所有的散货船，约20至21名船员及3名武装保安",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中",
+   "岸基"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "反舰弹道导弹（CENTCOM 称一枚），自胡塞控制区发射。胡塞称船员无视其警告。",
+  "defense_means_cn": "无舰载防空；起火后船员弃船，印度海军介入救援（印方称救起21名船员）。",
+  "narrative_cn": "2024年3月6日，巴巴多斯籍、利比里亚所有的散货船'真正信心'号（True Confidence）在亚丁港外约50海里的亚丁湾航行时被一枚自胡塞控制区发射的反舰弹道导弹击中。美国中央司令部（CENTCOM）据船员报告称，船上3人死亡、至少4人受伤（其中3人伤势危重），船体严重受损。多家媒体称这是胡塞战役中商船上首次出现人员死亡。命中后船上起火，船员弃船；印度海军派舰救援，称救起21名船员；17名其余船员和3名武装保安随后被撤离。船员数量说法不一：一说20人（印度1、越南4、菲律宾15），印度海军称救起21人。遇难者国籍也有出入：一份报道称包括1名越南人和2名菲律宾人，菲律宾政府称2名遇难者为菲律宾人、另有2名重伤。胡塞宣布对此负责，称船员拒绝了他们的警告，CENTCOM 对此不予采信。The National 的报道标题称事件引发了'保护船员'的呼吁。",
+  "defense_effect_cn": "该船没有任何反导手段；船上3名武装保安对来袭弹道导弹没有可见作用（推断，公开资料未见保安行动记录）。人员死亡的出现，使红海—亚丁湾的风险从财产损失升级为人命风险。印度海军参与救援，说明区域内其他国家海军在救援环节发挥了作用，但公开资料中没有任何舰艇在命中前拦截该导弹的记录。",
+  "claims_compare_cn": "CENTCOM：一枚反舰弹道导弹，3死、至少4伤（3重伤），其为首次商船人员死亡。胡塞：已负责，称船员无视警告，但此说法 CENTCOM 未采信。船员人数：一说20人（1印度、4越南、15菲律宾），印度海军称救起21人。遇难者国籍：一份报道称1越南+2菲律宾，菲律宾政府称2名遇难者为菲律宾人且另有2名重伤。",
+  "losses_cn": "人员：3人死亡、至少4人受伤（CENTCOM 据船员报告），遇难者国籍口径不一。船舶：严重受损并起火，船员弃船；船舶最终处置本轮检索未见记录。",
+  "analysis_cn": "'真正信心'号是胡塞商船战役中第一次出现人员死亡的案例，所用武器与此前对'鲁比马尔'号的反舰弹道导弹同类。命中点位于亚丁港外约50海里，说明胡塞火力覆盖已从红海南部延伸到亚丁湾内。对单艘商船而言，公开可见的防御手段只有回避和事后救援；对海军而言，反舰弹道导弹的拦截窗口极短，护航需要贴近商船才有意义。具体拦截条件、发射阵地等细节本轮检索未覆盖。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Overt Defense",
+    "title": "U.S. Central Command: Houthi Ballistic Missile Attack On Bulk Carrier Kills Three",
+    "title_cn": "美国中央司令部：胡塞弹道导弹袭击散货船致3人死亡",
+    "author": "Overt Defense（转载 CENTCOM 声明）",
+    "date": "2024-03-07",
+    "url": "https://overtdefense.com/2024/03/07/u-s-central-command-houthi-ballistic-missile-attack-on-bulk-carrier-kills-three",
+    "type": "其他",
+    "date_note": "转载 CENTCOM 新闻稿；CENTCOM 原页面本轮未检索到"
+   },
+   {
+    "publisher": "The National",
+    "title": "Calls to protect ship crews as three die in Houthi missile attack in Red Sea",
+    "title_cn": "三人死于胡塞导弹袭击，呼吁保护船员",
+    "author": "The National",
+    "date": "2024-03-06",
+    "url": "https://www.thenationalnews.com/gulf-news/2024/03/06/true-confidence-ship-attack-yemen-houthis/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Baird Maritime",
+    "title": "Three killed in Houthi attack on cargo ship in Red Sea",
+    "title_cn": "胡塞袭击红海货船致3人死亡",
+    "author": "Baird Maritime",
+    "date": "2024-03-07",
+    "url": "https://www.bairdmaritime.com/shipping/dry-cargo/three-killed-in-houthi-attack-on-cargo-ship-in-red-sea",
+    "type": "专业媒体",
+    "date_note": "日期按事件次日推定"
+   },
+   {
+    "publisher": "eNCA",
+    "title": "Bulk carrier hit by missile from Yemen, crew says three killed",
+    "title_cn": "散货船遭也门导弹击中，船员称3人死亡",
+    "author": "eNCA/AFP",
+    "date": "2024-03-06",
+    "url": "https://www.enca.com/news/bulk-carrier-hit-missile-yemen-crew-says-three-killed",
+    "type": "通讯社",
+    "date_note": "日期按事件日推定"
+   },
+   {
+    "publisher": "Boston Globe (PressReader)",
+    "title": "3 killed in Houthi missile attack on ship in Red Sea",
+    "title_cn": "红海胡塞导弹袭击致3死",
+    "author": "AP",
+    "date": "2024-03-07",
+    "url": "https://www.pressreader.com/usa/the-boston-globe/20240307/281586655558699",
+    "type": "通讯社"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Ships_attacked_by_Houthis",
+    "file_name": "（Commons 分类页）Category:Ships attacked by Houthis",
+    "desc_cn": "胡塞袭击船舶总分类页；检索摘要称页内直接媒体仅1项，为 MV True Confidence 遭袭的图片，子分类含 Al Jasrah、Ardmore Encounter、Galaxy Leader、Lycavitos、Rubymar、Sounion、Star Iris、Summer Ploeg",
+    "date": "",
+    "credit": "",
+    "license": "各文件不一，使用前须核实",
+    "verified": true,
+    "note": "分类页见于本轮检索结果；True Confidence 图片的文件名摘要未给出（他组 G_images.json 记作 'Houthi attack on MV True Confidence.webp'，本轮未见，未采用）"
+   }
+  ],
+  "image_note": "第二轮仅检索到 Commons 总分类页（页内有 True Confidence 遭袭图片1项），具体文件名未见，待复核。",
+  "stats": {
+   "死亡": "3人（CENTCOM）",
+   "受伤": "至少4人，其中3人危重（CENTCOM）",
+   "离岸距离": "亚丁港外约50海里",
+   "船员": "约20—21人（口径不一）+3名武装保安"
+  }
+ },
+ {
+  "case_key": "rs_huang_pu_2024_03_23",
+  "category": "远海机动编组",
+  "title_cn": "中资关联油轮'黄埔'号遭弹道导弹击中",
+  "subtitle_cn": "2024-03-23 红海穆哈外海'黄埔'号（Huang Pu）油轮遭胡塞反舰弹道导弹击中，所有权信息过时疑致误判",
+  "date_start": "2024-03-23",
+  "date_end": "2024-03-24",
+  "location_cn": "红海南部，也门穆哈（Mokha）以西约23海里",
+  "lat": 13.3,
+  "lon": 42.85,
+  "coord_note": "按 UKMTO '穆哈以西23海里'估算的近似值",
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（反舰弹道导弹）；胡塞未即时认领",
+  "defender": "'黄埔'号（Huang Pu）：中资关联成品油/原油轮，新近更名并变更船东；航往印度新芒格洛尔（New Mangalore）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中",
+   "岸基"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "反舰弹道导弹：CENTCOM 称胡塞连续发射4枚落在附近水域，第5枚命中船体（按 CENTCOM 口径）。",
+  "defense_means_cn": "无舰载防空；船员自行扑灭火情（约30分钟），发出遇险呼叫但未请求救援，船舶继续航行。",
+  "narrative_cn": "2024年3月23日（周六），中国所有的油轮'黄埔'号（Huang Pu）在红海南部，位于也门穆哈（Mokha）以西约23海里处被胡塞反舰弹道导弹击中。美国中央司令部（CENTCOM）3月24日通报称，胡塞先向该船附近水域发射4枚反舰弹道导弹，之后第5枚击中船体。船上起火，约30分钟扑灭，损坏轻微，无人受伤；船只发出遇险呼叫但未请求援助，并继续出红海进入亚丁湾，下一港为印度新芒格洛尔（据 Ambrey）。胡塞未立即认领。CENTCOM 指出，胡塞此前表示不会攻击中国船只。多家媒体报道，该船2019年由一家英国公司注册，名称与经营方在2024年初发生变更（曾名'Anavatos II'，2024年1月更名；南华早报称注册船东2024年2月已变更），现为香港控股公司所有，推测胡塞依据的是过时的船东信息，误判其为英国船。也有报道称袭击发生在3月24日（周日），多数口径为3月23日。",
+  "defense_effect_cn": "商船自身无反导手段，生存依赖对方的命中偏差与船员灭火：5枚导弹中有4枚落水，1枚命中后仅造成小范围起火。该船此后仍能独立航行，说明单枚反舰弹道导弹的毁伤对大型油轮并不稳定。",
+  "claims_compare_cn": "CENTCOM：4枚落水、第5枚击中，该船为中国所有，并强调胡塞此前称不攻击中国船。船舶信息：Ambrey 称船舶2019年由英国公司注册，名称与经营方在2024年2月前后变更；Freight News 称该船至2024年1月曾名 Anavatos II，现为香港控股公司所有，广泛报道称胡塞使用过时信息，误判为英国船；多数报道认为事件为误判，胡塞方面本轮检索未见即时认领或解释。",
+  "losses_cn": "船舶：轻微受损，小火，约30分钟扑灭；人员：无伤亡；经济损失本轮检索未见。",
+  "analysis_cn": "这是少数涉及中资关联船舶的案例：目标识别依赖公开船舶数据库，而船东、名称、经营方的变更滞后于数据库更新，对攻击方和被攻击方都造成不确定性。弹道导弹'4偏1中'也显示在海上机动目标上的命中率有限。对中国船舶而言，红海航行时船舶的公开登记信息（船东、名称、经营方）是对手可用的目标识别依据，信息更新滞后即可能被误判。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "USNI News",
+    "title": "Chinese Tanker Hit with Houthi Missile in the Red Sea",
+    "title_cn": "中国油轮在红海被胡塞导弹击中",
+    "author": "USNI News",
+    "date": "2024-03-24",
+    "url": "https://news.usni.org/2024/03/24/chinese-tanker-hit-with-houthi-missile-in-the-red-sea",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Gulf News",
+    "title": "Chinese-owned tanker hit by Houthi missile in Red Sea: CENTCOM",
+    "title_cn": "CENTCOM：中国所有油轮在红海被胡塞导弹击中",
+    "author": "Gulf News",
+    "date": "2024-03-24",
+    "url": "https://gulfnews.com/world/gulf/yemen/chinese-owned-tanker-hit-by-houthi-missile-in-red-sea-centcom-1.101830671",
+    "type": "通讯社",
+    "date_note": "日期按事件通报日推定"
+   },
+   {
+    "publisher": "Malay Mail",
+    "title": "Chinese-owned tanker hit by Houthi missile in Red Sea",
+    "title_cn": "中国所有油轮在红海被胡塞导弹击中",
+    "author": "Malay Mail",
+    "date": "2024-03-24",
+    "url": "https://www.malaymail.com/news/world/2024/03/24/chinese-owned-tanker-hit-by-houthi-missile-in-red-sea/125219",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Caixin Global (财新)",
+    "title": "Houthis Fired Missile at Chinese-Owned Ship in Red Sea, U.S. Says",
+    "title_cn": "美方称胡塞向红海中国所有船只发射导弹",
+    "author": "Caixin",
+    "date": "2024-03-25",
+    "url": "https://www.caixinglobal.com/2024-03-25/houthis-fired-missile-at-chinese-owned-ship-in-red-sea-us-says-102179165.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "Houthi Missile Strike Leads To Fire Onboard Chinese Oil Tanker In the Red Sea",
+    "title_cn": "胡塞导弹袭击致中国油轮起火",
+    "author": "Marine Insight",
+    "date": "2024-03-24",
+    "url": "https://www.marineinsight.com/?p=1838954",
+    "type": "专业媒体",
+    "date_note": "日期按事件通报日推定"
+   },
+   {
+    "publisher": "Freight News (South Africa)",
+    "title": "Chinese vessel survives Houthi strike",
+    "title_cn": "中国船舶在胡塞袭击中幸存",
+    "author": "Freight News",
+    "date": "2024-03-25",
+    "url": "https://www.freightnews.co.za/article/chinese-vessel-survives-houthi-strike?page=8",
+    "type": "专业媒体",
+    "date_note": "日期按事件次日推定"
+   }
+  ],
+  "images": [],
+  "image_note": "未检索到可核实的公开图片。",
+  "stats": {
+   "来袭导弹": "5枚（4枚落水，1枚命中；CENTCOM）",
+   "火情": "约30分钟扑灭",
+   "伤亡": "无",
+   "原定目的港": "新芒格洛尔（印度）"
+  }
+ },
+ {
+  "case_key": "rs_tutor_2024_06_12",
+  "category": "远海机动编组",
+  "title_cn": "无人爆炸艇首次得手，散货船导师号沉没",
+  "subtitle_cn": "2024-06-12 红海南部'导师'号（Tutor）散货船遭胡塞无人水面艇（USV）击中后沉没",
+  "date_start": "2024-06-12",
+  "date_end": "2024-06-18",
+  "location_cn": "红海南部（Southern Red Sea）国际水域",
+  "lat": 14.2,
+  "lon": 42.3,
+  "coord_note": "仅知'红海南部'，坐标为估算近似值",
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（无人水面艇）",
+  "defender": "'导师'号（Tutor）：利比里亚籍、希腊所有的散货船；24名文职船员获救，1人失踪（美国海军）",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "异构",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "无人水面艇（USV，爆炸艇）命中船体，造成严重进水和机舱损坏；检索结果称这是胡塞首次成功使用USV。彭博称胡塞事后以爆炸物将其击沉（单一转述）。",
+  "defense_means_cn": "无舰载防御；美国海军'菲律宾海'号（USS Philippine Sea, CG 58）所属 HSM-74 直升机将24名文职船员空运至该舰。",
+  "narrative_cn": "2024年6月12日，利比里亚籍、希腊所有的散货船'导师'号（Tutor）在红海南部的国际水域被胡塞武装无人水面艇击中，多家媒体称这是胡塞第一次成功使用USV攻击商船。该船严重进水，机舱受损。美国海军方面称，一名文职船员失踪，隶属第74直升机海上打击中队（HSM-74）的直升机将24名船员空运至提康德罗加级巡洋舰'菲律宾海'号（USS Philippine Sea, CG 58）。船舶弃船后漂流。6月18日，英国海上贸易行动办公室（UKMTO）通报称，军方在其最后已知位置发现了碎片和油污，判断该船已沉没；彭博社称胡塞表示最终以爆炸物将其击沉，并称击中时造成1名船员死亡。这是胡塞战役中继'鲁比马尔'号之后第二艘被击沉的商船，彭博称红海航线战争险费率占船舶价值的比例由0.3%—0.4%升至约0.6%。",
+  "defense_effect_cn": "'导师'号遇袭时无护航，船体被爆炸艇直接冲击，海面接近目标并近距离引爆，商船的被动防护几乎不起作用。美国海军直升机完成了船员撤离（具体耗时本轮检索未见），但未能保住船舶；公开资料中没有舰艇在命中前拦截或驱离该USV的记录。",
+  "claims_compare_cn": "人员伤亡：美国海军称1名文职船员失踪；彭博称胡塞以海上无人艇袭击造成1名船员死亡并有人受伤。攻击方式：美国海军与 TWZ 称USV命中；彭博/胡塞方面还称有后续打击。沉没：UKMTO 6月18日称观察到碎片和油污，判断沉没；彭博转述胡塞称最终使用爆炸物将其击沉。",
+  "losses_cn": "船舶全损（沉没）；人员：24人获救，1人失踪（美国海军）/1人死亡（彭博转述）；经济：红海战争险费率升至约0.6%（彭博）。",
+  "analysis_cn": "这是无人水面艇对商船的第一次成功使用，也是商船战役中攻击方式第一次由导弹扩展到近距离无人艇。USV体积小、特征弱，商船自带的雷达和瞭望难以在近距离前发现；防御端要靠舰载或空中侦察对USV早期发现与拦截，而本案公开资料中美国海军只有事后救援的记录。成本对比本轮检索未见数据。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "U.S. Naval Forces Central Command / Commander, U.S. Naval Forces Central Command (cusnc.navy.mil)",
+    "title": "U.S. Navy Rescues Crew from Vessel Struck by Houthis",
+    "title_cn": "美国海军救援被胡塞击中船只的船员",
+    "author": "U.S. Naval Forces Central Command",
+    "date": "2024-06-16",
+    "url": "https://www.cusnc.navy.mil/Media/News/Display/Article/3808514/us-navy-rescues-crew-from-vessel-struck-by-houthis/",
+    "type": "官方",
+    "date_note": "日期按检索摘要'6月16—17日'推定"
+   },
+   {
+    "publisher": "U.S. Navy (navy.mil)",
+    "title": "U.S. Navy Rescues Crew from Vessel Struck by Houthis",
+    "title_cn": "美国海军救援被胡塞击中船只的船员",
+    "author": "U.S. Navy",
+    "date": "2024-06-16",
+    "url": "https://www.navy.mil/Press-Office/News-Stories/Article/3808975/us-navy-rescues-crew-from-vessel-struck-by-houthis/",
+    "type": "官方",
+    "date_note": "日期按检索摘要推定"
+   },
+   {
+    "publisher": "DVIDS",
+    "title": "U.S. Navy Rescues Crew from Vessel Struck by Houthis",
+    "title_cn": "美国海军救援被胡塞击中船只的船员",
+    "author": "DVIDS",
+    "date": "2024-06-16",
+    "url": "https://www.dvidshub.net/news/printable/474096",
+    "type": "官方",
+    "date_note": "日期按检索摘要推定"
+   },
+   {
+    "publisher": "gCaptain",
+    "title": "M/V Tutor Sinks After Houthi Attack in Red Sea",
+    "title_cn": "'导师'号在胡塞袭击后沉没",
+    "author": "gCaptain",
+    "date": "2024-06-18",
+    "url": "https://gcaptain.com/m-v-tutor-sinks-after-houthi-attack-in-red-sea/",
+    "type": "专业媒体",
+    "date_note": "日期按检索摘要'6月18日'推定"
+   },
+   {
+    "publisher": "gCaptain",
+    "title": "Tutor Sinking Takes Red Sea Perils to New Level",
+    "title_cn": "'导师'号沉没使红海风险升至新水平",
+    "author": "gCaptain",
+    "date": "2024-06-20",
+    "url": "https://gcaptain.com/tutor-sinking-takes-red-sea-perils-to-new-level/",
+    "type": "专业媒体",
+    "date_note": "日期按检索摘要'6月20日'推定"
+   },
+   {
+    "publisher": "The War Zone (TWZ)",
+    "title": "Houthi Drone Boat Strikes Ship For First Time Since Red Sea Crisis Erupted",
+    "title_cn": "红海危机爆发以来胡塞无人艇首次击中船只",
+    "author": "TWZ",
+    "date": "2024-06-13",
+    "url": "https://twz.com/news-features/houthi-drone-boat-strikes-ship-for-first-time-since-red-sea-crisis-erupted",
+    "type": "专业媒体",
+    "date_note": "日期按事件次日推定"
+   },
+   {
+    "publisher": "Iran International",
+    "title": "Cargo Ship Targeted by Houthis 'Believed to Have Sunk' in Red Sea",
+    "title_cn": "被胡塞攻击的货船'据信已沉没'",
+    "author": "Iran International",
+    "date": "2024-06-18",
+    "url": "https://iranintl.com/en/202406185040",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://www.navy.mil/Press-Office/News-Stories/Article/3808975/us-navy-rescues-crew-from-vessel-struck-by-houthis/",
+    "file_name": "（navy.mil 新闻页，内含救援照片，具体文件名未核实）",
+    "desc_cn": "美国海军救援'导师'号船员相关新闻页，可能含 HSM-74 直升机撤离照片",
+    "date": "2024-06-16",
+    "credit": "U.S. Navy",
+    "license": "Public Domain（美国联邦政府作品，通常如此，未逐图核实）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "船员": "24名文职船员被撤离，1人失踪（美国海军）/1人死亡（彭博）",
+   "战争险费率": "约0.6%（此前0.3%—0.4%，彭博）",
+   "沉没确认": "UKMTO 2024-06-18"
+  },
+  "image_note": "第二轮 Commons 检索未见'导师号'相关文件；此前 navy.mil 页面仍为未核实候选。"
+ },
+ {
+  "case_key": "rs_sounion_2024_08_21",
+  "category": "远海机动编组",
+  "title_cn": "15万吨原油轮被打瘫起火，未见溢油",
+  "subtitle_cn": "2024-08-21 前后至8月下旬 红海'苏尼昂'号（Sounion）原油轮遭胡塞攻击失去动力、弃船起火",
+  "date_start": "2024-08-21",
+  "date_end": "2024-08-26",
+  "date_note": "首次袭击日期本轮检索结果未直接给出，按'8月23日起火、此前两日首次袭击'推算，待核；8月26日为检索到的报道日期，非事件结束日",
+  "location_cn": "红海南部、荷台达（Hodeidah）外海",
+  "lat": 14.8,
+  "lon": 41.8,
+  "coord_note": "本轮检索未见具体坐标，按'荷台达外海'估算，待核",
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装",
+  "defender": "'苏尼昂'号（Sounion）：希腊籍原油轮，运营方为雅典 Delta Tankers，载约15万吨原油；欧盟'阿斯匹迪斯'（Aspides）行动参与监视与通报",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "异构"
+  ],
+  "attack_means_cn": "首次攻击使油轮失去动力、船员撤离；两日后胡塞再次对已弃船的油轮实施打击，甲板至少5处起火（一说9处）。路透社称其已核实胡塞所发火攻视频真实。关于胡塞在甲板放置爆炸物一说，仅见于海事评论员 Sal Mercogliano 转述阿斯匹迪斯图像的单一说法，本轮未检索到官方确认。具体弹种、型号本轮检索未覆盖（待核）。",
+  "defense_means_cn": "船员撤离；欧盟阿斯匹迪斯（Aspides）行动通报并监测火情与溢油风险，警告若发生溢油将可能是有记录以来最大的船舶溢油之一。具体救援舰艇、拖带方案本轮检索未覆盖（待核）。",
+  "narrative_cn": "'苏尼昂'号（Sounion）是希腊籍原油轮，运营方为雅典 Delta Tankers，载约15万吨原油（航运官员口径），相当于超过100万桶（Vespucci Maritime 的 Lars Jensen 估算）。航线口径不一：一说由伊拉克巴士拉（Basra）驶往希腊科林斯（Corinth），另一说驶往新加坡。据欧盟阿斯匹迪斯（Aspides）通报，胡塞首先攻击了该船，令其失去动力，船员撤离；约两日后，胡塞再次打击已无人看管的油轮，造成甲板至少5处起火（另一报道称至少9处）。至8月23日起，油轮持续燃烧；塞浦路斯邮报8月26日称其'自8月23日起燃烧'。阿斯匹迪斯称上层建筑部分起火，没有明显溢油迹象。这是Delta Tankers当月第三次遭胡塞攻击。路透社核实了胡塞发布的纵火视频真实性；海事评论员 Mercogliano 转述阿斯匹迪斯图像称，胡塞在遗弃的油轮甲板上布置了爆炸物，但该说法本轮未检索到官方佐证。事件后期的灭火、拖带和最终处置，本轮检索未检索到公开记录（待核）。",
+  "defense_effect_cn": "商船无自卫手段，船员撤离后油轮成为无人看管的漂流目标，胡塞得以二次打击并拍摄纵火视频，用以在宣传上展示。对环境的威胁是该案的关键：满载15万吨原油的油轮持续燃烧，若发生溢油，规模可能是历史上最大之一，因此欧盟行动把警示重心放在溢油风险上。事件揭示的缺口是：对已弃船的大型油轮，缺少在对手二次打击前将其拖离或有效看护的能力。（拖带与灭火的具体过程本轮未检索。）",
+  "claims_compare_cn": "航线：巴士拉至科林斯，或巴士拉至新加坡（不同报道口径）。起火点：至少5处（阿斯匹迪斯）或至少9处（另一报道）。爆炸物：Mercogliano 称胡塞布设了爆炸物，Reuters 仅称核实了胡塞视频的真实性，阿斯匹迪斯公开通报中未见对爆炸物的确认。溢油：阿斯匹迪斯至8月26日前后称无明显溢油迹象。",
+  "losses_cn": "船舶严重受损并长时间燃烧；人员：本轮检索未见伤亡记录（待核）；环境：至检索到的报道日未见溢油，约15万吨原油面临风险。",
+  "analysis_cn": "'苏尼昂'号的价值不在毁伤本身，而在对手把一艘满载油轮变成环境威慑筹码：不需要击沉，只需要让它燃烧并无人接管。攻击方对同一船舶两次出手，第二次针对已弃船的目标。对防御方，海军的责任被延伸到'事后保全'——拖带、灭火、封控——而这需要在胡塞火力范围内长期驻留的舰艇与拖船，本轮检索中没有看到相关兵力投入的记录。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Cyprus Mail",
+    "title": "Greek-flagged ship on fire since Aug. 23 after Houthi attack",
+    "title_cn": "希腊籍船只自8月23日遭胡塞袭击后持续起火",
+    "author": "Cyprus Mail / Reuters",
+    "date": "2024-08-26",
+    "url": "https://www.cyprus-mail.com/2024/08/26/greek-flagged-ship-on-fire-since-august-23-after-houthi-attack",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Naftemporiki (Greek)",
+    "title": "Aspides operation: Greek-flagged vessel Sounion still on fire, no signs of oil spill",
+    "title_cn": "阿斯匹迪斯行动：希腊籍'苏尼昂'号仍在燃烧，无溢油迹象",
+    "author": "Naftemporiki",
+    "date": "",
+    "url": "https://www.naftemporiki.gr/english/1749355/aspides-operation-greek-flagged-vessel-sounion-still-on-fire-no-signs-of-oil-spill",
+    "type": "专业媒体",
+    "date_note": "页面日期本轮检索未显示"
+   },
+   {
+    "publisher": "Express & Star (PA)",
+    "title": "Greek-flagged tanker burning after Houthi attacks, but no sign of oil spill",
+    "title_cn": "希腊籍油轮遭胡塞袭击后燃烧，但无溢油迹象",
+    "author": "PA Media",
+    "date": "",
+    "url": "https://www.expressandstar.com/world-news/greek-flagged-tanker-burning-after-houthi-attacks-but-no-sign-of-oil-spill-5771546",
+    "type": "通讯社",
+    "date_note": "页面日期本轮检索未显示"
+   },
+   {
+    "publisher": "MarineLink",
+    "title": "Sounion fire Houthi attack",
+    "title_cn": "'苏尼昂'号起火、胡塞袭击",
+    "author": "MarineLink",
+    "date": "",
+    "url": "https://ws16.marinelink.com/news/sounion-fire-houthi-attack-516328",
+    "type": "专业媒体",
+    "date_note": "页面日期及原题名本轮检索未完整显示，题名据URL还原"
+   },
+   {
+    "publisher": "Container News",
+    "title": "Tanker still on fire days after Houthi onslaught",
+    "title_cn": "油轮在胡塞攻击数日后仍在燃烧",
+    "author": "Container News",
+    "date": "",
+    "url": "https://container-news.com/tanker-still-on-fire-days-after-houthi-onslaught/",
+    "type": "专业媒体",
+    "date_note": "页面日期本轮检索未显示"
+   },
+   {
+    "publisher": "Wikipedia",
+    "title": "Attacks on the Sounion",
+    "title_cn": "对'苏尼昂'号的袭击（条目，仅作交叉参考）",
+    "author": "Wikipedia",
+    "date": "",
+    "url": "https://en.wikipedia.org/wiki/Attacks_on_the_Sounion",
+    "type": "其他",
+    "date_note": "仅出现于检索结果列表，内容本轮未读取"
+   }
+  ],
+  "images": [],
+  "image_note": "第二轮 Commons 检索显示 Category:Ships attacked by Houthis 下列有 Sounion 子分类，但子分类URL未在检索结果中出现，未收录，待补查。",
+  "stats": {
+   "载油量": "约15万吨原油（航运官员口径）；估算超100万桶（Lars Jensen）",
+   "起火点": "至少5处（阿斯匹迪斯），另一报道9处",
+   "Delta Tankers当月遭袭次数": "第3次"
+  }
+ },
+ {
+  "case_key": "rs_magic_seas_eternity_c_2025_07",
+  "category": "远海机动编组",
+  "title_cn": "一周内连沉两艘希腊散货船，多名船员被扣",
+  "subtitle_cn": "2025-07-06 至 07-09 红海南部'魔法海'号（Magic Seas）与'永恒C'号（Eternity C）遭胡塞多手段打击沉没",
+  "date_start": "2025-07-06",
+  "date_end": "2025-07-13",
+  "date_note": "'永恒C'号幸存船员获释日期本轮检索未取得，待核",
+  "location_cn": "红海南部，'永恒C'号位于荷台达（Hodeidah）以西约50海里",
+  "lat": 14.8,
+  "lon": 42.0,
+  "coord_note": "按'荷台达以西约50海里'估算，'魔法海'号位置本轮检索未见，待核",
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（无人水面艇、火箭弹、弹道与巡航导弹、小艇登临/扣押）",
+  "defender": "'魔法海'号（Magic Seas）与'永恒C'号（Eternity C）：均为利比里亚籍、希腊运营的散货船；'永恒C'号运营方为 Cosmoship",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "异构",
+   "集群"
+  ],
+  "attack_means_cn": "'永恒C'号：先被无人水面艇及小艇发射的火箭榴弹（UKMTO 称5枚RPG）攻击，次日凌晨再遭第二轮打击；胡塞公布的视频显示弹道导弹与巡航导弹，其一击中靠近驾驶台的货舱并留下大洞。'魔法海'号：胡塞公布了袭击与沉没视频，具体弹种本轮检索未见（待核）。",
+  "defense_means_cn": "无舰载防御，无护航。'魔法海'号22名船员全部安全撤离；'永恒C'号船员被迫弃船跳海，后被救起，另有被胡塞'救起'后带走者。",
+  "narrative_cn": "2025年7月6日，希腊运营、利比里亚籍散货船'魔法海'号（Magic Seas）遭胡塞袭击后沉没，胡塞在社交媒体发布袭击和沉没视频，称该船运营方违反了其关于进入以色列港口的禁令；一家媒体称船上有22名船员和3名保安，全部22名船员安全撤离。这是胡塞数月来对商船的第一次攻击（据 South24 转述）。7月7日（周一），同样是利比里亚籍、希腊运营的散货船'永恒C'号（Eternity C）在荷台达以西约50海里处遭无人水面艇与小艇发射的火箭榴弹攻击，UKMTO 称接到通报有5枚RPG；7月8日（周二）凌晨第二轮打击迫使剩余船员弃船跳海。胡塞公布的视频显示弹道与巡航导弹发射，其一命中靠近驾驶台的货舱。船运营方 Cosmoship 称其余15人失踪，其中5人据信在沉没前已死亡；另一统计称至少4人死亡、5人失踪并推定死亡。获救人数起初为6至7人，后增至10人（8名菲律宾船员、1名印度人、1名希腊保安），菲律宾媒体曾报道'8名获救、13人下落不明'。胡塞称其海军救起了部分船员并转移至安全地点；美国驻也门使团指责胡塞绑架船员。运营方的搜救行动约在7月13日结束；部分获救船员被送往沙特吉赞（Jizan）。人权观察（HRW）2025年7月31日称胡塞对被扣船员的持续关押没有合法依据，并批评其公布的船员复述胡塞说法的视频可能属强迫'认罪'。此后据美联社报道，胡塞释放了11名自7月被扣的船员，9名菲律宾船员抵达阿曼马斯喀特（释放日期本轮未检索到，待核）。",
+  "defense_effect_cn": "两艘船均无任何防护，在无护航、无舰艇响应的条件下，在数小时内完成了从火箭榴弹、爆炸艇到导弹的多层攻击。'永恒C'号的幸存者多为跳海后被获救，救援主要依靠商业救援与当地力量；菲律宾政府、沙特、巴林、阿曼参与了斡旋。事件暴露的问题包括：胡塞同时使用无人艇、火箭弹和导弹对同一船舶多次攻击；失踪船员的命运在数周内无法确认；人质化重新出现。",
+  "claims_compare_cn": "死亡与失踪：Cosmoship 称15人失踪、其中5人据信已死；另一统计称至少4人死、5人失踪；菲律宾政府称早期死亡数字待确认；菲律宾媒体曾记'8名获救、13人下落不明'。船舶目的地：胡塞称'永恒C'号前往以色列港口，HRW 称胡塞该说法不实，并称船舶载有联合国世界粮食计划署的援助物资（据 HRW 引述，待核）。获救者：胡塞称其救起并保护了部分船员，美国驻也门使团称其绑架船员。'魔法海'号：一说22名船员，另一说22名船员加3名保安。",
+  "losses_cn": "两船沉没。'魔法海'号22人安全撤离；'永恒C'号至少4至5人死亡，另有数人失踪并推定死亡，10人获救，部分被胡塞扣押后获释（口径见上）。船货及经济损失本轮检索未见。",
+  "analysis_cn": "7月的这两起事件说明，胡塞可以对商船连续使用多种手段；'永恒C'号案例中，火箭榴弹与导弹先后使用，第二轮打击逼迫船员弃船，而被扣押的船员又成为后续谈判筹码。对防御方，公开信息中未见任何海军在事发时的响应记录；人道层面，失踪与关押使船东和船员派出国政府（菲律宾）承担了主要的交涉负担。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Al Jazeera",
+    "title": "Six rescued, 15 missing after Houthi attack on cargo ship in Red Sea",
+    "title_cn": "红海胡塞袭击货船后6人获救、15人失踪",
+    "author": "Al Jazeera",
+    "date": "2025-07-09",
+    "url": "https://www.aljazeera.com/amp/news/2025/7/9/five-rescued-after-suspected-attack-by-yemens-houthis-on-red-sea-vessel",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Maritime Executive",
+    "title": "Rescue Operation Searching Red Sea for Missing Crew After Houthis Sink Ship",
+    "title_cn": "红海搜救行动寻找胡塞击沉船只的失踪船员",
+    "author": "Maritime Executive",
+    "date": "",
+    "url": "https://www.maritime-executive.com/article/rescue-operation-searching-red-sea-for-missing-bulker-crew-after-ship-sinks",
+    "type": "专业媒体",
+    "date_note": "页面日期本轮检索未显示"
+   },
+   {
+    "publisher": "bluewin (Swiss)",
+    "title": "Another ship sunk by Houthis, USA reports casualties",
+    "title_cn": "胡塞又击沉一艘船，美方称有伤亡",
+    "author": "bluewin/ Keystone-SDA",
+    "date": "",
+    "url": "https://www.bluewin.ch/en/news/international/another-ship-sunk-by-houthis-usa-reports-casualties-li.2777484",
+    "type": "通讯社",
+    "date_note": "页面日期本轮检索未显示"
+   },
+   {
+    "publisher": "AAP",
+    "title": "Four dead, 15 missing after Greek ship sunk in Red Sea",
+    "title_cn": "希腊籍船只在红海被击沉，4死15失踪",
+    "author": "AAP",
+    "date": "2025-07-09",
+    "url": "https://aapnews.aap.com.au/news/four-dead-15-missing-after-greek-ship-sunk-in-red-sea",
+    "type": "通讯社",
+    "date_note": "日期按事件报道日推定"
+   },
+   {
+    "publisher": "Human Rights Watch",
+    "title": "Houthi Video of False Confessions an Apparent War Crime",
+    "title_cn": "胡塞公布的虚假供述视频属明显战争罪",
+    "author": "Human Rights Watch",
+    "date": "2025-07-31",
+    "url": "https://www.hrw.org/news/2025/07/31/houthi-video-of-false-confessions-an-apparent-war-crime",
+    "type": "官方",
+    "date_note": "类型为国际人权组织，非政府"
+   },
+   {
+    "publisher": "Naftemporiki",
+    "title": "Rescued crew of Eternity C sunk by Houthis taken to Saudi Arabia",
+    "title_cn": "被胡塞击沉的'永恒C'号获救船员被送往沙特",
+    "author": "Naftemporiki",
+    "date": "",
+    "url": "https://www.naftemporiki.gr/english/1981627/rescued-crew-of-eternity-c-sunk-by-houthis-taken-to-saudi-arabia/",
+    "type": "专业媒体",
+    "date_note": "页面日期本轮检索未显示"
+   },
+   {
+    "publisher": "Barchart (AP)",
+    "title": "Rescuers search for missing crew from Red Sea attack as US alleges Yemen rebels kidnapped them",
+    "title_cn": "红海袭击后搜救失踪船员，美方称也门叛军绑架了他们",
+    "author": "AP",
+    "date": "",
+    "url": "https://www.barchart.com/story/news/33315915/rescuers-search-for-missing-crew-from-red-sea-attack-as-us-alleges-yemen-rebels-kidnapped-them",
+    "type": "通讯社",
+    "date_note": "页面日期本轮检索未显示"
+   },
+   {
+    "publisher": "WorldPorts",
+    "title": "4 Rescued After Jumping Into Sea From Houthi-Hit Ship Eternity C, 11 Still Missing",
+    "title_cn": "4人跳海后获救，11人仍失踪",
+    "author": "WorldPorts",
+    "date": "",
+    "url": "https://www.worldports.org/4-rescued-after-jumping-into-sea-from-houthi-hit-ship-eternity-c-11-still-missing/",
+    "type": "专业媒体",
+    "date_note": "页面日期本轮检索未显示"
+   },
+   {
+    "publisher": "Malaya (Philippines)",
+    "title": "8 Filipino crew of M/V Eternity C rescued, 13 still unaccounted for",
+    "title_cn": "'永恒C'号8名菲律宾船员获救，13人下落不明",
+    "author": "Malaya Business Insight",
+    "date": "",
+    "url": "https://malaya.com.ph/news/national-news/8-filipino-crew-of-m-v-eternity-c-rescued-13-still-unaccounted-for",
+    "type": "专业媒体",
+    "date_note": "页面日期本轮检索未显示"
+   },
+   {
+    "publisher": "South24",
+    "title": "Israeli strikes on Yemeni ports (reports, 7 July 2025)",
+    "title_cn": "以色列空袭也门港口（报道）",
+    "author": "South24",
+    "date": "2025-07-07",
+    "url": "https://south24.net/news/news.php?nid=4755",
+    "type": "专业媒体",
+    "date_note": "题名为概括，原题名本轮检索未显示"
+   }
+  ],
+  "images": [],
+  "image_note": "未检索 Commons；本轮额度耗尽。",
+  "stats": {
+   "魔法海号": "22名船员全部撤离（另说含3名保安）",
+   "永恒C号": "≥4人死亡、数人失踪；10人获救；后续11人获释（日期待核）",
+   "RPG": "5枚（UKMTO 转述）",
+   "载货": "HRW 称联合国WFP援助物资（待核）"
+  }
+ },
+ {
+  "case_key": "rs_minervagracht_2025_09_29",
+  "category": "远海机动编组",
+  "title_cn": "亚丁湾荷兰货轮遭袭起火，1名船员死亡",
+  "subtitle_cn": "2025-09-29 亚丁湾亚丁东南约128海里 荷兰'米内瓦格拉赫特'号（Minervagracht）货船遭胡塞袭击",
+  "date_start": "2025-09-29",
+  "date_end": "2025-10-06",
+  "location_cn": "亚丁湾，亚丁（Aden）东南约128海里",
+  "lat": 11.8,
+  "lon": 46.9,
+  "coord_note": "按'亚丁东南约128海里'估算的近似值",
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（已认领）",
+  "defender": "'米内瓦格拉赫特'号（Minervagracht）：荷兰 Spliethoff 公司的货船；船员为俄罗斯、乌克兰、菲律宾、斯里兰卡籍",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "路透社称为爆炸装置（explosive device），Marine Insight 称为导弹；具体弹种本轮检索未能确定（待核）。命中后船员生活区所在上层建筑严重受损并起火。",
+  "defense_means_cn": "无舰载防御；直升机将19名船员从起火船上空运撤离，一名重伤船员送至吉布提（Djibouti）医院治疗。具体救援主体（国别）本轮检索未检索到（待核）。",
+  "narrative_cn": "2025年9月29日，荷兰 Spliethoff 公司的货船'米内瓦格拉赫特'号（Minervagracht）在亚丁东南约128海里的亚丁湾被击中，命中后船上起火，居住舱所在上层建筑严重受损，船员弃船；直升机将19名船员空运撤离，船员为俄罗斯、乌克兰、菲律宾和斯里兰卡籍。一名菲律宾籍船员在吉布提医院接受治疗约一周后于10月6日左右不治，Spliethoff 当日宣布其死亡；另一名伤员状况稳定、预计数日后回国。该船在9月23日赴吉布提途中已遭受过一次袭击，一周内第二次成为目标。胡塞随后认领了袭击。风险咨询机构 EOS Risk Group 称，这是2025年胡塞第三次成功攻击，也是自2024年7月以来在亚丁湾的首次。国际海事组织（IMO）秘书长多明格斯（Arsenio Dominguez）强烈谴责。武器口径出现分歧：路透社称'爆炸装置'，Marine Insight 称'导弹'，具体弹种与发射方式本轮检索未检索到官方确认。",
+  "defense_effect_cn": "船舶无防御能力，生存依赖船员撤离与外部救援。该船在一周内两次遇袭，说明其在遭到第一次威胁后仍保持原航线继续前往吉布提；船东对此的决策与保险安排本轮检索未覆盖。事件显示，胡塞火力可达亚丁东南约128海里的海域。",
+  "claims_compare_cn": "武器：路透社称爆炸装置，Marine Insight 称导弹；胡塞认领袭击（原始认领内容本轮检索未获）。死亡时间：Spliethoff 10月6日宣布（周一），Marine Insight 称于袭击后一周去世。船员撤离人数：直升机撤离19人。",
+  "losses_cn": "人员：1名菲律宾船员死亡，另有伤员；船舶：上层建筑严重受损，处置情况本轮未检索。",
+  "analysis_cn": "据 EOS Risk 统计，这是2025年胡塞第三次成功攻击商船，且是2024年7月以来首次在亚丁湾内得手，说明胡塞海上攻击频次在2025年很低，但仍保有在远离其海岸线的亚丁湾内命中商船的能力。该船被胡塞选作目标的依据（船东、航线、与以色列的关联）本轮检索未见说明。防御端的公开资料中没有任何海军干预记录。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "gCaptain",
+    "title": "Crew Member Dies Following Houthi Attack on Dutch Cargo Ship Minervagracht",
+    "title_cn": "荷兰货船'米内瓦格拉赫特'号遭胡塞袭击后一名船员死亡",
+    "author": "gCaptain",
+    "date": "2025-10-06",
+    "url": "https://gcaptain.com/crew-member-dies-following-houthi-attack-on-dutch-cargo-ship-minervagracht/",
+    "type": "专业媒体",
+    "date_note": "日期按宣布死亡日推定"
+   },
+   {
+    "publisher": "Al-Monitor",
+    "title": "Crew member of attacked Dutch cargo ship dies of injuries, says vessel's operator",
+    "title_cn": "遇袭荷兰货船一名船员伤重去世，运营方称",
+    "author": "Al-Monitor / Reuters",
+    "date": "2025-10-06",
+    "url": "https://www.al-monitor.com/originals/2025/10/crew-member-attacked-dutch-cargo-ship-dies-injuries-says-vessels-operator",
+    "type": "通讯社",
+    "date_note": "日期取自URL月份，日按宣布日推定"
+   },
+   {
+    "publisher": "The New Arab",
+    "title": "Crew member of Dutch cargo ship dies of injuries after Houthi attack",
+    "title_cn": "荷兰货船船员在胡塞袭击后伤重身亡",
+    "author": "The New Arab",
+    "date": "2025-10-06",
+    "url": "https://www.newarab.com/news/crew-member-dutch-ship-dies-injuries-after-houthi-attack",
+    "type": "通讯社",
+    "date_note": "日期按宣布日推定"
+   },
+   {
+    "publisher": "Baird Maritime",
+    "title": "Spliethoff reports death of cargo ship crewman from injuries sustained in Houthi attack",
+    "title_cn": "Spliethoff 通报货船船员因胡塞袭击受伤死亡",
+    "author": "Baird Maritime",
+    "date": "2025-10-06",
+    "url": "https://www.bairdmaritime.com/security/incidents/piracy/spliethoff-reports-death-of-cargo-ship-crewman-from-injuries-sustained-in-houthi-attack",
+    "type": "专业媒体",
+    "date_note": "日期按宣布日推定"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "Filipino Seafarer Dies From Injuries A Week After Houthi Attack On Cargo Ship",
+    "title_cn": "菲律宾船员在胡塞袭击货船一周后伤重身亡",
+    "author": "Marine Insight",
+    "date": "2025-10-06",
+    "url": "https://www.marineinsight.com/shipping-news/filipino-seafarer-dies-from-injuries-a-week-after-houthi-attack-on-cargo-ship/",
+    "type": "专业媒体",
+    "date_note": "日期按宣布日推定"
+   },
+   {
+    "publisher": "WorldPorts",
+    "title": "Minervagracht Crew Member Dies",
+    "title_cn": "'米内瓦格拉赫特'号一名船员死亡",
+    "author": "WorldPorts",
+    "date": "2025-10-06",
+    "url": "https://www.worldports.org/minervagracht-crew-member-dies",
+    "type": "专业媒体",
+    "date_note": "日期按宣布日推定"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://gcaptain.com/crew-member-dies-following-houthi-attack-on-dutch-cargo-ship-minervagracht/",
+    "file_name": "（gCaptain 报道页配图，具体文件名未核实）",
+    "desc_cn": "gCaptain 配图：'米内瓦格拉赫特'号在亚丁湾遭胡塞导弹袭击后的损坏情况（页面图注）",
+    "date": "2025-10-06",
+    "credit": "gCaptain 页面图注（来源方未核实）",
+    "license": "未核实（版权媒体图，仅可链接引用）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "空运撤离": "19人",
+   "死亡": "1人（菲律宾籍，10月6日宣布）",
+   "距亚丁": "约128海里（东南）",
+   "EOS Risk 口径": "2025年胡塞第3次成功攻击；2024-07以来亚丁湾首次"
+  }
+ },
+ {
+  "case_key": "ye_hodeidah_port_2024_07_20",
+  "category": "周边港口",
+  "title_cn": "以军空袭荷台达港，油库与吊机被毁",
+  "subtitle_cn": "2024-07-20 也门荷台达港（Hodeidah）以色列战机空袭油库、电站与集装箱吊机，回应胡塞无人机袭击特拉维夫",
+  "date_start": "2024-07-20",
+  "date_end": "2024-07-21",
+  "location_cn": "也门荷台达港（Hodeidah port）及港区以北的电站、油库",
+  "lat": 14.8,
+  "lon": 42.95,
+  "coord_note": "荷台达港大致坐标",
+  "region": "红海-亚丁湾",
+  "attacker": "以色列空军（具体机型口径不一）",
+  "defender": "胡塞控制的荷台达港；也门石油公司（Yemen Petroleum Company）油库",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中",
+   "岸基"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "以色列战机空袭。机型口径不一：有媒体称12架F-35参战并打击20座储油设施，Maritime Executive 称为F-15战斗轰炸机。打击对象：荷台达港附近油库、电站，以及港内集装箱场吊机（以军周日公布了打击两台吊机的视频）。'伸臂行动'（Operation Outstretched Arm）这一名称未在本轮检索结果中出现，待核。",
+  "defense_means_cn": "本轮检索结果未见胡塞方面的防空拦截记录或预警情况（未检索到公开记录）。",
+  "narrative_cn": "2024年7月20日（周六）傍晚，以色列战机空袭也门荷台达港。以方称此举回应前一周胡塞对特拉维夫的无人机袭击。目标为荷台达港以北的油库和一座靠近主港的电站；以军发言人称这些是'军民两用'设施，周日又公布了打击港内两台集装箱场吊机的视频。Navanti 集团估计，5台吊机'很可能已无法使用'，并估计打击毁掉了港口大部分储油能力：荷台达油库原有约15万吨容量，打击后该省总容量剩约5万吨。也门石油公司称，遇难的6人均为其员工；胡塞方面称受伤人数超过80人。打击后港区大火持续多日，The New Arab 以'数日后港口仍在燃烧'为题报道。航运数据：Ambrey 在次周一称，打击后没有任何船舶进出该港；胡塞的 Saba 通讯社则称港口'满负荷运转'，两者口径相反。",
+  "defense_effect_cn": "港口的防护几乎无从谈起：打击在数小时内毁掉港口燃料储备大部分、使吊机失效。但港口并未被彻底关闭——胡塞称其仍在运作，Ambrey 则称短期内无船舶进出，两者矛盾，表明毁伤评估与实际通航能力存在差距。",
+  "claims_compare_cn": "伤亡：也门石油公司称6名员工死亡；胡塞称伤者超过80人。机型：一说12架F-35、20座储油设施，Maritime Executive 称F-15。港口运行：Ambrey 称打击后无船舶进出，胡塞 Saba 称'满负荷运转'。以军称目标为军民两用设施，胡塞称受害者为民用油库员工。",
+  "losses_cn": "油库：约15万吨储油能力大部被毁，全省剩约5万吨（Navanti 估计）；吊机：5台'很可能无法使用'（Navanti）；人员：6人死亡（也门石油公司），80余人受伤（胡塞称）。",
+  "analysis_cn": "该次打击的目标选择是港口基础设施而非武器库：油库、电站与吊机属于经济与后勤设施，打击后果由港口运营和民用燃油供给承担。毁伤评估口径矛盾（通航与否：Ambrey 称无船舶进出，胡塞称满负荷运转）说明，单次空袭对港口通航的实际压制效果本轮检索未能核实。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Al-Monitor",
+    "title": "Israel strikes Yemen port: what damage",
+    "title_cn": "以色列打击也门港口：造成了什么损害",
+    "author": "Al-Monitor",
+    "date": "2024-07-22",
+    "url": "https://www.al-monitor.com/originals/2024/07/israel-strikes-yemen-port-what-damage",
+    "type": "专业媒体",
+    "date_note": "日期按事件次日/次周推定，URL含年月"
+   },
+   {
+    "publisher": "Maritime Executive",
+    "title": "Israeli Air Force Destroys Tank Farm at Port of Hodeidah",
+    "title_cn": "以色列空军摧毁荷台达港油库区",
+    "author": "Maritime Executive",
+    "date": "2024-07-21",
+    "url": "https://maritime-executive.com/article/israeli-air-force-destroys-tank-farm-at-port-of-hodeidah",
+    "type": "专业媒体",
+    "date_note": "日期按事件次日推定"
+   },
+   {
+    "publisher": "The New Arab",
+    "title": "Hodeidah port still ablaze days after Israel strikes Yemen",
+    "title_cn": "以色列空袭也门数日后荷台达港仍在燃烧",
+    "author": "The New Arab",
+    "date": "",
+    "url": "https://newarab.com/news/hodeidah-port-still-ablaze-days-after-israel-strikes-yemen",
+    "type": "通讯社",
+    "date_note": "页面日期本轮检索未显示"
+   },
+   {
+    "publisher": "South24",
+    "title": "Israeli strike on Hodeidah port (July 2024)",
+    "title_cn": "以色列空袭荷台达港（2024年7月）",
+    "author": "South24",
+    "date": "",
+    "url": "https://south24.net/news/news.php?nid=4095",
+    "type": "专业媒体",
+    "date_note": "原题名本轮检索未显示，题名为概括"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Al_Hudaydah",
+    "file_name": "（Commons 分类页）Category:Al Hudaydah",
+    "desc_cn": "荷台达市 Commons 分类页；检索摘要称其媒体以历史图片（含1902年港口照片、旧海图）为主，未见打击场景图",
+    "date": "",
+    "credit": "",
+    "license": "各文件不一",
+    "verified": true,
+    "note": "分类页见于本轮检索结果"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Ports_and_harbours_in_Yemen",
+    "file_name": "（Commons 分类页）Category:Ports and harbours in Yemen",
+    "desc_cn": "也门港口分类页，可作选图入口",
+    "date": "",
+    "credit": "",
+    "license": "各文件不一",
+    "verified": true,
+    "note": "分类页见于本轮检索结果；具体文件未核实"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Al_Hudaydah_200612_Yemen-199_(354274744).jpg",
+    "file_name": "Al_Hudaydah_200612_Yemen-199_(354274744).jpg",
+    "desc_cn": "荷台达（Al Hudaydah）旧照，文件名显示拍摄于2006年12月（战前）；画面内容检索结果未说明",
+    "date": "2006-12",
+    "credit": "",
+    "license": "未核实",
+    "verified": false,
+    "note": "文件页URL见于本轮检索结果；拍摄日期仅据文件名推断；画面是否为港口未核实，仅作战前地点示意候选"
+   }
+  ],
+  "image_note": "第二轮 Commons 检索未见荷台达港遭袭图，仅有荷台达市/也门港口分类页和一张2006年旧照作选图入口；以军视频仍可在 idf.il 查找（未检索到）。",
+  "stats": {
+   "死亡": "6人（也门石油公司员工）",
+   "受伤": "80余人（胡塞称）",
+   "储油能力": "约15万吨→全省约5万吨（Navanti 估计）",
+   "吊机": "5台很可能无法使用（Navanti）"
+  }
+ },
+ {
+  "case_key": "ye_ras_isa_port_2025_04_17",
+  "category": "周边港口",
+  "title_cn": "美军首次打击红海燃料港，伤亡数字差近一倍",
+  "subtitle_cn": "2025-04-17 也门拉斯伊萨（Ras Isa）燃料港遭美军空袭，美方称为削弱胡塞经济来源",
+  "date_start": "2025-04-17",
+  "date_end": "2025-04-17",
+  "location_cn": "也门拉斯伊萨燃料港（Ras Isa）",
+  "lat": 15.15,
+  "lon": 42.65,
+  "coord_note": "拉斯伊萨港大致坐标",
+  "region": "红海-亚丁湾",
+  "attacker": "美国军队（美国中央司令部 CENTCOM）",
+  "defender": "胡塞控制的拉斯伊萨燃料港及油料装卸设施",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中",
+   "岸基"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "美军空袭，至少打击两处地点，触发大规模二次爆炸。机型与弹药本轮检索未检索到（待核）。",
+  "defense_means_cn": "本轮检索结果中未见胡塞防空拦截记录（未检索到公开记录）。",
+  "narrative_cn": "2025年4月17日（周四），美国中央司令部（CENTCOM）宣布对也门拉斯伊萨燃料港实施空袭。USNI 称，这是 CENTCOM 首次明确表示打击燃料港。CENTCOM 称目的是削弱胡塞的'经济权力来源'，称胡塞通过该港进行非法燃油销售并侵吞石油收入，并称此次打击不针对也门人民。打击至少命中拉斯伊萨两处地点，引发大规模二次爆炸。CENTCOM 未公布伤亡数字。胡塞媒体先报道死亡超过24人；胡塞控制的 Al-Masirah 电视台引述荷台达卫生部门称初步统计38名工人死亡、102人受伤；之后胡塞方面称至少74人死亡、171人受伤，法新社称无法独立核实。彭博社称这是特朗普自3月中旬下令对胡塞实施空中行动以来规模最大、伤亡最重的打击之一；分析人士将其与美国重新将胡塞列为外国恐怖组织（4月5日生效）联系起来。",
+  "defense_effect_cn": "港口设施无可见的防御反应，打击引发大规模二次爆炸；胡塞口径称遇难者主要是港口工人（未独立核实），与美方称'不针对也门人民'的表述存在出入。本轮检索未见该港此后恢复通航或燃料装卸的数据。",
+  "claims_compare_cn": "美方：目的是削弱胡塞经济来源，未提伤亡；胡塞媒体：先称死亡超24人，Al-Masirah 引荷台达卫生部门称38死、102伤，之后称74死、171伤；法新社：数字无法独立核实。",
+  "losses_cn": "人员：38—74人死亡、102—171人受伤（均为胡塞方口径，未独立核实）；设施：燃料港至少两处被毁，二次爆炸范围及恢复情况本轮未检索到。",
+  "analysis_cn": "该次打击把港口作为经济目标而不是军事目标，与以军此前的打击思路同类；不同的是，美方在新闻稿中明示'经济杠杆'。伤亡数字因来自胡塞媒体而无法核验，且后一轮数字比首轮几乎翻倍，这也是对港口打击后果评估的典型困难：独立核实的渠道很少。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "USNI News",
+    "title": "U.S. Forces Attack Houthi Fuel Port in Yemen, CENTCOM Says",
+    "title_cn": "CENTCOM：美军攻击也门胡塞燃料港",
+    "author": "USNI News",
+    "date": "2025-04-17",
+    "url": "https://news.usni.org/2025/04/17/u-s-forces-attack-houthi-fuel-port-in-yemen-centcom-says",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Maritime Executive",
+    "title": "U.S. Destroys Houthi Fuel Terminals at Ras Isa",
+    "title_cn": "美军摧毁拉斯伊萨的胡塞燃料码头",
+    "author": "Maritime Executive",
+    "date": "2025-04-17",
+    "url": "https://maritime-executive.com/article/centcom-encourages-yemenis-to-throw-off-yoke-of-houthi-subjugation",
+    "type": "专业媒体",
+    "date_note": "日期按事件日推定"
+   },
+   {
+    "publisher": "gCaptain",
+    "title": "US Steps Up Houthi Campaign with Deadly Strikes on Red Sea Oil Port",
+    "title_cn": "美国升级对胡塞行动，对红海油港实施致命打击",
+    "author": "gCaptain",
+    "date": "2025-04-17",
+    "url": "https://gcaptain.com/us-steps-up-houthi-campaign-with-deadly-strikes-on-red-sea-oil-port/",
+    "type": "专业媒体",
+    "date_note": "日期按事件日推定"
+   },
+   {
+    "publisher": "The New Arab",
+    "title": "Yemen: US strikes kill 74 in fuel port attack, injure over 170",
+    "title_cn": "也门：美军打击燃料港致74死、170余伤",
+    "author": "The New Arab",
+    "date": "2025-04-18",
+    "url": "https://www.newarab.com/news/yemen-us-strikes-kill-74-fuel-port-attack-injure-over-170",
+    "type": "通讯社",
+    "date_note": "日期按事件次日推定"
+   },
+   {
+    "publisher": "WorldPorts",
+    "title": "U.S. Destroys Houthi Fuel Terminals at Ras Isa",
+    "title_cn": "美军摧毁拉斯伊萨的胡塞燃料码头",
+    "author": "WorldPorts",
+    "date": "2025-04-17",
+    "url": "https://www.worldports.org/u-s-destroys-houthi-fuel-terminals-at-ras-isa",
+    "type": "专业媒体",
+    "date_note": "日期按事件日推定"
+   }
+  ],
+  "images": [],
+  "image_note": "第二轮 Commons 检索未涉及拉斯伊萨；CENTCOM 打击视频仍待补查。",
+  "stats": {
+   "死亡（胡塞口径）": "38人（初步）→74人",
+   "受伤（胡塞口径）": "102人→171人",
+   "FTO 生效": "2025-04-05",
+   "CENTCOM 伤亡数字": "未公布"
+  }
+ },
+ {
+  "case_key": "ye_hodeidah_israeli_navy_2025_06_10",
+  "category": "周边港口",
+  "title_cn": "以色列海军首次以舰载导弹打击胡塞港口",
+  "subtitle_cn": "2025-06-10 以海军导弹艇对荷台达、拉斯伊萨、萨利夫三港发射导弹，事前发布撤离警告",
+  "date_start": "2025-06-10",
+  "date_end": "2025-06-10",
+  "location_cn": "也门荷台达港（Hodeidah）、拉斯伊萨（Ras Isa）、萨利夫（Al Salif）",
+  "lat": 14.8,
+  "lon": 42.95,
+  "coord_note": "荷台达港大致坐标",
+  "region": "红海-亚丁湾",
+  "attacker": "以色列国防军海军（导弹艇）",
+  "defender": "胡塞控制的荷台达港等港口",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水面",
+   "空中",
+   "岸基"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "以海军导弹艇发射导弹，打击码头（胡塞媒体称两处码头被击中）。具体舰型、导弹型号与数量本轮检索未检索到（待核）。",
+  "defense_means_cn": "以军事前对三港发布'紧急而重要'的撤离警告；胡塞方面的防空反应本轮检索未见。",
+  "narrative_cn": "2025年6月10日，以色列国防军（IDF）称海军导弹艇对胡塞控制的荷台达港实施打击，这是以军海军首次对胡塞目标实施导弹打击。打击前数小时，IDF 向拉斯伊萨（Ras Isa）、荷台达（Hodeida）、萨利夫（Al-Salif）三港发出'紧急而重要'的撤离警告。IDF 称目标是'胡塞恐怖政权的恐怖目标'，目的是'阻止该港被用于军事目的'，并称港口被用于运输武器；同时称胡塞正向以色列发射导弹和无人机。胡塞的 Al-Masirah 电视台称打击命中码头，据胡塞报道有两处码头受损；以方与胡塞方均未提及伤亡。胡塞媒体官员称此次攻击对其行动没有重大影响。以色列国防部长卡茨（Israel Katz）警告称，若胡塞继续向以色列开火，将面临海上和空中封锁。大致背景：荷台达港是也门人道和粮食物资的主要入口，业界担心打击会进一步干扰援助输送。Atalayar 称，该港去年（2024年）已被以军空袭，此次是以军海军首次以舰载导弹打击。Shipping Telegraph 称其无法独立核实 IDF 说法。",
+  "defense_effect_cn": "港口没有可见的防空或预警反应；双方均未报伤亡（撤离警告可能是原因之一，推断）；毁伤范围报道仅限码头。以海军导弹艇从海上打击也门港口，为空军之外的第二种手段。该次打击的物质效果被胡塞称'无重大影响'，独立评估本轮检索未见。",
+  "claims_compare_cn": "IDF：目标为胡塞恐怖目标，港口用于军事用途和运武器；胡塞（Al-Masirah）：打击命中码头、两处码头受损，对行动无重大影响；双方均未提伤亡；Shipping Telegraph：无法独立核实 IDF 声明。",
+  "losses_cn": "码头：两处受损（胡塞口径）；人员：双方均未报告伤亡；经济影响：本轮检索未见。",
+  "analysis_cn": "以军海军首次以舰载导弹打击胡塞港口，使以色列在空军之外多了一种对岸手段；此次事先发出撤离警告，双方均未报伤亡，二者之间的关联是推断，未见证实。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Al Jazeera",
+    "title": "Israel strikes Yemen's Hodeidah port, threatens blockade",
+    "title_cn": "以色列打击也门荷台达港并威胁封锁",
+    "author": "Al Jazeera",
+    "date": "2025-06-10",
+    "url": "https://www.aljazeera.com/news/2025/6/10/israel-strikes-yemens-hodeidah-port-threatens-blockade",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "In A First, Israeli Navy Strikes Houthi-Controlled Ports After Evacuation Warning",
+    "title_cn": "首次：以色列海军在撤离警告后打击胡塞控制港口",
+    "author": "Marine Insight",
+    "date": "2025-06-10",
+    "url": "https://www.marineinsight.com/shipping-news/in-a-first-israeli-navy-strikes-houthi-controlled-ports-after-evacuation-warning/",
+    "type": "专业媒体",
+    "date_note": "日期按事件日推定"
+   },
+   {
+    "publisher": "Naharnet",
+    "title": "Israel strikes Yemen's Houthi-held Hodeida port",
+    "title_cn": "以色列打击也门胡塞控制的荷台达港",
+    "author": "Naharnet/AFP",
+    "date": "2025-06-10",
+    "url": "https://cdn.naharnet.com/stories/en/313348-israel-strikes-yemen-s-houthi-held-hodeida-port",
+    "type": "通讯社",
+    "date_note": "日期按事件日推定"
+   },
+   {
+    "publisher": "The Defense Post",
+    "title": "Israel strikes Yemen's Houthi-held Hodeida port",
+    "title_cn": "以色列打击也门胡塞控制的荷台达港",
+    "author": "The Defense Post",
+    "date": "2025-06-11",
+    "url": "https://thedefensepost.com/2025/06/11/israel-yemens-houthi-hodeida/amp/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Atalayar",
+    "title": "Israel launches first naval attack against Houthis in Yemen",
+    "title_cn": "以色列对也门胡塞发动首次海军打击",
+    "author": "Atalayar",
+    "date": "2025-06-10",
+    "url": "https://www.atalayar.com/en/articulo/politics/israel-launches-first-naval-attack-against-houthis-in-yemen/20250610130000215775.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Shipping Telegraph",
+    "title": "Israeli navy attacks Red Sea port in direct strikes from sea",
+    "title_cn": "以色列海军从海上直接打击红海港口",
+    "author": "Shipping Telegraph",
+    "date": "2025-06-10",
+    "url": "https://shippingtelegraph.com/port-news/israeli-navy-attacks-red-sea-port-in-direct-strikes-from-sea/",
+    "type": "专业媒体",
+    "date_note": "日期按事件日推定"
+   },
+   {
+    "publisher": "Kuehne+Nagel",
+    "title": "Israeli navy strikes Houthi-controlled Hodeidah port",
+    "title_cn": "以色列海军打击胡塞控制的荷台达港（客户通告）",
+    "author": "Kuehne+Nagel",
+    "date": "2025-06-10",
+    "url": "https://mykn.kuehne-nagel.com/news/article/israeli-navy-strikes-10-Jun-2025",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Al_Hudaydah",
+    "file_name": "（Commons 分类页）Category:Al Hudaydah",
+    "desc_cn": "荷台达市 Commons 分类页；检索摘要称其媒体以历史图片（含1902年港口照片、旧海图）为主，未见打击场景图",
+    "date": "",
+    "credit": "",
+    "license": "各文件不一",
+    "verified": true,
+    "note": "分类页见于本轮检索结果"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Ports_and_harbours_in_Yemen",
+    "file_name": "（Commons 分类页）Category:Ports and harbours in Yemen",
+    "desc_cn": "也门港口分类页，可作选图入口",
+    "date": "",
+    "credit": "",
+    "license": "各文件不一",
+    "verified": true,
+    "note": "分类页见于本轮检索结果；具体文件未核实"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Al_Hudaydah_200612_Yemen-199_(354274744).jpg",
+    "file_name": "Al_Hudaydah_200612_Yemen-199_(354274744).jpg",
+    "desc_cn": "荷台达（Al Hudaydah）旧照，文件名显示拍摄于2006年12月（战前）；画面内容检索结果未说明",
+    "date": "2006-12",
+    "credit": "",
+    "license": "未核实",
+    "verified": false,
+    "note": "文件页URL见于本轮检索结果；拍摄日期仅据文件名推断；画面是否为港口未核实，仅作战前地点示意候选"
+   }
+  ],
+  "image_note": "第二轮 Commons 检索未见荷台达港遭袭图，仅有荷台达市/也门港口分类页和一张2006年旧照作选图入口；以军视频仍可在 idf.il 查找（未检索到）。",
+  "stats": {
+   "打击港口": "荷台达、拉斯伊萨、萨利夫（撤离警告覆盖三港；打击对象主要报道为荷台达）",
+   "胡塞称受损码头": "2处",
+   "伤亡": "双方均未报告"
+  }
+ },
+ {
+  "case_key": "ye_three_ports_galaxy_leader_2025_07_06",
+  "category": "周边港口",
+  "title_cn": "以军夜袭三港一电站，并炸被扣商船",
+  "subtitle_cn": "2025-07-06 夜 以色列空军袭击荷台达、拉斯伊萨、萨利夫三港及拉斯卡提卜（Ras Kathnib）电站，并打击被扣'银河领袖'号",
+  "date_start": "2025-07-06",
+  "date_end": "2025-07-07",
+  "location_cn": "也门荷台达港、拉斯伊萨、萨利夫港及拉斯卡提卜电站（Ras Kathnib）",
+  "lat": 15.0,
+  "lon": 42.8,
+  "coord_note": "三港之间的近似中心点，荷台达14.80N，萨利夫约15.3N，拉斯伊萨约15.15N",
+  "region": "红海-亚丁湾",
+  "attacker": "以色列空军（以军称约20架战机、约50枚导弹和炸弹）",
+  "defender": "胡塞控制的荷台达、拉斯伊萨、萨利夫港及拉斯卡提卜电站；被扣'银河领袖'号",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中",
+   "岸基"
+  ],
+  "patterns": [
+   "集群",
+   "饱和"
+  ],
+  "attack_means_cn": "以色列空军约20架战机发射约50枚导弹和炸弹（以军口径，经 South24 转述）；打击三港、拉斯卡提卜电站和'银河领袖'号。",
+  "defense_means_cn": "本轮检索未见胡塞防空反应记录（未检索到公开记录）。",
+  "narrative_cn": "2025年7月6日深夜至7日，以色列国防军（IDF）对胡塞控制的荷台达（Hodeidah）、拉斯伊萨（Ras Isa）、萨利夫（Al-Salif）三港及拉斯卡提卜（Ras Kathnib）发电站实施空袭，并称同时击中了2023年11月被胡塞劫持的'银河领袖'号（Galaxy Leader），称其已被改作'恐怖用途'，是'胡塞恐怖政权的恐怖基础设施'。以军在声明中称，行动是对胡塞'反复攻击以色列'的回应。South24 转述以军称，行动出动约20架战机，发射约50枚导弹和炸弹。South24 称这些打击发生在一艘商船在红海遭袭（胡塞数月来首次海上攻击；时间上对应'魔法海'号，属推断）之后数小时。胡塞的 Al-Masirah 电视台证实荷台达、拉斯伊萨、萨利夫港和拉斯卡提卜电站遭袭。Maritime Executive 称，'银河领袖'号在此次打击后部分沉没（图片报道）。各报道对时间有'周日夜'与'周一凌晨'两种写法，属时区或表述差异；以军的原始声明本轮检索未检索到，信息经 Kurdistan24、Ynet、South24 等转述，待核。",
+  "defense_effect_cn": "港口与船舶无防御反应记录；以色列使用三港同时打击的方式，把荷台达之外的拉斯伊萨、萨利夫也纳入，使三港与被扣船只一并受损。",
+  "claims_compare_cn": "以军：目标为三港与电站、船舶为'恐怖基础设施'，打击是对胡塞攻击以色列的回应；胡塞（Al-Masirah）：证实四处地点遭袭，未提船舶；时间：'周日夜'（Ynet）与'周一凌晨'（South24）两种写法；兵力：约20架战机/50枚弹药为以军数字，经二手转述。",
+  "losses_cn": "设施：三港与电站受损（范围未检索到）；船舶：'银河领袖'号部分沉没（Maritime Executive）；人员伤亡本轮检索未检索到（待核）。",
+  "analysis_cn": "该次行动把荷台达、拉斯伊萨、萨利夫三港同时纳入一次打击，并把被扣商船也列为目标。对被扣船只的打击发生在船员获释之后，人质因素是否曾延缓打击属推断，未见证实。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Kurdistan24",
+    "title": "Israel Launches Wave of Strikes on Yemen's Hodeida Port and Huthi Targets",
+    "title_cn": "以色列对也门荷台达港及胡塞目标发动一轮空袭",
+    "author": "Kurdistan24",
+    "date": "2025-07-07",
+    "url": "https://www.kurdistan24.net/en/story/850315/israel-launches-wave-of-strikes-on-yemens-hodeida-port-and-huthi-targets",
+    "type": "通讯社",
+    "date_note": "日期按事件次日推定"
+   },
+   {
+    "publisher": "Ynet News",
+    "title": "Israeli Air Force carrying out strikes on two ports in Yemen",
+    "title_cn": "以色列空军正对也门两处港口实施打击",
+    "author": "Ynet",
+    "date": "2025-07-06",
+    "url": "https://www.ynetnews.com/article/hkagernbgl",
+    "type": "专业媒体",
+    "date_note": "日期按事件日推定"
+   },
+   {
+    "publisher": "South24",
+    "title": "Israeli airstrikes on Yemen (7 July 2025)",
+    "title_cn": "以色列空袭也门（2025年7月7日）",
+    "author": "South24",
+    "date": "2025-07-07",
+    "url": "https://south24.net/news/news.php?nid=4755",
+    "type": "专业媒体",
+    "date_note": "题名为概括"
+   },
+   {
+    "publisher": "Maritime Executive",
+    "title": "Photos: Hijacked Car Carrier Galaxy Leader Has Partially Sunk",
+    "title_cn": "图片：被劫持的汽车运输船'银河领袖'号已部分沉没",
+    "author": "Maritime Executive",
+    "date": "",
+    "url": "https://maritime-executive.com/article/photos-hijacked-car-carrier-galaxy-leader-has-partially-sunk",
+    "type": "专业媒体",
+    "date_note": "页面日期本轮检索未显示"
+   },
+   {
+    "publisher": "Airwars",
+    "title": "Incident Code (Israeli strikes in Yemen, July 2025)",
+    "title_cn": "Airwars 事件记录（以色列2025年7月空袭也门）",
+    "author": "Airwars",
+    "date": "",
+    "url": "https://airwars.org/?p=138924",
+    "type": "智库",
+    "date_note": "原题名为'Incident Code'，内容本轮未读取"
+   },
+   {
+    "publisher": "Wikipedia",
+    "title": "2025 Israeli attacks in Yemen",
+    "title_cn": "2025年以色列对也门的袭击（条目，仅作交叉参考）",
+    "author": "Wikipedia",
+    "date": "",
+    "url": "https://en.wikipedia.org/wiki/2025_Israeli_attacks_in_Yemen",
+    "type": "其他",
+    "date_note": "仅作为交叉参考"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Al_Hudaydah",
+    "file_name": "（Commons 分类页）Category:Al Hudaydah",
+    "desc_cn": "荷台达市 Commons 分类页；检索摘要称其媒体以历史图片（含1902年港口照片、旧海图）为主，未见打击场景图",
+    "date": "",
+    "credit": "",
+    "license": "各文件不一",
+    "verified": true,
+    "note": "分类页见于本轮检索结果"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Ports_and_harbours_in_Yemen",
+    "file_name": "（Commons 分类页）Category:Ports and harbours in Yemen",
+    "desc_cn": "也门港口分类页，可作选图入口",
+    "date": "",
+    "credit": "",
+    "license": "各文件不一",
+    "verified": true,
+    "note": "分类页见于本轮检索结果；具体文件未核实"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Car_carrier_Galaxy_Leader.jpg",
+    "file_name": "Car_carrier_Galaxy_Leader.jpg",
+    "desc_cn": "NYK 运营的'银河领袖'号汽车运输船在德国不来梅港（Bremerhaven）停靠的照片（被劫前的港口场景）",
+    "date": "",
+    "credit": "",
+    "license": "未核实（检索结果未显示作者与许可，使用前须在 Commons 页面核实）",
+    "verified": true,
+    "note": "文件页URL及说明（NYK 运营、不来梅港）见于本轮检索结果；拍摄日期他组记作2007-11-07，本轮未见，不采用"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Galaxy_Leader_(ship,_2002)",
+    "file_name": "（Commons 分类页）Category:Galaxy Leader (ship, 2002)",
+    "desc_cn": "'银河领袖'号分类页，检索摘要称含2个文件，登记运营方 Nippon Yusen、船籍巴哈马，并记载劫持事件",
+    "date": "",
+    "credit": "",
+    "license": "各文件不一，使用前须核实",
+    "verified": true,
+    "note": "分类页见于本轮检索结果；其中2个文件的名称与内容未核实"
+   }
+  ],
+  "image_note": "第二轮 Commons 检索未见三港遭袭图；附荷台达分类页与'银河领袖'号被劫前照片及分类页。Maritime Executive 页面含该船部分沉没照片，版权不明。",
+  "stats": {
+   "出动": "约20架战机、约50枚导弹和炸弹（以军口径，转述）",
+   "打击地点": "荷台达、拉斯伊萨、萨利夫、拉斯卡提卜电站",
+   "被打击商船": "'银河领袖'号（部分沉没）"
+  }
+ },
+ {
+  "case_key": "rs_tihamah_2026_08_11",
+  "category": "远海机动编组",
+  "title_cn": "商船遇袭后救援队再遭导弹补射",
+  "subtitle_cn": "2026-08-11 曼德海峡佩林岛（Perim）东北'提哈马'号（Tihamah）货船遭胡塞弹道导弹两轮打击，船员与救援人员共6人死亡",
+  "date_start": "2026-08-11",
+  "date_end": "2026-08-12",
+  "location_cn": "曼德海峡（Bab el-Mandeb），佩林岛（Perim / Mayun）东北锚地；也门官方称在穆哈（Mokha）附近",
+  "lat": 12.8,
+  "lon": 43.5,
+  "coord_note": "按'佩林岛东北'估算的近似值（Ambrey 口径），待核",
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（弹道导弹）；胡塞称目标为'运载军事装备的沙特船只'",
+  "defender": "'提哈马'号（Tihamah）：埃及所有的多用途/杂货船（一说坦桑尼亚籍），锚泊中；也门国民抵抗部队（National Resistance Forces）救援队",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中",
+   "岸基"
+  ],
+  "patterns": [
+   "单平台",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "也门政府称：3枚弹道导弹先命中锚泊中的'提哈马'号并引发火灾；救援队抵达后又遭第二轮打击（报道称第4枚导弹），即'补射'（double-tap）。具体型号本轮检索未检索到（待核）。",
+  "defense_means_cn": "船舶锚泊、无舰载防空；也门国民抵抗部队派救援队赴援。公开信息中未见联军、沙特或美军的拦截记录。",
+  "narrative_cn": "2026年8月11日（周二），埃及所有的货船'提哈马'号（Tihamah）在曼德海峡佩林岛东北锚泊时遭胡塞弹道导弹袭击。也门政府称，3枚弹道导弹击中该船并引发火灾；也门交通部称4名船员遇难，其中3名巴基斯坦人、1名印度尼西亚人。随后救援队赶往现场疏散船员时，胡塞又发动第二轮打击（报道称第4枚导弹），也门海岸警卫队称2名隶属政府一方的国民抵抗部队（National Resistance Forces）救援人员遇难。伤者约10人，其中7名为船员。胡塞方面事后称其攻击的是一艘'运载军事装备的沙特船只'；也门政府则称该船运载商品和粮食，且一家媒体指出该船没有可查的沙特关联。多家媒体称这是2026年2月伊朗战争爆发以来首次造成死亡的胡塞商船攻击（CNBC 称为一年多来首次红海航运致死袭击）。事件发生于胡塞7月宣布对沙特海上封锁之后，曼德海峡日船舶通过量据报由约50艘降至32艘。具体位置口径不一：Ambrey 称锚泊于佩林岛东北，也门官员称在穆哈附近。",
+  "defense_effect_cn": "船舶锚泊在曼德海峡附近、距胡塞控制海岸线极近，未见任何拦截或预警，救援力量赶到后又被二次打击，暴露出对'先打船、再打救援'这类补射战术没有应对方案。死亡6人中有2名是政府一方的救援人员，说明在胡塞火力覆盖区内进行水面救援本身高危。联军海上力量在此海域的响应本轮检索未见。",
+  "claims_compare_cn": "死亡数：也门交通部称4名船员死亡（3巴基斯坦、1印度尼西亚），也门海岸警卫队称另有2名国民抵抗部队救援人员死亡，合计6人；France 24 初报曾为3人死亡；部分概述称6名船员死亡，与前述'船员+救援人员'的拆分不一致。船舶性质：胡塞称'运载军事装备的沙特船只'，也门政府称运载商品与粮食，媒体称无可查的沙特关联。船籍与所有权：多数称埃及所有，一说坦桑尼亚籍。位置：Ambrey 称佩林岛东北，也门官员称穆哈附近。",
+  "losses_cn": "人员：6人死亡（4名船员、2名救援人员，也门政府口径）、约10人受伤（含7名船员）；船舶：起火，损毁程度本轮检索未见（待核）。",
+  "analysis_cn": "'补射'把救援环节变成杀伤环节：按也门政府口径，第一轮命中后又有一枚导弹落在救援队接近之时。此类打法在本轮检索到的此前商船攻击中未见记录；对海军而言，红海南部的水面救援需要连同防空一并规划，而不是命中后再行派船。该案发生在胡塞宣布对沙特封锁之后，胡塞称目标为'沙特船只'，而媒体称该船无可查的沙特关联，其目标判断依据本轮检索未见说明。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "The National",
+    "title": "Yemen says six killed in Houthi attack on vessel in Bab Al Mandeb",
+    "title_cn": "也门称胡塞袭击曼德海峡船只致6人死亡",
+    "author": "The National",
+    "date": "2026-08-11",
+    "url": "https://www.thenationalnews.com/news/mena/2026/08/11/cargo-vessel-struck-off-yemens-coast-with-deaths-reported/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The National",
+    "title": "Houthi double-tap attack on Red Sea ship: How it unfolded",
+    "title_cn": "胡塞对红海船只的'补射'：事件经过",
+    "author": "The National",
+    "date": "2026-08-12",
+    "url": "https://www.thenationalnews.com/news/mena/2026/08/12/houthi-double-tap-attack-on-red-sea-ship-how-it-unfolded/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Al Jazeera",
+    "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen's government says",
+    "title_cn": "也门政府称胡塞袭击曼德海峡船只致6人死亡",
+    "author": "Al Jazeera",
+    "date": "2026-08-12",
+    "url": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "CNBC",
+    "title": "Houthi attack kills six in Red Sea; Trump slams Iran as hopes for Hormuz Strait deal dim",
+    "title_cn": "胡塞袭击致红海6人死亡；特朗普痛斥伊朗，霍尔木兹协议希望渺茫",
+    "author": "CNBC",
+    "date": "2026-08-12",
+    "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "France 24",
+    "title": "At least six killed in suspected Houthi attack on Egyptian ship in the Red Sea",
+    "title_cn": "红海一艘埃及船只遭疑似胡塞袭击，至少6人死亡",
+    "author": "France 24",
+    "date": "2026-08-11",
+    "url": "https://www.france24.com/en/middle-east/20260811-three-killed-in-suspected-houthi-attack-on-egyptian-ship-in-the-red-sea",
+    "type": "通讯社",
+    "date_note": "URL 仍为'three killed'初报，页面标题更新为'至少6人'"
+   },
+   {
+    "publisher": "NBC News",
+    "title": "Four crewmembers, two rescuers killed in Red Sea attack; U.S. strikes ship in Gulf of Oman",
+    "title_cn": "红海袭击致4名船员、2名救援人员死亡；美军在阿曼湾打击船只",
+    "author": "NBC News",
+    "date": "2026-08-12",
+    "url": "https://www.nbcnews.com/world/iran/iran-war-yemen-red-sea-ships-attacked-bab-el-mandeb-strait-rcna592068",
+    "type": "通讯社",
+    "date_note": "日期按事件次日推定，页面日期本轮检索未显示"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "6 Killed, 10 Injured In Suspected Houthi Attack On Cargo Ship Near Bab el-Mandeb",
+    "title_cn": "曼德海峡附近货船遭疑似胡塞袭击，6死10伤",
+    "author": "Marine Insight",
+    "date": "2026-08-12",
+    "url": "https://www.marineinsight.com/6-killed-10-injured-in-suspected-houthi-attack-on-cargo-ship-near-bab-el-mandeb/",
+    "type": "专业媒体",
+    "date_note": "日期按事件次日推定"
+   },
+   {
+    "publisher": "Quartz",
+    "title": "Houthis kill 6 in first deadly ship attack since Iran war",
+    "title_cn": "胡塞杀死6人，伊朗战争以来首次致命船舶袭击",
+    "author": "Quartz",
+    "date": "2026-08-12",
+    "url": "https://qz.com/houthi-cargo-ship-attack-bab-al-mandab-six-killed-081226",
+    "type": "专业媒体",
+    "date_note": "日期取自URL后缀 081226"
+   },
+   {
+    "publisher": "CBC News",
+    "title": "Houthi attack on small cargo ship in Red Sea kills 6, Yemeni authorities say",
+    "title_cn": "也门当局称胡塞袭击红海小型货船致6死",
+    "author": "CBC",
+    "date": "2026-08-12",
+    "url": "https://www.cbc.ca/news/world/houthi-attack-yemen-9.7302807",
+    "type": "通讯社",
+    "date_note": "日期按事件次日推定"
+   },
+   {
+    "publisher": "Tech Times",
+    "title": "Houthi Double-Tap Kills Crew and Rescuers; Red Sea Safe Passage Collapses",
+    "title_cn": "胡塞补射杀死船员与救援人员，红海安全通道崩溃",
+    "author": "Tech Times",
+    "date": "2026-08-11",
+    "url": "https://www.techtimes.com/articles/324032/20260811/houthi-double-tap-kills-crew-rescuers-red-sea-safe-passage-collapses.htm",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "image_note": "2026 年事件无已知 Commons 文件；本轮额度耗尽，未检索。",
+  "stats": {
+   "死亡": "6人（4名船员+2名救援人员，也门政府口径）",
+   "受伤": "约10人（含7名船员）",
+   "来袭导弹": "3+1枚弹道导弹（也门政府口径）",
+   "海峡日通过量": "约50艘降至32艘（The National）"
+  }
+ },
+ {
+  "case_key": "rs_saudi_tanker_blockade_2026_07_08",
+  "category": "周边港口",
+  "title_cn": "胡塞封锁沙特：延布外海油轮中弹起火",
+  "subtitle_cn": "2026-07 至 08 红海'以封锁还封锁'：胡塞袭击沙特油轮（'恩塞利亚'、'加扎勒'、'瓦法'、8月24日'安赞'号 Amzan）",
+  "date_start": "2026-07-13",
+  "date_end": "2026-08-24",
+  "date_note": "7月13日取自 Wikipedia '红海危机'条目所列'对沙特攻击恢复'日期，其他来源称胡塞7月20日宣布封锁，待核",
+  "location_cn": "红海东岸沙特海域，延布（Yanbu）外海、舒凯克（Al Shuqaiq）以西等",
+  "lat": 24.1,
+  "lon": 36.9,
+  "coord_note": "按 UKMTO '延布以西约63海里'估算（安赞号），待核",
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（弹道导弹，一说另有无人机）",
+  "defender": "沙特航运公司 Bahri 等沙特关联油轮；沙特红海出口港延布（Yanbu）与东西输油管线",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中",
+   "岸基"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "胡塞称使用多枚弹道导弹（加扎勒号）；安赞号遭'未知投射物'命中，胡塞称弹道导弹，一说另有无人机。UKMTO 记载7月5日一艘散货船在荷台达西南约30海里遭小艇（skiff）开火，7月23日一艘油轮在舒凯克西南被击中。",
+  "defense_means_cn": "沙特油轮改道北上至延布装货；UKMTO 通报；沙特方面公开信息有限。联军或沙特海军拦截记录本轮检索未见（待核）。",
+  "narrative_cn": "2026年2月底美以对伊朗战争爆发后，伊朗限制霍尔木兹海峡，沙特经红海延布（Yanbu）港的原油出口大幅增加，据一份分析称由约100万桶/日增至490万桶/日。胡塞于3月28日首次向以色列发射导弹，7月宣布对沙特海上封锁（一说7月20日，Wikipedia 另列7月13日为对沙特攻击恢复日期，口径不一），称是'以封锁还封锁'，并称将打击沙特、以色列和美国关联油轮。7月5日，UKMTO 通报一艘散货船在荷台达西南约30海里遭小艇开火，船与船员安全，无组织认领。7月22至23日，胡塞称袭击两艘沙特油轮，沙特新闻社（SPA）证实其中'恩塞利亚'（Encelia）号被打击、船首起火；胡塞发言人称使用多枚弹道导弹打击'NCC Ghazal'（加扎勒）号并迫使其折返，UKMTO 称一艘油轮报告爆炸、船员安全，但无法确认是否即该船；胡塞另称袭击延布外海的'瓦法'（Wafa）号，并称已攻击8艘沙特关联船舶；Windward 称不清楚第二艘是否被击中。8月24日，Bahri 运营的沙特籍VLCC'安赞'（Amzan）号，32.1万载重吨、2014年造，自埃及艾因苏赫纳（Ain Sukhna）驶往延布，在延布以西约63海里被'未知投射物'击中，主甲板起火，所有船员安全，无环境影响报告。胡塞称使用弹道导弹，一说另有无人机。据 Africa Center 统计，7月以来红海南部共有12次对商船的攻击或攻击企图，保险费用使每次往返增加约100万美元。NBC 报道称相关打击还使沙特一条重要输油管线停运（细节待核）。",
+  "defense_effect_cn": "沙特船舶改走红海北段后，攻击范围扩大到延布外海，说明改道本身不能避开胡塞的射程。多数攻击为胡塞单方声称，经 UKMTO、SPA 或船东证实的仅有部分（恩塞利亚、安赞）；已证实的命中均无人员伤亡，弹道导弹对大型油轮的直接毁伤有限；对出口节奏与保险成本的影响本轮仅见 Africa Center 的保险数字。沙特海军与联军的拦截记录本轮检索未见。",
+  "claims_compare_cn": "封锁宣布日期：7月20日（一种口径）vs 7月13日（Wikipedia 条目列示）。加扎勒号：胡塞称用多枚弹道导弹并迫其折返，UKMTO 仅称一艘油轮报告爆炸，未确认船名。第二艘油轮：Windward 称不清楚是否被击中。安赞号武器：UKMTO 称'未知投射物'，胡塞称弹道导弹，Oilprice 称导弹加无人机，Bahri 不说明武器、仅确认事件无伤亡。沙特官方是否确认，不同来源说法不一。",
+  "losses_cn": "安赞号：主甲板起火，无人员受伤，无环境影响（Bahri/UKMTO）；恩塞利亚号：船首起火（SPA）；其余攻击未见确认损失。经济：保险成本每次往返增加约100万美元（Africa Center）；海峡通过量下降（见提哈马案）。",
+  "analysis_cn": "这场战役的特点是目标按'国别关联'选择而非按航线：沙特油轮从曼德海峡改道北上延布后仍被命中，且攻击覆盖距也门海岸数百海里的位置。获证实的两起（恩塞利亚、安赞）均为船首或主甲板起火、无人员伤亡，毁伤有限，但对出口通道的威慑通过保险成本和船东决策传导。ACLED 10月1日的评估认为，胡塞采取的是'校准胁迫'而非最大化中断，海上目标主要集中于沙特关联船舶。需注意：多数打击为单方声称，船名、船数无法互证。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Al Jazeera",
+    "title": "Yemen's Houthis claim missile attack on Saudi Arabia oil tanker",
+    "title_cn": "也门胡塞声称导弹袭击沙特油轮",
+    "author": "Al Jazeera",
+    "date": "2026-07-28",
+    "url": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Al Jazeera",
+    "title": "As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade",
+    "title_cn": "油价飙升，专家观察红海油轮以判断胡塞封锁",
+    "author": "Al Jazeera",
+    "date": "2026-07-24",
+    "url": "https://www.aljazeera.com/economy/2026/7/24/as-oil-soars-experts-watch-red-sea-tankers-for-clarity-on-houthi-blockade",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "CNBC",
+    "title": "Iran war: Houthis claim strikes on two Saudi oil tankers in Red Sea",
+    "title_cn": "伊朗战争：胡塞称袭击红海两艘沙特油轮",
+    "author": "CNBC",
+    "date": "2026-07-23",
+    "url": "https://www.cnbc.com/2026/07/23/iran-war-us-trump-houthis-red-sea-oil.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Al Jazeera",
+    "title": "Yemen's Houthis report attack on Saudi oil tanker in Red Sea",
+    "title_cn": "也门胡塞报告袭击红海沙特油轮",
+    "author": "Al Jazeera",
+    "date": "2026-08-24",
+    "url": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "Fire Breaks Out On Saudi Oil Tanker Near Red Sea Port Of Yanbu After Houthi Attack",
+    "title_cn": "延布附近沙特油轮遭胡塞袭击后起火",
+    "author": "Marine Insight",
+    "date": "2026-08-24",
+    "url": "https://www.marineinsight.com/fire-breaks-out-on-saudi-oil-tanker-near-red-sea-port-of-yanbu-after-houthi-attack/",
+    "type": "专业媒体",
+    "date_note": "日期按事件日推定"
+   },
+   {
+    "publisher": "Splash247",
+    "title": "Houthi strike hits Saudi VLCC off Yanbu",
+    "title_cn": "胡塞打击命中延布外海沙特VLCC",
+    "author": "Splash247",
+    "date": "2026-08-25",
+    "url": "https://splash247.com/houthi-strike-hits-saudi-vlcc-off-yanbu/",
+    "type": "专业媒体",
+    "date_note": "日期按事件次日推定"
+   },
+   {
+    "publisher": "Marine Log",
+    "title": "Saudi tanker Amzan struck by Houthi missile",
+    "title_cn": "沙特油轮'安赞'号被胡塞导弹击中",
+    "author": "Marine Log",
+    "date": "2026-08-25",
+    "url": "https://www.marinelog.com/legal/safety-and-security/saudi-tanker-amzan-struck-by-houthi-missile/",
+    "type": "专业媒体",
+    "date_note": "日期按事件次日推定"
+   },
+   {
+    "publisher": "Oilprice.com",
+    "title": "Houthis Target Saudi Oil Tanker in Red Sea Missile and Drone Attack",
+    "title_cn": "胡塞以导弹和无人机袭击红海沙特油轮",
+    "author": "Oilprice",
+    "date": "2026-08-24",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/Houthis-Target-Saudi-Oil-Tanker-in-Red-Sea-Missile-and-Drone-Attack.html",
+    "type": "专业媒体",
+    "date_note": "日期按事件日推定"
+   },
+   {
+    "publisher": "Africa Center for Strategic Studies",
+    "title": "Houthi Leverage over the Red Sea Escalates Threats for Africa",
+    "title_cn": "胡塞对红海的杠杆升级对非洲的威胁",
+    "author": "Africa Center for Strategic Studies",
+    "date": "2026-09",
+    "url": "https://africacenter.org/spotlight/2026-houthi-red-sea-threats/",
+    "type": "智库",
+    "date_note": "日期按内容为2026年9月推定，日未核"
+   },
+   {
+    "publisher": "ACLED",
+    "title": "Houthi gains around Bab al-Mandab raise risks to Red Sea shipping and global oil markets",
+    "title_cn": "胡塞在曼德海峡周边的进展加大红海航运与全球石油市场风险",
+    "author": "ACLED",
+    "date": "2026-10-01",
+    "url": "https://acleddata.com/report/houthi-gains-around-bab-al-mandab-raise-risks-red-sea-shipping-and-global-oil-markets",
+    "type": "智库",
+    "date_note": "日期按搜索摘要'ACLED 10月1日报告'推定"
+   },
+   {
+    "publisher": "The Washington Post",
+    "title": "How the Houthi militia weaponized shipping in the Red Sea (opinion)",
+    "title_cn": "胡塞武装如何把红海航运武器化（观点）",
+    "author": "The Washington Post",
+    "date": "2026-08-17",
+    "url": "https://www.washingtonpost.com/opinions/2026/08/17/how-houthi-militia-weaponized-shipping-red-sea/",
+    "type": "专业媒体",
+    "date_note": "观点文章，原题名为概括"
+   },
+   {
+    "publisher": "NBC News",
+    "title": "Strikes shut down key Saudi pipeline as Iran-backed Houthis tighten grip on crucial shipping lane",
+    "title_cn": "打击使沙特一条重要输油管线停运，伊朗支持的胡塞收紧对关键航道的控制",
+    "author": "NBC News",
+    "date": "2026-09-11",
+    "url": "https://www.nbcnews.com/world/middle-east/houthis-control-bab-el-mandeb-yemen-red-sea-saudi-iran-war-oil-rcna597186",
+    "type": "通讯社",
+    "date_note": "日期按事件推定，待核"
+   }
+  ],
+  "images": [],
+  "image_note": "2026 年事件无已知 Commons 文件；本轮额度耗尽，未检索。",
+  "stats": {
+   "安赞号": "VLCC，321,000载重吨（320,926 dwt），2014年造，延布以西约63海里，无伤亡",
+   "Africa Center 统计": "2026-07以来红海南部12次攻击/企图",
+   "保险": "每次往返增加约100万美元（Africa Center）",
+   "延布装油量": "约100万桶/日增至约490万桶/日（一份分析，出处待核）"
+  }
+ },
+ {
+  "case_key": "rs_zuqar_hanish_2026_09",
+  "category": "岛屿防卫",
+  "title_cn": "导弹压制加登陆：胡塞夺取哈尼什群岛",
+  "subtitle_cn": "2026-09 红海南部祖盖尔岛（Zuqar）与哈尼什群岛（Hanish）被胡塞以导弹火力准备加两栖登陆夺取，政府军2000余人被围或撤离",
+  "date_start": "2026-09-10",
+  "date_end": "2026-09-14",
+  "date_note": "各来源仅给出9月10至14日区间，确切日期待核；AFP 称祖盖尔先陷落，AP 称撤离时间不详",
+  "location_cn": "红海南部祖盖尔岛（Zuqar Island）、大哈尼什岛与小哈尼什岛（Greater/Lesser Hanish），距曼德海峡以北约160公里",
+  "lat": 13.7,
+  "lon": 42.75,
+  "coord_note": "哈尼什-祖盖尔群岛大致坐标（约13.7N，42.8E），待核",
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（岸基导弹加两栖登陆）",
+  "defender": "也门政府及其盟友武装（据 AFP 引军方人士称，群岛上有2000余名政府军）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中",
+   "水面",
+   "岸基"
+  ],
+  "patterns": [
+   "异构",
+   "集群"
+  ],
+  "attack_means_cn": "岸基导弹（teleSUR 称自约33公里外阿尔贾乌哈 Al Jauja 一带发射）对祖盖尔岛实施火力准备，之后乘小艇登陆（AFP 称'用船派兵上岛'）。胡塞据报投入了'大量成波次的兵力和全部可用弹道导弹'（也门军方人士对CNN）。",
+  "defense_means_cn": "政府军驻守岛屿；有关沙特空中支援的预期落空——一名也门高级军事人员对 CNN 称，他多次向美国中央司令部预警，被告知沙特空中支援将到，但'空中支援从未到来'。",
+  "narrative_cn": "2026年9月，胡塞武装在沿红海海岸向南推进、夺取穆哈（Mokha）后，对南部红海岛屿发起攻击。AFP 援引军方人士称，胡塞至少夺取祖盖尔岛（Zuqar），方式是先向该岛发射导弹，再派战斗人员乘船登岛；teleSUR 称导弹发射自约33公里外的阿尔贾乌哈（Al Jauja）一带的内陆阵地，之后进行两栖登陆。随后哈尼什群岛（Greater/Lesser Hanish）易手：美联社称政府及胡塞官员均称胡塞夺取了大、小哈尼什岛，政府一方数百名盟军撤离该群岛，具体时间不详；AFP 引政府军方人士称，哈尼什群岛上超过2000名政府军被胡塞围困，其状况不明。两种口径（撤离与被围）并存。哈尼什群岛位于曼德海峡以北约160公里；祖盖尔岛曾被胡塞控制至2015年12月，之后被沙特领导联军以空袭加登陆夺回。一名也门高级军事人员对 CNN 称，胡塞'全部投入'，使用波次人员和可用的弹道导弹，政府军多次向中央司令部示警，被告知沙特空中支援将到，但空中支援从未到来。伤亡口径不一：AFP 称截至9月8日战斗人员和平民死亡逾300人，美联社同日称194人死亡、880余人受伤；至少7.6万人流离失所。胡塞军事发言人称其已夺取总计5,400平方公里，未经独立核实。10月，沙特及其在也门的盟友发起反攻（CNN 10月4日），也门政府称到10月5日已夺回穆哈、迪巴布（Dhubab）等地，同样未获独立核实，且胡塞否认失地（CBS）。",
+  "defense_effect_cn": "岛屿防御的关键是外部火力与空中支援，而不是岛上驻军：政府军驻岛兵力2000余人（AFP 口径）却在导弹火力准备和登陆前或撤离、或被围，期待的沙特空中支援落空。岛屿处于胡塞内陆发射阵地射程内（约33公里），距离不能提供缓冲。The New Arab 有分析文章，标题为'为什么也门政府军在胡塞攻势前崩溃'，内容本轮未读取，待核。",
+  "claims_compare_cn": "岛屿易手方式：AFP 称祖盖尔先遭导弹打击、之后登陆；AP 称政府盟军撤离群岛；AFP 另称2000余名政府军被围，状况不明。时间：低可信度聚合站 Gateway Pundit 称祖盖尔与哈尼什同在9月11日（仅作口径对照），另有来源称贾巴尔泰尔（Jabal al-Tair）与小哈尼什稍后陷落。伤亡：AFP 9月8日称逾300人死亡，AP 同日称194人死亡、880余人受伤。控制面积：胡塞称夺取5,400平方公里，未独立核实。沙特空中支援：也门军方人士称未到，沙特方面此说本轮检索未见回应。",
+  "losses_cn": "人员：AFP 称至9月8日战斗人员和平民死亡逾300人，AP 称194死、880余伤；流离失所至少7.6万人（口径同上）；领土：祖盖尔、大小哈尼什岛易手。装备损失本轮检索未见。",
+  "analysis_cn": "该案的特点是以岸基导弹压制加小艇登岛的组合夺取近岸岛屿：岛屿位置在胡塞内陆火力射程内（约33公里），据报道，驻军依赖外部空中支援，支援未到即告失败（驻军自身防空与海上机动能力本轮检索未见记录）。同时，也门政府一方对撤离与被围的口径不同，使得驻军处置本身存疑，不应被当作确定事实。对海岛防御的启示在于：近岸岛屿的防御取决于上游火力压制的预警、对内陆发射阵地的反制能力以及外部支援的实际到达时间，而非岛上兵力规模。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Local10 / Associated Press",
+    "title": "Yemen's Houthi rebels seize more key islands in southern Red Sea, tighten grip on shipping routes",
+    "title_cn": "也门胡塞叛军夺取红海南部更多关键岛屿，收紧对航线的控制",
+    "author": "Associated Press",
+    "date": "2026-09-14",
+    "url": "https://www.local10.com/news/world/2026/09/14/yemens-houthi-rebels-seize-more-key-islands-in-southern-red-sea-tighten-grip-on-shipping-routes/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Al-Monitor",
+    "title": "Yemen's Houthis push deeper into Red Sea, capture 2 islands: what to know",
+    "title_cn": "也门胡塞深入红海，夺取2座岛屿：要点",
+    "author": "Al-Monitor",
+    "date": "2026-09",
+    "url": "https://www.al-monitor.com/originals/2026/09/yemens-houthis-push-deeper-red-sea-capture-2-islands-what-know",
+    "type": "通讯社",
+    "date_note": "页面精确日期本轮检索未显示"
+   },
+   {
+    "publisher": "Ynet News",
+    "title": "Clashes in Yemen: Houthis seize islands in Red Sea and Bab el-Mandeb Strait",
+    "title_cn": "也门冲突：胡塞夺取红海与曼德海峡岛屿",
+    "author": "Ynet",
+    "date": "2026-09",
+    "url": "https://www.ynetnews.com/article/dszfgq50i",
+    "type": "专业媒体",
+    "date_note": "页面精确日期本轮检索未显示"
+   },
+   {
+    "publisher": "teleSUR English",
+    "title": "Houthis Seize Mocha Port and Hanish Archipelago",
+    "title_cn": "胡塞夺取穆哈港与哈尼什群岛",
+    "author": "teleSUR",
+    "date": "2026-09",
+    "url": "https://www.telesurenglish.net/houthis-seize-islands-in-hanish-archipelago-and-mocha-port/",
+    "type": "通讯社",
+    "date_note": "页面精确日期本轮检索未显示"
+   },
+   {
+    "publisher": "The Sinai Project",
+    "title": "Houthis Seize Perim and Dhubab, Tighten Grip on Bab al-Mandab",
+    "title_cn": "胡塞夺取佩林与迪巴布，收紧对曼德海峡的控制",
+    "author": "The Sinai Project",
+    "date": "2026-09",
+    "url": "https://www.sinaiproject.com/article/houthis-seize-perim-and-dhubab-tighten-grip-on-bab-al-mandab",
+    "type": "智库",
+    "date_note": "页面精确日期本轮检索未显示"
+   },
+   {
+    "publisher": "Saudi Gazette",
+    "title": "Houthis capture more Red Sea islands, tightening grip on Bab el-Mandeb",
+    "title_cn": "胡塞夺取更多红海岛屿，收紧对曼德海峡的控制",
+    "author": "Saudi Gazette",
+    "date": "2026-09",
+    "url": "https://saudigazette.com.sa/article/664562/world/houthis-capture-more-yemeni-red-sea-islands-tightening-grip-on-bab-el-mandeb",
+    "type": "通讯社",
+    "date_note": "页面精确日期本轮检索未显示"
+   },
+   {
+    "publisher": "FDD",
+    "title": "Houthis take Yemen's Red Sea coast and key Bab al-Mandeb islands",
+    "title_cn": "胡塞夺取也门红海海岸与曼德海峡关键岛屿",
+    "author": "Foundation for Defense of Democracies",
+    "date": "2026-09-14",
+    "url": "https://www.fdd.org/analysis/2026/09/14/houthis-take-yemens-red-sea-coast-and-key-bab-al-mandeb-islands/",
+    "type": "智库"
+   },
+   {
+    "publisher": "The New Arab",
+    "title": "Why Yemen government forces collapsed ahead of Houthi offensive",
+    "title_cn": "也门政府军为何在胡塞攻势前崩溃",
+    "author": "The New Arab",
+    "date": "2026-09",
+    "url": "https://www.newarab.com/analysis/why-yemen-government-forces-collapsed-ahead-houthi-offensive",
+    "type": "专业媒体",
+    "date_note": "页面精确日期本轮检索未显示，内容未读取"
+   },
+   {
+    "publisher": "CNN",
+    "title": "Saudi-backed Yemeni forces attack Houthis near key global trade route",
+    "title_cn": "沙特支持的也门军队在关键全球贸易通道附近攻击胡塞",
+    "author": "CNN",
+    "date": "2026-10-04",
+    "url": "https://www.cnn.com/2026/10/04/middleeast/yemen-offensive-houthis-intl",
+    "type": "通讯社",
+    "date_note": "超出窗口（2026-09-30），仅作后续态势参考"
+   },
+   {
+    "publisher": "CBS News",
+    "title": "Iran-backed Houthis deny losing ground in Yemen as oil prices ease despite fierce fighting",
+    "title_cn": "伊朗支持的胡塞否认在也门失地，尽管战斗激烈油价仍下降",
+    "author": "CBS News",
+    "date": "2026-10",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-prices-yemen-red-sea-houthis-bab-el-mandeb/",
+    "type": "通讯社",
+    "date_note": "页面精确日期本轮检索未显示，应在10月上旬"
+   },
+   {
+    "publisher": "X / OSINTtechnical",
+    "title": "Houthi forces have reportedly conducted an amphibious assault on the Hanish Islands...",
+    "title_cn": "据报道胡塞对哈尼什群岛实施两栖攻击……",
+    "author": "OSINTtechnical",
+    "date": "",
+    "url": "https://x.com/Osinttechnical/status/2098096148338606388",
+    "type": "OSINT",
+    "date_note": "仅作线索，非唯一来源；日期未显示"
+   },
+   {
+    "publisher": "Wikipedia",
+    "title": "Zuqar Island",
+    "title_cn": "祖盖尔岛（条目，仅作历史参考）",
+    "author": "Wikipedia",
+    "date": "",
+    "url": "https://en.wikipedia.org/wiki/Zuqar_Island",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://en.wikipedia.org/wiki/Zuqar_Island",
+    "file_name": "（Wikipedia 条目配图，具体 Commons 文件名未核实）",
+    "desc_cn": "祖盖尔岛位置/卫星图（条目配图，待核）",
+    "date": "",
+    "credit": "Wikipedia 贡献者",
+    "license": "未核实",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "哈尼什群岛位置": "曼德海峡以北约160公里",
+   "导弹发射阵地距离": "约33公里（teleSUR，Al Jauja）",
+   "政府军被围兵力": "2000余人（AFP 引军方人士，状况不明）",
+   "死亡（9月8日）": "AFP 逾300人 / AP 194人（口径不一）",
+   "流离失所": "至少7.6万人",
+   "胡塞称夺取面积": "5,400平方公里（未独立核实）"
+  }
+ },
+ {
+  "case_key": "rs_perim_mokha_2026_09_11",
+  "category": "岛屿防卫",
+  "title_cn": "佩林岛不战而弃：曼德海峡中央岛屿落入胡塞",
+  "subtitle_cn": "2026-09-10/11 佩林岛（Perim / Mayyun）及穆哈、迪巴布易手，胡塞称完成对曼德海峡控制",
+  "date_start": "2026-09-10",
+  "date_end": "2026-09-11",
+  "date_note": "穆哈撤退为9月10日、佩林撤退为9月11日（据路透转述'一天后'推算），待核",
+  "location_cn": "曼德海峡佩林岛（Perim / Mayyun / Mayun）、穆哈（Mokha）、迪巴布（Dhubab）",
+  "lat": 12.66,
+  "lon": 43.42,
+  "coord_note": "佩林岛大致坐标",
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装",
+  "defender": "也门政府武装（总统领导委员会 PLC 一方），随后撤离",
+  "outcome": "被攻击受损",
+  "domains": [
+   "岸基",
+   "水面"
+  ],
+  "patterns": [
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "陆上推进夺取穆哈后，在政府军撤离佩林后抵达该岛（路透口径），具体兵力、武器本轮检索未见；低可信度聚合站 Gateway Pundit 称胡塞乘船登岛，仅作线索。",
+  "defense_means_cn": "政府军陆续从海斯（Hays）、瓦兹伊亚（al-Wazi'iyah）、穆哈撤出，随后撤离佩林岛；未见抵抗记录。",
+  "narrative_cn": "2026年9月10日前后，也门政府军撤出穆哈（Mokha），距曼德海峡不足50英里；路透援引两名政府消息人士称，9月11日政府军又撤出佩林岛（Perim，也称 Mayyun/Mayun），此前已陆续撤出海斯（Hays）和瓦兹伊亚（al-Wazi'iyah）两区。路透另引4名也门政府消息人士称，胡塞抵达佩林岛；一名胡塞官员称已夺取迈云岛（Mayyun）、完成对曼德海峡（Bab al-Mandab）地区的控制（AFP 转述政府官员话）。也门政府称胡塞还夺取了岛对面海岸的迪巴布（Dhubab）镇。Wikipedia 的时间线称沙特与总统领导委员会（PLC）方面也确认了佩林失守。佩林岛位于曼德海峡中央，海峡宽约20英里，东水道约2英里宽，供本地和小型船只使用；岛上胡塞阵地距美国吉布提莱蒙尼尔营地（Camp Lemonnier）约130公里（Wikipedia 引述）。也门官员 Sultan al-Arada 称政府军溃败'令人痛心和遗憾'，称部队'正在重整并将重返战场'。The National 称胡塞夺取了也门整个西海岸，此说主要来自该报引述也门官员，未见其他来源独立证实；NBC 分析人士称，即便控制穆哈、迪巴布和佩林，胡塞仍不能对整个海峡拥有主权，因为西岸（非洲一侧）不属也门。",
+  "defense_effect_cn": "岛屿未经战斗即放弃：按路透口径，政府军是撤离而非被攻陷；这使胡塞得以不付代价地占据海峡正中的监视位置，有利于对过往船舶的观察和打击。防御失败的原因本轮检索只查到官员的片段表述（'重整'；'空中支援未到'见上案），未做深入核实。10月初政府军称夺回穆哈、迪巴布，该说法尚未被独立证实。",
+  "claims_compare_cn": "控制范围：The National 称胡塞夺取'整个西海岸'；NBC 分析认为即使控制穆哈、迪巴布和佩林也无法控制整个海峡；胡塞称'完成对曼德海峡的控制'，也门政府称正在重整反攻。佩林失守方式：路透称政府军撤离，胡塞称夺取（Gateway Pundit 称乘船登岛，低可信度）。10月：也门政府称到10月5日夺回穆哈、迪巴布，胡塞否认失地（CBS）。",
+  "losses_cn": "领土：佩林岛、穆哈、迪巴布（及上案哈尼什群岛）易手；佩林方面人员伤亡本轮检索未见；整体攻势伤亡见上案。",
+  "analysis_cn": "佩林岛位置使其对曼德海峡通航有观察与打击价值，丢失意味着红海南端通道落入胡塞岸上与岛上阵地的双重覆盖下；该海峡也是沙特出口原油的通道，与胡塞对沙特的封锁直接相关。防守一方对地区的控制依赖当地武装和空中支援，缺乏自有海军与持久空中力量，是该海域岛屿防守的结构性短板（推断）。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "DevDiscourse (Reuters)",
+    "title": "Strategic Shift: Yemen Forces Withdraw from Perim Island",
+    "title_cn": "战略转变：也门部队撤出佩林岛",
+    "author": "DevDiscourse / Reuters",
+    "date": "2026-09-11",
+    "url": "https://www.devdiscourse.com/article/politics/3975908-strategic-shift-yemen-forces-withdraw-from-perim-island",
+    "type": "通讯社",
+    "date_note": "日期按事件日推定"
+   },
+   {
+    "publisher": "Voice of Emirates",
+    "title": "Houthis Reach Perim Island, Nearing Control Over Bab el-Mandeb",
+    "title_cn": "胡塞抵达佩林岛，接近控制曼德海峡",
+    "author": "Voice of Emirates",
+    "date": "2026-09-11",
+    "url": "https://www.voiceofemirates.com/en/news/2026/09/11/houthis-reach-perim-island-nearing-control-over-bab-el-mandeb/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "CNBC",
+    "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
+    "title_cn": "据报胡塞推进至红海关键岛屿，进一步威胁重要石油咽喉",
+    "author": "CNBC",
+    "date": "2026-09-11",
+    "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Jerusalem Post",
+    "title": "Houthis reach strategic coastal city, island at mouth of Bab al-Mandab Strait",
+    "title_cn": "胡塞抵达曼德海峡口的战略沿海城市与岛屿",
+    "author": "Jerusalem Post",
+    "date": "2026-09-11",
+    "url": "https://www.jpost.com/middle-east/article-908223",
+    "type": "通讯社",
+    "date_note": "日期按事件日推定"
+   },
+   {
+    "publisher": "The National",
+    "title": "Houthis seize Yemen's entire western coast and vital Red Sea islands",
+    "title_cn": "胡塞夺取也门整个西海岸与关键红海岛屿",
+    "author": "The National",
+    "date": "2026-09-11",
+    "url": "https://www.thenationalnews.com/news/mena/2026/09/11/houthis-seize-yemens-entire-western-coast-and-strategic-red-sea-islands/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Al Jazeera",
+    "title": "Can the Houthis close the Red Sea after seizing the Yemen coast?",
+    "title_cn": "胡塞夺取也门海岸后能否关闭红海？",
+    "author": "Al Jazeera",
+    "date": "2026-09-11",
+    "url": "https://www.aljazeera.com/news/2026/9/11/can-the-houthis-close-the-red-sea-after-seizing-the-yemen-coast",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "NBC News",
+    "title": "Iran-backed Houthis capture Yemen's Red Sea coastline on Bab-el-Mandeb Strait",
+    "title_cn": "伊朗支持的胡塞夺取也门曼德海峡红海海岸线",
+    "author": "NBC News",
+    "date": "2026-09-11",
+    "url": "https://www.nbcnews.com/world/middle-east/houthis-control-bab-el-mandeb-yemen-red-sea-saudi-iran-war-oil-rcna597186",
+    "type": "通讯社",
+    "date_note": "日期按事件日推定"
+   },
+   {
+    "publisher": "Macau Business (AFP)",
+    "title": "Houthis seize key Red Sea island, complete takeover of Bab al-Mandab area: Govt official to AFP",
+    "title_cn": "胡塞夺取红海关键岛屿，完成对曼德海峡地区的接管：政府官员对 AFP 称",
+    "author": "AFP",
+    "date": "2026-09-11",
+    "url": "https://macaubusiness.com/houthis-seize-key-red-sea-island-complete-takeover-of-bab-al-mandab-area-govt-official-to-afp/",
+    "type": "通讯社",
+    "date_note": "日期按事件日推定"
+   },
+   {
+    "publisher": "Newscord",
+    "title": "Houthis Seize Mokha and Mayyun Island as Yemen Government Forces Withdraw From Perim Island: how 19 outlets framed it",
+    "title_cn": "胡塞夺取穆哈和迈云岛，也门政府军撤出佩林岛：19家媒体的表述",
+    "author": "Newscord",
+    "date": "2026-09-11",
+    "url": "https://newscord.org/article/houthis-seize-mokha-and-mayyun-island-as-yemen-government-forces-withdraw-from-p--Story_20260911_60a43225",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia",
+    "title": "2026 Yemen offensives",
+    "title_cn": "2026年也门攻势（条目，仅作交叉参考）",
+    "author": "Wikipedia",
+    "date": "",
+    "url": "https://en.wikipedia.org/wiki/2026_Yemen_offensives",
+    "type": "其他"
+   },
+   {
+    "publisher": "TIME",
+    "title": "Houthi Attacks on Saudi Airports Kill 3 Amid Escalating War in Yemen",
+    "title_cn": "胡塞袭击沙特机场致3死，也门战事升级",
+    "author": "TIME",
+    "date": "2026-10-08",
+    "url": "https://time.com/article/2026/10/08/saudi-arabia-yemen-houthi-rebels-airport-attacks-war",
+    "type": "专业媒体",
+    "date_note": "超出窗口，仅作后续态势参考"
+   }
+  ],
+  "images": [],
+  "image_note": "佩林岛 Commons 文件本轮未检索（额度耗尽）；建议检索 Category:Perim。",
+  "stats": {
+   "海峡宽度": "约20英里；东水道约2英里宽",
+   "与吉布提莱蒙尼尔营地距离": "约130公里（Wikipedia 引述）",
+   "撤离佩林时间": "穆哈撤退后一天（路透）"
+  }
+ },
+ {
+  "case_key": "ye_eilat_port_shutdown_2023_2025",
+  "category": "周边港口",
+  "title_cn": "红海断航拖垮埃拉特港，业务降八九成",
+  "subtitle_cn": "2023-11 至 2025-09 以色列红海港口埃拉特（Eilat）因胡塞袭击商船、船公司绕行而业务锐减、宣告破产并面临关闭",
+  "date_start": "2023-11-01",
+  "date_end": "2025-09-18",
+  "date_note": "起点按2024-07-07 CEO '八个月没有业务和收入'的陈述回推为约2023年11月，待核；终点为检索到的最新状态材料（Iran International 访谈，日期取自URL），不是停摆结束日。",
+  "location_cn": "以色列南端红海北岸埃拉特港（Port of Eilat）",
+  "lat": 29.53,
+  "lon": 34.95,
+  "coord_note": "埃拉特港区近似坐标，未在检索结果中核实。",
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（间接影响：对红海—亚丁湾商船持续袭击；本轮检索未见埃拉特港区自身被直接命中的记录）",
+  "defender": "埃拉特港务公司（CEO 吉迪恩·戈尔伯 Gideon Golber，外媒另拼 Golbert）与以色列政府；无军事防御环节，只有财政与调货应对",
+  "outcome": "被攻击受损",
+  "outcome_note": "间接受损：港口设施未被直接打击，损失来自航运中断；按规范枚举暂归'被攻击受损'。",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "异构"
+  ],
+  "attack_means_cn": "不是对港区的直接打击，而是对红海—亚丁湾过往商船的持续袭击，手段包括登临劫持、反舰弹道导弹、无人水面艇、无人机和火箭弹（见本组'银河领袖号''鲁比马尔号''导师号''永恒C号'等案例）。以色列关联或疑似关联的船舶成为首要目标，使船公司普遍避开红海航线，面向红海的埃拉特港由此失去来船。对埃拉特城区及拉蒙机场的无人机袭击另见 ye_eilat_houthi_drones_2025_09。",
+  "defense_means_cn": "无针对航线的军事防御，应对集中在经济与政治层面：港务公司向议会经济事务委员会和政府求助（CEO 2024-07-07 在委员会陈述）；提出向愿意过红海的船舶支付50万美元财政激励的设想（Libertarian Institute 转述，原始出处待核）；称打算裁减120名员工中的一半、除非政府出资发薪（时间未显示，约在2025年）；9月访谈中称并未裁员——部分人员转往阿什杜德（Ashdod）港，部分由政府发薪；货物改由阿什杜德、海法（Haifa）等地中海港口承接。",
+  "narrative_cn": "埃拉特港（Port of Eilat）位于以色列红海北岸，是以色列面向红海航线的港口。2023年11月胡塞开始袭击红海商船后，经红海挂靠的船舶大量改走他线，埃拉特的来船随之骤减。2024年1月，非洲新闻网（Africanews）已以'以色列港口受胡塞袭击影响'为题报道，具体内容本轮未读取。2024年7月，World Cargo News 报道该港宣告破产，业务量下降85%，并向政府求援；CEO 吉迪恩·戈尔伯（Gideon Golber）7月7日在议会经济事务委员会称，港口已八个月没有业务和收入。2025年7月，多家媒体报道封锁使港口业务降幅达到90%：油价网（Oilprice）引《以色列时报》称，袭击使港口收入下降逾九成，港口因无力偿债将自7月20日起关闭；Libertarian Institute 称戈尔伯再度请求特拉维夫提供帮助；戈尔伯另称管理层打算裁减120名员工中的一半，除非政府出资支付工资（The New Arab 以'面临裁员'为题报道，日期本轮未显示）。2025年9月18日前后，伊朗国际（Iran International）刊出对戈尔伯的访谈：120名常规员工中仍有90人在岗，港口并未裁员，部分人员转往阿什杜德，部分由政府发薪；他认为封锁伤害了埃拉特，但货物转向阿什杜德和海法，物流没有因此变慢，物价也没有上涨。至检索所及的最新材料（2025年9月），仍无法确认埃拉特港是否已正式停摆或何时恢复；2025年10月加沙停火之后至2026年该港的状态，本轮未检索到公开记录。",
+  "defense_effect_cn": "这里的'防御'是财政托底，而不是拦截：2024年7月申请破产保护后，2025年7月又因无力偿债面临关闭，说明第一次求助没有解决问题。戈尔伯的陈述同时包含两个判断：一是埃拉特本地业务归零，二是对国家物流影响有限，因为货物可由地中海侧港口替代。后者意味着红海港口的功能在国家层面被替换，成本落在港务公司、员工和财政补贴上。本轮检索没有看到任何能让船公司重新挂靠埃拉特的安全保障措施，港口的恢复取决于红海风险评估，不取决于港口自身。",
+  "claims_compare_cn": "业务降幅：2024年7月为85%（World Cargo News），2025年7月为90%以上（Oilprice 引《以色列时报》；Libertarian Institute 作90%），统计期不同。状态：2024-07 CEO 称八个月无业务无收入；2025-07 Oilprice 称自7月20日起关闭；2025-09 戈尔伯称90人在岗、未裁员——可见'关闭'表述与实际运转程度不一，具体口径待核。影响评价：戈尔伯一面向政府求援，一面称封锁不拖慢物流、不推高物价。姓名拼写：Golber / Golbert 并见。",
+  "losses_cn": "经济：业务量下降85%（2024-07）至90%以上（2025-07）；无收入约八个月（CEO 陈述，截至2024-07-07）；员工120人，曾计划裁减一半，2025-09 称仍有90人在岗。债务、亏损总额等金额数据本轮检索未取得。人员与设施：无直接伤亡或设施受损记录。",
+  "analysis_cn": "埃拉特港的案例中，没有一枚导弹落在港区，损失全部来自对第三方商船的威胁：攻击方在远离港口的海域袭击商船，就把一座商港的来船压到接近零。防御方的应对是财政托底和把货物转往地中海港口，使'港口被封锁'在国家层面变成成本问题，而不是能力丧失。对依赖单一通道的港口而言，威胁的有效范围由保险费率和船公司的风险偏好决定，而不由对手实际能打击的范围决定；这一点也解释了为何即使胡塞没有直接打击埃拉特，港口仍然走到了破产。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "World Cargo News",
+    "title": "Port of Eilat declares bankruptcy",
+    "title_cn": "埃拉特港宣告破产",
+    "author": "World Cargo News",
+    "date": "",
+    "date_note": "URL 路径显示 2024/07，具体日期及原题名按URL还原，页面本轮未读取",
+    "url": "https://worldcargonews.com/news/2024/07/port-of-eilat-declares-bankruptcy/?gdpr=deny",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Seatrade Maritime",
+    "title": "Attacks on Red Sea shipping bankrupt Israeli port",
+    "title_cn": "红海航运遭袭使以色列港口破产",
+    "author": "Seatrade Maritime",
+    "date": "",
+    "date_note": "题名按URL还原（检索列表显示的页面标题为'Red Sea Crisis'），日期未显示",
+    "url": "https://www.seatrade-maritime.com/ports-logistics/attacks-on-red-sea-shipping-bankrupt-israeli-port",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "OilPrice.com",
+    "title": "Houthi Attacks Trigger Unpaid Debt Shutdown of Israel's Eilat Port",
+    "title_cn": "胡塞袭击触发以色列埃拉特港欠债停摆",
+    "author": "OilPrice.com（摘要称引《以色列时报》）",
+    "date": "",
+    "date_note": "题名按URL还原；摘要称事在2025年7月，具体日期未显示",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthi-Attacks-Trigger-Unpaid-Debt-Shutdown-of-Israels-Eilat-Port.amp.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Libertarian Institute",
+    "title": "Israel's Red Sea Port May Shut Down Due to Houthi Blockade",
+    "title_cn": "以色列红海港口可能因胡塞封锁关闭",
+    "author": "Libertarian Institute",
+    "date": "",
+    "date_note": "摘要称事在2025年7月，具体日期未显示；该站为转载性质",
+    "url": "https://libertarianinstitute.org/?p=295452",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Media Line",
+    "title": "Zero Arrivals, Zero Income: Eilat Port Struggling To Keep Afloat Due to Houthi Threat, CEO Tells The Media Line",
+    "title_cn": "零来船、零收入：埃拉特港因胡塞威胁艰难求存，CEO 对 The Media Line 说",
+    "author": "The Media Line",
+    "date": "",
+    "date_note": "日期未显示",
+    "url": "https://themedialine.org/?p=150858",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Media Line",
+    "title": "Eilat Port Closure: Yemen's Houthis Disrupt International Trade",
+    "title_cn": "埃拉特港关闭：也门胡塞扰乱国际贸易",
+    "author": "The Media Line",
+    "date": "",
+    "date_note": "日期未显示",
+    "url": "https://themedialine.org/mideast-daily-news/eilat-port-closure-yemens-houthis-disrupt-international-trade",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The New Arab",
+    "title": "Israel's Eilat Port faces layoffs amid Houthi Red Sea shipping attacks",
+    "title_cn": "以色列埃拉特港在胡塞红海航运袭击中面临裁员",
+    "author": "The New Arab",
+    "date": "",
+    "date_note": "日期未显示",
+    "url": "https://www.newarab.com/news/israels-eilat-port-faces-layoffs-amid-houthi-ship-attacks",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Iran International",
+    "title": "（检索结果未显示题名；摘要称为对埃拉特港 CEO 的访谈）",
+    "title_cn": "对埃拉特港 CEO 戈尔伯的访谈",
+    "author": "Iran International",
+    "date": "2025-09-18",
+    "date_note": "日期取自URL路径 202509188584",
+    "url": "https://www.iranintl.com/en/202509188584",
+    "type": "其他"
+   },
+   {
+    "publisher": "Africanews",
+    "title": "Israeli ports impacted by Houthi strikes",
+    "title_cn": "以色列港口受胡塞袭击影响",
+    "author": "Africanews",
+    "date": "2024-01-24",
+    "date_note": "日期取自URL路径，页面内容本轮未读取",
+    "url": "https://www.africanews.com/amp/2024/01/24/israeli-ports-impacted-by-houthi-strikes/",
+    "type": "通讯社"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Eilat",
+    "file_name": "（Commons 分类页）Category:Port of Eilat",
+    "desc_cn": "埃拉特港 Commons 分类页，可在其中选图；具体文件未核实",
+    "date": "",
+    "credit": "",
+    "license": "各文件不一，使用前须核实",
+    "verified": false,
+    "note": "该分类页 URL 转录自 G 组 G_images.json（该组检索所见），本轮未独立检索复核"
+   }
+  ],
+  "image_note": "本轮未能在 Commons 核实可直接对应此事件的文件；以上分类页仅作选图入口。",
+  "stats": {
+   "业务降幅": "85%（2024-07，World Cargo News）；90%以上（2025-07，Oilprice 引《以色列时报》）",
+   "无业务时长": "约8个月（截至2024-07-07，CEO 陈述）",
+   "员工": "120人；2025-09 称90人在岗、未裁员",
+   "原定关闭日": "2025-07-20（Oilprice 引《以色列时报》，未见执行确认）",
+   "拟议激励": "每船50万美元（Libertarian Institute 转述，待核）"
+  }
+ },
+ {
+  "case_key": "ye_eilat_houthi_drones_2025_09",
+  "category": "周边港口",
+  "title_cn": "胡塞无人机屡中埃拉特，雷达已见却未告警",
+  "subtitle_cn": "2025-09-07 至 09-24 胡塞无人机袭击拉蒙机场（Ramon Airport）及埃拉特（Eilat）城区，以军拦截部分来袭无人机",
+  "date_start": "2025-09-07",
+  "date_end": "2025-09-24",
+  "date_note": "取检索结果中出现的四个日期（9月7日、8日、18日、24日）；这四天之外是否另有袭击，本轮未检索。",
+  "location_cn": "以色列南部埃拉特（Eilat）及其北侧的拉蒙国际机场（Ramon International Airport）",
+  "lat": 29.56,
+  "lon": 34.95,
+  "coord_note": "取埃拉特市区近似值；拉蒙机场位于埃拉特以北，坐标未在检索结果中核实。",
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（自也门发射的无人机；对9月7日机场袭击公开认领）",
+  "defender": "以色列空军及防空部队（含直升机拦截、铁穹 Iron Dome 系统）",
+  "outcome": "部分拦截",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "自也门发射的无人机，单次一至数架。9月7日一架命中拉蒙机场到达大厅，另有无人机被拦截；9月8日半小时内三架被空军拦截；9月18日一架命中埃拉特酒店区（路透社，据检索摘要转述）；9月24日一架坠落于埃拉特'海上商场'（Mall HaYam）一带商业区，距酒店仅数米。无人机型号、飞行距离和航迹，本轮检索均未取得。",
+  "defense_means_cn": "以军防空发现多架自也门来袭的无人机，拦截一部分，另一部分进入以色列领空。9月7日一架被直升机拦截；9月8日空军半小时内拦截三架；9月24日铁穹尝试拦截，但目标低空飞行，早期探测延迟（以色列希伯来语媒体口径）；以军称曾尝试拦截。防空系统的具体型号、拦截弹数量本轮检索未取得。",
+  "narrative_cn": "2025年9月7日（周日），胡塞武装向以色列南部发射多架无人机。以军称防空系统发现数架自也门来袭的无人机，拦截了一部分，另一部分进入以色列领空；一架无人机击中拉蒙机场到达大厅并使机场暂停运行，另有一架被以军直升机拦截。伤亡口径不一：一说1人受伤，以色列今日报（Israel Hayom）口径为8人。胡塞随后认领对该机场的袭击；PressTV 转载稿以'也门无人机成功击中埃拉特以色列机场'为题。空军的初步调查称，命中机场的那架无人机被雷达跟踪，但未被判定为直接威胁，因此防空系统未启动、警报未响。9月8日（周一），以军称空军在半小时内拦截三架自也门发射的无人机。9月18日，路透社报道一架自也门发射的无人机击中埃拉特一处酒店区，造成财产损失，伤者不多（据检索摘要转述，原文未取得）。9月24日，一架胡塞无人机击中埃拉特商业区，坠落在'海上商场'（Mall HaYam）附近、距某酒店仅数米处，致约20人受伤（一说22人，其中2人重伤）；希伯来语媒体称铁穹曾尝试拦截，但目标低空飞行，早期探测延迟；以军称曾尝试拦截。至于2023年10月以来红海北部对埃拉特方向来袭导弹和无人机的历次拦截，本轮未检索。",
+  "defense_effect_cn": "空军初步调查给出了最具体的缺陷：9月7日命中机场的无人机被雷达跟踪到，但分类为非直接威胁，因此防空系统与警报均未启动——探测环节有信号，威胁判定环节漏了。9月24日铁穹拦截同样受制于低空飞行造成的早期探测延迟。与此同时，直升机拦截一架和空军半小时内拦截三架，说明对已被识别的目标有手段。缺口集中在低空、小型目标的探测、分类和预警链条上，而不在拦截弹本身。拦截成本与来袭无人机成本对比，本轮检索未见数据。",
+  "claims_compare_cn": "伤亡：9月7日机场袭击受伤人数，一说1人，以色列今日报（Israel Hayom）口径为8人；9月24日受伤人数，一说22人，Sahara Reporters 标题作约20人且2人重伤。拦截：以军称拦截一部分、其余进入领空；空军初步调查称命中机场之机被跟踪但未判为威胁；胡塞认领袭击，PressTV 称'成功命中'。拦截失败原因多出自希伯来语媒体和初步调查，以军最终调查结论本轮未检索到。",
+  "losses_cn": "设施：拉蒙机场到达大厅受损、机场一度暂停运行；埃拉特酒店区与商业区财产损失（金额未见）。人员：9月7日1至8人受伤（口径不一）；9月24日约20至22人受伤，其中2人重伤（一说）；9月18日伤者不多（路透社转述）。无死亡报道（本轮检索所见）。",
+  "analysis_cn": "这一轮打击没有用大机群或导弹，只靠少量无人机重复试探，却多次抵达机场和市区，缺口落在低空小目标的探测、分类和预警链条上：雷达看到了，系统没有升级为威胁。每次来袭，防御方要动用直升机、战机或铁穹等手段（成本对比本轮未见数据），一次漏防的后果又会被机场停运和旅游城市的恐慌放大。埃拉特同时是港口、机场和旅游城市，没有被击中的港区仍处在同一防空圈内。这里最有价值的材料是'已探测、未判定'这一失败模式。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "The Times of Israel",
+    "title": "IDF intercepts 3 Houthi drones launched at south, day after attack on Ramon Airport",
+    "title_cn": "以军拦截3架向南部发射的胡塞无人机，一天前拉蒙机场遭袭",
+    "author": "The Times of Israel",
+    "date": "2025-09-08",
+    "date_note": "日期按标题'拉蒙机场遭袭次日'及检索摘要推定",
+    "url": "https://www.timesofisrael.com/idf-intercepts-three-houthi-drones-launched-at-southern-israel/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Sahara Reporters",
+    "title": "Drone strike: Yemen hits Israeli resort city Eilat, 20 injured including two critically",
+    "title_cn": "无人机袭击：也门击中以色列度假城市埃拉特，约20人受伤、2人重伤",
+    "author": "Sahara Reporters",
+    "date": "2025-09-24",
+    "date_note": "题名与日期按URL还原",
+    "url": "https://saharareporters.com/2025/09/24/drone-strike-yemen-hits-israeli-resort-city-eilat-20-injured-including-two-critically",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Qatar Tribune",
+    "title": "Houthis claim responsibility for drone attack on Israeli airport",
+    "title_cn": "胡塞认领对以色列机场的无人机袭击",
+    "author": "Qatar Tribune",
+    "date": "",
+    "date_note": "日期未显示",
+    "url": "https://www.qatar-tribune.com/article/193114/world/houthis-claim-responsibility-for-drone-attack-on-israeli-airport",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "GlobalSecurity.org（转载 Press TV）",
+    "title": "Yemeni drone successfully hits Israeli airport in Eilat",
+    "title_cn": "也门无人机成功击中埃拉特以色列机场",
+    "author": "Press TV（转载）",
+    "date": "2025-09-07",
+    "date_note": "日期取自URL路径 mil-250907；Press TV 为伊朗官方媒体，立场偏向胡塞，仅作胡塞口径参考",
+    "url": "https://www.globalsecurity.org/military/library/news/2025/09/mil-250907-presstv02.htm",
+    "type": "其他"
+   },
+   {
+    "publisher": "South24 Center",
+    "title": "Houthi drone shrapnel hits passenger hall in Eilat airport, September 7, 2025 (CREDIT: 27A)",
+    "title_cn": "胡塞无人机弹片击中埃拉特机场旅客大厅，2025-09-07（图注）",
+    "author": "South24 Center",
+    "date": "2025-09-07",
+    "date_note": "检索列表中仅显示图注，未读取正文",
+    "url": "https://south24.net/news/news.php?nid=4898",
+    "type": "智库"
+   },
+   {
+    "publisher": "South24 Center",
+    "title": "（检索结果未显示题名）",
+    "title_cn": "（同站关于埃拉特无人机袭击的条目，检索摘要未显示题名）",
+    "author": "South24 Center",
+    "date": "",
+    "date_note": "仅出现于检索结果列表，内容本轮未读取",
+    "url": "https://south24.net/news/news.php?nid=4938",
+    "type": "智库"
+   },
+   {
+    "publisher": "Wikipedia",
+    "title": "2025 Eilat drone attack",
+    "title_cn": "2025年埃拉特无人机袭击（条目，仅作交叉参考）",
+    "author": "Wikipedia",
+    "date": "",
+    "date_note": "仅出现于检索结果列表，内容本轮未读取",
+    "url": "https://en.wikipedia.org/wiki/2025_Eilat_drone_attack",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Eilat_panorama.jpg",
+    "file_name": "Eilat_panorama.jpg",
+    "desc_cn": "埃拉特全景照片（红海北端，以色列），为地点示意图，与2025年袭击无直接关联",
+    "date": "",
+    "credit": "",
+    "license": "未核实",
+    "verified": false,
+    "note": "文件页URL转录自 G 组 G_images.json（该组检索所见），本轮未独立检索复核"
+   }
+  ],
+  "image_note": "未检索到公开可用的袭击现场图；South24 页面图注标注 CREDIT: 27A，版权归属不明，不收录。",
+  "stats": {
+   "涉及日期": "2025-09-07、09-08、09-18、09-24",
+   "9月8日拦截": "3架/约30分钟（以军）",
+   "9月7日伤者": "1人或8人（口径不一）",
+   "9月24日伤者": "约20至22人，其中2人重伤（一说）"
+  }
+ },
+ {
+  "case_key": "sd_port_sudan_drones_2025_05",
+  "category": "周边港口",
+  "title_cn": "无人机连日袭击苏丹港油库、机场与海军基地",
+  "subtitle_cn": "2025-05-04 至 05-10 苏丹港（Port Sudan）遭无人机连续袭击，苏丹军方称系快速支援部队（RSF）所为",
+  "date_start": "2025-05-04",
+  "date_end": "2025-05-10",
+  "date_note": "终点取 Malay Mail 5月10日'连续第六日'报道日；之后是否继续，本轮未检索。",
+  "location_cn": "苏丹红海沿岸苏丹港（Port Sudan），含奥斯曼迪格纳（Osman Digna）空军基地与机场、燃料库、港区、弗拉明戈（Flamingo）海军基地",
+  "lat": 19.62,
+  "lon": 37.22,
+  "coord_note": "取苏丹港市区近似值；各目标具体坐标本轮未检索。",
+  "region": "红海-亚丁湾",
+  "attacker": "苏丹快速支援部队（RSF，苏丹军方的说法；RSF 未认领）；苏丹政府并指阿联酋供应武器（阿联酋方回应本轮未检索到）",
+  "defender": "苏丹武装部队（SAF）驻港部队与防空系统；苏丹政府（战时事实上的首都所在）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "无人机，型号与数量本轮检索均未取得，军方及媒体称部分为'自杀式'无人机。连续多日、多目标：奥斯曼迪格纳空军基地及机场、燃料库（全国最大之列）、港口集装箱码头（据 Ambrey）、主变电站、弗拉明戈海军基地及基地内的空军学院总部。Jamestown 基金会《欧亚日报》（Eurasia Daily Monitor）称无人机为中国制造并由阿联酋供给 RSF，该说法为分析判断，未获官方证实。",
+  "defense_means_cn": "苏军称防空系统于5月7日拦截了针对海军基地的无人机，5月8日、9日又击退数波袭击，报道称有多架'自杀式'无人机被击落；防空武器型号、拦截数量本轮检索未取得。同期（5月6日至10日）机场、电站、燃料库仍有被击中的报道。",
+  "narrative_cn": "2025年5月4日（周日），无人机袭击苏丹港，目标之一是邻近唯一仍在运营的国际机场的军事基地（Radio Dabanga 称奥斯曼迪格纳空军基地在周日至周三期间遭打击）。5月5日，燃料库遭无人机打击，发生大爆炸和大火，这些油库属于该国最大的储油设施之一；加油站前车队排出一公里多，民众抢购燃油。苏丹港此前被视为战争中的避难地，报道称RSF 最近的已知阵地距该港约650公里（检索摘要，疑出自 AFP 稿）。5月6日，一架无人机击中机场民用区，机场停止空中交通；开罗机场数据显示三班飞往苏丹港的航班取消；主变电站被击中，全城停电；英国海事安保公司 Ambrey 称港口集装箱码头也成为目标。当天，苏丹军方背景的政府宣布与阿联酋断交，称其为'侵略国'，指阿联酋提供了用于袭击的武器，国防部长亚辛·易卜拉欣（Yassin Ibrahim）发表电视讲话；RSF 未认领，被指为阿联酋'代理人'一说由苏军提出。5月7日，苏军消息人士称防空系统拦截了针对海军基地的无人机；5月8日、9日袭击转向弗拉明戈海军基地及基地内空军学院总部，军方称击退，并称多架'自杀式'无人机被击落。5月10日，马来邮报转述军方消息人士称，苏丹港连续第六日遭无人机袭击，目标含机场、燃料库和电站。联合国方面，副发言人法尔汉·哈克（Farhan Haq）称这属于RSF 与苏军'报复性军事行动'的一部分，双方互相攻击对方控制区的机场。伤亡人数、毁伤评估和无人机型号，本轮检索摘要均未给出明确数字，待核。",
+  "defense_effect_cn": "首轮三天（5月4日至6日），无人机先后命中军事基地、燃料库、机场民用区和主变电站，说明防空体系在这座远离前线的城市没有形成覆盖。军方自5月7日起称拦截了针对海军基地的无人机，但同期机场、电站、燃料库仍有被击中的报道，且拦截数字未经独立核实。后勤层面的暴露最直接：油库起火导致加油站排队、供应忧虑；机场停运；停电。该港承担苏丹几乎全部人道援助的入境，联合国新闻（UN News）与 TimesLive 均强调了对援助的风险。海军基地所在的弗拉明戈湾被 Jamestown 称为拟议中的俄罗斯红海海军基地选址，攻击由此带有地缘含义（分析判断）。",
+  "claims_compare_cn": "责任方：苏军称为RSF，并称RSF 是阿联酋的'代理人'；RSF 未认领，对此未置评（AFP）；苏丹政府5月6日断绝与阿联酋外交关系，称其供应武器；阿联酋回应本轮未检索到。联合国：哈克称是双方互相攻击对方控制区机场的一部分。拦截：苏军称击落多架无人机，独立核实本轮未见。持续天数：AFP 5月6日称'第三日'，马来邮报5月10日称'连续第六日'，起算日相差一天。",
+  "losses_cn": "设施：全国最大之列的燃料库大火；主变电站被毁致全城停电；机场民用区被击中、停航，开罗机场数据显示三班飞苏丹港航班取消；港口集装箱码头被列为目标（Ambrey）；另有报道称卫星图像显示港口炼油厂储罐起火（检索摘要未注明出处媒体，待核）；海军基地遇袭。人员：伤亡数字本轮检索摘要未给出（待核）。经济/民生：燃油短缺、人道援助通道风险。",
+  "analysis_cn": "RSF 最近的已知阵地距苏丹港约650公里，仍有无人机连续多日抵达，表明廉价无人机把距离与后方的概念一并拆掉了。目标选择偏向燃料库、变电站、机场这类难以快速修复、影响全城的节点，而不是港口装卸设备本身；对一座承接绝大部分人道援助的港口，打燃料和电力比打码头更直接。防御方在首轮三天几乎没有挡住，其后才称拦截；拦截数据没有第三方印证。该案偏离胡塞主线，攻击方、手段、目标都与红海商船战役无关，纳入的理由只是苏丹港同在红海沿岸，且其海军基地和港口功能与红海航运、域外海军基地计划相关。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "EWN（Eyewitness News，转 AFP）",
+    "title": "Drone strikes rock Port Sudan in third day of attacks",
+    "title_cn": "无人机袭击连续第三日震动苏丹港",
+    "author": "AFP",
+    "date": "2025-05-06",
+    "url": "https://www.ewn.co.za/2025/05/06/drone-strikes-rock-port-sudan-in-third-day-of-attacks",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Gulf News",
+    "title": "Drone strikes rock Port Sudan in third day of attacks; traffic halted at country's only airport",
+    "title_cn": "无人机袭击连续第三日震动苏丹港，全国唯一机场空中交通停止",
+    "author": "Gulf News",
+    "date": "2025-05-06",
+    "date_note": "日期按事件日及同题稿推定",
+    "url": "https://gulfnews.com/amp/story/world%2Fafrica%2Fdrone-strikes-rock-port-sudan-in-third-day-of-attacks-traffic-halted-at-country-s-only-airport-1.500117843",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "EWN（Eyewitness News，转 AFP）",
+    "title": "Drone strike on Port Sudan navy base, says army source",
+    "title_cn": "军方消息人士称苏丹港海军基地遭无人机袭击",
+    "author": "AFP",
+    "date": "2025-05-07",
+    "date_note": "题名按URL还原（URL中'navy basem'为原文笔误）",
+    "url": "https://www.ewn.co.za/2025/05/07/drone-strike-on-port-sudan-navy-basem-says-army-source",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Hawaii Tribune-Herald（转 AP）",
+    "title": "More explosions rock Port Sudan, army says it intercepted drones",
+    "title_cn": "苏丹港再传爆炸，军方称拦截无人机",
+    "author": "AP",
+    "date": "2025-05-08",
+    "date_note": "检索结果URL末尾带模板残留'{{link}}'，此处已去除",
+    "url": "https://www.hawaiitribune-herald.com/2025/05/08/nation-world-news/more-explosions-rock-port-sudan-army-says-it-intercepted-drones/amp/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Malay Mail",
+    "title": "Army source: Port Sudan hit by drone strikes for sixth consecutive day, targeting airport, fuel depot, power station",
+    "title_cn": "军方消息人士：苏丹港连续第六日遭无人机袭击，目标含机场、油库、电站",
+    "author": "Malay Mail",
+    "date": "2025-05-10",
+    "date_note": "题名按URL还原",
+    "url": "https://www.malaymail.com/amp/news/world/2025/05/10/army-source-port-sudan-hit-by-drone-strikes-for-sixth-consecutive-day-targeting-airport-fuel-depot-power-station/176208",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Africanews",
+    "title": "Paramilitary RSF attacks leave Port Sudan without power",
+    "title_cn": "准军事组织 RSF 袭击致苏丹港断电",
+    "author": "Africanews",
+    "date": "2025-05-06",
+    "date_note": "题名按URL还原",
+    "url": "https://www.africanews.com/amp/2025/05/06/paramilitary-rsf-attacks-leave-port-sudan-without-power/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "UN News（GlobalSecurity.org 转载）",
+    "title": "Sudan drone attacks raise fears for civilian safety and aid efforts",
+    "title_cn": "苏丹无人机袭击引发对平民安全与援助行动的担忧",
+    "author": "UN News",
+    "date": "2025-05-05",
+    "date_note": "日期取自URL路径 mil-250505",
+    "url": "https://www.globalsecurity.org/military/library/news/2025/05/mil-250505-unnews02.htm",
+    "type": "官方"
+   },
+   {
+    "publisher": "TimesLIVE",
+    "title": "Drone strikes pound Port Sudan, putting aid deliveries at risk",
+    "title_cn": "无人机袭击重创苏丹港，援助运送受威胁",
+    "author": "TimesLIVE",
+    "date": "2025-05-07",
+    "date_note": "题名按URL还原",
+    "url": "https://www.timeslive.co.za/news/africa/2025-05-07-drone-strikes-pound-port-sudan-putting-aid-deliveries-at-risk/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Arab News",
+    "title": "Drone strike hits Port Sudan navy base",
+    "title_cn": "无人机袭击击中苏丹港海军基地",
+    "author": "Arab News",
+    "date": "",
+    "date_note": "页面日期未显示",
+    "url": "https://www.arabnews.com/node/2599747/middle-east",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "EWN（Eyewitness News，转 AFP）",
+    "title": "Sudan cuts ties with UAE, accused of backing paramilitaries",
+    "title_cn": "苏丹与阿联酋断交，指其支持准军事组织",
+    "author": "AFP",
+    "date": "2025-05-06",
+    "url": "https://www.ewn.co.za/2025/05/06/sudan-cuts-ties-with-uae-accused-of-backing-paramilitaries",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "The Defense Post",
+    "title": "Sudan cuts ties with UAE",
+    "title_cn": "苏丹与阿联酋断交",
+    "author": "The Defense Post",
+    "date": "2025-05-07",
+    "date_note": "题名按URL还原",
+    "url": "https://thedefensepost.com/2025/05/07/sudan-cuts-ties-uae/amp/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "KAXE（NPR 转载）",
+    "title": "Port Sudan was safe during the war. Now it's been attacked by a group linked to UAE",
+    "title_cn": "苏丹港在战争中曾属安全，如今遭与阿联酋有关联的组织袭击",
+    "author": "NPR（转载）",
+    "date": "2025-05-06",
+    "date_note": "题名按URL还原",
+    "url": "https://www.kaxe.org/news/2025-05-06/port-sudan-was-safe-during-the-war-now-its-been-attacked-by-a-group-linked-to-uae",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Radio Dabanga",
+    "title": "Fuel crisis and civilian fears mount as drones continue to strike eastern Sudan",
+    "title_cn": "无人机持续袭击苏丹东部，燃油危机与平民忧虑加深",
+    "author": "Radio Dabanga",
+    "date": "",
+    "date_note": "日期未显示",
+    "url": "https://www.dabangasudan.org/en/all-news/article/fuel-crisis-and-civilian-fears-mount-as-drones-continue-to-strike-eastern-sudan",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "ecoi.net（转载 Jamestown Foundation《欧亚日报》Eurasia Daily Monitor 第22卷）",
+    "title": "Drone Attacks on Port Sudan Jeopardize Plan for Russian Red Sea Naval Base",
+    "title_cn": "对苏丹港的无人机袭击危及俄罗斯红海海军基地计划",
+    "author": "Jamestown Foundation",
+    "date": "",
+    "date_note": "日期未显示；为分析稿，其中无人机来源、基地选址为分析判断",
+    "url": "https://www.ecoi.net/de/dokument/2125792.html",
+    "type": "智库"
+   },
+   {
+    "publisher": "Mada Masr",
+    "title": "（检索结果未显示题名；摘要称报道机场基础设施部分受损、空中交通停摆）",
+    "title_cn": "（题名未显示）",
+    "author": "Mada Masr",
+    "date": "",
+    "date_note": "仅出现于检索结果列表",
+    "url": "https://www.madamasr.com/en/?p=376646",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Port_Sudan_Airport.jpg",
+    "file_name": "Port_Sudan_Airport.jpg",
+    "desc_cn": "苏丹港机场照片（地点示意，与2025年5月袭击无直接关联）",
+    "date": "",
+    "credit": "",
+    "license": "未核实",
+    "verified": false,
+    "note": "文件页URL转录自 G 组 G_images.json（该组检索所见），本轮未独立检索复核"
+   }
+  ],
+  "image_note": "本轮未检索到火灾/袭击现场的可核实公开图；卫星图像据报道存在（见 losses_cn），出处未取得。",
+  "stats": {
+   "持续时间": "2025-05-04 至 05-10 至少6至7日（口径见 claims）",
+   "涉及目标": "空军基地与机场、燃料库、变电站、集装箱码头、海军基地",
+   "RSF 最近已知阵地距离": "约650公里（报道口径，疑出自AFP稿）",
+   "断交": "苏丹政府 2025-05-06 与阿联酋断交",
+   "伤亡": "本轮检索未取得明确数字"
+  }
+ },
+ {
+  "case_key": "ye_kamaran_island_strikes_2024_06",
+  "category": "海上小岛",
+  "title_cn": "美英首次空袭胡塞控制的卡马兰岛",
+  "subtitle_cn": "2024-06-18 前后与 08-12 前后红海卡马兰岛（Kamaran Island）两度遭美英战机空袭，胡塞媒体称6月四次、8月一次",
+  "date_start": "2024-06-18",
+  "date_end": "2024-08-12",
+  "date_note": "6月日期取自 Atalayar 报道URL（20240618），打击实际发生日未在摘要中显示；8月日期取自 China Daily HK 页首'Published: 19:30, August 12, 2024'，均为报道日，待核。",
+  "location_cn": "红海东岸也门卡马兰岛（Kamaran Island，荷台达以北外海）",
+  "lat": 15.35,
+  "lon": 42.6,
+  "coord_note": "卡马兰岛近似坐标，凭公开地理信息估算，未在检索结果中核实。",
+  "region": "红海-亚丁湾",
+  "attacker": "美国与英国（据胡塞媒体及转述其口径的媒体；联军官方声明本轮未检索到）",
+  "defender": "也门胡塞武装（实际控制该岛）",
+  "outcome": "被攻击受损",
+  "outcome_note": "毁伤情况本轮未检索到公开记录；胡塞 Saba 称8月的一次空袭'无人员伤亡及财产损失信息'。",
+  "domains": [
+   "空中",
+   "水面"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "美英战机空袭，机型、弹药、架次本轮检索均未取得。胡塞媒体 Al-Masirah 称6月对卡马兰岛实施四次打击，同时对荷台达机场实施六次打击；Saba 称8月对该岛实施一次空袭。",
+  "defense_means_cn": "胡塞方面的防空反应本轮检索未取得。岛上居民在社交媒体称，一次打击命中了一艘胡塞爆炸无人艇（新华社稿，据检索摘要转述，联军未作评论）。",
+  "narrative_cn": "卡马兰岛（Kamaran）位于红海东岸、荷台达以北外海，由胡塞控制。路透社援引也门国际承认政府的两名军方消息人士称，胡塞曾利用卡马兰岛与萨利夫（Salif）港作为红海袭击的发射点，并把导弹和无人机藏在岛上盐矿中。2024年6月（报道日期6月18日），胡塞的 Al-Masirah 电视台称美英部队对卡马兰岛实施四次打击，同时对荷台达机场实施六次打击；Atalayar 的标题称这是首次打击卡马兰岛，检索摘要进一步称这是美英主导的联军自2月初空袭胡塞目标以来首次打击该岛（该句出处页未逐条对应）。岛上居民在社交媒体称，一次打击击中了一艘胡塞爆炸无人艇（新华社稿，据检索摘要转述，联军未作评论）。2024年8月12日前后，美英战机再度打击该岛，胡塞官方通讯社 Saba 称战机对该岛实施一次空袭，未提供人员伤亡与财产损失信息。联军方面关于这两次打击的官方说明、目标性质和毁伤评估，本轮检索均未取得；岛上设施的情况主要来自也门政府军方消息人士和胡塞媒体，没有独立核实。",
+  "defense_effect_cn": "本案防御一方是胡塞，公开信息缺少其防空反应与损失的描述，防御效果无法评价。检索摘要只显示：6月首次打击之后约两个月，美英再度空袭该岛，说明首次打击没有一次性解决问题；联军没有公布毁伤评估，所以打击是否削弱了胡塞在岛上的发射与储存能力，缺少独立证据。岛上居民称有一艘爆炸无人艇被击中，若属实，说明这类水面无人平台存放在近岸，易受空中打击，但该说法单一来源、未获联军确认。",
+  "claims_compare_cn": "胡塞媒体 Al-Masirah（6月：卡马兰4次、荷台达机场6次）；Saba（8月：1次空袭，无人员伤亡与财产损失信息）；也门政府军方消息人士经路透社：胡塞用该岛和萨利夫作发射点并在盐矿中藏匿导弹、无人机；岛上居民经新华社：命中爆炸无人艇，联军未置评。联军官方声明、目标说明、毁伤评估均未检索到，打击次数与内容均出自胡塞方面或转述其口径的报道。",
+  "losses_cn": "人员和设施损失本轮未检索到公开记录；胡塞 Saba 称8月的一次空袭无伤亡和财产损失信息；6月一次爆炸无人艇被击中为岛民说法，未获证实。",
+  "analysis_cn": "卡马兰岛靠近商船航线，是胡塞在红海东岸的一处离岸据点。联军选择它作为目标，所依据的说法是岛屿被用于发射与藏匿装备，但这一说法目前只来自也门政府军方消息人士。6月与8月两次空袭相隔约两个月，说明对这类点状目标需要反复打击，一次性摧毁难以做到。信息上的局限同样明确：打击次数、目标性质和战果几乎都出自胡塞媒体或转述，联军自己的目标说明缺失，所以这个案例更适合作为'红海岛屿被当作攻击跳板并被空袭'的线索，而不是战果案例。2026年9月胡塞夺取祖盖尔、哈尼什等岛的战况另见 rs_zuqar_hanish_2026_09。",
+  "confidence": "C",
+  "sources": [
+   {
+    "publisher": "Arab News",
+    "title": "US-UK forces launch strikes on Yemen's Hodeidah and Kamaran Island: Houthi-run Al Masirah TV",
+    "title_cn": "美英部队袭击也门荷台达与卡马兰岛：胡塞 Al-Masirah 电视台",
+    "author": "Arab News",
+    "date": "",
+    "date_note": "日期未显示，据检索摘要对应2024年6月的四次打击",
+    "url": "https://www.arabnews.pk/node/2532316",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Atalayar",
+    "title": "US and UK launch series of strikes against Yemen, hitting Kamaran Island for first time",
+    "title_cn": "美英对也门发动一系列打击，首次打击卡马兰岛",
+    "author": "Atalayar",
+    "date": "2024-06-18",
+    "date_note": "日期取自URL路径 20240618",
+    "url": "https://www.atalayar.com/en/articulo/politics/us-and-uk-launch-series-of-strikes-against-yemen-hitting-kamaran-island-for-first-time/20240618125526201664.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Arab News",
+    "title": "US, UK jets hit Houthi-held Kamaran Island in Red Sea",
+    "title_cn": "美英战机打击胡塞控制的红海卡马兰岛",
+    "author": "Arab News",
+    "date": "",
+    "date_note": "日期未显示；检索摘要将其与路透社援引也门政府军方消息人士的说法及8月打击关联，具体日期待核",
+    "url": "https://www.arabnews.pk/node/2567146",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "China Daily（香港版）",
+    "title": "（检索结果未显示题名；页首标注 Published: 19:30, August 12, 2024）",
+    "title_cn": "（题名未显示；摘要称 Saba 报道美英战机空袭卡马兰岛一次）",
+    "author": "China Daily HK",
+    "date": "2024-08-12",
+    "date_note": "日期取自检索结果页首标注",
+    "url": "https://chinadailyhk.com/hk/article/590421",
+    "type": "通讯社"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:US_striking_Houthi_positions_in_Yemen.webm",
+    "file_name": "US_striking_Houthi_positions_in_Yemen.webm",
+    "desc_cn": "美军打击也门胡塞阵地的视频（背景资料，与卡马兰岛并无已知对应关系）",
+    "date": "",
+    "credit": "",
+    "license": "未核实（检索结果未显示）",
+    "verified": true,
+    "note": "文件页URL见于本轮检索结果，题名可见；内容与卡马兰岛的对应关系、日期、许可均未核实"
+   }
+  ],
+  "image_note": "未检索到卡马兰岛遭袭的可核实公开图。",
+  "stats": {
+   "6月打击次数": "卡马兰岛4次、荷台达机场6次（Al-Masirah 口径）",
+   "8月打击次数": "1次（Saba 口径）",
+   "毁伤": "未检索到公开记录"
+  }
+ },
+ {
+  "case_key": "ye_hodeidah_port_2025_05_05",
+  "category": "周边港口",
+  "title_cn": "本古里安机场中弹后，以军空袭荷台达港",
+  "subtitle_cn": "2025-05-05 以色列空军空袭也门荷台达港（Hodeidah）一带，回应胡塞导弹落入本-古里安机场围界内",
+  "date_start": "2025-05-05",
+  "date_end": "2025-05-06",
+  "date_note": "5月5日（周一）为空袭日，据 Khaleej Times 5月6日稿'一天前'；5月6日以军另警告萨那机场周边民众撤离。第一轮 md 曾记为'5月6日荷台达港打击（Kuehne+Nagel 通告）'，应为通告日，打击日以5月5日为准，待核。",
+  "location_cn": "也门荷台达港（Hodeidah）及周边",
+  "lat": 14.8,
+  "lon": 42.95,
+  "coord_note": "荷台达港近似坐标。",
+  "region": "红海-亚丁湾",
+  "attacker": "以色列空军（机型、架次本轮检索未取得）",
+  "defender": "胡塞控制的荷台达港（防空反应本轮检索未取得）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中",
+   "岸基"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "以色列战机空袭，机型、弹药、架次本轮检索未取得。打击前，以军阿拉伯语发言人阿维哈伊·阿德拉伊（Avichay Adraee）在社交媒体上对拉斯伊萨、荷台达、萨利夫三个胡塞控制港口发出撤离警告（检索摘要把5月与6月两次撤离警告混合，该三港警告是否属5月事件，需核对 IDF 原始通告）。",
+  "defense_means_cn": "胡塞方面的防空反应、港口人员疏散情况本轮检索未取得。以军事先发出撤离警告，可能降低了伤亡，但仍有4死39伤的口径（胡塞卫生部门）。",
+  "narrative_cn": "2025年5月初，胡塞向以色列发射的一枚导弹落入本-古里安机场（Ben Gurion）围界内，在航站楼旁炸出一个坑，致数人受伤（检索摘要作'5月初'，具体日期待核）。5月5日（周一），以军先由阿拉伯语发言人阿德拉伊在社交媒体上发出撤离警告，随后空袭荷台达港一带。胡塞控制的卫生部门称，荷台达港附近的打击造成4人死亡、39人受伤。次日（5月6日，周二），以军又警告萨那机场周边居民撤离，Khaleej Times 将其写作'在对荷台达港打击一天后'。以色列国防部长以色列·卡茨（Israel Katz）称，若胡塞继续向以色列开火，将面对强力回应，并受到海空封锁（据检索摘要，具体出处页待核）。此案发生在2025年4月美军打击拉斯伊萨之后、6月10日以海军首次舰载导弹打击荷台达之前，属于2025年以军对胡塞港口的系列打击之一。以军对该次打击的官方声明原文、毁伤评估、卫星影像，本轮检索均未取得；码头设备、油库的受损情况未见公开记录。",
+  "defense_effect_cn": "本案公开信息很少：打击前有撤离警告，伤亡因此控制在4死39伤（胡塞口径）；胡塞方面的防空与港口恢复情况，本轮检索未取得。从打击逻辑看，以方的目标是港口的收入与进口功能，而不是战斗人员，港口一带在发出警告后仍有数十人伤亡，也说明警告不能保证疏散完全。毁伤评估缺失，无法判断港口功能受损到什么程度。以军警告与空袭之间的间隔、港口人员实际疏散比例，本轮检索同样未取得。",
+  "claims_compare_cn": "伤亡：胡塞卫生部门称4死39伤（Khaleej Times 摘要）；以方公布的数字本轮未取得。日期：Khaleej Times 以'周一'作空袭日，第一轮另见 Kuehne+Nagel 5月6日通告，二者可相容（通告晚一天）。检索摘要另提到胡塞 Saba 通讯社负责人否认以军袭击了任何也门港口，但该摘要把5月与6月两次事件混在一起，无法确认该否认对应哪一次，故不作为5月5日的口径采信。",
+  "losses_cn": "人员：4死39伤（胡塞卫生部门口径，未独立核实）。设施：码头设备、油库、船舶受损情况本轮检索未取得。",
+  "analysis_cn": "这一案例的价值在触发链条：胡塞导弹落入本-古里安机场围界，以军随后先警告再打击港口，再过一天警告萨那机场，对胡塞经济与运输节点的打击随事态逐级展开。'预警撤离+空袭'的做法在6月9日的撤离警告和6月10日以海军首次舰载导弹打击中得到沿用（见 ye_hodeidah_israeli_navy_2025_06_10）。受材料所限，本案战果、毁伤、机型均缺位，只能算对荷台达一连串打击的补充记录。",
+  "confidence": "C",
+  "sources": [
+   {
+    "publisher": "Khaleej Times",
+    "title": "Israel warns civilians to leave Yemen's Sanaa airport area",
+    "title_cn": "以色列警告也门萨那机场区域平民撤离",
+    "author": "Khaleej Times",
+    "date": "2025-05-06",
+    "date_note": "日期按稿件内'周二'及事件推定；稿件内称空袭荷台达港发生在'一天前'（周一）",
+    "url": "https://www.khaleejtimes.com/world/mena/israel-warns-yemen-civilians-sanaa",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "Israel strikes Yemen's Hodeidah port after warning civilians to evacuate",
+    "title_cn": "以色列在警告平民撤离后打击也门荷台达港",
+    "author": "Marine Insight",
+    "date": "",
+    "date_note": "题名按URL还原；页面日期本轮未显示，对应5月事件的判断来自题名与检索摘要，待核",
+    "url": "https://www.marineinsight.com/israel-strikes-yemens-hodeidah-port-after-warning-civilians-to-evacuate/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Maritime Executive",
+    "title": "Israel Tells Citizens to Evacuate Houthi-Controlled Ports in Yemen",
+    "title_cn": "以色列通知民众撤离胡塞控制的也门港口",
+    "author": "Maritime Executive",
+    "date": "",
+    "date_note": "页面日期未显示，可能对应5月5日预警，也可能对应6月9日预警，待核",
+    "url": "https://maritime-executive.com/article/israel-tells-citizens-to-evacuate-houthi-controlled-ports-in-yemen",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Al_Hudaydah",
+    "file_name": "（Commons 分类页）Category:Al Hudaydah",
+    "desc_cn": "荷台达市 Commons 分类页；检索摘要称其媒体以历史图片（含1902年港口照片）为主，无打击现场图",
+    "date": "",
+    "credit": "",
+    "license": "各文件不一",
+    "verified": true,
+    "note": "分类页见于本轮检索结果；其中无对应此事件的文件"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Ports_and_harbours_in_Yemen",
+    "file_name": "（Commons 分类页）Category:Ports and harbours in Yemen",
+    "desc_cn": "也门港口分类页，可作选图入口",
+    "date": "",
+    "credit": "",
+    "license": "各文件不一",
+    "verified": true,
+    "note": "分类页见于本轮检索结果；具体文件未核实"
+   }
+  ],
+  "image_note": "未检索到可对应此事件的公开图。",
+  "stats": {
+   "胡塞口径伤亡": "4死39伤（卫生部门）",
+   "警告港口": "拉斯伊萨、荷台达、萨利夫（待核是否属5月）",
+   "触发事件": "胡塞导弹落入本-古里安机场围界"
+  }
+ }
+]

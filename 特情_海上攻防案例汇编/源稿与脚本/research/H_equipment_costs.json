@@ -1,0 +1,1178 @@
+{
+  "attack_platforms": [
+    {
+      "name": "Magura V5",
+      "country": "乌克兰",
+      "specs_cn": "船长约5.5 m、宽约1.5 m，自重<1000 kg（drone-warfare 称加载后<1100 kg）。最大速度约78 km/h（约42 kn），巡航约22 kn。续航最长约60 h（drone-warfare 称48 h）。航程口径不一：Wikipedia 称最大800 km；drone-warfare 称保证航程800 km（450 nmi）；armedconflicts 称作战半径400 km、总航程833 km；GlobalMilitary 称432 km；另有一份厂商宣传材料称960 km。战斗部：Wikipedia 称炸药最大300 kg，或「海龙」（Sea Dragon，改进型R-73空空导弹）防空弹；drone-warfare 称标准250 kg、最大320 kg；旧版 Wikipedia 称200 kg。上述性能多源自乌克兰数字转型部2022-11发布及乌国防情报局2025-05-15简报（检索摘要提及，未取得原文URL），属开源估计，非官方规格。",
+      "unit_cost": "约1000万格里夫纳（armedconflicts 口径，按其汇率约合27.3万美元）；广泛引用的数字为约273,000美元。drone-warfare 称该金额为整套系统（含地面自主控制站）成本，单艇价格未分离。无官方公开单价。",
+      "sources": [
+        {
+          "publisher": "Wikipedia",
+          "title": "MAGURA V5",
+          "date": "未标注",
+          "url": "https://en.wikipedia.org/wiki/MAGURA_V5"
+        },
+        {
+          "publisher": "Armed Conflicts（armedconflicts.com）",
+          "title": "UKR - MAGURA V5 (bezposádkové víceúčelové plavidlo)",
+          "date": "未标注",
+          "url": "https://origin.armedconflicts.com/topic/view/271130"
+        },
+        {
+          "publisher": "Drone Warfare",
+          "title": "Platform Profile: Magura V5 / V7",
+          "date": "未标注",
+          "url": "https://drone-warfare.com/research/magura-v5-v7/"
+        },
+        {
+          "publisher": "GlobalMilitary.net",
+          "title": "Magura",
+          "date": "未标注",
+          "url": "https://www.globalmilitary.net/ships/magura/"
+        }
+      ]
+    },
+    {
+      "name": "Magura V7",
+      "country": "乌克兰",
+      "specs_cn": "船长约7.2 m、总重约3400 kg（HUR 相关报道，玻璃钢船体）。巡航约23 kn，最高速度至少39 kn。武器：倾斜式发射导轨，可固定 AIM-9M 响尾蛇（Militarnyi 报道）或 R-73（Army Recognition 2025-10 展示画面）；导弹瞄准依靠整船转向；导引头视场约60–67°。Naval News 估计有效交战距离约10 km（实际可能更短）。乌方称 2025-05 用其击落两架俄军 Su-30（未独立核实）。数据冲突：GlobalSecurity 称长约8 m、重约1000 kg（估计）、碳纤维船体、320 kg 自杀式战斗部，为可靠性最低的一组数据；Naval News 称未见船首装药，与战斗部说法相左。",
+      "unit_cost": "未找到公开单价。",
+      "sources": [
+        {
+          "publisher": "Euromaidan Press",
+          "title": "Ukraine unveils Magura v7 naval drone, which downed two Russian Su-30 fighter jets in early May",
+          "date": "2025-05-15",
+          "url": "https://euromaidanpress.com/2025/05/15/ukraine-unveils-new-magura-v7-naval-drone-used-to-shoot-down-two-russian-su-30-jets/"
+        },
+        {
+          "publisher": "Ukrainska Pravda",
+          "title": "Photo reveals Ukrainian sea drone that downed Russian Su-30 fighter",
+          "date": "2025-05-04（日期取自URL路径）",
+          "url": "https://pravda.com.ua/eng/news/2025/05/4/7510542"
+        },
+        {
+          "publisher": "Militarnyi",
+          "title": "Defence Intelligence of Ukraine Reveals Capabilities of Magura v7 Marine Drones",
+          "date": "未标注",
+          "url": "https://militarnyi.com/en/news/defence-intelligence-of-ukraine-reveals-capabilities-of-magura-v7-marine-drones/"
+        },
+        {
+          "publisher": "Army Recognition",
+          "title": "Ukraine demonstrates Magura V7 drone boat for air defense in war with Russia",
+          "date": "2025-10（日未标注）",
+          "url": "https://www.armyrecognition.com/archives/archives-naval-defense/naval-news-navy-2025/ukraine-demonstrates-magura-v7-drone-boat-for-air-defense-in-war-with-russia"
+        },
+        {
+          "publisher": "Naval News",
+          "title": "First Image Of Ukraine's Sidewinder-Armed Magura V7 Surface Drone",
+          "date": "未标注",
+          "url": "https://www.navalnews.com/?p=72075"
+        },
+        {
+          "publisher": "GlobalSecurity.org",
+          "title": "Magura V7",
+          "date": "未标注",
+          "url": "https://www.globalsecurity.org/military/world/ukraine/magura-v7.htm"
+        }
+      ]
+    },
+    {
+      "name": "Sea Baby（水面无人艇，含各代）",
+      "country": "乌克兰（SBU）",
+      "specs_cn": "Wikipedia 标准型：船体约6 m×2 m；战斗部最大850 kg 炸药，或6个 RPV-16 热压弹发射器；航程≥1000 km；最大速度90 km/h。Tovima 报道：最高约49 kn，加挂油箱航程约540 nmi，双200 hp 喷水推进。SBU 最新型（Tovima 报道）：航程>1500 km，载荷可达2000 kg。NV（2024 年报道）：近1吨炸药、航程超1000 km。SBU（Liga.net 乌语报道）：战斗部由早期原型约450 kg 增至第一代930 kg，当前水面型约2000 kg。注意：战斗部数据冲突（850 kg / 930 kg / 近1 t / 约2 t），应按代际分别记录。",
+      "unit_cost": "SBU 自述约850万格里夫纳/艘。折美元（各来源汇率不同）：Wikipedia（2025 版）$245,581；旧版 Wikipedia（2023）$223,162；NV（2024-04，引 SBU 发言人）$215,598。另有媒体写作「$8.5 million」，与格里夫纳数字矛盾，判为错误。UNITED24 募资约3亿格里夫纳购买35艘（约860万格/艘，为作者算术，非出处数据）。新款无公开价格。",
+      "sources": [
+        {
+          "publisher": "Wikipedia",
+          "title": "Sea Baby",
+          "date": "未标注",
+          "url": "https://en.wikipedia.org/wiki/Sea_Baby"
+        },
+        {
+          "publisher": "NV（nv.ua）",
+          "title": "New Sea Baby-2024 drones boast near-ton explosive delivery over 1,000 km",
+          "date": "2024-04（日未标注，月份取自检索摘要）",
+          "url": "https://english.nv.ua/nation/new-sea-baby-2024-maritime-drones-features-and-capabilities-50410065.html"
+        },
+        {
+          "publisher": "To Vima",
+          "title": "Greece Eyes Ukraine's Sea Baby Naval Drones",
+          "date": "未标注",
+          "url": "https://www.tovima.com/world/greece-eyes-ukraines-sea-baby-naval-drones/"
+        },
+        {
+          "publisher": "Defense Magazine",
+          "title": "Sea Baby: Ukraine's multifunctional naval drone surprises Russian forces",
+          "date": "未标注",
+          "url": "https://defensemagazine.com/article/sea-baby-ukraines-multifunctional-naval-drone-surprises-russian-forces"
+        },
+        {
+          "publisher": "Liga.net（乌语）",
+          "title": "СБУ розкрила, як покращились морські дрони Sea Baby – характеристики",
+          "date": "未标注",
+          "url": "https://news.liga.net/ua/amp/politics/news/sbu-rozkrylo-na-skilky-pokrashchylys-ikh-morski-bezpilotnyky-kharakterystyky"
+        }
+      ]
+    },
+    {
+      "name": "Sub Sea Baby（水下无人潜航器）",
+      "country": "乌克兰（SBU）",
+      "specs_cn": "未找到公开规格（尺寸、深度、速度、航程、战斗部均无可核实数据）。已报道事件：SBU 于2025-12-15 发布录像，称水下无人潜航器打击诺沃罗西斯克基地内的 Kilo 级潜艇，报道称命中尾部；俄方称攻击失败、基地舰艇完好；该打击未获独立证实。SBU 表述暗示使用了多具。乌方行业来源称该项目不公开、准入受限。",
+      "unit_cost": "未找到。",
+      "sources": [
+        {
+          "publisher": "Defense News",
+          "title": "Ukraine's first underwater drone strike caught on hacked cameras",
+          "date": "2025-12-16",
+          "url": "https://www.defensenews.com/global/europe/2025/12/16/ukraines-first-underwater-drone-strike-caught-on-hacked-cameras/"
+        },
+        {
+          "publisher": "Military Times",
+          "title": "Ukraine's first underwater drone strike caught on hacked cameras",
+          "date": "2025-12-16",
+          "url": "https://www.militarytimes.com/global/europe/2025/12/16/ukraines-first-underwater-drone-strike-caught-on-hacked-cameras/"
+        },
+        {
+          "publisher": "Türkiye Today",
+          "title": "Ukraine unveils Sub Sea Baby drone in strike on Russian submarine at Novorossiysk",
+          "date": "未标注",
+          "url": "https://www.turkiyetoday.com/world/ukraine-unveils-sub-sea-baby-drone-in-strike-on-russian-submarine-at-novorossiysk-3211435"
+        }
+      ]
+    },
+    {
+      "name": "Marichka（水下无人潜航器）",
+      "country": "乌克兰",
+      "specs_cn": "长约6 m；宽度数据不一：Wikipedia 与 Fakty 称1 m，Chip.pl 称直径约91 cm。航程：常见约1000 km（Naval News 2023 估计）。载荷：2023 年报道称未知；2026 年 Euromaidan Press 转述 Militarnyi 称约1吨（航程1000 km）。速度：2026 年报道称最高约10 km/h（作者算术指出与1000 km航程不能同时成立，两者或对应不同工况）。待机模式可在预设坐标悬停达一周。惯导、低噪声推进；Wikipedia 引厂商称可躲避水声搜索并抗电子战。截至2026 年报道仍在测试，未参战。",
+      "unit_cost": "约1600万格里夫纳 ≈ 43.3万美元（乌媒称，检索摘要未指明具体来源）。研发方冲突：Euromaidan Press 称 Aquatechnik 研发；Naval News 与 Wikipedia 称为 AMMO Ukraine 志愿工程师研制、依靠捐助。",
+      "sources": [
+        {
+          "publisher": "Euromaidan Press",
+          "title": "Ukraine's 'Marichka' underwater drone can lurk for a week before striking with one-tonne payload - new details revealed",
+          "date": "2026-02-03",
+          "url": "https://euromaidanpress.com/2026/02/03/ukraines-marichka-underwater-drone-detailed/"
+        },
+        {
+          "publisher": "Naval News",
+          "title": "Ukraine's new underwater drone Marichka breaks cover",
+          "date": "2023-08（日未标注）",
+          "url": "https://www.navalnews.com/naval-news/2023/08/ukraines-new-underwater-drone-marichka-breaks-cover/"
+        },
+        {
+          "publisher": "Chip.pl",
+          "title": "Ukraina wypuściła podwodnego potwora. Marichka ma ogromny potencjał",
+          "date": "2023-09（日未标注）",
+          "url": "https://www.chip.pl/2023/09/ukraina-podwodny-pogromca-dron-bron"
+        },
+        {
+          "publisher": "Fakty（乌语）",
+          "title": "zsu testuyut pidvodnyj dron marichka shho vidomo pro bpla（检索结果仅显示URL式标题）",
+          "date": "2023-09-27（日期取自URL路径）",
+          "url": "https://fakty.com.ua/ru/ukraine/20230927-zsu-testuyut-pidvodnyj-dron-marichka-shho-vidomo-pro-bpla"
+        },
+        {
+          "publisher": "Wikipedia",
+          "title": "Marichka",
+          "date": "未标注",
+          "url": "https://en.wikipedia.com/wiki/Marichka"
+        },
+        {
+          "publisher": "Espreso TV",
+          "title": "Ukrainian engineers develop Marichka underwater drone capable of targeting Russian fleet",
+          "date": "未标注",
+          "url": "https://global.espreso.tv/ukrainian-engineers-develop-marichka-underwater-drone-capable-of-targeting-russian-fleet"
+        }
+      ]
+    },
+    {
+      "name": "Toloka（TLK 系列无人潜航器：TLK-150/200/400/1000）",
+      "country": "乌克兰",
+      "specs_cn": "TLK-150（最小型）：长约2.5 m；作战半径约100 km；载荷20–50 kg；电动；速度未公布。TLK-200（小型）：航程200 km；载荷20 kg；速度>15 kn；配惯导、无线电通信及目标雷达。TLK-400（中型）：航程1200 km；载荷500 kg以上；汽油机；长4–6 m（Kyiv Post 口径）。TLK-1000（大型）：直径1.5 m、长12 m（Defence Matters）；载荷最高5000 kg；航程2000 km（Defence Matters、Kyiv Post）或3000 km（Mezha）；续航最长60天（Defence Matters）；动力为柴电（Mezha）或电动（Kyiv Post）；速度5–15 kn；下潜深度：Mezha 称1000 m，另一来源称复合材料壳体仅300 m。TLK 各型与 Naval News 2023 所述型号的对应关系不明。据摘要，2025-09-19 在 Brave1 Defence Tech Valley 2025 展出。以上多为厂商或二手报道，未核实。",
+      "unit_cost": "未找到。",
+      "sources": [
+        {
+          "publisher": "Novaya Gazeta Europe",
+          "title": "Drones of the high seas",
+          "date": "2023-08-10",
+          "url": "https://novayagazeta.eu/articles/2023/08/10/drones-of-high-seas-en"
+        },
+        {
+          "publisher": "Naval News",
+          "title": "Innovative Submarine Drone Is Ukraine's New Weapon Against Russian Navy",
+          "date": "2023-05（日未标注）",
+          "url": "https://www.navalnews.com/naval-news/2023/05/innovative-submarine-drone-is-ukraines-new-weapon-against-russian-navy/"
+        },
+        {
+          "publisher": "Babel",
+          "title": "Unmanned underwater torpedoes are being developed in Ukraine. The manufacturer promises a range of up to 2 000 km",
+          "date": "未标注",
+          "url": "https://babel.ua/en/news/93241-unmanned-underwater-torpedoes-are-being-developed-in-ukraine-the-manufacturer-promises-a-range-of-up-to-2-000-km"
+        },
+        {
+          "publisher": "Kyiv Post（fu.kyivpost.com）",
+          "title": "（检索结果未显示标题）",
+          "date": "未标注",
+          "url": "https://fu.kyivpost.com/post/17551"
+        },
+        {
+          "publisher": "Defence Matters",
+          "title": "（检索结果页面标题显示为 Subscription Form；正文摘要涉及 TLK-1000）",
+          "date": "未标注",
+          "url": "https://defencematters.eu/?p=2671"
+        },
+        {
+          "publisher": "Mezha（oboronka.mezha.ua）",
+          "title": "（检索结果仅显示URL式标题：toloka tri pidvodnih drona z shi ta rezhimom roya）",
+          "date": "未标注",
+          "url": "https://oboronka.mezha.ua/en/toloka-tri-pidvodnih-drona-z-shi-ta-rezhimom-roya-305024/"
+        }
+      ]
+    },
+    {
+      "name": "Katran（俄罗斯三体船无人艇）",
+      "country": "俄罗斯",
+      "specs_cn": "俄方（Center for Unmanned Systems and Technologies）披露的铝合金三体（trimaran）水面无人艇，模块化，可三体或单体（单体机动性更好）配置；外挂发动机带铝制护罩（或为装甲/降低红外特征）；疑似装有星链天线（部分被伪装网遮挡）。定位以无人机母舰为主：开发方称可搭载并投放数十架 Skvorets FPV 无人机，投放距离100–200 km（FPV 活动半径约5–10 km）。其他任务：侦察、雷达监视、后勤、打击、布雷/扫雷、巡逻。武备：早期图像为单挺机枪；2024-09 向普京展示时挂 UMT 220 mm 轻型鱼雷（模型）。航程、航速、续航未经独立核实，乌方情报尚未公布完整规格。装备状态：2025-03 据报道向黑海舰队交付初期样机（数量说法不一：两台原型 vs 数台预生产样机）。注意：乌克兰另有同名 Katran 无人艇（报道称航程超1000 km、最高约130 km/h），两者不得混用。",
+      "unit_cost": "未找到。",
+      "sources": [
+        {
+          "publisher": "Covert Shores（H I Sutton）",
+          "title": "Russia Reveals 'Katran' Trimaran USV",
+          "date": "未标注",
+          "url": "https://www.hisutton.com/Russian-Katran-USV.html"
+        },
+        {
+          "publisher": "Defence-UA",
+          "title": "A closer look at Katran: Russia's own naval drone",
+          "date": "未标注",
+          "url": "https://en.defence-ua.com/weapon_and_tech/a_closer_look_at_katran_russias_own_naval_drone-14449.html"
+        },
+        {
+          "publisher": "The Defense Post",
+          "title": "Ukraine Reveals Details of Russian Naval Drones for Combat, Surveillance",
+          "date": "2026-08-27",
+          "url": "https://thedefensepost.com/2026/08/27/ukraine-details-russian-naval-drones/"
+        },
+        {
+          "publisher": "Militarnyi",
+          "title": "DIU Reveals Details of Russian Naval Drones: From Skanda to Kamikaze USVs",
+          "date": "未标注",
+          "url": "https://militarnyi.com/en/news/diu-reveals-details-of-russian-naval-drones-from-skanda-to-kamikaze-usvs/"
+        },
+        {
+          "publisher": "Drone Warfare",
+          "title": "Russian Naval Drones: Every USV Type Ukraine Has Named",
+          "date": "未标注",
+          "url": "https://drone-warfare.com/research/russian-naval-drones/"
+        }
+      ]
+    },
+    {
+      "name": "Shahed-136 / Geran-2（沙希德-136 / 天竺葵-2）",
+      "country": "伊朗（设计）/ 俄罗斯（生产，Alabuga）",
+      "specs_cn": "空机：最大起飞重量约200 kg，长约3.5 m，翼展约2.5 m。航程：常见970–1500 km，部分资料为2000–2500 km（来源不一；较重战斗部型号约1000 km以上）。最高速度约185 km/h，续航约12 h，高度60–4000 m。动力：活塞发动机，功率标注不一（50–90 hp；另称50 hp 二冲程）。发射：可弃式火箭助推，自导轨或车载发射架发射。导航：卫星导航（俄版具抗电子战能力）；改进型加装红外相机、Nvidia Jetson 处理器与实时视频数传。战斗部：标准50 kg 高爆破片；另有90 kg 重型（单一来源称2024年后进入俄军服役）、52 kg 热压、燃烧型。2026 年报道：喷气型 Geran-4 巡航约400–500 km/h（乌方情报称俄每月生产约3000架 Geran-4/5，未独立证实）。产量：GlobalSecurity 称截至2025 春累计26000架以上，2025 年末日产170–190架（单一来源）。",
+      "unit_cost": "口径冲突，全部列出：①伊朗出口价：2024-02 Sahara Thunder 黑客泄露文件称6000架订单每架19.3万美元，2000架批次每架29万美元（后者含工装、软件与生产线）；②CSIS Missile Threat 估算 Shahed-131/136 为2–5万美元（仅机体与部件）；③同一泄露文件称 Alabuga 本地化全俄制造机体预计4.88万美元；④GlobalSecurity 称2025 年俄产单价7–8万美元（计算方法未说明，与4.88万美元冲突）。另据摘要，乌方以数千美元的拦截无人机对付活塞型 Shahed-136。",
+      "sources": [
+        {
+          "publisher": "Wikipedia",
+          "title": "HESA Shahed 136",
+          "date": "未标注",
+          "url": "https://en.wikipedia.org/wiki/HESA_Shahed_136"
+        },
+        {
+          "publisher": "GlobalSecurity.org",
+          "title": "Geran-2 UAV",
+          "date": "未标注",
+          "url": "https://www.globalsecurity.org/intell/world/russia/geran-2.htm"
+        },
+        {
+          "publisher": "Drone Warfare",
+          "title": "Shahed-136 and the Geran Family: Variants, Production, Guidance and Employment",
+          "date": "未标注",
+          "url": "https://drone-warfare.com/research/shahed-136/"
+        },
+        {
+          "publisher": "GlobalMilitary.net",
+          "title": "Shahed 136",
+          "date": "未标注",
+          "url": "https://www.globalmilitary.net/es/aircraft/shahed-136/"
+        },
+        {
+          "publisher": "CSIS Missile Threat",
+          "title": "（成本估算，检索摘要转述）",
+          "date": "未标注",
+          "url": ""
+        },
+        {
+          "publisher": "Sahara Thunder 泄露文件（经检索摘要转述）",
+          "title": "（2024-02 黑客泄露，原始报道URL未在检索结果中出现）",
+          "date": "2024-02（日未标注）",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Quds 系列巡航导弹（圣城 Quds-1/2/3/4）",
+      "country": "也门（胡塞武装），伊朗相关技术",
+      "specs_cn": "Quds-1（美方代号 351）：射程800 km（Iran Watch 报道）或700 km（另一来源假定）；动力为未经授权仿制的捷克 PBS Velká Bíteš TJ-100 涡喷发动机；导航：地形匹配（TERCOM）。Quds-2：射程1350 km（与伊朗 Soumar/Hoveyzeh 对应）。Quds-3：2022 年萨那阅兵亮相，射程未公布，据直径推断应大于 Quds-2（推断，非实测）。Quds-4：2023-09 阅兵亮相，射程未公布（以色列空军拦截录像中出现的威胁疑为 Quds-4）。战斗部：未找到任何 Quds 变型的战斗部质量或类型（不应套用 Iran Primer 列出的500 kg 弹道导弹数据）。BESA 估计胡塞无人机与巡航导弹最大航程约1000 km，最长导弹约1200 km。2020 年联合国专家组报告称其部件产自伊朗（摘要转述）。",
+      "unit_cost": "未找到。",
+      "sources": [
+        {
+          "publisher": "Wikipedia",
+          "title": "Quds cruise missile",
+          "date": "未标注",
+          "url": "https://en.wikipedia.org/wiki/Quds_cruise_missile"
+        },
+        {
+          "publisher": "BESA Center",
+          "title": "The Yemeni Houthi Missile Arsenal and the Threat to Israel",
+          "date": "未标注",
+          "url": "https://besacenter.org/the-yemeni-houthi-missile-arsenal-and-the-threat-to-israel/"
+        },
+        {
+          "publisher": "Breaking Defense",
+          "title": "Analysis: Houthi targeting of Israel suggests new longer-range missile in play（标题由URL推断，检索结果标题为 Opinion & Analysis）",
+          "date": "2023-12（日未标注）",
+          "url": "https://breakingdefense.com/2023/12/analysis-houthi-targeting-of-israel-suggests-new-longer-range-missile-in-play/"
+        },
+        {
+          "publisher": "GlobalMilitary.net",
+          "title": "Quds-1",
+          "date": "未标注",
+          "url": "https://www.globalmilitary.net/missiles/quds-1/"
+        },
+        {
+          "publisher": "Defense Update",
+          "title": "（检索结果未显示标题）",
+          "date": "未标注",
+          "url": "https://defense-update.com/?p=157559"
+        }
+      ]
+    },
+    {
+      "name": "Samad-3（萨马德-3）无人机",
+      "country": "也门（胡塞武装）；分析认为有伊朗供应",
+      "specs_cn": "常见参数多由 Samad-2 数据推断（联合国专家组称为 UAV-X）：长2.8 m，翼展4.5 m（GlobalMilitary）；活塞发动机（3W110i B2 或 DLE 170）；最大速度200–250 km/h（Wikipedia）。航程口径差异大：Science and Global Security（2020-12）飞行性能建模估计超过1800 km（数据有限，主要依据图像）；AFP 称约1500 km（胡塞及分析人士称）；GlobalMilitary 列1500 km；Wikipedia 引发动机厂商称转场航程1200–1500 km（非飞行测试）；Iran Primer 称曾改用绕行航线（里程单位不明）。导航：GPS，按预设航路点自主飞行（CSIS 2020）。战斗部：Kuwait Times 称可挂载「18 km」炸药，明显为单位错误（疑为18 kg），未能确认。Wikipedia 评价其廉价、慢速、精度差。",
+      "unit_cost": "未找到。",
+      "sources": [
+        {
+          "publisher": "Science and Global Security",
+          "title": "Flight Performance Analysis of the Samad Attack Drones Operated by Houthi Armed Forces",
+          "date": "2020-12（日未标注）",
+          "url": "https://scienceandglobalsecurity.org/archive/2020/12/flight_performance_analysis_of.html"
+        },
+        {
+          "publisher": "Wikipedia",
+          "title": "Samad (UAV)",
+          "date": "未标注",
+          "url": "https://en.wikipedia.org/wiki/Samad_(UAV)"
+        },
+        {
+          "publisher": "GlobalMilitary.net",
+          "title": "Samad",
+          "date": "未标注",
+          "url": "https://www.globalmilitary.net/aircraft/samad/"
+        },
+        {
+          "publisher": "USIP Iran Primer",
+          "title": "Houthi Explainer: Military Arsenal",
+          "date": "未标注",
+          "url": "https://iranprimer.usip.org/node/12951"
+        },
+        {
+          "publisher": "Kuwait Times",
+          "title": "Houthi drones pose challenge for UAE",
+          "date": "未标注",
+          "url": "https://kuwaittimes.com/houthi-drones-pose-challenge-for-uae/"
+        }
+      ]
+    },
+    {
+      "name": "Asef（阿萨夫，Asif）反舰弹道导弹",
+      "country": "伊朗（设计）；胡塞武装使用",
+      "specs_cn": "伊朗 Fateh-313 的反舰衍生型（IISS 类分析）。长约8.8 m，直径0.61 m，单体不分级。射程：约450 km（IISS 类分析）；500 km（Sutton，载荷380 kg）。战斗部：约300 kg（其他估计380 kg、550 kg）。导引：中段惯导加卫星导航修正，末段光电/红外导引；飞行时间约3–6 min（分析描述）。谱系存争议：Metis 认为源自 Khalij Fars，Fateh Mobin 外形相近。",
+      "unit_cost": "未找到。",
+      "sources": [
+        {
+          "publisher": "Covert Shores（H I Sutton）",
+          "title": "Iranian Houthi ASBM",
+          "date": "未标注",
+          "url": "https://www.hisutton.com/Iranian-Houthi-ASBM.html"
+        },
+        {
+          "publisher": "Israel-Alma",
+          "title": "Houthi anti-ship ballistic missiles",
+          "date": "未标注",
+          "url": "https://israel-alma.org/houthi-anti-ship-ballistic-missiles/"
+        },
+        {
+          "publisher": "Metis（fenixinsight）",
+          "title": "Asif",
+          "date": "未标注",
+          "url": "https://metis.fenixinsight.com/munition/missile/asif"
+        },
+        {
+          "publisher": "The War Zone（TWZ）",
+          "title": "The Anti-Ship Missile Arsenal Houthis Are Firing Into the Red Sea",
+          "date": "未标注",
+          "url": "https://www.twz.com/the-anti-ship-missile-arsenal-houthis-are-firing-into-the-red-sea"
+        },
+        {
+          "publisher": "IISS（经检索摘要转述）",
+          "title": "（射程450 km 口径，原始URL未在检索结果中出现）",
+          "date": "未标注",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Tankil（塔基勒）反舰弹道导弹",
+      "country": "伊朗（设计）；胡塞武装使用",
+      "specs_cn": "伊朗 Raad-500 的海上（反舰）变型，体型小于 Asef。IISS 类评估射程约500 km（长于 Asef 的450 km 口径）。一说其战斗部与 Asef 相同（来源未明）。",
+      "unit_cost": "未找到。",
+      "sources": [
+        {
+          "publisher": "IISS（经检索摘要转述）",
+          "title": "（Tankil 射程评估，原始URL未在检索结果中出现）",
+          "date": "未标注",
+          "url": ""
+        },
+        {
+          "publisher": "Covert Shores（H I Sutton）",
+          "title": "Iranian Houthi ASBM（摘要未逐条对应该文，需核对）",
+          "date": "未标注",
+          "url": "https://www.hisutton.com/Iranian-Houthi-ASBM.html"
+        },
+        {
+          "publisher": "The War Zone（TWZ）",
+          "title": "The Anti-Ship Missile Arsenal Houthis Are Firing Into the Red Sea（摘要未逐条对应该文，需核对）",
+          "date": "未标注",
+          "url": "https://www.twz.com/the-anti-ship-missile-arsenal-houthis-are-firing-into-the-red-sea"
+        }
+      ]
+    },
+    {
+      "name": "Falaq（法尔斯，Faleq / Falq-1）反舰弹道导弹",
+      "country": "也门（胡塞武装）；分析认为与伊朗 IRGC 有关",
+      "specs_cn": "胡塞官方描述（经 South24 转述）：固体燃料，射程140 km，战斗部约105 kg，光学+热成像导引。Covert Shores（Sutton）：长约6 m，射程200 km。起源：胡塞称完全本土研制，Sutton 认为系伊斯兰革命卫队（IRGC）项目，意在降低成本。IISS 认为该小型类别公开资料极少，设计类似伊朗某型但无对应已知型号。",
+      "unit_cost": "未找到。",
+      "sources": [
+        {
+          "publisher": "South24",
+          "title": "（检索结果显示为站内新闻，标题未显示；内容为胡塞官方 Falaq 描述转述）",
+          "date": "未标注",
+          "url": "https://south24.net/news/news.php?nid=3782"
+        },
+        {
+          "publisher": "Covert Shores（H I Sutton）",
+          "title": "Iranian Houthi ASBM",
+          "date": "未标注",
+          "url": "https://www.hisutton.com/Iranian-Houthi-ASBM.html"
+        }
+      ]
+    },
+    {
+      "name": "胡塞无人爆炸艇（WBIED，遥控一次性攻击艇）",
+      "country": "也门（胡塞武装）",
+      "specs_cn": "遥控无人爆炸艇（WBIED）。分析描述：白色小艇，长约5–7 m，驾驶位置放置人形假人；另有描述称伪装为小渔船。事件：2024-06-12 散货船 Tutor（希腊籍、利比里亚旗）遭两艘无人艇袭击，船尾进水、机舱受损，1 名船员死亡，全体弃船，船只随后沉没；胡塞称同日以无人艇、导弹、无人机联合袭击。2024-06-27 散货船 Seajoy（希腊籍、马耳他旗）在红海遭 WBIED 击中，无人员伤亡，船舶继续航行（Ambrey/UKMTO）。美国五角大楼称2023 年末胡塞曾放出一艘装药无人艇，未击中船只即爆炸，称其为「一次性攻击」新能力。沙特联军称在萨利夫（Salif）以南约6 km 销毁2 艘遥控艇，并称截获46艘遥控艇及153个海上诡雷（时段未说明）。",
+      "unit_cost": "未找到公开单价。",
+      "sources": [
+        {
+          "publisher": "Maritime Executive",
+          "title": "Houthis Hit Another Merchant Ship With a Bomb Boat",
+          "date": "未标注（事件日期见 specs_cn）",
+          "url": "https://maritime-executive.com/article/houthis-hit-another-merchant-ship-with-a-bomb-boat"
+        },
+        {
+          "publisher": "Counter-IED Report",
+          "title": "Houthi USV WBIED attacks targeting merchant ships in the Red Sea, Yemen",
+          "date": "未标注",
+          "url": "https://counteriedreport.com/houthi-usv-wbied-attacks-targeting-merchant-ships-in-the-red-sea-yemen/"
+        },
+        {
+          "publisher": "Marine Insight",
+          "title": "Bulk Carrier Attacked By Houthi-Launched Explosive Device In The Red Sea",
+          "date": "未标注",
+          "url": "https://www.marineinsight.com/bulk-carrier-attacked-by-houthi-launched-explosive-device-in-the-red-sea/"
+        },
+        {
+          "publisher": "Hellenic Shipping News",
+          "title": "Houthis sent explosive drone boat towards Red Sea shipping lanes, Pentagon says",
+          "date": "未标注（摘要推断约2023年末）",
+          "url": "https://www.hellenicshippingnews.com/houthis-sent-explosive-drone-boat-towards-red-sea-shipping-lanes-pentagon-says/"
+        },
+        {
+          "publisher": "Counter-IED Report",
+          "title": "Saudi-led coalition in Yemen says explosive boats destroyed in Red Sea",
+          "date": "未标注",
+          "url": "https://counteriedreport.com/saudi-led-coalition-in-yemen-says-explosive-boats-destroyed-in-red-sea/"
+        }
+      ]
+    },
+    {
+      "name": "Tufan 1（图凡-1）一次性攻击无人艇（OWA-USV）",
+      "country": "也门（胡塞武装）",
+      "specs_cn": "注意：题干所列「图凡类无人潜航器」与公开资料不符，图凡-1 为水面一次性攻击无人艇（OWA-USV），阿拉伯文名意为「风暴/洪水」。2024-06 试射视频显示目标船被摧毁（实弹测试，非展示模型）。未找到尺寸、速度、航程、战斗部数据。胡塞水下无人潜航器见下一条。",
+      "unit_cost": "未找到。",
+      "sources": [
+        {
+          "publisher": "Metis（fenixinsight）",
+          "title": "Tufan 1 Uncrewed Surface Vessel",
+          "date": "未标注",
+          "url": "https://metis.fenixinsight.com/munition/weaponizedDrone/tufan-1-uncrewed-surface-vessel"
+        },
+        {
+          "publisher": "The War Zone（TWZ）",
+          "title": "Small and Agile Houthi Drone Boat Shown Obliterating Ship During Test",
+          "date": "2024-06（月份取自检索摘要，日未标注；URL与该段摘要的对应需核对）",
+          "url": "https://www.twz.com/news-features/small-and-agile-houthi-drone-boat-shown-obliterating-ship-during-test.md"
+        }
+      ]
+    },
+    {
+      "name": "胡塞水下无人潜航器（UUV，型号未公开）",
+      "country": "也门（胡塞武装）；伊朗供应（分析判断）",
+      "specs_cn": "2024-02：美国中央司令部（CENTCOM）称红海海军力量在胡塞控制水域摧毁一艘无人潜航器，为胡塞自2023 年10 月袭船行动以来首次被观察到使用UUV。型号未说明，分析认为系伊朗供应；2024-01 伊朗武器走私被截获，照片中含USV与UUV组件。开源分析认为可能为商用改装或较简陋的潜航器，航程与载荷未知。另有 Terrogence 报告描述「Al-Qari'a」UUV（类似伊朗「徘徊鱼雷」），摘要未给出首次出现时间。勿混淆：2018 年胡塞俘获的为美国海军 REMUS 600 科研UUV，非胡塞自制。",
+      "unit_cost": "未找到。",
+      "sources": [
+        {
+          "publisher": "USNI News",
+          "title": "Houthi Lethal Underwater Drones Adds New Threat to Red Sea",
+          "date": "2024-02-19",
+          "url": "https://news.usni.org/2024/02/19/houthi-lethal-underwater-drones-adds-new-threat-to-red-sea"
+        },
+        {
+          "publisher": "USNI News",
+          "title": "VIDEO: Houthi Forces Capture U.S. Navy Unmanned Underwater Vehicle Off Yemen（REMUS 600，2018 年 1 月事件，据摘要）",
+          "date": "未标注",
+          "url": "https://news.usni.org/?p=30384"
+        },
+        {
+          "publisher": "Maritime Executive",
+          "title": "A New Threat in the Red Sea: Houthi UUVs",
+          "date": "未标注",
+          "url": "https://www.maritime-executive.com/editorials/a-new-threat-in-the-red-sea-houthi-uuvs"
+        },
+        {
+          "publisher": "Terrogence（经 Carahsoft）",
+          "title": "Mbius report（26208 terrogence mbius report）",
+          "date": "未标注",
+          "url": "https://www.carahsoft.com/resources/26208-terrogence-mbius-report"
+        }
+      ]
+    }
+  ],
+  "interceptors": [
+    {
+      "name": "SM-6（标准-6）",
+      "country": "美国",
+      "specs_cn": "舰载中远程防空/反导拦截弹。本条仅取单价，规格未在本轮核实。",
+      "unit_cost": "美海军 FY2021 预算口径约431.9万美元（摘要称为 Block I/IA 混合采购的年度均价；出处归属需核对）；War Zone 2024 年汇总约427万美元；2025-07 第三方分析站估算 Block I/IA 约400万–490万美元（方法未核实，可信度低）。出口参考：摘要称 2025-01 日本对外军售批准150 枚、9亿美元，折合约600万美元/枚（含训练与支持）。",
+      "sources": [
+        {
+          "publisher": "The War Zone（TWZ）",
+          "title": "What The Navy's Ship-Launched Missiles Actually Cost",
+          "date": "未标注",
+          "url": "https://www.twz.com/sea/what-the-navys-ship-launched-missiles-actually-cost"
+        },
+        {
+          "publisher": "Chuck Hill's CG Blog（汇总 TWZ 数据）",
+          "title": "What The Navy's Ship-Launched Missiles Actually Cost The War Zone",
+          "date": "2024-05-22",
+          "url": "https://chuckhillscgblog.net/2024/05/22/what-the-navys-ship-launched-missiles-actually-cost-the-war-zone/"
+        },
+        {
+          "publisher": "Norsk Luftvern",
+          "title": "SM-6 Missile Defense System: Cost Analysis and Performance Comparison",
+          "date": "2025-07-19",
+          "url": "https://norskluftvern.com/2025/07/19/sm-6-missile-defense-system-cost-analysis-and-performance-comparison/"
+        },
+        {
+          "publisher": "日本对外军售（分析站转述，原始 URL 未在检索结果中出现）",
+          "title": "（摘要：2025 年 1 月日本 150 枚、9 亿美元军售，约 600 万美元/枚）",
+          "date": "2025-01（日未标注）",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "SM-2 Block IIIA（含 IIIAZ、IIIC 改装套件）",
+      "country": "美国",
+      "specs_cn": "舰空中程防空导弹。整弹单价在检索结果中未给出；所见数字均为改装套件：IIIAZ 用于 Zumwalt 级驱逐舰；IIIC 套件可升级既有 IIIA/IIIB 弹。",
+      "unit_cost": "整弹单价：未找到。改装套件口径冲突：摘要称 FY2021 预算口径 IIIAZ 约120万美元、IIIC 约234.9万美元（出处需核对）；War Zone 后续报道 IIIAZ 约77万美元、IIIA/B 升级套件约253万美元。",
+      "sources": [
+        {
+          "publisher": "The War Zone（TWZ）",
+          "title": "What The Navy's Ship-Launched Missiles Actually Cost",
+          "date": "未标注",
+          "url": "https://www.twz.com/sea/what-the-navys-ship-launched-missiles-actually-cost"
+        },
+        {
+          "publisher": "Chuck Hill's CG Blog（汇总 TWZ 数据）",
+          "title": "What The Navy's Ship-Launched Missiles Actually Cost The War Zone",
+          "date": "2024-05-22",
+          "url": "https://chuckhillscgblog.net/2024/05/22/what-the-navys-ship-launched-missiles-actually-cost-the-war-zone/"
+        }
+      ]
+    },
+    {
+      "name": "SM-3 Block IB / Block IIA",
+      "country": "美国",
+      "specs_cn": "中段弹道导弹拦截弹（美导弹防御局 MDA 预算线）。",
+      "unit_cost": "Block IIA：约2870万美元（Janes 引用预算文件及业内人士）；FY2021 预算口径约3640万美元（TWZ）。Block IB：约1250万美元（Janes 引用）；Bloomberg 社论称约1000万美元，IIA 约为其3 倍。Block IB 单价涨幅（CSIS 分析，经 Janes 转述，出处需核对）：FY2021 采购约900万美元 → FY2024 补充采购近2400万美元。",
+      "sources": [
+        {
+          "publisher": "Janes",
+          "title": "SM-3 interceptor availability remains sufficient despite heavy use in US Navy Red Sea operations, says CSIS fellow",
+          "date": "未标注",
+          "url": "https://www.janes.com/defence-intelligence-insights/defence-news/sea/sm-3-interceptor-availability-remains-sufficient-despite-heavy-use-in-us-navy-red-sea-operations-says-csis-fellow"
+        },
+        {
+          "publisher": "Janes（CSIS 分析转述，出处需核对）",
+          "title": "CSIS cites concerns about long-term SM-3 procurement",
+          "date": "未标注",
+          "url": "https://www.janes.com/defence-intelligence-insights/defence-news/sea/csis-cites-concerns-about-long-term-sm-3-procurement"
+        },
+        {
+          "publisher": "Bloomberg（社论）",
+          "title": "Pentagon needs more missiles to boost defense",
+          "date": "2024-11-20",
+          "url": "https://www.bloomberg.com/opinion/articles/2024-11-20/pentagon-needs-more-missiles-to-boost-defense"
+        },
+        {
+          "publisher": "The War Zone（TWZ）",
+          "title": "What The Navy's Ship-Launched Missiles Actually Cost",
+          "date": "未标注",
+          "url": "https://www.twz.com/sea/what-the-navys-ship-launched-missiles-actually-cost"
+        }
+      ]
+    },
+    {
+      "name": "ESSM Block II（RIM-162）",
+      "country": "美国",
+      "specs_cn": "舰载近程防空导弹（ESSM 系列）。",
+      "unit_cost": "约149万美元（War Zone 2024 年汇总）。CSIS（摘要转述）称其通胀调整后单价 2018–2023 年逐年下降。",
+      "sources": [
+        {
+          "publisher": "Chuck Hill's CG Blog（汇总 TWZ 数据）",
+          "title": "What The Navy's Ship-Launched Missiles Actually Cost The War Zone",
+          "date": "2024-05-22",
+          "url": "https://chuckhillscgblog.net/2024/05/22/what-the-navys-ship-launched-missiles-actually-cost-the-war-zone/"
+        },
+        {
+          "publisher": "The War Zone（TWZ）",
+          "title": "What The Navy's Ship-Launched Missiles Actually Cost",
+          "date": "未标注",
+          "url": "https://www.twz.com/sea/what-the-navys-ship-launched-missiles-actually-cost"
+        }
+      ]
+    },
+    {
+      "name": "RAM（RIM-116 Rolling Airframe Missile）",
+      "country": "美国",
+      "specs_cn": "近程点防御导弹。",
+      "unit_cost": "约95万美元（chuckhills 2024-05-22 汇总 War Zone 数据）；globalmilitary.net 对比页列估计约90万美元。",
+      "sources": [
+        {
+          "publisher": "Chuck Hill's CG Blog（汇总 TWZ 数据）",
+          "title": "What The Navy's Ship-Launched Missiles Actually Cost The War Zone",
+          "date": "2024-05-22",
+          "url": "https://chuckhillscgblog.net/2024/05/22/what-the-navys-ship-launched-missiles-actually-cost-the-war-zone/"
+        },
+        {
+          "publisher": "GlobalMilitary.net",
+          "title": "Aster 15 / 30 vs RIM-116 RAM",
+          "date": "未标注",
+          "url": "https://www.globalmilitary.net/compare/missiles/aster-15-30-vs-rim-116-ram/"
+        }
+      ]
+    },
+    {
+      "name": "Aster 30 / Aster 15（Aster 家族，法意英等采购）",
+      "country": "法国/意大利（MBDA–Eurosam）；英国采购",
+      "specs_cn": "Aster 家族防空导弹，检索摘要未给出射程与配置规格。近期多国订单合计约700 枚（摘要），订单金额未公开。",
+      "unit_cost": "Aster 30：约200万欧元（法国战略研究所（IRIS）相关媒体引述的外部估算，非官方价；原始出处未找到）。Aster 15：防务媒体称单枚超过100万美元（转述 Defense Express，出处需核对）；意大利成本博客估计 Aster 15/30 为150万–250万美元（依型号与合同）。注意：约700 枚、218 枚等订单总额不是单价。另有 Unione Sarda 报道一枚价值约200万欧元的导弹在 Quirra 射场海域丢失（型号未在摘要中明确）。",
+      "sources": [
+        {
+          "publisher": "Journal de l'Economie",
+          "title": "Ces trois pays européens ont commandé plus de 200 missiles antiaériens Aster",
+          "date": "未标注",
+          "url": "https://www.journaldeleconomie.fr/ces-trois-pays-europeens-de-200-missiles/"
+        },
+        {
+          "publisher": "Europe 1",
+          "title": "Armée : près de 700 missiles antiaériens commandés par la France et l'Italie（标题由 URL 推断）",
+          "date": "未标注",
+          "url": "https://www.europe1.fr/international/armee-pres-de-700-missiles-antiaeriens-commandes-par-la-france-et-litalie-4164387"
+        },
+        {
+          "publisher": "Defence24",
+          "title": "Dwa miliardy euro za 700 rakiet Aster do Mamby",
+          "date": "未标注",
+          "url": "https://defence24.pl/przemysl/dwa-miliardy-euro-za-700-rakiet-aster-do-mamby"
+        },
+        {
+          "publisher": "Espreso TV（转述 Defense Express，出处需核对）",
+          "title": "Russia-Ukraine war 100 efficiency: when can France and Italy transfer Aster 15 missiles to Ukraine",
+          "date": "未标注",
+          "url": "https://global.espreso.tv/russia-ukraine-war-100-efficiency-when-can-france-and-italy-transfer-aster-15-missiles-to-ukraine"
+        },
+        {
+          "publisher": "Economia Italia（成本博客）",
+          "title": "L'incredibile costo di missili civili e militari",
+          "date": "未标注",
+          "url": "https://www.economia-italia.com/costo-di-missili-militari-civili"
+        },
+        {
+          "publisher": "GlobalMilitary.net",
+          "title": "Aster 15 / 30 vs RIM-116 RAM",
+          "date": "未标注",
+          "url": "https://www.globalmilitary.net/compare/missiles/aster-15-30-vs-rim-116-ram/"
+        },
+        {
+          "publisher": "Unione Sarda",
+          "title": "Un missile da due milioni di euro disperso al largo del Poligono di Quirra",
+          "date": "未标注",
+          "url": "https://www.unionesarda.it/news-sardegna/provincia-cagliari/disperso-un-missile-da-due-milioni-di-euro-al-largo-del-poligono-di-quirra-dxyr39xw?amp=1"
+        },
+        {
+          "publisher": "IRIS（经媒体转述，原始 URL 未在检索结果中出现）",
+          "title": "（Aster 30 单价超过200万欧元的外部估算）",
+          "date": "未标注",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "CAMM / Sea Ceptor（海上拦截者）",
+      "country": "英国（MBDA）",
+      "specs_cn": "CAMM（Common Anti-air Modular Missile）为 MBDA 防空导弹；Sea Ceptor 为其舰载系统，含雷达与指挥控制等部分。",
+      "unit_cost": "单发单价：未找到。总额口径（非单价）：Sea Ceptor 项目约8.5亿英镑（含雷达与指挥系统）；英陆军与皇家海军一批 CAMM 合同约3.23亿英镑（导弹数量未给出）；沙特护卫舰 CAMM 合同1.187亿美元（2023-01 经美海军系统司令部签约；每个 Mk 41 单元4 枚、整载32 枚，据此粗算约370万美元/枚，仅在满载假设下成立，未证实）；波兰 Pilica+ CAMM 与发射车约19亿英镑（约21.5亿欧元，出处需核对）。",
+      "sources": [
+        {
+          "publisher": "Forces News",
+          "title": "£850m British Sea Ceptor missile defence system enters service",
+          "date": "未标注",
+          "url": "https://www.forcesnews.com/news/sea-ceptor-missile-defence-system-enters-service"
+        },
+        {
+          "publisher": "UK Defence Journal",
+          "title": "MBDA awarded 323m missile deal Royal Navy British Army",
+          "date": "未标注",
+          "url": "https://ukdefencejournal.org.uk/mbda-awarded-323m-missile-deal-royal-navy-british-army/"
+        },
+        {
+          "publisher": "Defence24（沙特 CAMM 数据出处需核对）",
+          "title": "CAMM-y dla saudyjskich okrętów szansa dla polskiego przemysłu",
+          "date": "未标注",
+          "url": "https://defence24.pl/przemysl/camm-y-dla-saudyjskich-okretow-szansa-dla-polskiego-przemyslu"
+        },
+        {
+          "publisher": "esut.de（Pilica+ 金额出处需核对）",
+          "title": "Polen beschafft britisches Luftverteidigungssystem CAMM",
+          "date": "2023-05（日未标注，据 URL 路径）",
+          "url": "https://esut.de/2023/05/meldungen/41809/polen-beschafft-britisches-luftverteidigungssystem-camm/"
+        }
+      ]
+    },
+    {
+      "name": "APKWS II（激光制导 70 mm 火箭）",
+      "country": "美国",
+      "specs_cn": "对既有 70 mm 无制导火箭加装激光制导段的改造套件。报道称美空军 F-16 曾用其击落胡塞无人机；摘要未找到海军舰艇用 APKWS 打击红海无人机的报道。适合慢速、稳定目标（无人机、亚音速巡航导弹）；射程与战斗部小于常规防空导弹。",
+      "unit_cost": "整弹约1.8万–2.2万美元（综合报道，标题口径约2万美元）；导引段单独约1.5万–2.0万美元（国会对沙特军售通知摘要，通知金额为上限，非合同价）。对照：AIM-9X Block II 约42万美元（五角大楼预算文件）；其他美方官员称 AIM-9 约50万美元；AMRAAM 超过100万美元。",
+      "sources": [
+        {
+          "publisher": "The War Zone（TWZ）",
+          "title": "F-16s Have Been Using Laser-Guided Rockets To Shoot Down Houthi Drones",
+          "date": "未标注",
+          "url": "https://twz.com/air/f-16s-have-been-using-laser-guided-rockets-to-shoot-down-houthi-drones"
+        },
+        {
+          "publisher": "The Aviationist",
+          "title": "U.S. F-16 Fighters Shot Down Drones with Laser-Guided Rockets in Combat",
+          "date": "2025-02-03",
+          "url": "https://theaviationist.com/2025/02/03/us-f-16-shot-down-drones-apkws/"
+        },
+        {
+          "publisher": "Yahoo News（转载 Business Insider）",
+          "title": "US fighter jets used cheap laser-guided rockets for nearly half the drone kills during Operation Rough Rider",
+          "date": "未标注",
+          "url": "https://www.yahoo.com/news/us-fighter-jets-used-cheap-225203614.html"
+        },
+        {
+          "publisher": "Migflug",
+          "title": "The $20,000 Rocket That Kills Drones",
+          "date": "未标注",
+          "url": "https://migflug.com/jetflights/apkws-laser-guided-rocket-saudi-arabia-counter-drone-2026/"
+        }
+      ]
+    },
+    {
+      "name": "Tamir（铁穹拦截弹）/ C-Dome",
+      "country": "以色列（Rafael）",
+      "specs_cn": "铁穹（Iron Dome）使用的 Tamir 拦截弹。据 AFP 转述 Rafael 说法，海基 C-Dome 使用同一拦截弹（摘要，AFP 原文 URL 未出现）。",
+      "unit_cost": "每枚约4万–10万美元（口径不一）：AFP 称铁穹每次发射约5万美元；Globes 第二篇称每枚约5万美元、每个炮台约5500万美元；Globes 较早报道称7万–10万美元；Bursa.ro 引 AJC 研究称多数估计4万–5万美元、另有约8万美元；thepricer.org 称第五批美以合产 Tamir 平均约4.2万美元，并引审计长「每次拦截10万–15万美元」（为单次拦截成本，非单价）。C-Dome 无单独单价；未找到以谢克尔计价的单枚价格。aptraining.csc.com 等多个成本网站数据来源模糊，摘要判为不可核实，未采用。",
+      "sources": [
+        {
+          "publisher": "Globes（候选，需核对是否为「7万–10万美元」来源）",
+          "title": "Rafael to double Iron Dome production",
+          "date": "未标注",
+          "url": "https://en.globes.co.il/en/article-1000676140"
+        },
+        {
+          "publisher": "Globes（候选，需核对是否为「约5万美元/枚」来源）",
+          "title": "（标题未在检索结果中显示）",
+          "date": "未标注",
+          "url": "https://www.globes.co.il/en/article-1000799373"
+        },
+        {
+          "publisher": "Bursa.ro",
+          "title": "The hard arithmetic of modern warfare: expensive interceptors, cheap drones and tight stockpiles",
+          "date": "未标注",
+          "url": "https://www.bursa.ro/the-hard-arithmetic-of-modern-warfare-expensive-interceptors-cheap-drones-and-tight-stockpiles-05985850"
+        },
+        {
+          "publisher": "The Pricer",
+          "title": "How much does the Iron Dome cost?（标题由 URL 推断）",
+          "date": "未标注",
+          "url": "https://www.thepricer.org/how-much-does-the-iron-dome-cost/"
+        },
+        {
+          "publisher": "Army Recognition",
+          "title": "Israel deploys C-Dome defense system for first time",
+          "date": "2024（日未标注，据 URL 路径）",
+          "url": "https://www.armyrecognition.com/archives/archives-naval-defense/2024/israel-deploys-c-dome-defense-system-for-first-time"
+        },
+        {
+          "publisher": "The Defense Post",
+          "title": "Israel Deploys C-Dome Defense System for First Time",
+          "date": "2024-04-09",
+          "url": "https://www.thedefensepost.com/2024/04/09/israel-deploys-defense-system"
+        },
+        {
+          "publisher": "AFP（经媒体转述，原始 URL 未在检索结果中出现）",
+          "title": "（铁穹每次发射约5万美元；C-Dome 与 Tamir 同弹）",
+          "date": "未标注",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Iron Beam（铁束）高能激光",
+      "country": "以色列",
+      "specs_cn": "高能激光防空系统。摘要称有效作用距离约10 km；单个激光目标单元估计数千万美元，需多套覆盖大区域；标题称 2025 年底部署。摘要称恶劣天气下性能下降，对快速或规避机动目标跟踪困难。",
+      "unit_cost": "单次拦截边际成本：约2美元（2022 年时任总理 Bennett 预测；2025 年报道称约等于发射用电，约2美元）；另有「低于5美元」「约3美元」之说；Calcalist 称「几个谢克尔」（未给出确切换算）。异常高值：约1000美元、约2000美元（归属不明，摘要判为不一致，未采用）。对照：铁穹 Tamir 每枚约4万–5万美元（见上条）。",
+      "sources": [
+        {
+          "publisher": "Gulf News",
+          "title": "Israel says laser missile shield to cost just $2 per interception",
+          "date": "2022（据摘要为 2022 年表态；页面日期未标注）",
+          "url": "https://gulfnews.com/world/mena/israel-says-laser-missile-shield-to-cost-just-2-per-interception-1.88286207"
+        },
+        {
+          "publisher": "Calcalist Tech",
+          "title": "（标题未在检索结果中显示）",
+          "date": "未标注",
+          "url": "https://www.calcalistech.com/ctechnews/article/hytiiqfywg"
+        },
+        {
+          "publisher": "TechLeap",
+          "title": "From $60K to only $2 per interception: Iron Beam deployed in late 2025",
+          "date": "未标注（标题称 2025 年底部署）",
+          "url": "https://finder.techleap.nl/news/note/from-60k-to-only-2-per-interception-iron-beam-deplyed-in-late-2025"
+        },
+        {
+          "publisher": "The Pricer",
+          "title": "How Much Does The Iron Beam Defense System Cost?",
+          "date": "未标注",
+          "url": "https://www.thepricer.org/how-much-does-the-iron-beam-defense-system-cost/"
+        },
+        {
+          "publisher": "SAN",
+          "title": "Israel confirms first use of laser weapons in combat",
+          "date": "未标注",
+          "url": "https://san.com/cc/israel-confirms-first-use-of-laser-weapons-in-combat/"
+        }
+      ]
+    }
+  ],
+  "statistics": [
+    {
+      "item_cn": "美海军红海作战累计发射拦截弹数量（约 2023 年底至 2025 年 1 月）",
+      "value": "约220 枚导弹，据摘要分型为：SM-2 约120 枚、SM-6 约80 枚、ESSM 与 SM-3 合计约20 枚；另发射 160 枚 5 英寸炮弹；共 380 次交战。注意：此为数量口径，金额口径见下一条。",
+      "as_of": "2025-01-15（海军领导公开表态：Vice Adm. Brendan McLane，海军会议；日期取自 Military.com URL 路径）",
+      "sources": [
+        {
+          "publisher": "Military.com",
+          "title": "Navy's Fight in Red Sea Used 220 Missiles, But Officials Say That's Changing",
+          "date": "2025-01-15",
+          "url": "https://www.military.com/daily-news/2025/01/15/navys-fight-red-sea-used-220-missiles-officials-say-thats-changing.html"
+        },
+        {
+          "publisher": "Military.com（镜像站）",
+          "title": "Navy's Fight in Red Sea Used 220 Missiles, But Officials Say That's Changing",
+          "date": "2025-01-15",
+          "url": "https://mst.military.com/daily-news/2025/01/15/navys-fight-red-sea-used-220-missiles-officials-say-thats-changing.html"
+        },
+        {
+          "publisher": "The War Zone（TWZ）（分型数字出处需核对）",
+          "title": "Navy just disclosed how many of each of its surface to air missiles it fired during Red Sea fight",
+          "date": "未标注",
+          "url": "https://www.twz.com/news-features/navy-just-disclosed-how-many-of-each-of-its-surface-to-air-missiles-it-fired-during-red-sea-fight.md"
+        },
+        {
+          "publisher": "Task & Purpose",
+          "title": "In 15 months, the Navy fired more air defense missiles than it did in the last 30 years",
+          "date": "未标注",
+          "url": "https://taskandpurpose.com/news/navy-missiles-red-sea/"
+        }
+      ]
+    },
+    {
+      "item_cn": "美海军红海/中东作战导弹花费金额（海军部长公开表态及其他口径）",
+      "value": "近10亿美元：海军部长 Carlos Del Toro 公开表态，海军在约6个月内为对抗胡塞及伊朗威胁发射的导弹花费近10亿美元（另一摘要称 2023 年底至 2024 年二季度约10亿美元）。其他口径：Bloomberg 社论（2024-11-20）称海军为对抗胡塞及伊朗威胁发射的导弹价值近20亿美元；另一摘要称 2023-10 至 2025-01 海军发射价值超过10亿美元的拦截弹。各口径时段与范围不同，不可直接相加。",
+      "as_of": "2024-04（Del Toro 公开表态，日未标注，据摘要）",
+      "sources": [
+        {
+          "publisher": "Yahoo News",
+          "title": "The US Navy has fired off nearly $1 billion in weapons fighting threats from Iran and the Houthis",
+          "date": "未标注",
+          "url": "https://news.yahoo.com/us-navy-fired-off-nearly-191932096.html"
+        },
+        {
+          "publisher": "Yahoo News（Malaysia 站）",
+          "title": "Navy has spent nearly $1B in Middle East, including against Houthi threat, secretary says",
+          "date": "未标注",
+          "url": "https://malaysia.news.yahoo.com/navy-spent-nearly-1b-middle-212156954.html"
+        },
+        {
+          "publisher": "Marine Insight",
+          "title": "U.S Navy Fired $1 billion In Missiles To Counter Iran & Houthis In Middle East, Says Navy Secretary",
+          "date": "未标注",
+          "url": "https://www.marineinsight.com/u-s-navy-fired-1-billion-in-missiles-to-counter-iran-houthis-in-middle-east-says-navy-secretary/"
+        },
+        {
+          "publisher": "Bloomberg（社论，近20亿美元口径）",
+          "title": "Pentagon needs more missiles to boost defense",
+          "date": "2024-11-20",
+          "url": "https://www.bloomberg.com/opinion/articles/2024-11-20/pentagon-needs-more-missiles-to-boost-defense"
+        }
+      ]
+    },
+    {
+      "item_cn": "美海军作战部长提名人（Adm. Daryl Caudle）对红海拦截弹选型的公开表态",
+      "value": "未给出数量或金额。称红海作战经历了「学习曲线」，促使海军转向更便宜的选项，而不是依赖昂贵的 SM-6（二手转述，原始证词未核实）。",
+      "as_of": "未标注（提名与参议院听证时间未核实）",
+      "sources": [
+        {
+          "publisher": "Yahoo News（转载）",
+          "title": "The US Navy faced a 'learning curve' choosing the right weapon in the Red Sea fight, Trump's pick for top admiral says",
+          "date": "未标注",
+          "url": "https://www.yahoo.com/news/articles/us-navy-faced-learning-curve-183649267.html"
+        },
+        {
+          "publisher": "AOL（转载）",
+          "title": "The US Navy faced a 'learning curve' choosing the right weapon in the Red Sea fight, Trump's pick for top admiral says",
+          "date": "未标注",
+          "url": "https://www.aol.com/us-navy-faced-learning-curve-183649015.html"
+        }
+      ]
+    },
+    {
+      "item_cn": "粗骑手行动（Operation Rough Rider，美对胡塞空袭）成本与 MQ-9 损失",
+      "value": "成本：美方匿名官员引 NBC 报道，成本超过10亿美元；约2000 枚弹药、7 架 MQ-9、2 架战机损失（摘要称其中可能包含 F/A-18E 海上事故，是否计入待核实）；约750 次打击（自 2025-03-15 起）。MQ-9 损失：2025-03-15 至 2025-04 下旬共7 架，美方官员口径单架约3000 万美元，合计超过2 亿美元（Fortune 经 SAN 转述）。2025-05-06 达成停火：美方暂停打击，换取胡塞承诺不再攻击美国船只（摘要）。",
+      "as_of": "2025-04-29（MQ-9 损失统计截至该前后；日期取自 The Defense Post URL 路径）",
+      "sources": [
+        {
+          "publisher": "The Defense Post",
+          "title": "US Lost Seven Multi-Million-Dollar MQ-9 Drones in Yemen Area Since March",
+          "date": "2025-04-29",
+          "url": "https://thedefensepost.com/2025/04/29/us-lost-mq9-drones-yemen/"
+        },
+        {
+          "publisher": "SAN",
+          "title": "Houthis shoot down 7 US Reaper drones worth over $200M within weeks: Report",
+          "date": "未标注",
+          "url": "https://san.com/cc/houthis-shoot-down-7-us-reaper-drones-worth-over-200m-within-weeks-report"
+        },
+        {
+          "publisher": "Gulf News",
+          "title": "US lost seven multi-million-dollar drones in Yemen area since March",
+          "date": "未标注",
+          "url": "https://gulfnews.com/world/gulf/yemen/us-lost-seven-multi-million-dollar-drones-in-yemen-area-since-march-2-1.500110270"
+        },
+        {
+          "publisher": "IDN Financials",
+          "title": "US$1bn spent, Trump halts Houthi bombardment",
+          "date": "未标注",
+          "url": "https://www.idnfinancials.com/news/54497/us1bn-spent-trump-halts-houthi-bombardment"
+        },
+        {
+          "publisher": "NBC News（经摘要转述，原始 URL 未在检索结果中出现）",
+          "title": "（超过10亿美元成本，两名美方官员口径）",
+          "date": "未标注",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "item_cn": "胡塞袭击商船（船舶）次数统计",
+      "value": "各口径不一，未找到 CSIS、ACLED、UKMTO 的胡塞专项总数。已有数字：(a) 胡塞领导人 2024-05 宣称攻击129 艘船（未经核实）；(b) South24 中心统计 2023-11-19 至 2024-05-31 约125 艘（民用87 艘、军舰38 艘）；(c) Marine Insight 引一项统计：2023-11 起针对107 艘船、发射606 枚导弹与无人机（统计机构与日期未核实）；(d) 路透（2025-07）：100 多艘商船被锁定，4 艘沉没、1 艘被扣押、至少8 名船员死亡；(e) 美联社（2025-09）：2023-11 至 2024-12 期间用导弹与无人机锁定 100 多艘船；(f) IISS 按 ACLED 数据制作的 2023-11 至 2024-11 月度图表，未给总数，且同地同类事件合并计数，与逐事件口径不同。UKMTO 2026 年统计（2026-02-28 至 2026-08-27）覆盖霍尔木兹与红海等水域：83 起冲突事件、39 起海盗袭击，含非胡塞来源，口径不纯。",
+      "as_of": "2024-05 至 2026-08（各口径截止日不同）",
+      "sources": [
+        {
+          "publisher": "South24 Center",
+          "title": "（检索结果未显示标题；胡塞攻击统计）",
+          "date": "未标注",
+          "url": "https://south24.net/news/news.php?nid=4019"
+        },
+        {
+          "publisher": "Marine Insight",
+          "title": "Houthis launched 606 missiles, drones targeting 107 ships since November 2023",
+          "date": "未标注",
+          "url": "https://www.marineinsight.com/houthis-launched-606-missiles-drones-targeting-107-ships-since-november-2023/"
+        },
+        {
+          "publisher": "gCaptain",
+          "title": "List: Notable Houthi Attacks on Merchant Ships in the Red Sea",
+          "date": "未标注",
+          "url": "https://gcaptain.com/list-notable-houthi-attacks-on-merchant-ships-in-the-red-sea/"
+        },
+        {
+          "publisher": "Bloomberg",
+          "title": "Houthis Mount Biggest Month of Attacks on Ships This Year",
+          "date": "2024-07-02",
+          "url": "https://www.bloomberg.com/news/articles/2024-07-02/houthis-mount-biggest-month-of-attacks-on-ships-this-year"
+        },
+        {
+          "publisher": "Arab News",
+          "title": "Houthi leader says 129 ships attacked during Red Sea campaign",
+          "date": "未标注（摘要称 2024-05 发表）",
+          "url": "https://arab.news/ma9fs"
+        },
+        {
+          "publisher": "IISS（SHADE 演示文稿）",
+          "title": "Folio 4b IISS Presentation SHADE Dec24",
+          "date": "2024-12（日未标注，据文件名）",
+          "url": "https://mscio.eu/media/documents/Folio_4b_-_IISS_Presentation_SHADE_Dec24.pdf"
+        },
+        {
+          "publisher": "Ahram Online（引 UKMTO）",
+          "title": "Hormuz, Red Sea waters see 83 conflict incidents, 39 piracy attacks in 2026: UKMTO",
+          "date": "未标注（统计区间截至 2026-08-27，据摘要）",
+          "url": "https://english.ahram.org.eg/News/575588.aspx"
+        },
+        {
+          "publisher": "Reuters（经摘要转述，URL 未在检索结果中出现）",
+          "title": "（2025-07：100 多艘商船被锁定，4 艘沉没、1 艘被扣押、至少8 名船员死亡）",
+          "date": "2025-07（日未标注）",
+          "url": ""
+        },
+        {
+          "publisher": "AP（经摘要转述，URL 未在检索结果中出现）",
+          "title": "（2025-09：2023-11 至 2024-12 期间锁定 100 多艘船）",
+          "date": "2025-09（日未标注）",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "item_cn": "苏伊士运河通航量下降（2023 年末至 2024 年，IMF PortWatch 及相关报道）",
+      "value": "IMF PortWatch（摘要）：2023-12 上半月日均通航 70 多艘，2024-01-02 七日均值降至约56.5 艘；Informare（2024-03）称 2024 年 1–2 月苏伊士通航较上年同期减少约50%，好望角绕行量增约74%；S&P Global（摘要，原始 URL 未出现）称 2024 年油轮过苏伊士约3.9 百万桶/日，约为 2023 年 7.9 百万桶/日的一半。",
+      "as_of": "2023-12 至 2024-03",
+      "sources": [
+        {
+          "publisher": "Maritime Executive（归属需核对）",
+          "title": "Suez Canal volume down by a quarter in second half of December",
+          "date": "未标注（内容指 2023 年 12 月下半月）",
+          "url": "https://maritime-executive.com/article/suez-canal-volume-down-by-a-quarter-in-second-half-of-december"
+        },
+        {
+          "publisher": "Informare",
+          "title": "Transiti navi Suez in calo 50%",
+          "date": "2024-03（日未标注，据摘要）",
+          "url": "https://www.informare.it/news/gennews/2024/20240362-Transiti-navi-Suez-in-calo-50pcuk.asp"
+        },
+        {
+          "publisher": "IMF PortWatch（数据来源；摘要引用的页面 URL 未在检索结果中出现）",
+          "title": "PortWatch（苏伊士通航日序列）",
+          "date": "2023-11 起发布（数据起自 2019 年）",
+          "url": ""
+        },
+        {
+          "publisher": "S&P Global Commodities at Sea（URL 未在检索结果中出现）",
+          "title": "（苏伊士油轮通航 2024 对 2023）",
+          "date": "未标注",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "item_cn": "苏伊士运河与曼德海峡通航量（2025 年，苏伊士运河管理局 SCA、UNCTAD、Lloyd's List）",
+      "value": "2025 年苏伊士通航仍远低于 2023 年。SCA（经 Ports Europe 转述）：2025 年全年 12,758 艘，2025 年 1–8 月 8,180 艘（同比 −9.4%）；SCA 主席称 2025/26 财年上半年船只数 +5.8%、净吨位 +16%（SCA 口径，Lloyd's List 提醒需谨慎看待）。UNCTAD《2025 年海运评论》（经媒体转述）：截至 2025-05，苏伊士通航量（吨位口径）较 2023 年平均低约70%；平均航程由 2018 年 4,831 英里增至 2024 年 5,245 英里。Lloyd's List：2025-11 曼德海峡通航 1,128 次（较 2024-11 +19%，较 2023-11 约低 52%），苏伊士 1,004 次。Xeneta（经 FreightWaves）：集装箱船 2025-07 为月度低点（146 次），10 月升至日均 5.0 次。UNCTAD 港口班轮连通性指数（经 FreightWaves 转述）2023Q4 557.57 → 2025Q3 413.52。注意：全部船只、集装箱、油轮、吨位口径不可直接比较；IMF PortWatch 2025 数据未在本轮检索中获取。",
+      "as_of": "2025-05 至 2025-11（各口径不同）",
+      "sources": [
+        {
+          "publisher": "Ports Europe",
+          "title": "Suez Canal traffic remains depressed in 2025 after 2024 collapse",
+          "date": "未标注",
+          "url": "https://www.portseurope.com/suez-canal-traffic-remains-depressed-in-2025-after-2024-collapse/"
+        },
+        {
+          "publisher": "IIMS（转载 UNCTAD Review of Maritime Transport 2025 摘要）",
+          "title": "Review of Maritime Transport 2025 Report published by UNCTAD",
+          "date": "未标注",
+          "url": "https://www.iims.org.uk/review-of-maritime-transport-2025-report-published-by-unctad/"
+        },
+        {
+          "publisher": "Lloyd's List",
+          "title": "Bab el-Mandeb transits hit highest level in nearly two years",
+          "date": "未标注（内容指 2025-11）",
+          "url": "https://www.lloydslist.com/LL1155761/Bab-el-Mandeb-transits-hit-highest-level-in-nearly-two-years"
+        },
+        {
+          "publisher": "FreightWaves",
+          "title": "Suez container ships near low for all of 2025",
+          "date": "未标注",
+          "url": "https://www.freightwaves.com/news/suez-container-ships-near-low-for-all-of-2025"
+        }
+      ]
+    },
+    {
+      "item_cn": "红海战争险费率（船值百分比，7 天航段）",
+      "value": "最新一轮报道（摘要称在胡塞宣布封锁沙特出口之后）：约0.75%，较此前约0.3% 上升；南部航线超过1%，部分沙特关联船报价高达3%（Jizan、Al Shuqaiq、进入亚丁湾的 Bab el-Mandeb 航线）；沙特北部港口吉达、延布约0.1%。此前参考：2025-07（摘要引 Marsh McLennan 口径）约1%，较此前0.2%–0.3% 上升；海湾（霍尔木兹一带）报价3%–6%，平时约0.25%。部分保险市场（劳合社辛迪加）暂停在该区域签约（摘要）。具体页面与转述出处需核对。",
+      "as_of": "2025-07（Marsh 引述）；最新一轮报道日期未标注",
+      "sources": [
+        {
+          "publisher": "Business Insurance（转述 Reuters 口径，需核对）",
+          "title": "Red Sea war insurance costs rise after Houthi blockade, sources say",
+          "date": "未标注",
+          "url": "https://www.businessinsurance.com/red-sea-war-insurance-costs-rise-after-houthi-blockade-sources-say/"
+        },
+        {
+          "publisher": "Insurance Business（候选）",
+          "title": "Premiums soar as deaths, kidnappings follow new Houthi attack",
+          "date": "未标注",
+          "url": "https://www.insurancebusinessmag.com/asia/news/breaking-news/premiums-soar-as-deaths-kidnappings-follow-new-houthi-attack-542182.aspx"
+        },
+        {
+          "publisher": "Hellenic Shipping News（候选）",
+          "title": "Oil importers stare at costly tanker insurance despite fall in Red Sea attacks",
+          "date": "未标注",
+          "url": "https://www.hellenicshippingnews.com/?p=1080464"
+        },
+        {
+          "publisher": "The Daily Star（候选）",
+          "title": "Shipping insurance rates soar on Red Sea missile attacks",
+          "date": "未标注",
+          "url": "https://www.thedailystar.net/business/global-business/news/shipping-insurance-rates-soar-red-sea-missile-attacks-3551746"
+        },
+        {
+          "publisher": "BeInsure（候选）",
+          "title": "Gulf, Red Sea shipping insurance costs surge",
+          "date": "未标注",
+          "url": "https://beinsure.com/news/gulf-red-sea-shipping-insurance-costs-surge/"
+        }
+      ]
+    }
+  ]
+}

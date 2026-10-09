@@ -1,0 +1,2037 @@
+[
+ {
+  "case_key": "bp_odesa_2023_07_18_grain_terminals",
+  "category": "周边港口",
+  "title_cn": "退出粮食协议次日，敖德萨粮食码头连夜遭袭",
+  "subtitle_cn": "2023年7月18—21日 俄军以巡航导弹与“沙希德”无人机连续打击敖德萨州港口及粮食设施",
+  "date_start": "2023-07-18",
+  "date_end": "2023-07-21",
+  "location_cn": "乌克兰敖德萨港、切尔诺莫尔斯克港及敖德萨州农业仓储设施（Odesa / Chornomorsk）",
+  "lat": 46.49,
+  "lon": 30.74,
+  "region": "黑海",
+  "attacker": "俄罗斯武装力量（空基、陆基、海基巡航导弹及伊朗型“沙希德”类无人机）",
+  "defender": "乌克兰防空力量；敖德萨州军事管理局（州长奥列赫·基佩尔 Oleh Kiper）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中",
+   "水面"
+  ],
+  "patterns": [
+   "集群",
+   "异构"
+  ],
+  "attack_means_cn": "乌方称：俄军发射空基、陆基、海基巡航导弹（含“口径”Kalibr）及32架伊朗型无人机（7月18—19日夜，乌方口径，路透社称无法独立核实）。7月21日另有导弹击中敖德萨州一处农业企业。",
+  "defense_means_cn": "乌方防空体系（具体系统、拦截数量本轮检索未获公开记录）。港口无船舶被报道受损，受损对象主要为码头、储罐、装卸设备与仓库。",
+  "narrative_cn": "2023年7月17日（周一），俄罗斯宣布不再参与联合国与土耳其斡旋的《黑海粮食倡议》。此后数日，敖德萨州港口及粮食设施连续遭到空袭。据波士顿环球报7月19日转载的通讯社稿，7月18日夜间是俄方宣布退出协议后对敖德萨的第二个连续夜袭。乌方通报称，俄军使用空基、陆基和海基巡航导弹（含“口径”）及32架伊朗型无人机，粮食码头和其他设施在敖德萨与切尔诺莫尔斯克被击中。乌克兰真理报7月19日报道，敖德萨州一处粮食与油料码头遭击中，储罐和装卸设备受损，现场起火，该处未报告人员伤亡；检索摘要另称一名老年男子在住所内受伤。7月21日，导弹再次击中敖德萨州一处农业企业，州长基佩尔称100吨豌豆和20吨大麦被毁，2人受伤并获医疗救助（Meduza、NV 7月21日前后报道）。乌克兰总统泽连斯基称，俄方“蓄意”打击粮食协议相关基础设施，并称约6万吨运往中国的农产品被毁，该数字本轮未能找到独立核实。俄国防部称，7月18日的打击是对克里米亚大桥遇袭的“报复性打击”，对象是参与策划袭击的敖德萨港相关目标；所引检索摘要称俄方同时表示此次打击未造成损失或人员伤亡，该句本组未见原文，需复核。路透社表示无法独立核实双方说法。本轮检索未获得乌空军对这几个夜晚的拦截数据。",
+  "defense_effect_cn": "本案可得的公开信息集中在“损失”一侧：码头储罐与装卸设备被毁、仓储起火、一处农企粮食被毁。乌方通报的来袭规模（巡航导弹若干＋32架无人机）没有对应的拦截数字，因此无法判断拦截率。可确认的暴露问题是：固定、不可移动的粮食码头、油料罐区和仓库在连续夜袭下无法靠机动或伪装规避，只能依赖防空拦截，而这类目标分布在敖德萨和切尔诺莫尔斯克多处，防空覆盖需要同时顾及城区、港区和农业仓储。该时间段尚无港内商船被击中的报道，船舶风险主要体现在后续月份。",
+  "claims_compare_cn": "乌方（泽连斯基、基佩尔、基础设施部）：粮食码头与港口设施受损，俄方蓄意打击粮食协议基础设施，6万吨运华农产品被毁。俄方（国防部，7月18日）：对敖德萨港内参与策划克里米亚大桥袭击的目标实施“报复性打击”；据所引检索摘要，俄方称未造成损失。路透社：无法独立核实任何一方。两方在“目标性质”与“是否造成损失”上直接冲突；6万吨一数仅见乌方单方。",
+  "losses_cn": "乌方口径：一处农企120吨粮食（100吨豌豆、20吨大麦）被毁，2人受伤；一处粮食油料码头储罐与装卸设备受损并起火；泽连斯基称6万吨运华农产品被毁（未核）。未检索到船舶或人员死亡报道。",
+  "analysis_cn": "俄方退出协议后，攻击对象从“海上封锁”转为对港口出口链固定设施的直接打击：码头、油罐、仓库、农企，（判断）这类目标不依赖船舶是否进港，也无需追踪移动目标。攻击手段是导弹与无人机的混合批次，乌方没有公布拦截数，说明这一阶段防空叙事不是乌方信息战重点。对港口防御者的启示是：粮食仓储和装卸设备分散、易燃、修复慢，仅靠防空无法保证零损失，需要把关键装卸设备与应急备件做冗余。本案证据均为单方官方陈述转载，时间线精确到夜晚级别，未见卫星影像核验。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "乌克兰真理报（Ukrainska Pravda）",
+    "title": "Attack on Odesa Oblast: Russians hit grain terminal, fire breaks out at storage points",
+    "title_cn": "敖德萨州遇袭：俄军击中粮食码头，储存点起火",
+    "author": "Ukrainska Pravda",
+    "date": "2023-07-19",
+    "url": "https://www.pravda.com.ua/eng/news/2023/07/19/7411942",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "波士顿环球报（The Boston Globe，转载通讯社稿，署名未在检索结果中显示）",
+    "title": "Russia targets terminals in Odesa after quitting grain deal, Ukraine says",
+    "title_cn": "乌方称俄退出粮食协议后打击敖德萨码头",
+    "author": "未显示",
+    "date": "2023-07-19",
+    "url": "https://www.bostonglobe.com/2023/07/19/world/russia-targets-terminals-odesa-after-quitting-grain-deal-ukraine-says",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "阿拉伯卫视英文网（Al Arabiya English）",
+    "title": "Ukraine's Zelenskyy says Russian strikes 'deliberately' hit grain deal sites in Odesa",
+    "title_cn": "泽连斯基称俄打击是蓄意瞄准粮食协议相关设施",
+    "author": "Al Arabiya English",
+    "date": "2023-07-19",
+    "url": "https://english.alarabiya.net/News/world/2023/07/19/Ukraine-s-Zelenskyy-says-Russian-strikes-deliberately-hit-grain-deal-sites-in-Odes",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Meduza",
+    "title": "Russian missiles strike grain depots in Odesa region",
+    "title_cn": "俄导弹打击敖德萨州粮仓",
+    "author": "Meduza",
+    "date": "2023-07-21",
+    "url": "https://meduza.io/en/news/2023/07/21/russian-missiles-strike-grain-depots-in-odesa-region",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "新声音（NV / New Voice of Ukraine）",
+    "title": "Russia strikes Odesa Oblast, hits agro-enterprise; 120 tons of grain destroyed, multiple injured",
+    "title_cn": "俄打击敖德萨州农企，120吨粮食被毁，多人受伤",
+    "author": "NV",
+    "date": "",
+    "url": "https://english.nv.ua/nation/russia-strikes-odesa-oblast-hits-agro-enterprise-50340644.html",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://www.bairdmaritime.com/amp/story/shipping/ports/russian-strikes-prompt-shipowners-to-halt-ukraine-port-calls",
+    "file_name": "(未取得文件名)",
+    "desc_cn": "敖德萨港 Olimpex Coupe 粮食码头资料图（Baird Maritime 配图说明，署 Argentem Creek Partners）；仅为线索，非2023年事件现场图",
+    "date": "",
+    "credit": "Argentem Creek Partners（据 Baird Maritime 图注）",
+    "license": "未知（版权受限，勿直接使用）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Odesa",
+    "file_name": "Category:Port of Odesa（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“敖德萨港”分类页：含港口起重机、集装箱码头、海运客运站等战前照片（据检索摘要）；仅为取图入口，非本案事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Odesa",
+    "file_name": "Port of Odessa, container terminal, 2019（标题据检索摘要；文件页URL与扩展名未取得，需在上述分类页内定位）",
+    "desc_cn": "敖德萨港集装箱码头，2019年拍摄的战前资料照",
+    "date": "2019",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Chornomorsk",
+    "file_name": "Category:Port of Chornomorsk（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“切尔诺莫尔斯克港”分类页（港口成立于1958年，含伯尔拉恰巴尔卡一带照片，据检索摘要）；仅为取图入口，非事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "乌方称夜袭使用无人机数": "32架（7月18—19日夜，乌方口径）",
+   "农企被毁粮食": "120吨（100吨豌豆+20吨大麦；州长基佩尔，7月21日前后）",
+   "泽连斯基称被毁运华农产品": "约6万吨（单方口径，未核实）",
+   "俄方退出协议日期": "2023-07-17",
+   "乌方拦截数": "本轮检索未获公开记录"
+  }
+ },
+ {
+  "case_key": "bp_danube_2023_08_izmail_reni_romania",
+  "category": "周边港口",
+  "title_cn": "多瑙河港口遭无人机连袭，残骸落入罗马尼亚",
+  "subtitle_cn": "2023年8—9月 伊兹梅尔、列尼港粮食设施遭“沙希德”类无人机打击及北约成员国境内残骸事件",
+  "date_start": "2023-08-02",
+  "date_end": "2023-09-09",
+  "location_cn": "乌克兰敖德萨州伊兹梅尔、列尼港（Izmail / Reni）；对岸罗马尼亚图尔恰县普劳鲁村（Plauru）",
+  "lat": 45.35,
+  "lon": 28.84,
+  "region": "黑海",
+  "attacker": "俄罗斯武装力量（伊朗型“沙希德”/俄称“天竺葵”类自杀式无人机）",
+  "defender": "乌克兰防空力量；罗马尼亚国防部/空军（对岸空情监控与残骸排查）",
+  "outcome": "部分拦截",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "8月23日夜：乌方称俄方发射20架无人机；8月2日及9月2—4日夜来袭数量本轮未检索到公开数字。",
+  "defense_means_cn": "乌方防空：8月23日称击落20架中的11架（拦截率55%）。罗马尼亚：空军专家组赴现场排查，其后表示将加强空域管控（乌克兰欧洲真理报标题：Romania to Strengthen Its Airspace Following Russia's Attacks on Danube Ports）。",
+  "narrative_cn": "黑海粮食倡议终止后，多瑙河上的伊兹梅尔、列尼等港口成为乌克兰粮食出口的主要替代通道，也成为俄军打击对象。8月2日夜间，俄军无人机袭击伊兹梅尔港。海事执行官（Maritime Executive）报道称，这是该港第二次遇袭，发生在有报道称小型外资船舶已穿越黑海前往装粮之后。乌国防部称，储存在筒仓与仓库中的4万余吨粮食受损；总检察院称一座粮食升降机、筒仓和仓库被损毁；敖德萨州长基佩尔称无人员伤亡，港区起火；泽连斯基称这是对全球粮食安全的打击。8月2—3日，罗马尼亚国防部称接到多瑙河对岸切塔尔奇奥伊（Ceatalchioi）地方官员关于无人机碎片可能落地的通报，已派空军专家组到场，尚未发现确证，并称无人机从未侵入罗马尼亚领空；当地媒体引述普劳鲁村长称一架“沙希德”击中距村约400米处。8月23日夜间，俄军再袭伊兹梅尔，副总理库布拉科夫（Oleksandr Kubrakov）称1.3万吨粮食被毁、港口出口能力下降15%；乌防空部队称击落当夜20架无人机中的11架。9月2—4日夜间，乌外交部援引边防部门称“沙希德”无人机坠落于罗马尼亚境内，并公布了对岸爆炸照片；罗方起初“断然否认”。9月6日，罗国防部长安杰尔·蒂勒瓦（Angel Tîlvăr）改称在该区域发现可能属于无人机的碎片，不构成威胁，并送实验室鉴定，来源可能是近期袭击，也可能是更早的事件。9月9日，罗国防部确认在距普劳鲁2.5公里处发现疑似俄无人机的第二批碎片；罗外交部同日召见俄驻布加勒斯特代办；总统约翰尼斯（Klaus Iohannis）称此为“对罗主权空域绝对不可接受的侵犯”。9月7日普劳鲁附近疑似坠落坑的照片见CBC转载的路透社署名图片。实验室最终鉴定结论本轮未检索到。",
+  "defense_effect_cn": "乌方在8月23日给出了可核对的数字：20架来袭、11架被击落，拦截率约55%，其余9架未被击落（去向未说明），当晚1.3万吨粮食被毁、出口能力降15%，拦截未能保护粮食设施。该数字为乌方单方通报，未见独立核验。另一个暴露问题是外溢风险：多瑙河北岸即为北约成员国领土，无人机沿河道飞行，坠落与碎片会落入罗马尼亚。罗方“否认—改口承认—召见俄代办”的过程，反映出对近距离无人机落点的初期通报口径不一致。罗方称无人机“未侵入领空”与后来的碎片发现之间的矛盾，至今未见实验室结论公开。",
+  "claims_compare_cn": "乌克兰外交部（9月）：“沙希德”坠入罗境并爆炸，提供对岸爆炸照片。罗国防部：9月4日前后断然否认；9月6日改口称发现可能是无人机碎片、无威胁；9月9日确认第二批碎片，总统称为空域侵犯。罗国防部8月3日曾称无人机从未侵入领空。俄方对多瑙河港口打击及残骸的表态本轮未检索到。乌方报告的损失数字（4万吨受损、1.3万吨毁）均为官方单方口径。拦截率仅8月23日一晚有乌方数字。",
+  "losses_cn": "乌方口径：8月2日储存粮食4万余吨受损；8月23日1.3万吨粮食被毁，港口出口能力下降15%。罗马尼亚境内：无人员伤亡报道；普劳鲁附近发现疑似坠落坑与碎片。船舶损失：本组检索到的这几次打击未见船只被击中的报道。",
+  "analysis_cn": "多瑙河港口对乌方的价值在于它绕开了黑海海域的俄方威胁；俄军则用无人机沿河道和边界线打击，使防空既要顾及港口，也要避免碎片落入邻国。对乌方，这是第一次出现“拦截成功但碎片外溢”的政治问题；对罗马尼亚，罗方宣布加强空域管控，具体措施本轮未核实。对港口防御的启示：近邻北约成员国一侧的预警数据共享、碎片处置程序，必须在来袭之前准备，而不是靠事后外交通报补救。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "欧洲真理报（Yevropeiska Pravda / Eurointegration）",
+    "title": "Romania Has Not Yet Found Any Debris from Russian Shahed Drones on Its Territory near Izmail",
+    "title_cn": "罗马尼亚尚未在伊兹梅尔对岸本国领土发现俄“沙希德”残骸",
+    "author": "Eurointegration",
+    "date": "2023-08-03",
+    "url": "https://eurointegration.com.ua/eng/news/2023/08/3/7166959",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "海事执行官（Maritime Executive）",
+    "title": "Russia Attacks Ukraine's Danube Port After Reports of Ships Arriving",
+    "title_cn": "有船舶抵达报道后俄袭击乌多瑙河港口",
+    "author": "Maritime Executive",
+    "date": "",
+    "url": "https://maritime-executive.com/article/russia-attacks-ukraine-s-danube-port-after-reports-of-ships-arriving",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "阿拉伯卫视英文网（Al Arabiya English）",
+    "title": "Ukraine says Russian attack on port of Izmail destroyed 13,000 tons of grain",
+    "title_cn": "乌称俄袭击伊兹梅尔港毁粮1.3万吨",
+    "author": "Al Arabiya English",
+    "date": "2023-08-23",
+    "url": "https://english.alarabiya.net/News/world/2023/08/23/Russia-attacks-grain-facilities-in-Ukraine-s-Odesa-region-and-Danube-River-area",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "乌克兰真理报（Ukrainska Pravda）",
+    "title": "Romania denies that Russian Shahed drones exploded on its territory",
+    "title_cn": "罗马尼亚否认俄“沙希德”在其境内爆炸",
+    "author": "Ukrainska Pravda",
+    "date": "2023-09-04",
+    "url": "https://www.pravda.com.ua/eng/news/2023/09/04/7418333/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "乌克兰真理报（Ukrainska Pravda）",
+    "title": "Romania admits finding wreckage of alleged drone after Russian Shahed UAVs attack",
+    "title_cn": "罗马尼亚承认发现疑似无人机残骸",
+    "author": "Ukrainska Pravda",
+    "date": "2023-09-06",
+    "url": "https://pravda.com.ua/eng/news/2023/09/6/7418690/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "罗马尼亚内幕（Romania Insider）",
+    "title": "Romania urges Russia to stop attacks against Ukraine's Danube ports, finds second drone wreckage",
+    "title_cn": "罗马尼亚敦促俄停止袭击乌多瑙河港口，并发现第二批残骸",
+    "author": "Romania Insider",
+    "date": "",
+    "url": "https://www.romania-insider.com/society/romania-russia-attacks-drone-wreckage-sept-2023",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "欧洲真理报（Eurointegration）",
+    "title": "Romania to Strengthen Its Airspace Following Russia's Attacks on Danube Ports",
+    "title_cn": "罗马尼亚将在俄袭击多瑙河港口后加强空域管控",
+    "author": "Eurointegration",
+    "date": "2023-09-06",
+    "url": "https://www.eurointegration.com.ua/eng/news/2023/09/6/7168905/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "加拿大广播公司（CBC，转载路透社图片）",
+    "title": "（标题未显示，据URL推断主题为罗马尼亚发现无人机残骸）",
+    "title_cn": "罗马尼亚无人机残骸报道（含普劳鲁附近坠落坑照片）",
+    "author": "CBC / Reuters图片（Ovidiu Micsik/Inquam Photos）",
+    "date": "",
+    "url": "https://amp.cbc.ca/news/world/romania-drones-ukraine-russia-war-1.6966813",
+    "type": "通讯社"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://amp.cbc.ca/news/world/romania-drones-ukraine-russia-war-1.6966813",
+    "file_name": "(未取得文件名)",
+    "desc_cn": "罗马尼亚普劳鲁附近疑似俄无人机坠落点：一名男子查看弹坑，旁有烧焦的树干",
+    "date": "2023-09-07",
+    "credit": "Ovidiu Micsik / Inquam Photos / Reuters（据CBC图注）",
+    "license": "版权受限（路透社/Inquam），勿直接使用",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Izmail",
+    "file_name": "Category:Port of Izmail（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“伊兹梅尔港”分类页：位于多瑙河基利亚河口支流，子类含多瑙河船舶修造厂、伊兹梅尔粮食升降机等（据检索摘要）；仅为取图入口",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Reni",
+    "file_name": "Category:Port of Reni（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“列尼港”分类页（多瑙河海港，近罗马尼亚边境，据检索摘要）；仅为取图入口",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "8月23日夜来袭/击落": "20架/11架（乌防空部队口径，拦截率约55%）",
+   "8月23日粮食被毁": "1.3万吨，港口出口能力下降15%（副总理库布拉科夫）",
+   "8月2日储粮受损": "4万余吨（乌国防部口径，经检索摘要转述）",
+   "罗境内残骸": "第一批9月6日确认；第二批9月9日确认，距普劳鲁2.5公里",
+   "后续公开记录": "2024-03-29 FMT/Kyiv Post报道罗边境再发现疑似无人机碎片；2025-02-13 乌克兰真理报报道罗境内发现“天竺葵”残骸（仅标题，未核内容）"
+  }
+ },
+ {
+  "case_key": "bp_corridor_2023_08_16_joseph_schulte",
+  "category": "周边港口",
+  "title_cn": "滞港18个月的集装箱船打通乌方临时航道",
+  "subtitle_cn": "2023年8月16—17日 “约瑟夫·舒尔特”号（Joseph Schulte）离开敖德萨，试航乌方临时人道主义航道",
+  "date_start": "2023-08-16",
+  "date_end": "2023-08-17",
+  "location_cn": "敖德萨港至博斯普鲁斯海峡，沿乌、罗、保领海航行（Odesa → Bosporus）",
+  "lat": 46.49,
+  "lon": 30.74,
+  "region": "黑海",
+  "attacker": "无直接攻击（潜在威胁：俄黑海舰队、海上漂雷；俄外交部称将关闭航道）",
+  "defender": "乌克兰基础设施部（航道组织）；海军角色待核；沿岸国领海",
+  "outcome": "防御成功",
+  "domains": [
+   "水面",
+   "水下"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "无实际攻击发生。检索摘要转述乌方事前警告航行者须自担水雷及俄方干预风险（具体出处待核）。",
+  "defense_means_cn": "乌方划定贴近本国、罗马尼亚、土耳其领海的临时航线，使航线主要位于领海内；船舶为1艘香港旗集装箱船，装载2,114个集装箱、30,000余吨货物。海军护航、无人艇巡逻、扫雷合作等具体防卫措施本轮检索未获公开记录，不予推断。",
+  "narrative_cn": "俄罗斯2023年7月退出《黑海粮食倡议》后，乌克兰港口的商船通航陷入停顿。8月16日，乌副总理库布拉科夫在社交媒体宣布，一艘商船已离开敖德萨，走“临时”人道主义航道。该船是香港旗集装箱船“约瑟夫·舒尔特”号（Joseph Schulte），船东为一家中资银行与舒尔特集团（Schulte Group），由伯恩哈德·舒尔特船舶管理公司（BSM）管理。BSM称，该船自2022年2月24日起滞留敖德萨至2023年8月16日；其他报道称其2月23日（入侵前一日）已在港，滞留天数各报道略有差别。乌方称船上载有30,000余吨货物，含2,114个集装箱，主要为食品与农产品，目的地为伊斯坦布尔。该船经乌克兰、罗马尼亚、土耳其领海前往博斯普鲁斯海峡，据报道8月17日进入保加利亚领海。BSM称此前加入联合国黑海粮食倡议的努力未能成功，直到该航道开通才得以离港。Maritime Executive称这次航行是对乌方航道的“测试”。检索摘要称，乌方事前警告使用该航线的船舶须自担水雷及俄方干预风险（出处待核）。据检索摘要，俄外交部称莫斯科将关闭人道主义海上走廊（原文本组未见，待核）。分析人士称俄方陷入两难：此前依靠协议的检查权掌握通航，而此刻无法控制任何出入。本轮未检索到此次航行中发生攻击或触雷的报道；航道其后的通航规模、俄方对航道的实际应对、乌方海军护航与沿岸国扫雷合作等，本组因检索额度耗尽未能核实，列入待检索清单。",
+  "defense_effect_cn": "首航结果是“没有被打”：船舶离港并经罗、土、保领海完成首段航行，未见水雷或攻击报道。但首航只能证明路线可通行，不能证明航道受保护：乌方事前的表述是“风险自担”（出处待核），说明航道并非以护航兜底；选线贴近沿岸国领海，其意图（判断）是抬高俄军攻击商船的政治成本。BSM称滞港18个月、加入联合国协议的努力失败，也说明商业航运对政治风险的承受是个案式的，难以形成常态船流。航线防卫的具体手段（护航、扫雷、无人艇巡逻）本组检索未获证据，需后续核实。",
+  "claims_compare_cn": "乌方：这是一条“临时人道主义航道”，船舶途经乌、罗、土领海。俄外交部（据检索摘要）：莫斯科将关闭航道。BSM（船舶管理方）：滞港起止为2022年2月24日至2023年8月16日；Maritime Executive/Splash 报道称2月23日已在港，滞留天数略有差异。船东方面：一报道称船东为中资银行与舒尔特集团。无单方夸大战果的问题，主要是细节差异。",
+  "losses_cn": "无损失报道。",
+  "analysis_cn": "首航的意义在于测试俄方是否会攻击或阻拦一艘贴近北约成员国领海航行的外籍商船。船舶数量只有1艘，不能推断通航常态化；俄方后续的反应以打击港口与船舶为主（见后文2023年11月、2024年10月、2026年7月各案）。航线选在领海内的做法，使防卫的主体变成“沿岸国海空域与国际法约束”，乌方自己的海上兵力在这条航线上承担多少，本轮未检索到证据。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "BSM（伯恩哈德·舒尔特船舶管理公司）",
+    "title": "Joseph Schulte: a long breath pays off",
+    "title_cn": "约瑟夫·舒尔特号：耐心得到回报",
+    "author": "BSM",
+    "date": "",
+    "url": "https://bs-shipmanagement.com/media-centre/bsm-highlights/joseph-schulte-a-long-breath-pays-off/",
+    "type": "其他"
+   },
+   {
+    "publisher": "海事执行官（Maritime Executive）",
+    "title": "Containership departs Odesa testing Ukraine's humanitarian corridor",
+    "title_cn": "集装箱船离开敖德萨，测试乌方人道主义航道",
+    "author": "Maritime Executive",
+    "date": "",
+    "url": "https://www.maritime-executive.com/article/containership-departs-odesa-testing-ukraine-s-humanitarian-corridor",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Splash247",
+    "title": "Hong Kong-flagged boxship the first to break out of Odesa",
+    "title_cn": "香港旗集装箱船率先突破敖德萨",
+    "author": "Splash247",
+    "date": "",
+    "url": "https://splash247.com/?p=191497",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "乌克兰Rubryka",
+    "title": "First civilian vessel leaves Odesa through temporary corridor in Black Sea",
+    "title_cn": "首艘民用船舶经临时航道驶离敖德萨",
+    "author": "Rubryka",
+    "date": "2023-08-16",
+    "url": "https://rubryka.com/en/2023/08/16/kubrakov-pershe-tsyvilne-sudno-vyjshlo-z-odesy-ta-prohodyt-cherez-tymchasovyj-korydor/amp/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Euromaidan Press",
+    "title": "First merchant ship successfully crosses Ukrainian sea corridor, sidestepping Russia",
+    "title_cn": "首艘商船成功穿越乌方航道，绕开俄方",
+    "author": "Euromaidan Press",
+    "date": "2023-08-17",
+    "url": "https://euromaidanpress.com/2023/08/17/the-first-civilian-ship-successfully-passes-through-the-ukrainian-sea-corridor-without-russia-using-mostly-territorial-waters",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "新报欧洲版（Novaya Gazeta Europe）",
+    "title": "First ship sails from Ukraine's Odesa to Istanbul via temporary corridor since grain deal termination",
+    "title_cn": "粮食协议终止后首艘船经临时航道自敖德萨驶往伊斯坦布尔",
+    "author": "Novaya Gazeta Europe",
+    "date": "2023-08-18",
+    "url": "https://novayagazeta.eu/en/articles/2023/08/18/first-ship-sails-from-ukraines-odesa-to-istanbul-via-temporary-corridor-since-grain-deal-termination-en-news",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Odesa",
+    "file_name": "Category:Port of Odesa（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“敖德萨港”分类页：含港口起重机、集装箱码头、海运客运站等战前照片（据检索摘要）；仅为取图入口，非本案事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "货物": "30,000余吨、2,114个集装箱（乌方口径）",
+   "滞港时长": "2022-02-24至2023-08-16（BSM口径），约18个月",
+   "路线": "敖德萨→乌/罗/土领海→博斯普鲁斯；8月17日进入保加利亚领海",
+   "后续通航/护航/扫雷数据": "本轮检索额度耗尽，未核实"
+  }
+ },
+ {
+  "case_key": "bp_odesa_2023_11_08_kmax_ruler",
+  "category": "周边港口",
+  "title_cn": "进港商船被反辐射导弹击中，引航员死亡",
+  "subtitle_cn": "2023年11月8日 利比里亚旗“KMAX RULER”号在敖德萨州港口入港时被导弹击中",
+  "date_start": "2023-11-08",
+  "date_end": "",
+  "location_cn": "乌克兰敖德萨州港口（Odesa region port，具体码头未在检索结果中说明）",
+  "lat": 46.49,
+  "lon": 30.74,
+  "region": "黑海",
+  "attacker": "俄罗斯武装力量（乌方称使用Kh-31P反辐射导弹）",
+  "defender": "乌克兰防空；港口当局",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "乌方官员称：Kh-31P反辐射导弹，命中船舶上层建筑（俄军机型及发射平台本轮未检索到）。",
+  "defense_means_cn": "未检索到防空拦截记录；船舶按乌方通航程序在引航员引导下进港。",
+  "narrative_cn": "2023年11月8日，敖德萨州一处港口遭俄军导弹袭击，一艘正在入港的利比里亚旗商船被击中。乌克兰南部作战司令部称，被击中的是民用船舶；基础设施部长库布拉科夫称，该船原定装运铁矿石运往中国，并称这是自7月俄方退出粮食协议以来对港口基础设施的第21次针对性打击。据多家媒体（含美联社11月9日转载稿）报道，一名43岁的引航员死亡，3名菲律宾船员和1名港口工人受伤，其中1人住院。希腊城市时报（Greek City Times）报道称船舶为塞浦路斯关联企业的“KMAX RULER”号，Meduza与美联社转载稿未给出船名和船东。一位乌方官员称，Kh-31P反辐射导弹击中该船上层建筑。俄方在事发当时未作评论。本轮检索未获得乌空军当日来袭数量、拦截情况，也未获得该船的损毁程度及后续修复信息。",
+  "defense_effect_cn": "本案的防御信息近乎空白，但事实本身反映两点：一是本案打击发生在船舶入港阶段，且引航员（已上船）成为死者；二是乌方通报仅有“被击中”一类结果性说明，没有给出来袭导弹数量与拦截数。导弹型号Kh-31P目前仅为乌方单方指认。库布拉科夫的“第21次”说明，约16周内发生21次针对港口设施的打击，防空未能全部拦截（但乌方未公布拦截数）。",
+  "claims_compare_cn": "乌方（南部作战司令部、库布拉科夫）：民用船被导弹击中，系针对港口基础设施的第21次打击；乌官员指认Kh-31P。俄方：事发时未回应。船名/船东：Greek City Times称为KMAX RULER、塞浦路斯关联；Meduza与美联社稿未给出船名。检索摘要曾注明Meduza称无法立即核实乌方说法。",
+  "losses_cn": "人员：1名引航员死亡（43岁），3名菲律宾船员和1名港口工人受伤。装备：船舶上层建筑受损，程度未检索到。经济：该船原定运铁矿石，其后航次中断，数额未检索到。",
+  "analysis_cn": "俄方将打击目标从仓库、码头扩展到进港船舶，使“航道可用”不再等同于“船舶安全”。乌方在通报中把单次打击放入“第21次”序列，意在建立打击的累积证据链，也为后续向联合国及IMO通报提供事实材料。对于防御者，（判断）入港阶段船舶航迹可预测，应单独设防空预案。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Meduza",
+    "title": "Ukraine says Russian forces hit civilian vessel during attack on Odesa port, killing one person",
+    "title_cn": "乌称俄军袭击敖德萨港时击中民用船舶，致1人死亡",
+    "author": "Meduza",
+    "date": "2023-11-08",
+    "url": "https://meduza.io/en/news/2023/11/08/ukraine-says-russian-forces-hit-civilian-vessel-during-attack-on-odesa-port-killing-one-person",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "乌克兰真理报（Ukrainska Pravda）",
+    "title": "Russians target Liberian ship with missile in Odesa Oblast; casualties reported",
+    "title_cn": "俄军用导弹打击敖德萨州利比里亚旗船舶，有伤亡",
+    "author": "Ukrainska Pravda",
+    "date": "2023-11-08",
+    "url": "https://www.pravda.com.ua/eng/news/2023/11/8/7427866/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "美联社（经ClickOrlando转载）",
+    "title": "A Russian missile hits a Liberia-flagged ship in Odesa, Ukraine's main Black Sea port",
+    "title_cn": "俄导弹击中乌主要黑海港口敖德萨内一艘利比里亚旗船",
+    "author": "AP",
+    "date": "2023-11-09",
+    "url": "https://www.clickorlando.com/news/world/2023/11/09/a-russian-missile-hits-a-liberia-flagged-ship-in-odesa-ukraines-main-black-sea-port/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "希腊城市时报（Greek City Times）",
+    "title": "Deadly Russian Missile Strike Hits Cyprus-Owned Ship at Ukrainian Port, Killing One",
+    "title_cn": "俄导弹致命击中乌港口一艘塞浦路斯所属船舶，致1死",
+    "author": "Greek City Times",
+    "date": "",
+    "url": "https://greekcitytimes.com/?p=284650",
+    "type": "其他"
+   },
+   {
+    "publisher": "TradeWinds",
+    "title": "（标题未在检索结果中显示）",
+    "title_cn": "—",
+    "author": "TradeWinds",
+    "date": "",
+    "url": "https://tradewindsnews.com/news/2-1-1551393",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Odesa",
+    "file_name": "Category:Port of Odesa（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“敖德萨港”分类页：含港口起重机、集装箱码头、海运客运站等战前照片（据检索摘要）；仅为取图入口，非本案事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Odesa",
+    "file_name": "Port of Odessa, container terminal, 2019（标题据检索摘要；文件页URL与扩展名未取得，需在上述分类页内定位）",
+    "desc_cn": "敖德萨港集装箱码头，2019年拍摄的战前资料照",
+    "date": "2019",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "人员伤亡": "死亡1（引航员，43岁）；受伤3名菲律宾船员+1名港口工人（乌方/AP口径）",
+   "累计打击次序": "自2023年7月以来第21次针对港口基础设施的打击（库布拉科夫）",
+   "导弹型号": "Kh-31P（乌方官员指认，未独立核实）"
+  }
+ },
+ {
+  "case_key": "bp_odesa_2024_10_09_shui_spirit",
+  "category": "周边港口",
+  "title_cn": "四日内三艘外籍商船被击中，切尔诺莫尔斯克死亡7人",
+  "subtitle_cn": "2024年10月（事发日据10月10日报道推定为10月9日，待核）俄军弹道导弹击中切尔诺莫尔斯克港巴拿马旗集装箱船“水之灵”号（Shui Spirit）",
+  "date_start": "2024-10-09",
+  "date_end": "2024-10-10",
+  "location_cn": "乌克兰敖德萨州切尔诺莫尔斯克港（Chornomorsk）；同期涉及敖德萨港、南方港（Pivdennyi）",
+  "lat": 46.3,
+  "lon": 30.66,
+  "region": "黑海",
+  "attacker": "俄罗斯武装力量（乌方称弹道导弹）",
+  "defender": "乌克兰防空力量；乌克兰海港管理局；敖德萨州军事管理局",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "副总理库列巴（Oleksii Kuleba）称弹道导弹击中该集装箱船；同期另两艘外籍商船（帕劳旗在敖德萨港、圣基茨和尼维斯旗在南方港）亦被击中，使用的弹种本轮未检索到。",
+  "defense_means_cn": "本轮检索未获拦截数据或防空部署说明。",
+  "narrative_cn": "据新报欧洲版（Novaya Gazeta Europe）与欧洲Maidan Press 2024年10月10日报道，敖德萨州切尔诺莫尔斯克港遭俄军导弹袭击，港内一艘巴拿马旗集装箱船受损。TradeWinds称该船为1,679标准箱、2000年建造的“水之灵”号（Shui Spirit）。副总理库列巴称俄军以弹道导弹击中该船，攻击发生在港口基础设施遭到更大范围打击期间。敖德萨州长基佩尔（Oleh Kiper）通报至少7人死亡、11人受伤；巴别塔（Babel）早前通报为6人死亡、8人受伤，另有报道称死者包括一名46岁的港口工人，该人于次日在医院死亡，死亡数因此升至7人。乌克兰海港管理局称此为“恐怖袭击”。库列巴称这是四天内第三起针对外籍民用船舶的打击：此前，一艘帕劳旗船在敖德萨港被击中，一艘圣基茨和尼维斯旗船在南方港受损；他认为这些攻击意在妨碍乌方海上航道的运行。上述三起的确切日期、前两起的具体损失，本轮检索未取得，待核。俄方对该次打击的说法本轮未检索到。",
+  "defense_effect_cn": "乌方未通报该次来袭弹数与拦截数，因此防御效果无法量化。可确认的信息是：伤亡达7人以上；弹道导弹打击的末段速度高、预警时间短，港内船舶与码头人员无法凭预警疏散（判断）；7名死者中船员与岸上人员的构成本轮未检索到（报道提及死者含港口工人）。四天三起、三个港口（敖德萨、南方、切尔诺莫尔斯克）轮流受袭，说明乌方的防空无法在三港同时形成覆盖，也说明俄方可在短时间内重复选择不同港口。",
+  "claims_compare_cn": "死亡人数：基佩尔通报至少7死11伤；早期报道（巴别塔）6死8伤，数字随死者在院内不治上升，未见分歧于事实。弹种：库列巴称弹道导弹；其余报道未给出弹种。目的：乌方称打击意在阻碍海上航道；俄方说法本轮未检索到。",
+  "losses_cn": "人员：至少7死11伤（基佩尔口径，含一名港口工人）。装备：巴拿马旗集装箱船受损，程度未检索到；另两船受损程度未检索到。港口设施受损范围未检索到。",
+  "analysis_cn": "该案暴露乌方航道体系的短板：船舶到港、装卸、等待离港的时间长，且集中在三个已知港口，俄军以弹道导弹对港区实施短时间、多地点的打击，使乌方既无法靠机动躲避，也难以靠预警疏散。库列巴在通报中强调攻击意在妨碍海上航道，而不仅是港口（其用意属判断：把事件定性为针对海上贸易通道）。本案的证据链基于乌官员陈述和媒体转载，未见IMO或船旗国独立确认，船舶的实际损伤程度也无公开影像核验。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "新报欧洲版（Novaya Gazeta Europe）",
+    "title": "Seven killed in fresh Russian missile strike on port in Ukraine's Odesa region",
+    "title_cn": "俄导弹再击敖德萨州港口，7人死亡",
+    "author": "Novaya Gazeta Europe",
+    "date": "2024-10-10",
+    "url": "https://novayagazeta.eu/en/articles/2024/10/10/seven-killed-in-fresh-russian-missile-strike-on-port-in-ukraines-odesa-region-en-news",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Euromaidan Press",
+    "title": "Death toll rises to seven in Russian missile attack on Odesa port, Panama-flagged container ship damaged",
+    "title_cn": "俄导弹袭击敖德萨港死亡升至7人，巴拿马旗集装箱船受损",
+    "author": "Euromaidan Press",
+    "date": "2024-10-10",
+    "url": "https://euromaidanpress.com/2024/10/10/death-toll-rises-to-seven-in-russian-missile-attack-on-odesa-port-panama-flagged-container-ship-damaged/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "TradeWinds",
+    "title": "Deadly Russian missile attack on Odesa port damages container ship",
+    "title_cn": "俄导弹致命袭击敖德萨港，集装箱船受损",
+    "author": "TradeWinds",
+    "date": "",
+    "url": "https://tradewindsnews.com/casualties/deadly-russian-missile-attack-on-odesa-port-damages-container-ship/2-1-1722317",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "巴别塔（Babel）",
+    "title": "Russia hit Odesa region with a ballistic missile. 6 people were killed and another 8 were injured",
+    "title_cn": "俄以弹道导弹打击敖德萨州，6死8伤",
+    "author": "Babel",
+    "date": "",
+    "url": "https://babel.ua/en/news/111567-russia-hit-odesa-region-with-a-ballistic-missile-6-people-were-killed-and-another-8-were-injured",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "USM",
+    "title": "A terrorist country attacked the port infrastructure in Odesa: there are casualties",
+    "title_cn": "恐怖国家袭击敖德萨港口基础设施，有伤亡",
+    "author": "USM",
+    "date": "",
+    "url": "https://en.usm.media/a-terrorist-country-attacked-the-port-infrastructure-in-odesa-there-are-casualties/",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Chornomorsk",
+    "file_name": "Category:Port of Chornomorsk（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“切尔诺莫尔斯克港”分类页（港口成立于1958年，含伯尔拉恰巴尔卡一带照片，据检索摘要）；仅为取图入口，非事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Odesa",
+    "file_name": "Category:Port of Odesa（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“敖德萨港”分类页：含港口起重机、集装箱码头、海运客运站等战前照片（据检索摘要）；仅为取图入口，非本案事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_Pivdennyi",
+    "file_name": "Category:Port Pivdennyi（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“南方港”分类页；仅为取图入口，非事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "人员伤亡": "至少7死11伤（敖德萨州长基佩尔口径）；早期报道6死8伤",
+   "受袭船舶": "巴拿马旗集装箱船Shui Spirit（1,679 TEU，2000年建造，TradeWinds）；另帕劳旗船（敖德萨港）、圣基茨和尼维斯旗船（南方港）",
+   "频次": "四日内第三起外籍民用船舶遭袭（库列巴口径）",
+   "来袭/拦截数": "本轮检索未获公开记录"
+  }
+ },
+ {
+  "case_key": "bp_odesa_2026_03_20_grain_bulkers",
+  "category": "周边港口",
+  "title_cn": "两艘靠泊装粮散货船夜间遭无人机击中",
+  "subtitle_cn": "2026年3月20日 俄军无人机袭击敖德萨州港口，帕劳旗、巴巴多斯旗散货船受损",
+  "date_start": "2026-03-20",
+  "date_end": "",
+  "location_cn": "乌克兰敖德萨州港口（具体港口检索结果未明示，Odesa region ports）",
+  "lat": 46.49,
+  "lon": 30.74,
+  "region": "黑海",
+  "attacker": "俄罗斯武装力量（乌方称打击型无人机，Liga 标题称“沙希德”）",
+  "defender": "乌克兰防空力量；乌克兰海港管理局；敖德萨州军事管理局",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "乌方称：打击型无人机（“沙希德”类，Liga 标题措辞）攻击港区；来袭数量本轮未检索到。",
+  "defense_means_cn": "本轮检索未获拦截数据；港口继续在“安保限制”下运作（乌克兰海港管理局口径）。",
+  "narrative_cn": "据欧洲Maidan Press 2026年3月20日报道及乌克兰多家媒体转载，当夜（3月20日）俄军以打击型无人机袭击敖德萨州港口基础设施，两艘靠泊在码头、已装载粮食的民用商船被击中，船旗分别为帕劳与巴巴多斯，Latifundist 的标题称其为散货船。副总理库列巴（Oleksii Kuleba）称两船均未沉没，仍浮于水面。敖德萨州长基佩尔（Oleh Kiper）在电报频道通报：两人受伤；港区一座粮仓（grain bunker）、设备及行政楼受损；现场起火，应急部门迅速扑灭。乌克兰海港管理局确认港口继续运作，但受到安保限制。船舶损伤程度、受伤人员身份（船员或港口员工）、粮食货损数量，本轮检索未取得。俄方对该次打击的说法本轮未检索到。公开材料来自乌方官员和乌方媒体，未见船旗国、船东或保险方的独立核实。",
+  "defense_effect_cn": "船舶在码头装粮时遇袭，说明靠泊状态下船舶无法机动，防空只能依靠港区外围拦截。公开信息没有来袭无人机数量和拦截数，因而无法评估拦截率；可知的结果是两艘船、一座粮仓与行政楼被击中，说明至少有无人机突破防空。同一批报道称损伤未致沉没，体现商船对无人机战斗部的抗毁性，但粮仓与设备受损暴露出港区内固定设施无遮蔽。2026年3月之后，类似事件频率与伤亡明显上升（见7月系列案）。",
+  "claims_compare_cn": "乌方：民用商船被无人机击中，两人受伤，港口继续运作。俄方：本轮未检索到对3月20日该次打击的说法。报道中船舶均称“未沉没”，未见船东或船旗国对损伤程度的独立说明。",
+  "losses_cn": "人员：2人受伤。装备：2艘装粮商船受损（均未沉没），1座粮仓、港口设备、行政楼受损；火情已扑灭。货损数量与经济损失未检索到。",
+  "analysis_cn": "该案时间早于2026年7月外籍商船连续遇袭，攻击手段为无人机而非导弹，伤亡规模小，（判断）可视为后来升级的前奏；乌方通报的重点是“民用船舶”“粮食”，目的在国际层面形成对俄的压力。（判断）靠泊期间的船舶是静止、可预测的目标，泊位周边需要专门防护；本轮未检索到乌方在泊位级防御的公开信息。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Euromaidan Press",
+    "title": "Russia hit two grain-loaded ships under Palau and Barbados flags in Odesa port overnight; grain bunker and administrative buildings also damaged",
+    "title_cn": "俄军夜间击中敖德萨港内两艘装粮的帕劳旗与巴巴多斯旗船，粮仓和行政楼亦受损",
+    "author": "Euromaidan Press",
+    "date": "2026-03-20",
+    "url": "https://euromaidanpress.com/2026/03/20/russia-hit-two-grain-loaded-ships-under-palau-and-barbados-flags-in-odesa-port-overnight-grain-bunker-and-administrative-buildings-also-damaged/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Latifundist",
+    "title": "Russian strike damages two bulk carriers in Odesa region ports",
+    "title_cn": "俄袭击损坏敖德萨州港口两艘散货船",
+    "author": "Latifundist",
+    "date": "",
+    "url": "https://latifundist.com/en/novosti/69788-rosijskij-udar-poshkodiv-2-sudna-z-zernom-v-portah-odeshchini",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Liga.net",
+    "title": "Foreign ships with grain damaged in Odesa region: Russian Federation hit with \"shaheds\" - photos",
+    "title_cn": "敖德萨州外籍运粮船受损：俄以“沙希德”攻击（图）",
+    "author": "Liga.net",
+    "date": "",
+    "url": "https://news.liga.net/en/region_news/news/foreign-ships-with-grain-damaged-in-odesa-region-russian-federation-hit-with-shaheds---photos",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Ukranews",
+    "title": "Russians attack port in Odesa Region. Two foreign vessels damaged, some people wounded",
+    "title_cn": "俄袭击敖德萨州港口，两艘外籍船受损，有人受伤",
+    "author": "Ukranews",
+    "date": "",
+    "url": "https://ukranews.com/en/amp/news/1141092-russians-attack-port-in-odesa-region-two-foreign-vessels-damaged-some-people-wounded",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Komersant.ua",
+    "title": "Damaged ships flying the flags of Palau and Barbados: Russian forces attacked a port in the Odesa region",
+    "title_cn": "帕劳与巴巴多斯旗船受损：俄军袭击敖德萨州港口",
+    "author": "Komersant.ua",
+    "date": "",
+    "url": "https://komersant.ua/en/poshkodzheni-sudna-pid-praporamy-palau-ta-barbadosu-rosiyski-viyska-atakuvaly-port-na-odeshchyni",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Odesa",
+    "file_name": "Category:Port of Odesa（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“敖德萨港”分类页：含港口起重机、集装箱码头、海运客运站等战前照片（据检索摘要）；仅为取图入口，非本案事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Odesa",
+    "file_name": "Port of Odessa, container terminal, 2019（标题据检索摘要；文件页URL与扩展名未取得，需在上述分类页内定位）",
+    "desc_cn": "敖德萨港集装箱码头，2019年拍摄的战前资料照",
+    "date": "2019",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "受袭船舶": "2艘（帕劳旗、巴巴多斯旗），均装粮、靠泊、未沉没（库列巴口径）",
+   "人员": "2人受伤（乌方口径）",
+   "同期统计": "乌发展部称2025年10—12月乌港口共20艘船舶受损，为上年同期2.5倍（检索摘要转述，出处待核）",
+   "来袭/拦截数": "本轮检索未获公开记录"
+  }
+ },
+ {
+  "case_key": "bp_odesa_2026_07_13_18_flagged_ships",
+  "category": "周边港口",
+  "title_cn": "五日内外籍商船连续中弹，救援队遭二次打击",
+  "subtitle_cn": "2026年7月13—18日 敖德萨州港口多艘外籍商船（多哥、马绍尔群岛、安提瓜和巴布达旗）遭导弹与无人机打击",
+  "date_start": "2026-07-13",
+  "date_end": "2026-07-18",
+  "location_cn": "乌克兰敖德萨州港口及邻近黑海水域（Odesa region ports）",
+  "lat": 46.45,
+  "lon": 30.8,
+  "region": "黑海",
+  "attacker": "俄罗斯武装力量（导弹与无人机；具体型号本轮多数未检索到）",
+  "defender": "乌克兰防空力量；敖德萨州军事管理局",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "饱和"
+  ],
+  "attack_means_cn": "7月17日傍晚为导弹打击港口基础设施并击中船舶；7月18日为“协同打击”并伴随对救援力量的二次打击；其余日期弹种未检索到。",
+  "defense_means_cn": "本轮检索未获拦截数据。受袭后船员撤离、消防与救援队处置（第二次打击时救援设备受损但无人员伤亡）。",
+  "narrative_cn": "2026年7月中旬，敖德萨地区遭连续多日的无人机与导弹袭击。半岛电视台与《莫斯科时报》（均为7月15日）报道，州长基佩尔称南部地区的打击已连续第五天，民用、工业和港口设施均受袭；当日一枚导弹击中敖德萨一栋七层住宅楼，致3人死亡、至少3人受伤。同日，乌方无人机部队指挥官称乌军一夜间在黑海击中20艘俄方船舶。针对港口商船的打击在此期间密集发生：7月13日，一艘多哥旗船在敖德萨被击中，据报道，这是乌方要求安理会开会时列举的事件之一，3名船员死亡、5人受伤（各来源口径有差异）；7月14日傍晚，一艘马绍尔群岛旗船在敖德萨州被袭，据乌克兰真理报，2人死亡；7月17日傍晚，导弹袭击港口基础设施，一艘马绍尔群岛旗民用船上层建筑受损起火，船上17名船员已撤离，其中4人受伤、无需住院；7月18日（周六），乌方称一艘安提瓜和巴布达旗商船在黑海被击中，1人死亡、3人受伤，建筑、储罐、仓库亦受损，基佩尔称在应急队伍处置时俄军实施二次打击，损坏特种救援设备，所幸无人员受伤。7月14日与17日两艘马绍尔旗船是否为同一艘，本轮检索未能确认。俄方的说法见后文7月系列案。",
+  "defense_effect_cn": "五日内至少四艘外籍商船被击中，涉及多哥、马绍尔群岛、安提瓜和巴布达三国旗，累计死亡至少6人（乌方口径，各案口径不一，如7月13日3死、14日2死、18日1死），说明乌方在港口及临近水域的船舶保护几乎不存在“零损失”可能。7月18日的二次打击针对应急队伍，使消防救援设备受损，说明俄方在对港口打击中采用了“跟进打击”的方式，对港口自身的救援能力构成压力。乌方在这些通报中均未给出来袭数量与拦截数，无法评估防空效能。",
+  "claims_compare_cn": "乌方（基佩尔、乌克兰真理报、各通讯稿）：外籍商船被击中，伤亡数如上；7月13日多哥旗船伤亡数各来源口径不一（一报道称3死5伤，细节存疑）。俄方：国防部在7月中、下旬称其打击的是为乌军运送军用物资的货船（见7月系列案）。Liga.net 把7月18日船舶遇袭位置写成“俄罗斯沿岸”，与其余媒体不符，疑为误植（判断）。",
+  "losses_cn": "人员（乌方口径，逐起不同）：7月13日多哥旗船3死5伤；7月14日马绍尔旗船2死；7月17日马绍尔旗船4伤；7月18日安提瓜旗船1死3伤；7月15日敖德萨住宅楼3死。装备：船舶上层建筑受损起火；救援设备受损。经济损失未检索到。",
+  "analysis_cn": "与此前一两艘船被击中的零星事件相比，这一周的特点是同一港区在短时间内多次、多国旗船舶被击中，且出现对救援力量的二次打击。对船东和保险方而言，旗国、船东国分散意味着事故将牵涉多个国家，并成为外交与保险事件；这是之后一周内航道实际停摆（见7月系列案）的直接背景。数据主要来自乌方官员单方通报，不同报道间伤亡口径不一致，需要后续逐起核对。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "半岛电视台（Al Jazeera）",
+    "title": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
+    "title_cn": "俄袭击敖德萨致3死，乌克兰打击黑海船舶",
+    "author": "Al Jazeera",
+    "date": "2026-07-15",
+    "url": "https://www.aljazeera.com/amp/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "乌克兰真理报（Ukrainska Pravda）",
+    "title": "Russia strikes Marshall Islands-flagged vessel in Odesa Oblast port again, injuring four",
+    "title_cn": "俄再袭敖德萨州港口马绍尔旗船，4人受伤",
+    "author": "Ukrainska Pravda",
+    "date": "2026-07-17",
+    "url": "https://www.pravda.com.ua/eng/news/2026/07/17/8044644/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Censor.net",
+    "title": "Russia attacked foreign merchant ship near Odesa region: one person died, three injured",
+    "title_cn": "俄袭击敖德萨州附近外籍商船：1死3伤",
+    "author": "Censor.net",
+    "date": "",
+    "url": "https://censor.net/en/news/4014184/russia-attacked-the-port-of-the-odesa-region",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "LB.ua",
+    "title": "Russia strikes Odesa region port",
+    "title_cn": "俄袭击敖德萨州港口",
+    "author": "LB.ua",
+    "date": "2026-07-18",
+    "url": "https://en.lb.ua/news/2026/07/18/38762_russia_strikes_odesa_region_port.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Mezha",
+    "title": "Russia launched a massive missile strike on Odesa port, foreign ship hit; one killed, three injured",
+    "title_cn": "俄对敖德萨港发动大规模导弹袭击，外籍船被击中，1死3伤",
+    "author": "Mezha",
+    "date": "",
+    "url": "https://mezha.net/eng/?p=3045447",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "莫斯科时报（The Moscow Times）",
+    "title": "Russian attack on Odesa kills 3 as Ukraine strikes ships in Black Sea",
+    "title_cn": "俄袭击敖德萨致3死，乌打击黑海船舶",
+    "author": "The Moscow Times",
+    "date": "2026-07-15",
+    "url": "https://www.themoscowtimes.com/2026/07/15/russian-attack-on-odesa-kills-3-as-ukraine-strikes-ships-in-black-sea-a93251/pdf",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Ukranews",
+    "title": "Today, UN Security Council will hold emergency meeting due to Russian attacks on ships in Black Sea",
+    "title_cn": "联合国安理会今日就俄袭击黑海船舶召开紧急会议",
+    "author": "Ukranews",
+    "date": "",
+    "url": "https://ukranews.com/en/news/1165044-today-un-security-council-will-hold-emergency-meeting-due-to-russian-attacks-on-ships-in-black-sea",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Odesa",
+    "file_name": "Category:Port of Odesa（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“敖德萨港”分类页：含港口起重机、集装箱码头、海运客运站等战前照片（据检索摘要）；仅为取图入口，非本案事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "7月13日多哥旗船": "3死5伤（乌方对安理会会议的说明，来源口径有差异）",
+   "7月14日马绍尔旗船": "2死（乌克兰真理报）",
+   "7月17日马绍尔旗船": "17名船员撤离，4伤（基佩尔）",
+   "7月18日安提瓜旗船": "1死3伤，二次打击损坏救援设备（基佩尔）",
+   "来袭/拦截数": "本轮检索未获公开记录"
+  }
+ },
+ {
+  "case_key": "bp_odesa_2026_07_19_golden_leo",
+  "category": "周边港口",
+  "title_cn": "出港运玉米的散货船中三枚巡航导弹，10人死亡",
+  "subtitle_cn": "2026年7月19日 几内亚比绍旗土耳其所属散货船“金狮”号（Golden Leo）离开敖德萨时遭俄军巡航导弹打击，26日沉没",
+  "date_start": "2026-07-19",
+  "date_end": "2026-07-26",
+  "location_cn": "乌克兰敖德萨沿岸黑海水域，离港航段（off Odesa）",
+  "lat": 46.45,
+  "lon": 30.85,
+  "region": "黑海",
+  "attacker": "俄罗斯武装力量（乌海军称发射3枚Kh-59/Kh-69巡航导弹）",
+  "defender": "乌克兰海军、海港管理局、乌克兰海事管理局（事后处置）",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "乌海军称：3枚Kh-59/Kh-69巡航导弹，其中一枚命中右舷上层建筑并引发大火。发射平台、起飞机场本轮未检索到。",
+  "defense_means_cn": "本轮检索未获拦截记录。船舶在乌方航道内航行，随船有乌克兰引航员；事后乌方“提高港口安保”，具体内容本轮未检索到。",
+  "narrative_cn": "2026年7月19日，几内亚比绍旗散货船“金狮”号（Golden Leo，土耳其公司所属）装载乌克兰玉米，驶离敖德萨，正在沿乌方航道离开战斗区域时遭俄军导弹袭击。乌克兰海军称，俄军向该船发射3枚Kh-59/Kh-69巡航导弹，其中一枚击中右舷上层建筑，引发火灾。船上共18人：17名船员（报道称为印度和叙利亚公民）和1名乌克兰引航员。伤亡数各报道不同：早期报道称6死4失踪（乌海军与地方媒体）；路透社来源的稿件称9名船员死亡、8人获救；乌克兰海港管理局及多家媒体称10人死亡，含引航员；另有报道称6死2伤。州长基佩尔称“敌人再次表明其蓄意攻击民用航运”。该船燃烧数日，7月26日沉没，沉没时船上无人。乌克兰海事管理局称船体与上层建筑受损严重，丧失适航性。7月27日（周一）乌方称未见燃油与润滑油污染迹象，海港管理局警告船体可能继续恶化并泄漏。TradeWinds的标题称此为“乌克兰战争中最致命的船舶袭击”，该表述为该媒体自己的定性，本组未能与其他来源交叉核对。乌方在7月20—22日间（来源口径不一）向联合国安理会提出紧急会议请求，会议安排在7月27日，会议结果本轮未检索到。",
+  "defense_effect_cn": "船舶已处于离港后的航道航段，仍被3枚巡航导弹攻击，说明乌方航道内的船舶没有伴随的防空保护。此案的伤亡数字之所以出现6—10的分歧，部分原因是爆炸和大火期间人员失踪统计的滞后，部分原因是引航员是否计入。事后乌方以“提高港口安保”回应，具体做法未检索到。发射平台与来袭航迹本轮未检索到；乌方在本案通报中未给出拦截数。",
+  "claims_compare_cn": "死亡数：乌海军与地方媒体早期报6死4失踪；基佩尔（路透社来源）称9名船员+1名引航员死亡、8人获救；海港管理局称10人死亡；另有报道6死2伤。导弹：乌海军称3枚Kh-59/Kh-69，1枚命中；其余来源未补充。“最致命”：仅为TradeWinds标题措辞。俄方：针对该船的具体说法本轮未检索到；俄国防部同期称其打击对象是为乌军运送军用物资的船舶（见7月系列案）。",
+  "losses_cn": "人员：10死（9名船员+1名引航员，基佩尔/海港管理局口径；早期6—10各口径），8名船员获救。装备：船舶沉没（7月26日），全损。环境：截至7月27日未见油污迹象，但有泄漏风险。货物：玉米，数量未检索到。",
+  "analysis_cn": "该案是本组检索到的2026年7月中最大的人员伤亡事件，也是乌方向安理会请求召开紧急会议的直接案例。导弹为远程空射巡航导弹，攻击目标是离开港口、位于航道上的商船，这使“航道上船舶须自担风险”的做法失去支撑。对乌方来说，货主、船东与船员国籍（土耳其所属、印度和叙利亚船员）将事件国际化，对俄方施加外交压力；对船东来说，航线风险价格大幅上升。本案中看不到航道范围内的防空保护（本轮未检索到拦截记录，判断）。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "海事执行官（Maritime Executive）",
+    "title": "Multiple Crewmembers Killed in Russian Strike on Turkish Bulker",
+    "title_cn": "俄袭击土耳其散货船，多名船员死亡",
+    "author": "Maritime Executive",
+    "date": "",
+    "url": "https://maritime-executive.com/article/multiple-crewmembers-killed-in-russian-strike-on-turkish-bulker",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "海事执行官（Maritime Executive）",
+    "title": "Ukraine Increases Port Security as it Monitors Bulker That Sank Near Odesa",
+    "title_cn": "乌加强港口安保，监视敖德萨附近沉没的散货船",
+    "author": "Maritime Executive",
+    "date": "",
+    "url": "https://maritime-executive.com/article/ukraine-increases-port-security-as-it-monitors-bulker-that-sank-near-odesa",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "TradeWinds",
+    "title": "Bulker hit in deadliest ship attack of Ukraine war sinks off Odesa",
+    "title_cn": "遭遇乌战争中最致命船舶袭击的散货船在敖德萨外海沉没",
+    "author": "TradeWinds",
+    "date": "",
+    "url": "https://www.tradewindsnews.com/casualties/bulker-hit-in-deadliest-ship-attack-of-ukraine-war-sinks-off-odesa/2-1-2020983",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Euromaidan Press",
+    "title": "Ten dead as Russia strikes a Turkish-owned bulk carrier off Odesa",
+    "title_cn": "俄袭击土耳其所属散货船，10人死亡",
+    "author": "Euromaidan Press",
+    "date": "2026-07-20",
+    "url": "https://euromaidanpress.com/2026/07/20/ten-dead-as-russia-strikes-a-turkish-owned-bulk-carrier-off-odesa/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "乌克兰真理报（Ukrainska Pravda）",
+    "title": "Foreign cargo ship attacked by Russian missiles sinks off Odesa coast",
+    "title_cn": "遭俄导弹攻击的外籍货船在敖德萨沿岸沉没",
+    "author": "Ukrainska Pravda",
+    "date": "2026-07-26",
+    "url": "https://www.pravda.com.ua/eng/news/2026/07/26/8046006/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "贝尔德海事（Baird Maritime）",
+    "title": "Ship sinks near Odessa port a week after Russian strike",
+    "title_cn": "散货船在俄袭击一周后于敖德萨港附近沉没",
+    "author": "Baird Maritime",
+    "date": "",
+    "url": "https://www.bairdmaritime.com/amp/story/shipping/dry-cargo/bulkers/ship-sinks-near-odessa-port-a-week-after-russian-strike",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Liga.net",
+    "title": "A ship sank near Odesa; 10 sailors died on board as a result of a Russian strike on July 19",
+    "title_cn": "敖德萨附近一船沉没，7月19日俄袭击致10名海员死亡",
+    "author": "Liga.net",
+    "date": "",
+    "url": "https://news.liga.net/en/war/news/a-ship-sank-near-odesa-10-sailors-died-on-board-as-a-result-of-a-russian-strike-on-july-19",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Komersant.ua",
+    "title": "A foreign ship sank near Odesa following a Russian missile attack",
+    "title_cn": "外籍船舶在俄导弹袭击后于敖德萨附近沉没",
+    "author": "Komersant.ua",
+    "date": "",
+    "url": "https://komersant.ua/en/bilya-odesi-pislya-raketnoi-ataki-rosiyan-zatonuv-inozemnij-korabel/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Ukranews",
+    "title": "Today, UN Security Council will hold emergency meeting due to Russian attacks on ships in Black Sea",
+    "title_cn": "联合国安理会今日就俄袭击黑海船舶召开紧急会议",
+    "author": "Ukranews",
+    "date": "",
+    "url": "https://ukranews.com/en/news/1165044-today-un-security-council-will-hold-emergency-meeting-due-to-russian-attacks-on-ships-in-black-sea",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://www.bairdmaritime.com/amp/story/shipping/dry-cargo/bulkers/ship-sinks-near-odessa-port-a-week-after-russian-strike",
+    "file_name": "(未取得文件名)",
+    "desc_cn": "俄导弹袭击几内亚比绍旗“金狮”号后的现场（Baird Maritime 配图，图注署 X.com / @WorldAffairsPro）",
+    "date": "2026-07-19",
+    "credit": "X.com / @WorldAffairsPro（据Baird Maritime图注）",
+    "license": "未知（社交媒体来源，版权受限，勿直接使用）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Odesa",
+    "file_name": "Category:Port of Odesa（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“敖德萨港”分类页：含港口起重机、集装箱码头、海运客运站等战前照片（据检索摘要）；仅为取图入口，非本案事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "船上人数": "18（17名船员+1名乌克兰引航员；报道称船员为印度、叙利亚公民）",
+   "死亡": "10（9名船员+1名引航员；海港管理局/基佩尔口径；早期6死4失踪）",
+   "获救": "8名船员（基佩尔口径）",
+   "导弹": "3枚Kh-59/Kh-69，1枚命中右舷上层建筑（乌海军口径）",
+   "沉没日期": "2026-07-26，沉没时船上无人",
+   "拦截数": "本轮检索未获公开记录"
+  }
+ },
+ {
+  "case_key": "bp_odesa_2026_07_25_palau_bulker",
+  "category": "周边港口",
+  "title_cn": "出港运玉米的帕劳旗船两次中弹，两名海员失踪",
+  "subtitle_cn": "2026年7月25日 俄军“沙希德”无人机两次击中敖德萨州离港的帕劳旗散货船",
+  "date_start": "2026-07-25",
+  "date_end": "",
+  "location_cn": "乌克兰敖德萨州港口离港水域（另有报道称“驶离多瑙河河口”，待核）",
+  "lat": 46.49,
+  "lon": 30.74,
+  "region": "黑海",
+  "attacker": "俄罗斯武装力量（乌方称“沙希德”无人机）",
+  "defender": "乌克兰海军；国家边防局；乌克兰基础设施部",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "乌方称：“沙希德”类无人机两次命中；来袭架数本轮未检索到。",
+  "defense_means_cn": "未检索到拦截记录；事后搜救（执行单位本轮未核），7名船员与引航员获救。",
+  "narrative_cn": "据乌克兰真理报7月25日、欧洲Maidan Press 7月26日及LB.ua、Censor.net报道，7月25日乌克兰重建、基础设施与交通部长（检索摘要称谓）称，一艘帕劳旗商船在驶离敖德萨州港口时被击中两次，船上起火。该船载约2,800吨玉米，目的地为希腊（乌国家边防局口径；基础设施部未写明目的地）。船上共有9名船员和1名乌克兰引航员，国家边防局称8人获救，基础设施部称7名船员和1名引航员获救，两者数字一致；两名船员在第一次爆炸后落水，搜救行动仍在进行。乌海军发言人称，第一次被击中后船舶仍在航行，第二次被击中后起火；船为土耳其公司所有；乌方称攻击使用的是“沙希德”无人机。截至7月26日，两名失踪船员命运无官方通报。USM同期另有报道标题为“俄袭击驶离多瑙河河口的船舶，搜救行动展开”，是否为同一船只，本轮未能核实。俄方对该次打击的说法本轮未检索到。",
+  "defense_effect_cn": "与7月19日“金狮”号不同，这次使用的是无人机且分两次命中，说明无人机能够对出港船舶重复攻击（第二次命中后才起火）；本轮未检索到船上或沿航道的防护手段。乌方给出的救援结果为8人获救、2人失踪，救援发生在船舶受创之后。该案与“金狮”号相隔六天，发生在船东停止挂靠（7月22—23日，见7月系列案）之后，说明仍有船舶在极端风险下出港。",
+  "claims_compare_cn": "获救人数：国家边防局称8人获救；基础设施部称7名船员+1名引航员，二者一致。目的地：国家边防局称希腊；基础设施部声明未写目的地。位置：多数报道称“敖德萨州港口”，USM另一标题称“多瑙河河口”。弹种：乌方称“沙希德”，无独立核实。俄方：本轮未检索到。",
+  "losses_cn": "人员：2名船员失踪（截至7月26日无官方结论），8人获救。装备：帕劳旗散货船两次中弹起火，损伤程度未检索到。货物：约2,800吨玉米。",
+  "analysis_cn": "该案说明俄方在导弹之外，也以无人机对出港商船实施跟踪式重复攻击；无人机成本远低于巡航导弹，本轮未检索到对离港船舶的防空覆盖信息。乌方的救援发挥了作用，但无法替代对船舶的保护。公开的证据主要来自乌方官员，未见独立来源。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "乌克兰真理报（Ukrainska Pravda）",
+    "title": "Russians attack foreign ship loaded with maize: two sailors missing",
+    "title_cn": "俄袭击载玉米外籍船舶：两名海员失踪",
+    "author": "Ukrainska Pravda",
+    "date": "2026-07-25",
+    "url": "https://www.pravda.com.ua/eng/news/2026/07/25/8045907/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Euromaidan Press",
+    "title": "Russia hit Palau-flagged grain ship twice as it left port for Greece. Two sailors are missing",
+    "title_cn": "俄军两次击中驶往希腊的帕劳旗运粮船，两名海员失踪",
+    "author": "Euromaidan Press",
+    "date": "2026-07-26",
+    "url": "https://euromaidanpress.com/2026/07/26/russia-hit-palau-flagged-grain-ship-twice-as-it-left-port-for-greece-two-sailors-are-missing/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "LB.ua",
+    "title": "Russia strikes grain ship twice",
+    "title_cn": "俄两次打击运粮船",
+    "author": "LB.ua",
+    "date": "2026-07-25",
+    "url": "https://en.lb.ua/news/2026/07/25/38936_russia_strikes_grain_ship_twice.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Censor.net",
+    "title": "Russia attacked a vessel in a port in the Odesa region: two sailors are missing",
+    "title_cn": "俄袭击敖德萨州港口船舶：两名海员失踪",
+    "author": "Censor.net",
+    "date": "",
+    "url": "https://censor.net/en/news/4015363/russia-attacked-a-vessel-in-a-port-in-the-odesa-region-two-sailors-are-missing",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "USM",
+    "title": "Russia attacked ship as it left the Danube estuary: search and rescue operation underway",
+    "title_cn": "俄袭击驶离多瑙河河口的船舶，搜救展开",
+    "author": "USM",
+    "date": "",
+    "url": "https://en.usm.media/?p=196382",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Odesa",
+    "file_name": "Category:Port of Odesa（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“敖德萨港”分类页：含港口起重机、集装箱码头、海运客运站等战前照片（据检索摘要）；仅为取图入口，非本案事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "船上人数": "9名船员+1名引航员",
+   "获救/失踪": "8人获救（7名船员+1名引航员）/2名船员失踪（截至7月26日）",
+   "货物": "约2,800吨玉米，目的地希腊（国家边防局口径）",
+   "来袭数": "无人机，命中2次（乌海军口径），架数未检索到"
+  }
+ },
+ {
+  "case_key": "bp_odesa_2026_07_corridor_halt",
+  "category": "周边港口",
+  "title_cn": "一个月28艘商船被袭，乌黑海航道一度零通航",
+  "subtitle_cn": "2026年6月20日—8月 俄军对敖德萨州港口及船舶的持续打击与乌克兰黑海海运停摆",
+  "date_start": "2026-06-20",
+  "date_end": "2026-08-25",
+  "location_cn": "乌克兰敖德萨、切尔诺莫尔斯克、南方港及黑海航道；另涉尼古拉耶夫港（Mykolaiv）",
+  "lat": 46.4,
+  "lon": 30.75,
+  "region": "黑海",
+  "attacker": "俄罗斯武装力量（导弹、无人机；俄国防部称其对象为运送军需的船舶与港口军用设施）",
+  "defender": "乌克兰防空力量、海军、海港管理局、国家边防局海上警卫队；船东/保险方（商业层面）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中",
+   "水面"
+  ],
+  "patterns": [
+   "集群",
+   "饱和"
+  ],
+  "attack_means_cn": "巡航导弹（Kh-59/Kh-69，见“金狮”号案）、无人机（“沙希德”类）、7月17日另有导弹击中港口基础设施；乌方统计：7月港内船舶遭袭35次、海上22次（合计57，与《外交政策》“57艘”一致）、港口设施遭袭67次（该组数字所属机构本轮未能核实）。",
+  "defense_means_cn": "乌方防空与海上警卫队救援；商业层面：船东暂停挂靠、保险战争险提价、马士基改道。《时代》周刊报道称乌防空拦截弹短缺并称乌方淡化损失（经检索摘要转述，单一来源）。",
+  "narrative_cn": "2026年6月20日至7月20日，敖德萨州检察机关称俄军击中28艘商船，21名海员和港口员工死亡。7月中旬起打击加剧：州长基佩尔称7月15日时对南部地区的无人机与导弹打击已连续第五天；7月13—18日多哥、马绍尔群岛、安提瓜和巴布达旗船相继被击中（见专案），7月19日“金狮”号被3枚巡航导弹击中致10人死亡，7月25日帕劳旗船被无人机两次击中。7月22日，乌克兰外长西比哈（Andrii Sybiha）称当日黑海乌方深水港无一艘出口船离港，并称“无一艘船通过乌方黑海航道”，时值收获季；泽连斯基称“昨天没有一艘船进港”，并警告俄方可能升级封锁。7月23日，据《外交政策》8月6日报道，乌方宣布往返三个未被占领黑海港口的海运实际冻结；路透社报道称船东暂停挂靠，乌农业部长维索茨基（Taras Vysotskyi）称乌方并未限制航运，是船东自行暂停。马士基宣布暂停切尔诺莫尔斯克的支线服务并改道罗马尼亚康斯坦察。战争险方面，联合战争委员会（JWC）扩大黑海列区，Beinsure称大敖德萨航次战争险最多可能每航次增加约15万美元（该条日期本轮未核实）。7月31日《时代》周刊称约90%的船东暂停挂靠，同时称乌方防空拦截弹不足。《外交政策》称7月俄方打击涉及57艘乌克兰及外籍商船，乌粮食出口减少约三分之一，运费约翻倍；路透社来源的估算称乌方丧失约三分之一黑海港口出口能力（一说月出口由约600万吨降至约400万吨）。7月22日俄国防部称其打击了切尔诺莫尔斯克卸货的一艘干货船、一处军用货物仓库和油料库，及敖德萨的装卸与仓储设施、一艘干货船和一艘散货船，称其装运乌军物资；之后称当天另有4艘货船和1艘散货船在黑海水域与切尔诺莫尔斯克港被无人机击中；8月18日称在敖德萨东南击中一艘运乌军物资的干货船，8月25日再称打击货船；另据8月检索摘要，俄国防部称在尼古拉耶夫击中运载军事装备的货船（具体报道本轮未核）。乌国家边防局则称其海上警卫队从遭俄无人机击中起火的散货船“金玫瑰”号（Golden Rose）救出船员。路透社均称无法独立核实俄方这些说法。",
+  "defense_effect_cn": "乌方对航道的保护在这一阶段失效：船东以停航方式回应，使“港口开放”与“实际无通航”并存。乌政府称港口仍开放、停航是船东决定；乌外长称无船通过；两种说法并存，反映官方在信息层面淡化实际停摆。防空方面，公开信息只有《时代》周刊关于拦截弹短缺的说法（单一来源，经检索摘要转述）。乌方没有公布7月导弹与无人机的来袭数和拦截率，这使得评估防御效能只能依赖损失数据，而损失数据显示：一个月内至少28—57艘次商船被击中，伤亡数十人。",
+  "claims_compare_cn": "俄国防部：打击对象是装运乌军物资的货船与港口军用设施（7月22日、8月18日、8月25日等多次通报），路透社无法核实。乌方：这些是民用商船，国家边防局称救出“金玫瑰”号船员。通航状况：西比哈称无一船通过航道；泽连斯基称“无一艘船进港”；乌政府称港口开放，停航是船东决定。受袭船舶数：敖德萨检察机关称6月20日—7月20日28艘；《外交政策》称7月57艘；乌方7月统计港内35+海上22=57。三个口径所涵盖的时间窗口不同，不可直接比较。",
+  "losses_cn": "人员：6月20日—7月20日21名海员与港口员工死亡（敖德萨州检察机关口径）；“金狮”号10死、帕劳旗船2失踪等。装备：至少1艘沉没（“金狮”号），多艘受损。经济：乌粮食出口约减三分之一，运费约翻倍（《外交政策》口径），战争险提价，马士基停航。乌方对俄方船舶的反制损失不在本案范围。",
+  "analysis_cn": "这一个月的特点是：俄方以导弹和无人机持续打击港口和船舶，使商业承运方自行停航，实际效果近似封锁（判断）。乌方的反制是向联合国提出紧急会议、救援船员、并强调港口开放，但没有公布防空数字。同期乌方也在打击俄方黑海与亚速海航运（俄国内出现停航与加强护航），双方的“航运战”并行。对防御者而言，航道安全依赖的是对船舶伴随防护与保险市场信心，而不是单纯的防空拦截率。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "路透社（经The Star转载）",
+    "title": "Shipowners halt calls at Ukraine's Black Sea ports, wary of Russian strikes",
+    "title_cn": "船东因担忧俄打击暂停挂靠乌黑海港口",
+    "author": "Reuters",
+    "date": "2026-07-23",
+    "url": "https://www.thestar.com.my/news/world/2026/07/23/shipowners-halt-calls-at-ukraine039s-black-sea-ports-wary-of-russian-strikes",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "路透社（经The Star转载）",
+    "title": "Russia says it struck Ukrainian ports and ships",
+    "title_cn": "俄称打击乌港口与船舶",
+    "author": "Reuters",
+    "date": "2026-07-23",
+    "url": "https://www.thestar.com.my/news/world/2026/07/23/russia-says-it-struck-ukrainian-ports-and-ships",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "莫斯科时报（The Moscow Times，转载路透社）",
+    "title": "Russia says it struck Ukrainian ports and ships",
+    "title_cn": "俄称打击乌港口与船舶",
+    "author": "Reuters/Moscow Times",
+    "date": "2026-08-19",
+    "url": "https://www.themoscowtimes.com/2026/08/19/russia-says-it-struck-ukrainian-ports-and-ships",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "外交政策（Foreign Policy）",
+    "title": "The Black Sea's Trade Crisis Is At the Center of the Russia-Ukraine War Again",
+    "title_cn": "黑海贸易危机再度成为俄乌战争焦点",
+    "author": "Foreign Policy",
+    "date": "2026-08-06",
+    "url": "https://foreignpolicy.com/2026/08/06/russia-ukraine-war-black-sea-shipping-ports-exports-grain-food-agriculture-drones-missiles/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "时代周刊（TIME）",
+    "title": "Why Russia Is Choking Ukraine's Black Sea Ports",
+    "title_cn": "俄为何扼住乌克兰黑海港口",
+    "author": "TIME",
+    "date": "2026-07-31",
+    "url": "https://time.com/article/2026/07/31/russia-attack-odesa-ukraine-black-sea-ports/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "基辅独立报（Kyiv Independent）",
+    "title": "Russia is holding global food security hostage: Ukraine calls emergency UN session as Moscow bombs Black Sea ports",
+    "title_cn": "俄把全球粮食安全当人质：乌请求联合国紧急会议",
+    "author": "Kyiv Independent",
+    "date": "",
+    "url": "https://kyivindependent.com/russia-is-holding-global-food-security-hostage-ukraine-calls-emergency-un-session-as-moscow-bombs-black-sea-ports/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "贝尔德海事（Baird Maritime）",
+    "title": "Russian strikes prompt shipowners to halt Ukraine port calls",
+    "title_cn": "俄打击促使船东暂停挂靠乌港口",
+    "author": "Baird Maritime",
+    "date": "",
+    "url": "https://www.bairdmaritime.com/shipping/ports/russian-strikes-prompt-shipowners-to-halt-ukraine-port-calls",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Beinsure",
+    "title": "Black Sea War Risk Expansion Raises Shipping Insurance Costs",
+    "title_cn": "黑海战争险列区扩大推高航运保险成本",
+    "author": "Beinsure",
+    "date": "",
+    "url": "https://beinsure.com/black-sea-war-risk-expansion-raises-shipping-insurance-costs/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Latifundist",
+    "title": "Ukraine seeks U.N. Security Council meeting over Russian attacks on civilian vessels, acting FM Sybiha says",
+    "title_cn": "乌请求联合国安理会开会，代理外长西比哈称7月22日无船通过航道",
+    "author": "Latifundist",
+    "date": "",
+    "url": "https://latifundist.com/en/novosti/70754-22-lipnya-zhodne-sudno-ne-projshlo-chornomorskij-morskij-koridor--sibiga",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "标普全球（S&P Global）",
+    "title": "Escalating ship attacks at Russian Black Sea ports stall wheat trade",
+    "title_cn": "俄黑海港口船舶袭击升级令小麦贸易停滞",
+    "author": "S&P Global",
+    "date": "",
+    "url": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/082026-escalating-ship-attacks-at-russian-black-sea-ports-stall-wheat-trade",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "莫斯科时报（The Moscow Times）",
+    "title": "Russia steps up ship protection in Black Sea as attacks threaten grain exports",
+    "title_cn": "俄加强黑海船舶保护，袭击威胁粮食出口",
+    "author": "The Moscow Times",
+    "date": "2026-08-03",
+    "url": "https://www.themoscowtimes.com/2026/08/03/russia-steps-up-ship-protection-in-black-sea-as-attacks-threaten-grain-exports-a93398/pdf",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://www.bairdmaritime.com/amp/story/shipping/ports/russian-strikes-prompt-shipowners-to-halt-ukraine-port-calls",
+    "file_name": "(未取得文件名)",
+    "desc_cn": "敖德萨港Olimpex Coupe粮食码头资料图（Baird Maritime图注，署Argentem Creek Partners）",
+    "date": "",
+    "credit": "Argentem Creek Partners（据Baird Maritime图注）",
+    "license": "未知（版权受限，勿直接使用）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Odesa",
+    "file_name": "Category:Port of Odesa（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“敖德萨港”分类页：含港口起重机、集装箱码头、海运客运站等战前照片（据检索摘要）；仅为取图入口，非本案事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Chornomorsk",
+    "file_name": "Category:Port of Chornomorsk（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“切尔诺莫尔斯克港”分类页（港口成立于1958年，含伯尔拉恰巴尔卡一带照片，据检索摘要）；仅为取图入口，非事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_Pivdennyi",
+    "file_name": "Category:Port Pivdennyi（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“南方港”分类页；仅为取图入口，非事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "6月20日—7月20日受袭商船/死亡": "28艘/21人（敖德萨州检察机关口径）",
+   "7月受袭船舶": "57艘（《外交政策》）；乌方统计港内35次+海上22次，港口设施67次（所属机构未核）",
+   "通航": "7月22日乌外长称零船通过；7月23日乌方宣布往返三港海运实际冻结（《外交政策》）",
+   "粮食出口": "减约三分之一；月出口约600万吨降至约400万吨（一份分析口径）；运费约翻倍",
+   "船东暂停比例": "约90%（《时代》周刊单一来源，未核）",
+   "战争险": "大敖德萨航次每航次最多约增加15万美元（Beinsure，日期未核）",
+   "拦截率": "乌方未公布，本轮检索未获公开记录"
+  }
+ },
+ {
+  "case_key": "bp_odesa_2026_09_23_antigua_captain",
+  "category": "周边港口",
+  "title_cn": "安提瓜旗货船遇袭，乌籍船长死亡",
+  "subtitle_cn": "2026年9月23日 俄军袭击敖德萨州一艘安提瓜和巴布达旗货船，乌籍船长死亡（船名、弹种未公布）",
+  "date_start": "2026-09-23",
+  "date_end": "",
+  "location_cn": "乌克兰敖德萨州（州长称在敖德萨州，海港管理局称船在黑海水域被击中；确切位置、码头未公布；坐标取敖德萨作示意）",
+  "lat": 46.49,
+  "lon": 30.74,
+  "region": "黑海",
+  "attacker": "俄罗斯武装力量（乌方称；手段未公布）",
+  "defender": "乌克兰海军（撤离船员）、敖德萨州军事行政当局、乌克兰海港管理局（USPA）；船旗国安提瓜和巴布达",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "乌方通报未说明弹种与数量（本轮检索未见）。俄国防部同期称无人机击中一艘驶向敖德萨、载“军事用途货物”的干货船，未给船名与船旗；检索摘要判断可能指同一事件，无官方确认。《消息报》（Izvestia）称，国防部9月18日通报击中两艘干货船，9月19日发布无人机打击一艘干货船和一艘油轮的视频，使用“Geran-4 Seeker”无人机；这些通报与9月23日事件的关系未核实。",
+  "defense_means_cn": "无拦截记录。受袭后由乌克兰海军撤离船员（海港管理局口径），明火已扑灭；仓库一侧的应急处置细节未取得。",
+  "narrative_cn": "2026年9月23日，乌克兰真理报（Ukrainska Pravda）、UNN、Censor.net、Kurs.com.ua 等乌方媒体及 ARY News、APA 等转载报道，俄军袭击了敖德萨州一艘悬挂安提瓜和巴布达旗的商业货船，船长（乌克兰公民）死亡。敖德萨州军事行政当局负责人奥列赫·基佩尔（Oleh Kiper）称，该船被击中后起火，其余船员已撤离；乌克兰海港管理局（USPA）的口径是船只被击中时位于黑海水域，由乌海军撤离船员，火已扑灭。官方通报均未披露船名、货物、确切位置与攻击手段。Censor.net 的标题称同一轮打击还损坏仓库；检索摘要称存放药品、日用品和食品的仓库被连续两次打击（该细节在摘要中的出处标注含糊，待核）。\n俄方一侧，国防部称无人机击中一艘驶向敖德萨、载“军事用途货物”的干货船，未公布船名与船旗；是否即本案，缺少官方确认。此前的9月18—19日，俄国防部另称击中两艘运送军用物资的干货船，并发布无人机打击干货船与油轮的视频（据《消息报》，使用“Geran-4 Seeker”）。统计层面，据一则通讯社报道引述的土耳其海运商会（IMEAK）数据，2022年2月以来黑海民用与商业船舶至少226艘被击中，其中约163艘（约70%）发生在2026年前8个月（报道具体出处本轮未取得）。\n本案信息仍然有限：船名、IMO号、攻击时间点、弹种、乌空军当晚通报及船旗国反应均未检索到。它说明7月系列打击（本组案例7—10）之后，对驶往敖德萨州港口的外籍商船的打击在9月仍在继续，并造成了死亡。",
+  "defense_effect_cn": "船只未获任何前出拦截；乌方公开材料中只有受袭后的处置——海军撤离、灭火、船长死亡。该船在“黑海水域”还是“港内”被击中，两份乌方口径并不一致，意味着无法判断其处于港口防空伞内还是在航道上。7月以来的多起案例（本组案例7—10、16）显示，在航道和锚地受袭的船舶基本不在固定防空火力的保护范围内；5月起试点的港口自建防空小组（案例15）和4月试验的无人艇载拦截无人机（案例14）都以点防御为主，本案没有任何迹象表明其介入。",
+  "claims_compare_cn": "乌方：州长称“在敖德萨州”被击中；海港管理局称船在黑海上被击中；两者均称船长死亡、其余船员撤离。俄方：国防部称击中载军事货物的干货船，未具名；是否同一事件未经证实。船旗国、船东及独立机构（IMO、卫星图像）均未检索到说明。",
+  "losses_cn": "人员：1死（船长，乌克兰公民），其余船员撤离，未见其他伤亡报道；船舶：起火，后扑灭，损伤程度未公布；陆上：仓库受损（Censor.net标题），细节待核。",
+  "analysis_cn": "本案可确认的只有三点：旗别为安提瓜和巴布达、船长死亡、船员由海军撤离。打击对象为外籍商船，旗国属便利旗，这与7月系列案（多哥、马绍尔群岛、帕劳等旗）一致，俄方则一贯以“运送军用物资”界定目标。需要补查的是船名和IMO号（以判断船籍与航线）、乌空军当晚通报（以判断拦截情况）和船旗国声明。在这些信息补齐前，不宜对攻击手段和防御失败原因下结论。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "乌克兰真理报（Ukrainska Pravda）",
+    "title": "Russia attacks foreign cargo ship in Odesa Oblast, killing captain – photos",
+    "title_cn": "俄袭击敖德萨州外籍货船，致船长死亡（图）",
+    "author": "Ukrainska Pravda",
+    "date": "2026-09-23",
+    "url": "https://www.pravda.com.ua/eng/news/2026/09/23/8054690/index.amp",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Tribune（菲律宾）",
+    "title": "Strike on cargo ship kills captain",
+    "title_cn": "货船遭袭，船长死亡",
+    "author": "Tribune.net.ph",
+    "date": "2026-09-23",
+    "url": "https://tribune.net.ph/2026/09/23/strike-on-cargo-ship-kills-captain",
+    "type": "其他"
+   },
+   {
+    "publisher": "ARY News",
+    "title": "Russian strike on cargo ship in Ukraine's Odesa region kills captain: authorities",
+    "title_cn": "俄袭击乌克兰敖德萨州货船致船长死亡：当局",
+    "author": "ARY News",
+    "date": "",
+    "url": "https://arynews.tv/russian-strike-cargo-ship-ukraines-odesa-region-kills-captain-authorities",
+    "type": "其他"
+   },
+   {
+    "publisher": "Censor.net",
+    "title": "Russian strike on the Odesa region: ship's captain killed, warehouses damaged（据URL）",
+    "title_cn": "俄袭击敖德萨州：船长死亡，仓库受损",
+    "author": "Censor.net",
+    "date": "",
+    "url": "https://censor.net/en/news/4024802/russian-strike-on-the-odesa-region-ship-s-captain-killed-warehouses-damaged",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "UNN（乌克兰国家通讯社）",
+    "title": "Russia attacked a foreign vessel in the Black Sea: Ukrainian captain killed",
+    "title_cn": "俄袭击黑海外籍船只：乌籍船长死亡",
+    "author": "UNN",
+    "date": "",
+    "url": "https://unn.ua/en/news/the-russian-federation-attacked-a-foreign-vessel-in-the-black-sea-ukrainian-captain-killed",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Kurs.com.ua",
+    "title": "Russia attacked a cargo ship in the Black Sea: captain killed",
+    "title_cn": "俄袭击黑海货船：船长死亡",
+    "author": "Kurs.com.ua",
+    "date": "",
+    "url": "https://kurs.com.ua/en/novost/1480914-rosija-atakuvala-vantazhne-sudno-v-chornomu-mori-zaginuv-kapitan",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "APA（阿塞拜疆）",
+    "title": "Russia attacked a foreign vessel in the Black Sea: Ukrainian captain killed",
+    "title_cn": "俄袭击黑海外籍船只：乌籍船长死亡",
+    "author": "APA",
+    "date": "",
+    "url": "https://en.apa.az/europe/russia-attacked-a-foreign-vessel-in-the-black-sea-ukrainian-captain-killed-525728",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "消息报（Izvestia）",
+    "title": "（检索结果仅显示站点名；内容为国防部9月19日发布无人机打击干货船与油轮视频的报道）",
+    "title_cn": "俄国防部称以Geran-4 Seeker打击干货船与油轮",
+    "author": "Izvestia",
+    "date": "",
+    "url": "https://iz.ru/en/node/2169857",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "人员": "1死（船长，乌克兰公民；基佩尔、海港管理局口径一致）",
+   "船旗": "安提瓜和巴布达",
+   "船名/IMO/弹种": "未公布（本轮检索未取得）",
+   "黑海商船受袭累计": "2022-02起至少226艘，其中约163艘发生在2026年前8个月（据通讯社引IMEAK，具体出处未取得）",
+   "俄方通报": "9月18日2艘干货船；9月19日1艘干货船+1艘油轮（均国防部口径，《消息报》转述；与本案关系未核）"
+  }
+ },
+ {
+  "case_key": "bp_sea_2024_01_11_mcm_black_sea",
+  "category": "周边港口",
+  "title_cn": "三国黑海扫雷特遣队保障航运安全",
+  "subtitle_cn": "2024年1月11日—2026年7月 土耳其、罗马尼亚、保加利亚组建并扩展黑海反水雷特遣队（MCM Black Sea）",
+  "date_start": "2024-01-11",
+  "date_end": "",
+  "location_cn": "黑海西部土、罗、保水域（签约地伊斯坦布尔；2026年7月修订地安卡拉）；坐标为示意",
+  "lat": 43.2,
+  "lon": 29.0,
+  "region": "黑海",
+  "attacker": "漂雷等水雷威胁（乌克兰战争期间布设；具体布设方未在检索结果中界定）",
+  "defender": "土耳其、罗马尼亚、保加利亚三国海军（黑海反水雷特遣队，MCM Black Sea）",
+  "outcome": "防御成功",
+  "domains": [
+   "水下",
+   "水面"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "威胁对象为战争期间布设或漂移的水雷；本轮检索未取得具体漂雷致船舶受损的事件记录，因此不单列攻击事件。",
+  "defense_means_cn": "三国组成黑海反水雷特遣队：编成口径不一——Defense News、VOA 转述为三艘猎扫雷舰（每国一艘）加一艘指挥控制舰；半岛电视台报道为每国三艘猎扫雷舰加一艘指挥控制舰。每次出动15天、每六个月至少两次；指挥权每六个月轮换；由三国海军指挥官组成委员会。2026年7月修订备忘录，增加保护关键海底基础设施的任务。",
+  "narrative_cn": "2024年1月11日，土耳其国防部长亚沙尔·居莱尔（Yaşar Güler）、罗马尼亚国防部长安杰尔·蒂尔瓦尔（Angel Tîlvăr）和保加利亚国防部副部长阿塔纳斯·扎普里亚诺夫（Atanas Zapryanov）在伊斯坦布尔签署谅解备忘录，设立黑海反水雷特遣队（Black Sea Mine Countermeasures Task Group，MCM Black Sea），用于应对俄乌战争期间威胁黑海航运的水雷（Defense News、VOA、半岛电视台、Euronews、Euromaidan Press 均于1月11日报道）。该构想由土耳其于2023年9月提出，后交三国政府批准。依据报道，特遣队部署每次15天、每六个月至少两次，领导权每六个月轮换，三方称欢迎其他黑海国家加入，战争结束后可能扩员。\n据 Romania Insider，该特遣队于2024年7月1日形成作战能力，截至2026年7月已执行10次出动。2026年7月，三国国防部长在安卡拉北约峰会期间签署备忘录修订案，把任务扩展到保护关键海底基础设施；当时由土耳其担任指挥，保加利亚预定2026年7月9日接任（Agerpres 2026年7月8日、Romania Insider）。TRT 称该特遣队此后重点是清理主要贸易航线上的水雷（经检索摘要转述的单一来源，未见具体航线、排雷数量与时间表）。\n编成与人名在不同报道中不一致：舰艇数量有“三艘”与“每国三艘”两种说法；罗马尼亚国防部长在2026年的报道中被写作拉杜·米鲁察（Radu Miruță，Romania Insider）或约努茨·莫什特亚努（Ionuț Moșteanu，Agerpres），需以罗国防部文本为准。本轮未检索到2025年的出动次数、排雷数量、受影响航道的官方统计，也未检索到针对乌克兰临时航道的专门护航行动记录。",
+  "defense_effect_cn": "可确认的是机制层面的建立与扩展：2024年7月形成战力、至2026年7月累计10次出动。无法评估的是战果——检索未见任何一份清除水雷数量、航道开放里程或事故率变化的公开数据。任务区在三国水域及其邻近海域，乌克兰临时航道靠近罗、保领海，但特遣队是否在乌方沿岸水域作业，检索结果没有说明；乌海军自身的扫雷与排雷力量亦未见此处报道。另外，该机制针对的是水雷，而2026年7月前后黑海商船的主要威胁是无人机与导弹（本组案例6—10、17），反水雷任务无法缓解这一类威胁。",
+  "claims_compare_cn": "主要差异在编成（三艘或每国三艘猎扫雷舰）和人名；功能与签署日期各来源一致。土耳其国防部称2026年7月修订案增加海底基础设施保护任务；检索结果未见俄方对该机制的正式表态。",
+  "losses_cn": "无攻击损失；未检索到特遣队舰艇损伤或水雷致商船受损的统计。",
+  "analysis_cn": "该机制是北约成员国在不进入战区的前提下，为黑海西部航运提供的反水雷保障：签署时间在乌克兰临时航道（2023年8月）运行五个月之后，合作范围限制在三国水域。2026年7月增加海底基础设施保护任务，说明威胁重点已延伸到海底管线与电缆。该机制与乌方港口防空没有直接关联，对7月系列无人机、导弹打击没有防护作用，因此仅作为航运保障体系的一个组成部分收录；outcome 字段按规范枚举取近似值“防御成功”，实际是防御合作机制而非一次交战。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "半岛电视台（Al Jazeera）",
+    "title": "NATO allies Turkey, Romania, Bulgaria sign deal to clear Black Sea mines",
+    "title_cn": "北约盟国土耳其、罗马尼亚、保加利亚签约清除黑海水雷",
+    "author": "Al Jazeera",
+    "date": "2024-01-11",
+    "url": "https://www.aljazeera.com/news/2024/1/11/nato-allies-turkey-romania-bulgaria-sign-deal-to-clear-black-sea-mines",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "防务新闻（Defense News）",
+    "title": "Turkey, Bulgaria, Romania team up to clear Black Sea mines",
+    "title_cn": "土、保、罗联手清除黑海水雷",
+    "author": "Defense News",
+    "date": "2024-01-11",
+    "url": "https://defensenews.com/global/europe/2024/01/11/turkey-bulgaria-romania-team-up-to-clear-black-sea-mines",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "美国之音（VOA）",
+    "title": "Turkey, Bulgaria and Romania sign deal to tackle Black Sea mines",
+    "title_cn": "土、保、罗签约应对黑海水雷",
+    "author": "VOA",
+    "date": "2024-01-11",
+    "url": "https://www.voanews.com/a/turkey-bulgaria-and-romania-sign-deal-to-tackle-black-sea-mines-/7436924.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "欧洲新闻台（Euronews）",
+    "title": "Turkey, Bulgaria and Romania sign deal to tackle Black Sea mines",
+    "title_cn": "土、保、罗签约应对黑海水雷",
+    "author": "Euronews",
+    "date": "2024-01-11",
+    "url": "https://www.euronews.com/2024/01/11/turkey-bulgaria-and-romania-sign-deal-to-tackle-black-sea-mines",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Euromaidan Press",
+    "title": "Türkiye, Romania, and Bulgaria sign agreement for joint Black Sea mine clearance",
+    "title_cn": "土、罗、保签署黑海联合清雷协议",
+    "author": "Euromaidan Press",
+    "date": "2024-01-11",
+    "url": "https://euromaidanpress.com/2024/01/11/turkiye-romania-and-bulgaria-sign-agreement-for-joint-black-sea-mine-clearance/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "海事高管（The Maritime Executive）",
+    "title": "Turkey, Bulgaria and Romania Announce Joint Effort to Clear Black Sea Mines",
+    "title_cn": "土、保、罗宣布联合清除黑海水雷",
+    "author": "The Maritime Executive",
+    "date": "",
+    "url": "https://maritime-executive.com/article/turkey-bulgaria-and-romania-announce-joint-effort-to-clear-black-sea-mines",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "罗马尼亚国家通讯社（Agerpres）",
+    "title": "Defence ministry: Romania, Bulgaria and Turkey expand Black Sea mine countermeasure missions",
+    "title_cn": "国防部：罗、保、土扩展黑海反水雷任务",
+    "author": "Agerpres",
+    "date": "2026-07-08",
+    "url": "https://agerpres.ro/english/2026/07/08/defence-ministry-romania-bulgaria-and-turkey-expand-black-sea-mine-countermeasure-missions--1574222",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Romania Insider",
+    "title": "Romania, Bulgaria and Turkey expand Black Sea mine countermeasure cooperation",
+    "title_cn": "罗、保、土扩展黑海反水雷合作",
+    "author": "Romania Insider",
+    "date": "",
+    "url": "https://www.romania-insider.com/romania-bulgaria-turkey-black-sea-cooperation-july-2026",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "卡塔尔论坛报（Qatar Tribune）",
+    "title": "Türkiye, Bulgaria and Romania sign pact to expand Black Sea mine mission",
+    "title_cn": "土、保、罗签约扩展黑海反水雷任务",
+    "author": "Qatar Tribune",
+    "date": "",
+    "url": "https://www.qatar-tribune.com/article/243443/world/turkiye-bulgaria-and-romania-sign-pact-to-expand-black-sea-mine-mission",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "保加利亚通讯社（BTA）",
+    "title": "MCM Black Sea Task Group Meets in Ankara",
+    "title_cn": "MCM黑海特遣队在安卡拉会晤",
+    "author": "BTA",
+    "date": "",
+    "url": "https://bta.bg/en/news/685861-mcm-black-sea-task-group-meets-in-ankara",
+    "type": "通讯社"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "签署": "2024-01-11，伊斯坦布尔（Defense News、VOA）",
+   "编成": "三艘猎扫雷舰（每国一艘）+一艘指挥控制舰（Defense News/VOA）；一说每国三艘（半岛电视台）",
+   "出动规则": "每次15天、每六个月至少两次；指挥权每六个月轮换",
+   "形成战力": "2024-07-01；截至2026-07累计10次出动（Romania Insider）",
+   "2026年修订": "2026年7月（北约安卡拉峰会期间）增加关键海底基础设施保护任务",
+   "排雷成果": "未检索到公开数据"
+  }
+ },
+ {
+  "case_key": "bp_danube_2026_04_05_izmail_series",
+  "category": "周边港口",
+  "title_cn": "伊兹梅尔港连遭夜袭，防空拦截多数",
+  "subtitle_cn": "2026年4月14日—5月19日 多瑙河伊兹梅尔港数次遭无人机打击，一艘巴拿马旗船受损",
+  "date_start": "2026-04-14",
+  "date_end": "2026-05-19",
+  "location_cn": "乌克兰敖德萨州伊兹梅尔（Izmail）港及伊兹梅尔区，多瑙河基利亚河口支流",
+  "lat": 45.35,
+  "lon": 28.84,
+  "region": "黑海",
+  "attacker": "俄罗斯武装力量（无人机；型号乌方未在检索结果中说明）",
+  "defender": "乌克兰防空力量（南部防空部队，敖德萨州行政当局通报）、伊兹梅尔区行政当局",
+  "outcome": "部分拦截",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "夜间无人机集群（架数乌方未在检索结果中公布）；5月15—16日一轮为全国近300架无人机的大规模打击，伊兹梅尔区只是其中一个受袭方向。",
+  "defense_means_cn": "乌防空力量在伊兹梅尔区开阔地域击落来袭无人机（机动火力组或拦截无人机的参与情况未公布）；船舶未见防护措施记录。",
+  "narrative_cn": "2026年4—5月，多瑙河乌方一侧的伊兹梅尔港遭多次无人机打击。4月14日夜间，路透社（经 wdez.com 转载；gCaptain 有同题报道，日期未显示）报道，俄无人机袭击伊兹梅尔港，击伤一艘巴拿马旗民用船；乌克兰海军称该船为“LADY MARIS”，正驶往切尔诺莫尔斯克装粮（据检索摘要对路透社、乌海军口径的转述；副总理亦有通报）。5月2日夜间，俄军再袭伊兹梅尔港设施（乌克兰真理报5月2日）：伊兹梅尔区行政当局称防空击落多数无人机、几乎无损失；州长基佩尔随后称一处仓库和附属建筑受损，无人员伤亡。5月15—16日夜，在全国近300架无人机的一轮打击中（乌克兰真理报5月16日：近300架无人机，24处命中或坠落），基佩尔称伊兹梅尔区居民及港口基础设施受损，数人受伤，报道未提及船舶受损。5月19日，半岛电视台以《俄袭击损坏乌多瑙河港口，莫斯科称拦截无人机》为题报道，据检索摘要，敖德萨州行政当局称伊兹梅尔港设施受损，防空力量在伊兹梅尔区居民点以外的开阔地域击落了几乎所有来袭无人机，此前5月2日夜间另有一次对港口设施的打击；标题中“莫斯科拦截无人机”指俄方对乌无人机的通报，与港口受袭是两件事。更早的记录：2025年2月13日（乌克兰真理报）伊兹梅尔区遭大规模无人机袭击，一名妇女受伤；2025年8月19日对伊兹梅尔港的无人机打击见于检索摘要（年份据图注判断）。\n未检索到的内容：2026年9月多瑙河港口（伊兹梅尔、列尼）的新袭击、罗马尼亚2026年的残骸或空域应对记录，以及各夜来袭无人机的确切架数。另有未能定日期的报道（Marine Insight 称外籍民船受损；India Sea Trade News 标题称油轮在伊兹梅尔港被击中；另一则检索摘要称一艘多哥籍民船受损、4人受伤，但未明确是否伊兹梅尔），本案未采纳。",
+  "defense_effect_cn": "乌方口径下，5月2日“击落多数”、5月18—19日“击落几乎所有”，说明在多瑙河方向，防空力量对中小规模无人机夜袭的拦截效果较好，但来袭架数未公布，无法给出拦截率。4月14日仍有一艘外籍商船在港受损，说明港区船舶没有独立防护手段；该船本为驶往切尔诺莫尔斯克装粮，之后行程是否被打乱未见报道。多瑙河港口距罗马尼亚边境仅数公里，来袭无人机与残骸落入对岸的风险在2023年已有先例（见案例2），本轮2026年的检索未发现境外落点记录。",
+  "claims_compare_cn": "击落比例的说法全部来自乌方行政当局，口径依次为“多数”（5月2日）、“几乎全部”（5月19日），未给出分子分母。4月14日事件的船名由乌海军公布；俄方在4月的说法检索摘要称国防部表示“打击了港口的军事目标”，但该句出现在日期未明的一则报道中，不能直接归入4月14日。",
+  "losses_cn": "船舶：LADY MARIS（巴拿马旗）受损，程度未公布；陆上：仓库及附属建筑（5月2日）、居民及港口设施（5月15—16日）受损；人员：5月15—16日数人受伤，4月、5月2日、5月19日未见伤亡通报。",
+  "analysis_cn": "伊兹梅尔港属于低强度、持续性的消耗打击：每次来袭规模小于敖德萨方向，以破坏仓库、码头设施和靠泊船舶为主。乌方的防空取得了高于7月敖德萨系列的拦截比例，但数据只有单方口径，且受益于来袭批次小。港口与船舶的最后一环——靠泊船只的被动防护与应急处置——在4月14日受损事件中没有表现出变化。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "gCaptain（转载路透社）",
+    "title": "Russian Drones hit Ukrainian Port, Damage Panama-Flagged Vessel, Officials Say",
+    "title_cn": "俄无人机袭击乌港口，巴拿马旗船受损：官员",
+    "author": "Reuters/gCaptain",
+    "date": "",
+    "url": "https://gcaptain.com/russian-drones-hit-ukrainian-port-damage-panama-flagged-vessel-officials-say/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "WDEZ（转载路透社）",
+    "title": "Russian drones attacked Ukraine's Izmail port, damaged Panama-flagged vessel, deputy PM says",
+    "title_cn": "俄无人机袭击乌伊兹梅尔港，巴拿马旗船受损：副总理",
+    "author": "Reuters/WDEZ",
+    "date": "2026-04-14",
+    "url": "https://wdez.com/2026/04/14/russian-drones-attacked-ukraines-izmail-port-damaged-panama-flagged-vessel-deputy-pm-says/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "乌克兰真理报（Ukrainska Pravda）",
+    "title": "Russian forces strike port infrastructure in Izmail",
+    "title_cn": "俄军打击伊兹梅尔港口基础设施",
+    "author": "Ukrainska Pravda",
+    "date": "2026-05-02",
+    "url": "https://www.pravda.com.ua/eng/news/2026/05/02/8032779/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "乌克兰真理报（Ukrainska Pravda）",
+    "title": "Russia attacks Ukraine with nearly 300 drones, strikes or falling debris recorded at 24 locations",
+    "title_cn": "俄以近300架无人机袭击乌克兰，24处命中或坠落",
+    "author": "Ukrainska Pravda",
+    "date": "2026-05-16",
+    "url": "https://www.pravda.com.ua/eng/news/2026/05/16/8034941/index.amp/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "半岛电视台（Al Jazeera）",
+    "title": "Russian strike damages Ukraine Danube port as Moscow intercepts drones",
+    "title_cn": "俄袭击损坏乌多瑙河港口，莫斯科称拦截无人机",
+    "author": "Al Jazeera",
+    "date": "2026-05-19",
+    "url": "https://www.aljazeera.com/amp/news/2026/5/19/russian-strike-damages-ukraine-danube-port-as-moscow-intercepts-drones",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "Russian Drone Attack Hits Ukraine's Izmail Port, Damages Foreign-Flagged Civilian Ships",
+    "title_cn": "俄无人机袭击伊兹梅尔港，外籍民船受损（日期未显示）",
+    "author": "Marine Insight",
+    "date": "",
+    "url": "https://www.marineinsight.com/russian-drone-attack-hits-ukraines-izmail-port-damages-foreign-flagged-civilian-ships",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "India Sea Trade News",
+    "title": "Tanker hit in Russian drone strike on Izmail port（日期未显示）",
+    "title_cn": "油轮在俄无人机袭击伊兹梅尔港中被击中（日期未显示，未采纳）",
+    "author": "India Sea Trade News",
+    "date": "",
+    "url": "https://indiaseatradenews.com/tanker-hit-in-russian-drone-strike-on-izmail-port/",
+    "type": "其他"
+   },
+   {
+    "publisher": "乌克兰真理报（Ukrainska Pravda）",
+    "title": "Russians launch large-scale drone attack on Izmail district of Odesa Oblast, wounding woman",
+    "title_cn": "俄对伊兹梅尔区发动大规模无人机袭击，一名妇女受伤",
+    "author": "Ukrainska Pravda",
+    "date": "2025-02-13",
+    "url": "https://pravda.com.ua/eng/news/2025/02/13/7498068",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Izmail",
+    "file_name": "Category:Port of Izmail（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“伊兹梅尔港”分类页：位于多瑙河基利亚河口支流，子类含多瑙河船舶修造厂、伊兹梅尔粮食升降机等（据检索摘要）；仅为取图入口",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Reni",
+    "file_name": "Category:Port of Reni（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“列尼港”分类页（多瑙河海港，近罗马尼亚边境，据检索摘要）；仅为取图入口",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "LADY MARIS（2026-04-14）": "巴拿马旗，受损，程度未公布（乌海军口径）",
+   "5月2日拦截": "“多数”（伊兹梅尔区行政当局，架数未公布）",
+   "5月18—19日拦截": "“几乎全部”（敖德萨州行政当局，据检索摘要转述，架数未公布）",
+   "5月15—16日全国来袭": "近300架无人机，24处命中或坠落（乌克兰真理报标题）",
+   "2026年9月多瑙河港口": "未检索到公开记录"
+  }
+ },
+ {
+  "case_key": "bp_defense_2026_04_19_usv_interceptor",
+  "category": "周边港口",
+  "title_cn": "无人艇载拦截机首次海上击落沙希德",
+  "subtitle_cn": "2026年4月19日 乌无人系统部队第412旅无人艇发射拦截无人机，黑海海上作战区击落俄“沙希德”类无人机",
+  "date_start": "2026-04-19",
+  "date_end": "",
+  "location_cn": "黑海西北部乌方海上作战区（具体位置未公布；坐标取敖德萨作示意）",
+  "lat": 46.49,
+  "lon": 30.74,
+  "region": "黑海",
+  "attacker": "俄罗斯武装力量（“沙希德”类远程自杀式无人机，1架）",
+  "defender": "乌克兰无人系统部队（Unmanned Systems Forces）第412“复仇女神”旅（412th Nemesis Brigade）水面无人艇分队",
+  "outcome": "防御成功",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "异构",
+   "单平台"
+  ],
+  "attack_means_cn": "俄“沙希德”类远程自杀式无人机，1架；俄方常使无人机经黑海飞向敖德萨及东南部城市。",
+  "defense_means_cn": "无人艇（平台型号未披露，该旅使用麦格拉（Magura）系列；一份报道称3月有麦格拉改装以发射拦截无人机）搭载并发射拦截无人机；一份报道点名为“Sting”拦截机。",
+  "narrative_cn": "2026年4月19日，乌克兰无人系统部队宣布，其第412“复仇女神”旅水面无人艇分队在黑海海上作战区值班期间，用无人艇发射的拦截无人机击落一架俄“沙希德”类远程自杀式无人机，称为世界首例（Euromaidan Press 4月19日；Inside Unmanned Systems、Hvylya、无人系统部队官网、The Public 均有转述）。无人系统部队称，这一“无人艇+拦截无人机”组合的准备期超过一年。各报道对细节的说法不一：一份报道点名拦截机为“Sting”；另一份称具体无人艇平台未披露，该旅惯用麦格拉系列，并提到3月有一型麦格拉被改装用于发射拦截无人机。关于自主程度：一说整个过程在平台层面是自主的，岸上操作员监督；另一说操作员在地下指挥所远程操控，并沿沙希德可能的航路预置自主发射集装箱。\n背景方面，俄军无人机常从黑海上空飞向敖德萨。7月4日，据检索摘要，泽连斯基在敖德萨称乌方需要在海上建立一道以拦截无人机为主的防线：俄方不能一次放飞全部无人机，而是小批次放飞，在黑海上空集结后再同时攻击，这种集结位置在乌方防空射程之外（Kyiv Post、Ukraine's Arms Monitor 转述）。此外，丹麦公司 BlueShadow 正在研制名为 BlueDragon 的海上反无人机系统，目标是保护敖德萨、切尔诺莫尔斯克和南方港，公司自述目标为2026年第四季度取得认证、2027年春部署（企业时间表，非已确认节点；Kyiv Post）。\n未检索到的内容：此后该能力的击落总数、战斗存续（无人艇在海上被俄方打击的风险）、是否已在7月敖德萨系列打击期间使用。",
+  "defense_effect_cn": "单次击落属无人系统部队自述，没有影像之外的独立核实，击落数仅为1架。可确认的是，这一手段把拦截点前推到海上，针对的正是小批次、低空、低速（“盖兰-2”约200公里/小时）的无人机集结阶段。弱点也很清楚：2026年7月前后俄方大量使用的喷气式“Geran-4 Seeker”（福布斯称速度可达约500公里/小时，检索摘要转述）会压缩拦截窗口；平台航程与载弹量有限，无人艇本身在海上暴露。该试验发生在4月，早于7月系列打击；公开材料没有显示海上拦截分队是否参与了7月的防御，因此无法评价它对商船的实际保护作用。",
+  "claims_compare_cn": "“世界首例”和击落结果均为乌无人系统部队口径，二手转述一致，未见独立核实或俄方说法。拦截机型号（Sting）与无人艇型号（麦格拉系列）在不同报道中有无的差异；自主程度有“平台自主、岸上监督”与“地下指挥所远程操控”两种描述。",
+  "losses_cn": "无损失通报；击落1架“沙希德”类无人机（乌方口径）。",
+  "analysis_cn": "这是黑海反无人机从岸基和陆上机动向海上前出的第一例公开记录：乌方用已有的无人艇做发射平台，把拦截弹的成本压在无人机一级，思路与机动火力组相同，只是移到了海上。技术上的限制在于来袭速度提高后，拦截窗口缩短，而且单艇覆盖面有限。要进入港口防御体系，需要多艇布设、与雷达和空军指挥的衔接，这些在公开材料里还看不到；BlueShadow 的系统要到2027年才可能部署，属于规划性质。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Euromaidan Press",
+    "title": "A boat with no crew just shot down a Shahed. Ukraine says it's a world first",
+    "title_cn": "无人艇击落沙希德，乌称世界首例",
+    "author": "Euromaidan Press",
+    "date": "2026-04-19",
+    "url": "https://euromaidanpress.com/2026/04/19/a-boat-with-no-crew-just-shot-down-a-shahed-ukraine-says-its-a-world-first/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Inside Unmanned Systems",
+    "title": "Ukraine's 412th Nemesis Brigade Achieves First USV-Launched Interceptor Kill Against Shahed",
+    "title_cn": "乌第412旅取得首次无人艇载拦截机击落沙希德",
+    "author": "Inside Unmanned Systems",
+    "date": "",
+    "url": "https://insideunmannedsystems.com/ukraines-412th-nemesis-brigade-achieves-first-usv-launched-interceptor-kill-against-shahed/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Hvylya",
+    "title": "Ukraine claims world first Shahed intercept by sea-launched drone",
+    "title_cn": "乌称海上发射无人机拦截沙希德为世界首例",
+    "author": "Hvylya",
+    "date": "",
+    "url": "https://en.hvylya.net/news/2215-ukraine-claims-world-first-shahed-intercept-by-sea-launched-drone",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "乌克兰无人系统部队",
+    "title": "Unmanned Systems Forces Logo（检索结果页面标题；URL slug 为 navischo-zbivati-shakhedi-nad-chornim-morem-i-yak-tse-vidbuvayetsya）",
+    "title_cn": "为何在黑海上空击落沙希德及如何进行（据URL slug意译；页面内容与本案的对应关系未核）",
+    "author": "Unmanned Systems Forces",
+    "date": "",
+    "url": "https://usforces.army/en/news/navischo-zbivati-shakhedi-nad-chornim-morem-i-yak-tse-vidbuvayetsya",
+    "type": "官方"
+   },
+   {
+    "publisher": "The Public",
+    "title": "The SBS shot down a 'Shahed' for the first time from an unmanned surface platform",
+    "title_cn": "无人系统部队首次从无人水面平台击落沙希德",
+    "author": "The Public",
+    "date": "",
+    "url": "https://thepublic.info/en/news/sbs_vperse_zbili_saxed_z_bezpilotnoyi_nadvodnoyi_platformi",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "基辅邮报（Kyiv Post）",
+    "title": "Danish Firm Unveils 'Maritime Fortress' to Stop Shaheds Before They Reach Odesa",
+    "title_cn": "丹麦公司推出“海上堡垒”，在沙希德抵达敖德萨前拦截",
+    "author": "Kyiv Post",
+    "date": "",
+    "url": "https://www.kyivpost.com/post/81909",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Ukraine's Arms Monitor",
+    "title": "Drone warfare in Ukraine: sea-based defence line and Russian drone updates",
+    "title_cn": "乌克兰无人机战：海基防线与俄无人机更新",
+    "author": "Ukraine's Arms Monitor",
+    "date": "",
+    "url": "https://ukrainesarmsmonitor.substack.com/p/drone-warfare-in-ukraine-sea-based",
+    "type": "OSINT"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "击落": "1架“沙希德”类（无人系统部队自述）",
+   "准备期": "超过一年（无人系统部队）",
+   "BlueDragon": "企业目标2026年第四季度认证、2027年春部署（非已确认）"
+  }
+ },
+ {
+  "case_key": "bp_defense_2026_05_04_port_air_defense_groups",
+  "category": "周边港口",
+  "title_cn": "港口自建防空组首获击落，规模未明",
+  "subtitle_cn": "2026年5月4日前后 副总理库列巴宣布港口防空小组击落首批无人机；“民营防空”试点25家企业",
+  "date_start": "2026-05-04",
+  "date_end": "",
+  "location_cn": "乌克兰大敖德萨港口群（敖德萨、切尔诺莫尔斯克、南方港等；具体港口未公布）",
+  "lat": 46.5,
+  "lon": 30.75,
+  "region": "黑海",
+  "attacker": "俄罗斯武装力量（“沙希德”、扎拉（Zala）等无人机）",
+  "defender": "乌克兰港口企业防空小组（隶属空军）；国防部“民营防空”试点",
+  "outcome": "部分拦截",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "2026年1—4月针对港口基础设施的无人机超过800架（库列巴口径），型别含“沙希德”和扎拉侦察/攻击无人机。",
+  "defense_means_cn": "港口企业员工（多为全面战争老兵）组成的防空小组，隶属空军，与空军协调；装备种类（机枪、拦截无人机、电子战）本轮未取得；国防部审核企业资格。",
+  "narrative_cn": "2025年11月，乌克兰启动“民营防空”试点：企业向国防部提交申请，经审查后组建自己的防空小组，与空军协调行动。2026年5月初，副总理奥列克西·库列巴（Oleksii Kuleba）在 Telegram 宣布，港口内的专门防空小组已有首批击落记录；小组由港口企业员工组成，多为全面战争老兵，组织上隶属空军，库列巴称这是实验性项目（Euromaidan Press 5月4日；Ukrinform、UNN、Liga.net、Mezha 同期报道）。总理尤利娅·斯维里坚科（Yulia Svyrydenko）称已有25家企业加入试点并获国防部授予相应资格；UNN 另引国防部数据，截至5月1日为24家。\n库列巴办公室同时公布了损失与来袭规模：自战争全面爆发以来超过900处港口基础设施受损或部分被毁，含177艘民用船舶（各媒体对177艘究竟是900处的子集还是并列计数表述不一）；2025年1—4月针对港口基础设施的无人机为75架，2026年同期超过800架；2026年初以来港口已处理近3000万吨货物（UNN 将起算年写作2024年，其他来源为2026年，应属笔误）。另据 Komersant.ua，参与试点的一家安保公司的防空组已拦截数架来袭无人机，含伊朗设计的“沙希德”和俄“扎拉”无人机。\n击落总数、小组数量、装备、部署地点和空军的指挥关系均未在检索结果中公布。同年6月27日《华盛顿时报》以《乌克兰黑海港口为保持通航而战，俄无人机瞄准战时生命线》为题报道港口压力；7月系列打击期间（本组案例7—10）港口仍多次受袭，2026年7月31日《时代》周刊并称乌方防空拦截弹不足（见案例10）。",
+  "defense_effect_cn": "首批击落是事实层面的开端，但缺乏数量：公布的只有“800余架来袭”与“首批击落”，没有分子。企业防空组以点防御为主，覆盖的是港区内的静止目标；7月以来外籍商船多在航道、锚地或出港途中被击中，不在港区点防御范围内（见案例8“金狮”号）。另外，福布斯分析称盖兰-2速度约200公里/小时，更易被机动防空组和拦截无人机击落，而改型“Geran-4 Seeker”速度可达约500公里/小时，会削弱低速拦截手段的作用（检索摘要转述）。把企业员工纳入防空体系，也带来法律地位、指挥协同和弹药补给的问题，公开材料未见说明。",
+  "claims_compare_cn": "击落数量、企业数量均为乌政府口径：总理称25家，UNN 引国防部称截至5月1日24家；900处与177艘的关系，Ukrinform 与其他媒体表述不一。无独立核实；俄方未就此发表看法（本轮未检索到）。",
+  "losses_cn": "累计口径（库列巴，2022年起）：900余处港口基础设施受损或部分被毁，含177艘民用船舶；2026年1—4月来袭港口的无人机800余架（2025年同期75架）。",
+  "analysis_cn": "把防空责任下放到企业，是在空军弹药和机动火力组不足时的补充：一是人力来自企业自有员工和老兵，二是装备由企业采购。它解决的是港区点防御的密度问题，但港口以外的航道段、锚地和快速喷气式无人机仍缺乏对应手段。可观察的指标有三个：每月击落数、与空军雷达数据的衔接、事故（误击、友军误伤）。三项目前均无公开数据。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Euromaidan Press",
+    "title": "Russia fired 75 drones at Ukrainian ports in early 2025 — this year, the figure is over 800",
+    "title_cn": "2025年初俄向乌港口发射75架无人机，今年超过800架",
+    "author": "Euromaidan Press",
+    "date": "2026-05-04",
+    "url": "https://euromaidanpress.com/2026/05/04/russia-fired-75-drones-at-ukrainian-ports-in-early-2025-this-year-the-figure-is-over-800/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "乌克兰国家通讯社（Ukrinform）",
+    "title": "Kuleba: Ports form their own air defense groups",
+    "title_cn": "库列巴：港口组建自己的防空小组",
+    "author": "Ukrinform",
+    "date": "",
+    "url": "https://ukrinform.net/rubric-ato/4119505-kuleba-ports-form-their-own-air-defense-groups.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "UNN",
+    "title": "Ports have formed their own air defense groups, they have already downed the first drones – Kuleba",
+    "title_cn": "港口已组建自己的防空小组，已击落首批无人机：库列巴",
+    "author": "UNN",
+    "date": "",
+    "url": "https://unn.ua/en/news/ports-have-formed-their-own-air-defense-groups-they-have-already-downed-the-first-drones-kuleba",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Liga.net",
+    "title": "25 companies have joined the private air defense sector in Ukraine",
+    "title_cn": "25家企业加入乌克兰民营防空",
+    "author": "Liga.net",
+    "date": "",
+    "url": "https://news.liga.net/en/war/news/25-companies-have-joined-the-private-air-defense-sector-in-ukraine",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Liga.net（商业版）",
+    "title": "Special air defense groups in Ukrainian ports shoot down first Russian drones – Kuleba",
+    "title_cn": "乌港口特别防空小组击落首批俄无人机：库列巴",
+    "author": "Liga.net",
+    "date": "",
+    "url": "https://biz.liga.net/en/transport/video/special-air-defense-groups-in-ukrainian-ports-shoot-down-first-russian-drones-kuleba",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Komersant.ua",
+    "title": "A private security company tasked with protecting ports shot down its first enemy drones: results of the operation",
+    "title_cn": "负责保护港口的民营安保公司击落首批敌无人机：行动结果",
+    "author": "Komersant.ua",
+    "date": "",
+    "url": "https://komersant.ua/en/pryvatna-ppo-dlia-zakhystu-portiv-zbyla-pershi-vorozhi-drony-rezultaty-roboty/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Mezha",
+    "title": "Ukrainian ports form air defense units and shoot down enemy drones",
+    "title_cn": "乌克兰港口组建防空单位并击落敌无人机",
+    "author": "Mezha",
+    "date": "",
+    "url": "https://mezha.net/eng/bukvy/e62af01f_ukrainian_ports_form/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "华盛顿时报（The Washington Times）",
+    "title": "Ukraine's Black Sea ports fight to stay open as Russian drones target wartime lifeline",
+    "title_cn": "乌克兰黑海港口为保持开放而战，俄无人机瞄准战时生命线",
+    "author": "The Washington Times",
+    "date": "2026-06-27",
+    "url": "https://www.washingtontimes.com/news/2026/jun/27/ukraines-black-sea-ports-fight-stay-open-russian-drones-target/",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Odesa",
+    "file_name": "Category:Port of Odesa（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“敖德萨港”分类页：含港口起重机、集装箱码头、海运客运站等战前照片（据检索摘要）；仅为取图入口，非本案事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Chornomorsk",
+    "file_name": "Category:Port of Chornomorsk（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“切尔诺莫尔斯克港”分类页（港口成立于1958年，含伯尔拉恰巴尔卡一带照片，据检索摘要）；仅为取图入口，非事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_Pivdennyi",
+    "file_name": "Category:Port Pivdennyi（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“南方港”分类页；仅为取图入口，非事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "试点启动": "2025年11月",
+   "参与企业": "25家（总理斯维里坚科）；24家（UNN引国防部，截至5月1日）",
+   "累计港口损失": "900余处基础设施受损或部分被毁，含177艘民用船舶（库列巴；子集/并列关系口径不一）",
+   "来袭港口无人机": "2025年1—4月75架；2026年1—4月800余架",
+   "货物吞吐": "2026年初至5月初近3000万吨",
+   "击落数": "未公布（仅称“首批击落”）"
+  }
+ },
+ {
+  "case_key": "bp_odesa_2026_07_18_hybrid_strike_intercept",
+  "category": "周边港口",
+  "title_cn": "敖德萨方向混合打击，导弹仅拦1/7",
+  "subtitle_cn": "2026年7月18日夜至晨 俄以2枚伊斯坎德尔-M、2枚缟玛瑙、3枚Kh-59/69及90架无人机攻击，敖德萨州为主攻方向",
+  "date_start": "2026-07-18",
+  "date_end": "",
+  "location_cn": "乌克兰敖德萨州（敖德萨港及港口基础设施，Odesa Oblast）",
+  "lat": 46.49,
+  "lon": 30.75,
+  "region": "黑海",
+  "attacker": "俄罗斯武装力量（弹道导弹、反舰导弹、空射制导导弹、无人机与诱饵混编）",
+  "defender": "乌克兰空军及南部防空力量",
+  "outcome": "部分拦截",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "异构",
+   "饱和"
+  ],
+  "attack_means_cn": "乌空军7月18日晨通报（截至9时）：2枚伊斯坎德尔-M（Iskander-M）弹道导弹、2枚缟玛瑙（Oniks / P-800 Onyx）反舰导弹、3枚Kh-59/69空射制导导弹，90架“沙希德”类攻击无人机，另有Gerbera、Italmas、Banderol、Parodia等型诱饵/仿制无人机。Mezha 另有报道称俄在敖德萨方向改变无人机战术，使用Banderol和“沙希德-238”（喷气式）。",
+  "defense_means_cn": "乌防空力量截至9时击落或压制1枚Kh-59/69和69架无人机（全国口径，涵盖北、南、东部）；拦截手段（防空导弹、机动火力组、电子战）的构成未公布。",
+  "narrative_cn": "2026年7月18日晨，乌克兰空军通报夜间的空袭情况，称俄军发射2枚伊斯坎德尔-M弹道导弹、2枚缟玛瑙反舰导弹、3枚Kh-59/69空射制导导弹和90架“沙希德”类攻击无人机，另有Gerbera、Italmas、Banderol、Parodia型诱饵或仿制无人机；空军称敖德萨州为主攻方向（nv.ua；Censor.net 以“击落69架无人机、19处命中”为题报道）。截至9时，空防力量击落或压制1枚Kh-59/69制导导弹和69架无人机，涵盖北部、南部和东部；导弹和19架攻击无人机的命中记录于19处，5处发现击落无人机的碎片；空军称袭击仍在继续，仍有数架无人机在空域内，数字为初步数据。敖德萨州军事当局称，俄军打击了港口基础设施，一艘外籍民用船受损，4名船员受伤；这一口径与本组案例7中7月17日傍晚马绍尔群岛旗船受袭（17名船员撤离、4伤）接近；7月18日安提瓜和巴布达旗船的伤亡（1死3伤）则与“4人受伤”不符；两份通报是否指同一事件，本轮未逐一核对。nv.ua 另报道敖德萨州住宅受损、一名4岁儿童受伤（日期未显示，与18日夜间袭击的关系待核）。\n把数字折算：导弹7枚（2+2+3）中被击落1枚，约14%，且这一枚是Kh-59/69；伊斯坎德尔-M和缟玛瑙无拦截记录。无人机以90架为分母，69架约77%；若把诱饵机计入则分母不明。需要说明：69架是全国口径，并且“击落或压制”按乌空军通报用语含电子战压制，不全是击毁。Mezha 有一篇报道题为《俄在敖德萨上空改变无人机打击战术，使用Banderol和沙希德-238》，正文本轮未取得，此处仅引其标题。",
+  "defense_effect_cn": "无人机拦截率约七成，导弹仅1/7，这与7月13—19日港口多船受损、“金狮”号被击沉（案例8）的结果相符：弹道导弹和反舰导弹不是港口机动火力组能处理的目标，空射制导导弹需要地空导弹或战斗机，而拦截弹不足是《时代》周刊7月31日的说法（案例10，单一来源）。无人机一侧，诱饵机与真弹混飞使“击落69架”的有效性难以判断，19处命中说明漏过的数量不小。船舶是否处于港口防空伞内，则可以从4名船员受伤的外籍船只被击中这一结果反推：没有。",
+  "claims_compare_cn": "来袭与击落数字均为乌空军初步数据，未见俄方对7月18日的单独通报（国防部7月22日起另有对切尔诺莫尔斯克、敖德萨船舶的说法，见案例10）。空军公布的是全国汇总，敖德萨州的分项数字没有；“19处”的统计对象（导弹与攻击无人机合计）在不同转述中措辞略有差异。",
+  "losses_cn": "港口基础设施受损；一艘外籍民用船受损，4名船员受伤（敖德萨州军事当局口径）；住宅受损、一名4岁儿童受伤（nv.ua，日期待核）。",
+  "analysis_cn": "这是公开记录里少数同时给出来袭数量与拦截数量的敖德萨方向混合打击：同一夜混合使用大量无人机、诱饵机、弹道导弹、反舰导弹和空射制导导弹。拦截比例在不同弹种上相差悬殊：无人机七成以上、导弹不到一成半。攻击方在弹种构成上拉开了层次，而防御方的成本结构（每枚地空导弹对每架廉价无人机）并未改变。补强方向在于导弹防御、对诱饵机的识别，以及港口外的航道段。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "新闻社 nv.ua（New Voice of Ukraine）",
+    "title": "Russia attacks Ukraine with Iskander, Oniks and Kh-59/69 missiles",
+    "title_cn": "俄以伊斯坎德尔、缟玛瑙和Kh-59/69导弹袭击乌克兰",
+    "author": "NV",
+    "date": "2026-07-18",
+    "url": "https://english.nv.ua/russian-war/russia-attacks-ukraine-with-seven-missiles-and-90-drones-targets-odesa-50625356.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Censor.net",
+    "title": "Russian air defense attack on July 18: shot down 69 drones, 19 hits recorded（据URL）",
+    "title_cn": "7月18日袭击：击落69架无人机，记录19处命中",
+    "author": "Censor.net",
+    "date": "",
+    "url": "https://censor.net/en/news/4014172/russian-air-defense-attack-on-july-18-shot-down-69-drones-19-hits-recorded",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Mezha",
+    "title": "Russia Changes Drone Strike Tactics Over Odesa, Deploying Banderoль and Shahed-238 Drones",
+    "title_cn": "俄在敖德萨上空改变无人机打击战术，使用Banderol和沙希德-238",
+    "author": "Mezha",
+    "date": "",
+    "url": "https://mezha.net/eng/news/bc53ccbf_russia_changes_drone/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "新闻社 nv.ua（New Voice of Ukraine）",
+    "title": "Russian missile and drone attack damages homes in Odesa Oblast, injures 4-year-old",
+    "title_cn": "俄导弹和无人机袭击损毁敖德萨州住宅，一名4岁儿童受伤（日期未显示）",
+    "author": "NV",
+    "date": "",
+    "url": "https://english.nv.ua/russian-war/russian-missile-and-drone-attack-hits-odesa-oblast-50626930.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "乌克兰真理报（Ukrainska Pravda）",
+    "title": "Russia strikes Marshall Islands-flagged vessel in Odesa Oblast port again, injuring four",
+    "title_cn": "俄再袭敖德萨州港口马绍尔旗船，4人受伤",
+    "author": "Ukrainska Pravda",
+    "date": "2026-07-17",
+    "url": "https://www.pravda.com.ua/eng/news/2026/07/17/8044644/",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Odesa",
+    "file_name": "Category:Port of Odesa（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“敖德萨港”分类页：含港口起重机、集装箱码头、海运客运站等战前照片（据检索摘要）；仅为取图入口，非本案事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Odesa",
+    "file_name": "Port of Odessa, container terminal, 2019（标题据检索摘要；文件页URL与扩展名未取得，需在上述分类页内定位）",
+    "desc_cn": "敖德萨港集装箱码头，2019年拍摄的战前资料照",
+    "date": "2019",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "来袭（乌空军，截至9时）": "弹道导弹2、反舰导弹2、Kh-59/69 3，共7枚；“沙希德”类无人机90架；另有诱饵机若干",
+   "击落/压制": "Kh-59/69 1枚；无人机69架（全国口径，含压制）",
+   "导弹拦截率": "1/7，约14%",
+   "无人机拦截率": "69/90，约77%（若计入诱饵机，分母不明）",
+   "命中": "导弹与攻击无人机共19处；5处击落碎片",
+   "人员": "4名船员受伤（敖德萨州军事当局口径，与案例7的7月17日傍晚事件口径接近，是否同一事件待核）"
+  }
+ },
+ {
+  "case_key": "bp_odesa_2026_08_09_russian_claims_geran4",
+  "category": "周边港口",
+  "title_cn": "8—9月俄称持续打击敖德萨，乌方通报稀少",
+  "subtitle_cn": "2026年8月3日—9月23日 俄国防部多次通报打击敖德萨港军用仓库、货船和油轮，使用改型“盖兰-4”",
+  "date_start": "2026-08-03",
+  "date_end": "2026-09-23",
+  "location_cn": "乌克兰敖德萨港及敖德萨州、尼古拉耶夫港水域（Odesa / Mykolaiv）",
+  "lat": 46.49,
+  "lon": 30.74,
+  "region": "黑海",
+  "attacker": "俄罗斯武装力量（国防部口径：精确空射武器与攻击无人机，含“Geran-4 Seeker”）",
+  "defender": "乌克兰（敖德萨州军事行政当局、海军、海港管理局）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "单平台"
+  ],
+  "attack_means_cn": "俄国防部口径：精确空射武器和攻击无人机；9月18—19日称使用“Geran-4 Seeker”无人机（《消息报》）；福布斯称改型“盖兰-4”为喷气式，速度可达约500公里/小时，7月以来大量用于黑海港口。",
+  "defense_means_cn": "乌方在8月的拦截与防护情况本轮未检索到；乌空军逐夜通报中涉及8月敖德萨方向的击落数亦未取得。",
+  "narrative_cn": "2026年7月系列打击之后，8—9月敖德萨州港口的公开记录以俄国防部通报为主，乌方单案通报较少；本轮检索未取得乌方8月逐日的官方统计，也未发现9月对伊兹梅尔、列尼或切尔诺莫尔斯克、南方港的新袭击报道。\n8月3日，卡塔尔通讯社（QNA）转述俄国防部称其打击了黑海中的3艘货船并击落乌无人机（仅见标题）。8月8日，据路透社（经 gCaptain 转载），俄国防部称继续打击乌港口设施和为乌军队提供支持的船舶，称以空射精确武器和攻击无人机打击敖德萨港内存放通信和电子战装备的军用仓库，并称在尼古拉耶夫击中船舶；路透社称无法独立核实双方说法。8月9日，福布斯刊文称，俄军自7月起大量使用改型“盖兰-4”（Geran-4，加装导引头），速度可达约500公里/小时，可摆脱乌方多数拦截无人机；旧型“盖兰-2”约200公里/小时，更易被机动防空组和拦截无人机击落。8月17日，QNA 转述俄国防部称在敖德萨港打击了3艘干货船和2艘油轮，称其运送军用货物，并称燃油罐和存放军事装备的仓库也受打击。乌方一侧，贝尔德海事（Baird Maritime）有一篇题为《油轮和港口设施在俄袭击乌敖德萨州中受损》的报道（检索结果未显示日期，不能确认为8月）。\n9月18日，俄国防部称击中两艘运送军用物资的干货船；9月19日发布无人机打击一艘干货船和一艘油轮的视频，据《消息报》，使用“Geran-4 Seeker”。9月23日，安提瓜和巴布达旗货船在敖德萨州遇袭，乌籍船长死亡（见案例11）。统计方面，一则通讯社报道引述土耳其海运商会（IMEAK）称，2022年2月以来黑海民用与商业船舶至少226艘被击中，其中约163艘（约70%）发生在2026年前8个月（具体出处未取得）。",
+  "defense_effect_cn": "乌方在这一时段的防御数据空白，是主要缺口：既没有逐夜拦截率，也没有受袭船舶的总数与伤亡汇总（可查的只有9月23日一案）。从俄方通报的节奏看（8月3日、8日、17日，9月18日、19日），打击对象为停靠或进港的干货船、油轮和仓库，几乎每周都有一次。可作旁证的是福布斯的技术判断：改型“盖兰-4”的速度可达约500公里/小时，会缩短机动火力组和拦截无人机的拦截窗口；但这一论断是评论文章而非乌方军方数据。",
+  "claims_compare_cn": "几乎全部攻击描述来自俄国防部（经塔斯社、QNA、《消息报》转述），目标界定为“运送军用货物”的船舶和“存放军事装备”的仓库；路透社称无法独立核实。乌方对9月23日一案称是商业货船、船长死亡；对8月各通报没有检索到对应的乌方通报。所以8月的俄方说法与实际受损情况之间，缺少可对照的一手乌方材料。",
+  "losses_cn": "仅9月23日一案有死亡记录（1人）；其余为俄方通报的“击中”数量，乌方损失口径未取得。8月的船舶与港口设施损失无法核实。",
+  "analysis_cn": "本条为月度综述性质，置信度较低：信息来源不对称，俄方持续公开战果，乌方逐案通报在检索中偏少。可以确定的变化只有两项——一是俄方打击从7月的集中爆发转入每周一次左右的常态化；二是目标从船舶扩展到港口军用仓库和油品设施。对乌方防御的评价需要等到乌空军8月逐夜的拦截数据和港口防空小组（案例15）的击落数量公布后才能做出。",
+  "confidence": "C",
+  "sources": [
+   {
+    "publisher": "卡塔尔通讯社（QNA）",
+    "title": "Russian defense ministry conducts strike on 3 cargo ships in Black Sea, downs Ukrainian drones",
+    "title_cn": "俄国防部打击黑海3艘货船，击落乌无人机",
+    "author": "QNA",
+    "date": "2026-08-03",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-8/3/russian-defense-ministry-conducts-strike-on-3-cargo-ships-in-black-sea-downs-ukrainian-drones",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "gCaptain（转载路透社）",
+    "title": "Russia says it struck vessels and military facilities supporting Ukraine in Odesa",
+    "title_cn": "俄称打击敖德萨支援乌军的船舶和军事设施",
+    "author": "Reuters/gCaptain",
+    "date": "2026-08-08",
+    "url": "https://gcaptain.com/russia-says-it-struck-vessels-and-military-facilities-supporting-ukraine-in-odesa/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "福布斯（Forbes）",
+    "title": "Russia's Upgraded Geran Drones Are Targeting Ukraine's Black Sea Ports",
+    "title_cn": "俄升级版盖兰无人机瞄准乌黑海港口",
+    "author": "Vikram Mittal",
+    "date": "2026-08-09",
+    "url": "https://www.forbes.com/sites/vikrammittal/2026/08/09/russias-upgraded-geran-drones-are-targeting-ukraines-black-sea-ports/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "卡塔尔通讯社（QNA）",
+    "title": "Russia says it targeted three cargo ships, two oil tankers at Odesa port",
+    "title_cn": "俄称在敖德萨港打击3艘货船、2艘油轮",
+    "author": "QNA",
+    "date": "2026-08-17",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-8/17/russia-says-it-targeted-three-cargo-ships-two-oil-tankers-at-odesa-port",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "贝尔德海事（Baird Maritime）",
+    "title": "Tanker, port facilities damaged in Russian attack on Ukraine's Odesa region",
+    "title_cn": "俄袭击乌敖德萨州，油轮和港口设施受损（日期未显示）",
+    "author": "Baird Maritime",
+    "date": "",
+    "url": "https://www.bairdmaritime.com/amp/story/security/incidents/acts-of-war/tanker-port-facilities-damaged-in-russian-attack-on-ukraines-odesa-region",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "消息报（Izvestia）",
+    "title": "（检索结果仅显示站点名；内容为国防部9月18—19日通报打击干货船与油轮的报道）",
+    "title_cn": "俄国防部称以Geran-4 Seeker打击干货船与油轮",
+    "author": "Izvestia",
+    "date": "",
+    "url": "https://iz.ru/en/node/2169857",
+    "type": "其他"
+   },
+   {
+    "publisher": "乌克兰真理报（Ukrainska Pravda）",
+    "title": "Russia attacks foreign cargo ship in Odesa Oblast, killing captain – photos",
+    "title_cn": "俄袭击敖德萨州外籍货船，致船长死亡（图）",
+    "author": "Ukrainska Pravda",
+    "date": "2026-09-23",
+    "url": "https://www.pravda.com.ua/eng/news/2026/09/23/8054690/",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Port_of_Odesa",
+    "file_name": "Category:Port of Odesa（分类页；具体文件名未取得）",
+    "desc_cn": "Commons“敖德萨港”分类页：含港口起重机、集装箱码头、海运客运站等战前照片（据检索摘要）；仅为取图入口，非本案事发现场图",
+    "date": "",
+    "credit": "Wikimedia Commons 各文件上传者/作者（逐文件核实）",
+    "license": "各文件许可不同，须在分类页逐文件核对（本轮未取得具体文件的许可信息）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "俄方通报日期（国防部口径）": "8月3日（3艘货船）、8月8日（敖德萨军用仓库、尼古拉耶夫船舶）、8月17日（3艘干货船+2艘油轮）、9月18日（2艘干货船）、9月19日（干货船+油轮）",
+   "黑海商船受袭累计": "2022-02起至少226艘；约163艘在2026年前8个月（通讯社引IMEAK，出处未取得）",
+   "乌方通报": "仅9月23日一案（见案例11）；其余未检索到",
+   "拦截率": "8—9月乌空军敖德萨方向数据未取得"
+  }
+ }
+]

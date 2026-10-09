@@ -1,0 +1,2241 @@
+[
+ {
+  "case_key": "bs_ivanovets_2024_02_01",
+  "category": "远海机动编组",
+  "title_cn": "无人艇群在湖口外海击沉俄导弹艇",
+  "subtitle_cn": "2024年1月31日夜至2月1日，克里米亚西部多努兹拉夫湖（Donuzlav）附近黑海海域，乌军情总局第13小组以Magura V5击沉'伊万诺韦茨'号（Ivanovets）导弹艇",
+  "date_start": "2024-02-01",
+  "date_end": "",
+  "location_cn": "克里米亚西部多努兹拉夫湖（Lake Donuzlav）附近黑海海域",
+  "lat": 45.3,
+  "lon": 32.95,
+  "region": "黑海",
+  "attacker": "乌克兰国防部情报总局（HUR/GUR）特种单位'第13小组'（Group 13）",
+  "defender": "俄黑海舰队'伊万诺韦茨'号（Ivanovets）1241型'闪电'级导弹艇",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "Magura V5无人艇（乌方称动用6艘、6次直接命中、每艘装药约320公斤；TWZ审看视频仅见3艘命中；安布雷Ambrey计数至多6艘）；夜间多艇接近。",
+  "defense_means_cn": "舰载30毫米AK-630M近防炮对来袭小艇射击（TWZ审看GUR视频所见）；未见其他拦截措施的公开记录。",
+  "narrative_cn": "2024年2月1日，乌克兰国防部情报总局（HUR/GUR）在Telegram通报，其特种单位'第13小组'（Group 13）于1月31日（周三）当地夜间至2月1日凌晨，在克里米亚西部多努兹拉夫湖（Donuzlav）附近的黑海海域，使用Magura V5无人艇攻击俄黑海舰队'伊万诺韦茨'号（Ivanovets）导弹艇。该艇属1241型'闪电'（Molniya，北约称Tarantul）级，可携带至多4枚'蚊子'（Moskit）超音速反舰导弹；乌国防部口径称其价值约6000万—7000万美元，另有报道称艇员约40人。GUR局长布达诺夫（Kyrylo Budanov）对The War Zone（TWZ）称，行动动用6艘Magura V5，对舰体实现6次直接命中，军舰向艉部倾覆后沉没；乌方报道还称每艘无人艇装药约320公斤。GUR随后公布一段约128秒的视频。TWZ逐帧审看后认为，画面中似仅可见3艘无人艇命中目标，并拍到该艇的30毫米AK-630M近防炮向来袭小艇射击；海事情报公司安布雷（Ambrey）则估计参与的无人艇至多6艘。视频另显示命中后舰上出现大爆炸，乌方推测可能是弹药库或存放的导弹二次殉爆。GUR称俄方搜救行动'未获成功'；乌外交部发言人舍尔巴（Olexander Scherba）对BBC称艇员已弃舰。《莫斯科时报》等媒体均表示无法独立核实视频，Forces News报道称西方官员后来确认了沉没。本次检索未见俄国防部对该事件的公开说明。",
+  "defense_effect_cn": "防御基本失效。据GUR公开视频，舰上近防炮曾向来袭无人艇射击，但未能阻止命中；若TWZ'3艘命中'的判断成立，则仅3艘低矮小艇就足以造成沉没级毁伤。目标位于克里米亚西岸近岸水域，处在乌方无人艇夜间可达范围内，公开资料中未见屏障、值班直升机或电子对抗措施发挥作用的记录。导弹艇自身载有反舰导弹，二次爆炸可能放大了毁伤，也说明弹药存放与舰体抗毁性是弱点。俄方对该次损失的官方描述缺失，使防御侧的反应过程无法复原。",
+  "claims_compare_cn": "乌方（GUR，2月1日）：6艘Magura V5、6次命中、舰沉、搜救失败。TWZ视频审看：画面仅见3艘命中并有AK-630M射击；安布雷：至多6艘。乌外交部发言人称艇员弃舰，与GUR'搜救失败'的措辞侧重不同。沉没原因：GUR强调无人艇命中，Euro-SD提出舰载反舰导弹殉爆可能起了作用；维基百科'第13小组'词条则称舰体因反舰导弹爆炸严重受损。俄方：本次检索未见公开口径。独立核实：《莫斯科时报》称无法核实；Forces News称西方官员后续确认沉没。",
+  "losses_cn": "俄方：'伊万诺韦茨'号1艘（乌方称沉没，西方官员据Forces News后续确认；乌国防部估值6000万—7000万美元）；人员伤亡数字未见公开（GUR称搜救失败，乌外交部称艇员弃舰）。乌方：无人艇损耗数及人员伤亡未公布。",
+  "analysis_cn": "此案的特点是'多艇、近岸、夜间、单点饱和'：无人艇体积小、雷达截面低，数艘同时从不同方位接近即可压过单舰近防系统的火力通道。攻击链条上，乌方用卫星链路遥控（Intellinews标题称'卫星制导'）并同步录像，视频本身兼具战果证明与宣传功能，也因此留下了可供TWZ、Ambrey反推数量的证据。对防御方而言，克里米亚西岸的锚地与近岸航道缺少对无人艇的持续侦测与外圈拦截，单舰近防炮是最后一道且唯一一道防线。乌方'6艘6中'与视频'3艘中'的差异，提示通报数字不宜直接作为战术统计依据。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "The War Zone (TWZ)",
+    "title": "Ukraine Sinks Russian Navy Missile Corvette In Drone Boat Attack",
+    "title_cn": "乌克兰以无人艇击沉俄海军导弹护卫舰",
+    "author": "Howard Altman",
+    "date": "2024-02-01",
+    "date_basis": "按事件日推定（页面日期未在检索结果中显示）",
+    "url": "https://twz.com/news-features/ukraine-sinks-russian-navy-missile-corvette-in-drone-boat-attack",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Euromaidan Press",
+    "title": "Intel chief: Ukraine used six Magura V5 surface drones to sink Russia's Ivanovets missile corvette",
+    "title_cn": "情报首长：乌用6艘Magura V5水面无人艇击沉俄'伊万诺韦茨'号导弹艇",
+    "author": "",
+    "date": "2024-02-02",
+    "date_basis": "URL日期",
+    "url": "https://euromaidanpress.com/2024/02/02/intel-chief-ukraine-used-six-magura-v5-surface-drones-to-sink-russias-ivanovets-missile-corvette/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Euromaidan Press",
+    "title": "Ukraine's surface drones sink Russian Black Sea Fleet's Ivanovets missile boat (video)",
+    "title_cn": "乌水面无人艇击沉俄黑海舰队'伊万诺韦茨'号导弹艇（视频）",
+    "author": "",
+    "date": "2024-02-01",
+    "date_basis": "URL日期",
+    "url": "https://euromaidanpress.com/2024/02/01/ukraines-surface-drones-sink-russian-black-sea-fleets-ivanovets-missile-boat/",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Moscow Times",
+    "title": "Ukraine Says Destroyed Russian Missile Boat Near Annexed Crimea",
+    "title_cn": "乌称在被吞并的克里米亚附近摧毁俄导弹艇",
+    "author": "",
+    "date": "2024-02-01",
+    "date_basis": "URL日期",
+    "url": "https://themoscowtimes.com/2024/02/01/ukraine-says-destroyed-russian-missile-boat-near-annexed-crimea-a83942",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "Video: Ukraine Sinks Another Russian Warship Using Drone Boats",
+    "title_cn": "视频：乌克兰以无人艇再击沉一艘俄军舰",
+    "author": "",
+    "date": "2024-02-01",
+    "date_basis": "按事件日推定",
+    "url": "https://maritime-executive.com/article/video-ukraine-sinks-another-russian-warship-using-drone-boats",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "LB.ua",
+    "title": "DIU confirms strike on Russian ship",
+    "title_cn": "情报总局确认打击俄舰",
+    "author": "",
+    "date": "2024-02-02",
+    "date_basis": "URL日期",
+    "url": "https://en.lb.ua/news/2024/02/02/26436_diu_confirms_strike_russian_ship.html",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ivanovets&R-44-2005Karantinnaya-bukhta.jpg",
+    "file_name": "Ivanovets&R-44-2005Karantinnaya-bukhta.jpg",
+    "desc_cn": "塞瓦斯托波尔检疫湾内的黑海舰队导弹艇“伊万诺韦茨”号（舷号954）与R-44号（战前资料照，非事发照片）。年份依文件名为2005，检索摘要称2008，二者不一致，待核",
+    "date": "",
+    "credit": "",
+    "license": "",
+    "verified": true,
+    "source_note": "第二轮经Commons检索（allowed_domains=commons.wikimedia.org）所见，文件页URL取自检索结果；日期/作者/许可未在摘要中给出者留空，需打开文件页核实。",
+    "year_hint": "2005（文件名）/2008（摘要）"
+   }
+  ],
+  "stats": {
+   "无人艇数量（乌方口径）": "6艘Magura V5，6次直接命中（GUR/布达诺夫）",
+   "无人艇数量（独立审看）": "TWZ视频审看见3艘命中；Ambrey估计至多6艘",
+   "单艇装药（乌方报道）": "约320公斤",
+   "目标估值（乌国防部）": "约6000万—7000万美元",
+   "GUR视频时长": "约128秒（TWZ）"
+  },
+  "notes_cn": "第二轮已做Commons检索（结果见images/image_categories，多为同型/同级资料图，非事发照片）；其余图片线索如下。 图片线索：GUR公布视频截图见TWZ与Maritime Executive文；乌方图片许可未核实。",
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:Ivanovets_(ship,_1989)",
+    "desc_cn": "“伊万诺韦茨”号分类页（摘要称含13个文件，并注明2024年被击沉）；原编号R-334，1998年更名",
+    "verified": true
+   },
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:MAGURA_V5",
+    "desc_cn": "Magura V5无人艇分类页（摘要称文件很少，含一段黑海舰队操作员用FPV无人机反制无人艇的训练视频）",
+    "verified": true
+   }
+  ]
+ },
+ {
+  "case_key": "bs_kunikov_2024_02_14",
+  "category": "远海机动编组",
+  "title_cn": "无人艇在阿卢普卡外海击沉大型登陆舰",
+  "subtitle_cn": "2024年2月14日，克里米亚南岸阿卢普卡（Alupka）附近海域，乌军情总局第13小组以Magura V5攻击'凯撒·库尼科夫'号（Caesar Kunikov）775型大型登陆舰",
+  "date_start": "2024-02-14",
+  "date_end": "",
+  "location_cn": "克里米亚南岸阿卢普卡（Alupka）附近海域",
+  "lat": 44.4,
+  "lon": 34.05,
+  "region": "黑海",
+  "attacker": "乌克兰国防部情报总局（HUR/GUR）特种单位'第13小组'（Group 13）",
+  "defender": "俄黑海舰队'凯撒·库尼科夫'号（Caesar Kunikov）775型大型登陆舰",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "Magura V5无人艇（乌方未公布总数；Ambrey据视频判断至少3艘）；攻击集中于左舷。",
+  "defense_means_cn": "俄国防部仅称当夜在黑海击落6架乌军无人机（未提及无人艇）；舰上防御措施在公开资料中未见记载。",
+  "narrative_cn": "2024年2月14日，乌克兰国防部情报总局（HUR/GUR）称，其特种单位'第13小组'（Group 13）使用Magura V5无人艇，在克里米亚南岸阿卢普卡（Alupka）附近海域击沉俄黑海舰队775型大型登陆舰'凯撒·库尼科夫'号（Caesar Kunikov）。GUR称攻击发生时该舰处于乌方领海内，左舷（port side）被击出'致命破口'后开始下沉；该行动得到募款平台United24支持。该舰舰长约112.5米，编制87人。英国私营情报公司安布雷（Ambrey）审看视频后判断，至少有3艘无人艇参与攻击，军舰随后向左舷严重倾斜并可能沉没。俄方当日未对沉没作出回应，仅称国防部在夜间击落6架飞越黑海的乌军无人机；多名俄军事博主确认该舰遭到攻击，但未确认沉没。美联社（AP）强调乌方说法'未获独立核实'。Euromaidan Press称，这是黑海舰队自全面入侵以来损失的第4艘登陆舰。时间上，这是乌方两周内第二次公布以无人艇击沉黑海舰队舰船（2月1日为'伊万诺韦茨'号）；乌方称事发于近岸海域而非港内。乌方未公布无人艇总数、命中点数量以外的毁伤评估，本次检索亦未见卫星图确认沉没位置。",
+  "defense_effect_cn": "防御未能阻止命中。俄方的公开表态仅涉及无人机拦截数量，没有对无人艇来袭作任何描述，说明至少在当日通报中，俄方对近岸水面低速小目标的发现、通报与应对均无可援引的成果。775型登陆舰属大吨位低价值密度的后勤平台，缺少对无人艇的专用近程反制手段；视频显示舰体被集中打击一侧，符合多艇同侧命中致舷侧进水的损伤形态。暴露的问题是：该舰航行区域在乌方遥控距离之内且缺少外圈监视，单舰无法对夜间多方向来袭进行有效拦截。",
+  "claims_compare_cn": "乌方（GUR，2月14日）：Magura V5击沉，舰体左舷出现致命破口，攻击地点在阿卢普卡乌领海内。Ambrey：视频显示至少3艘无人艇，舰重度左倾，'可能沉没'。AP：乌方说法未获独立核实。俄方：国防部未确认损失，只称击落6架无人机；军事博主承认遇袭但不确认沉没。各方对'遇袭'基本无异议，分歧集中在是否确已沉没、沉没的时间和位置。",
+  "losses_cn": "俄方：'凯撒·库尼科夫'号1艘（乌方称沉没，俄方未确认；编制87人，伤亡数字未见公开）。乌方：无人艇损耗数与人员损失未公布。",
+  "analysis_cn": "此案与2月1日'伊万诺韦茨'号一案间隔13天，使用同一单位、同一装备，说明乌方已将无人艇打击固化为可重复的作战流程：情报定位、夜间出航、多艇同侧突击、即时视频发布。目标性质从导弹艇转向登陆舰，意味着攻击对象由'有武装的作战舰艇'扩展到后勤与运兵平台，后者的防空/反小艇手段更弱。对防御方的启示集中在发现与预警：在没有对无人艇的持续监视时，单舰火力很难在数分钟内处理多个低矮目标；视频'3艘'这一下限比乌方通报更接近可验证的事实。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Euromaidan Press",
+    "title": "Ukrainian naval drones sink large Russian landing ship Caesar Kunikov",
+    "title_cn": "乌克兰无人艇击沉俄大型登陆舰'凯撒·库尼科夫'号",
+    "author": "",
+    "date": "2024-02-14",
+    "date_basis": "URL日期",
+    "url": "https://euromaidanpress.com/2024/02/14/ukrainian-military-sank-russian-landing-ship-ceasar-kunikov-in-black-sea/",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Boston Globe（美联社AP稿）",
+    "title": "Ukrainian military says it sank a Russian landing ship in the Black Sea",
+    "title_cn": "乌军称在黑海击沉一艘俄登陆舰",
+    "author": "Associated Press",
+    "date": "2024-02-14",
+    "date_basis": "URL日期",
+    "url": "https://www.bostonglobe.com/2024/02/14/world/ukrainian-military-says-it-sank-russian-landing-ship-black-sea",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "NBC News",
+    "title": "Ukraine sinks Russian landing ship in Black Sea (页面标题据URL)",
+    "title_cn": "乌克兰在黑海击沉俄登陆舰",
+    "author": "",
+    "date": "2024-02-14",
+    "date_basis": "按事件日推定",
+    "url": "https://www.nbcnews.com/news/world/ukraine-sinks-russian-landing-ship-black-sea-rcna138765",
+    "type": "其他"
+   },
+   {
+    "publisher": "Kyiv Post",
+    "title": "Ukraine-Built MAGURA V5 Naval Drones Sink Russian Assault Ship",
+    "title_cn": "乌产MAGURA V5无人艇击沉俄两栖攻击舰",
+    "author": "",
+    "date": "2024-02-14",
+    "date_basis": "按事件日推定",
+    "url": "https://www.kyivpost.com/amp/post/28042",
+    "type": "其他"
+   },
+   {
+    "publisher": "Military.in.ua（mil.in.ua）",
+    "title": "Ukrainian naval drones destroy the landing ship Caesar Kunikov (页面标题据URL)",
+    "title_cn": "乌无人艇摧毁'凯撒·库尼科夫'号登陆舰",
+    "author": "",
+    "date": "2024-02-14",
+    "date_basis": "按事件日推定",
+    "url": "https://mil.in.ua/en/news/ukrainian-naval-drones-destroy-the-landing-ship-caesar-kunikov",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tsezar_Kunikov_in_the_Red_Sea_(2003).jpg",
+    "file_name": "Tsezar Kunikov in the Red Sea (2003).jpg",
+    "desc_cn": "“凯撒·库尼科夫”号（Tsezar Kunikov）大型登陆舰在红海航行的资料照（年份依文件名为2003）",
+    "date": "2003",
+    "credit": "",
+    "license": "",
+    "verified": true,
+    "source_note": "第二轮经Commons检索（allowed_domains=commons.wikimedia.org）所见，文件页URL取自检索结果；日期/作者/许可未在摘要中给出者留空，需打开文件页核实。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tsezar_Kunikov_at_anchor_in_the_Bosphorus_(2007).jpg",
+    "file_name": "Tsezar Kunikov at anchor in the Bosphorus (2007).jpg",
+    "desc_cn": "“凯撒·库尼科夫”号在博斯普鲁斯海峡锚泊的资料照（年份依文件名为2007）",
+    "date": "2007",
+    "credit": "",
+    "license": "",
+    "verified": true,
+    "source_note": "第二轮经Commons检索（allowed_domains=commons.wikimedia.org）所见，文件页URL取自检索结果；日期/作者/许可未在摘要中给出者留空，需打开文件页核实。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Verni_and_Tsezar'_Kunikov_in_Varna,_2009.jpg",
+    "file_name": "Verni and Tsezar' Kunikov in Varna, 2009.jpg",
+    "desc_cn": "“韦尔尼”号（Verni）与“凯撒·库尼科夫”号并泊于保加利亚瓦尔纳的资料照（年份依文件名为2009）",
+    "date": "2009",
+    "credit": "",
+    "license": "",
+    "verified": true,
+    "source_note": "第二轮经Commons检索（allowed_domains=commons.wikimedia.org）所见，文件页URL取自检索结果；日期/作者/许可未在摘要中给出者留空，需打开文件页核实。"
+   }
+  ],
+  "stats": {
+   "舰长/编制": "约112.5米 / 87人（Euromaidan/AP引述）",
+   "参与无人艇（Ambrey）": "至少3艘",
+   "俄国防部当日通报": "击落6架乌无人机（未提无人艇）"
+  },
+  "notes_cn": "第二轮已做Commons检索（结果见images/image_categories，多为同型/同级资料图，非事发照片）；其余图片线索如下。 本案未检索到卫星图或俄方正式确认；沉没为乌方口径。",
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:Tsezar_Kunikov_(ship,_1986)",
+    "desc_cn": "“凯撒·库尼科夫”号分类页（775/II型，波兰建造，1986年入役，长112.5米；摘要称含2024年被无人艇击沉事件条目）",
+    "verified": true
+   },
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:BDK-47_class_large_landing_ship",
+    "desc_cn": "BDK-47级（鳄鱼级/Ropucha）大型登陆舰类别页",
+    "verified": true
+   }
+  ]
+ },
+ {
+  "case_key": "bs_sergey_kotov_2024_03_05",
+  "category": "远海机动编组",
+  "title_cn": "无人艇在刻赤海峡外海重创俄巡逻舰",
+  "subtitle_cn": "2024年3月4—5日夜，刻赤海峡（Kerch Strait）附近黑海海域，乌军情总局第13小组以Magura V5攻击'谢尔盖·科托夫'号（Sergey Kotov）22160型巡逻舰",
+  "date_start": "2024-03-05",
+  "date_end": "",
+  "location_cn": "刻赤海峡（Kerch Strait）附近黑海海域",
+  "lat": 45.0,
+  "lon": 36.7,
+  "region": "黑海",
+  "attacker": "乌克兰国防部情报总局（HUR/GUR）特种单位'第13小组'（Group 13）",
+  "defender": "俄黑海舰队'谢尔盖·科托夫'号（Sergey Kotov）22160型巡逻舰",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "Magura V5无人艇（数量未公布），GUR称命中舰艉与两舷；乌方估值该舰约6500万美元。",
+  "defense_means_cn": "舰载武器应对情况未见详细公开记录；据俄军事博主渠道，曾尝试拖带该舰返港。",
+  "narrative_cn": "2024年3月5日，乌克兰国防部情报总局（HUR/GUR）称，第13小组（Group 13）于3月4日至5日夜间在刻赤海峡附近使用Magura V5无人艇攻击俄黑海舰队'谢尔盖·科托夫'号（Sergey Kotov）22160型巡逻舰，舰艉及两舷受损并随后沉没。乌海军发言人普列坚丘克（Dmytro Pletenchuk）称该舰'因无人艇火力打击已沉入海底'，并提示舰上可能搭载直升机；乌方估价约6500万美元。人员方面口径变化：GUR最初称'52名舰员可能已撤离'，随后称击毙7人，GUR发言人尤索夫（Andriy Yusov）称有死伤；俄独立媒体IStories此前估计舰上多达60人。俄方官方未即时答复路透社置评请求；俄军事博主频道VChK-OGPU称曾尝试拖带该舰回港，最终沉没。路透社与BBC均称无法独立核实，BBC Verify还指出视频中舰体编号不可辨，无法确认画面即该舰。英国国防部（UK MoD）在情报通报中称，该舰此前已在2023年7月和9月两次遭无人艇攻击，均为轻微受损并很快恢复服役；此次是黑海舰队五周内损失的第三艘舰艇，将继续限制俄海军在黑海的机动自由。同日俄方对敖德萨发动无人机打击（Novaya Gazeta Europe同稿报道）。",
+  "defense_effect_cn": "该舰此前两次遇袭（2023年7月、9月，据UK MoD）均自保成功并返回服役，第三次未能幸免，说明防御对单次来袭成功但对多波、多方向攻击并不稳定。公开资料未提供本次舰上拦截的细节；俄军事博主频道称曾尝试拖带该舰返港，未果。UK MoD判断，五周内连续损失三艘将继续限制俄海军在黑海的机动自由。暴露的问题：本次舰上如何探测、拦截来袭无人艇，公开来源均无记载，待核。",
+  "claims_compare_cn": "乌方（GUR，3月5日）：Magura V5命中舰艉与两舷，舰沉；舰员52人'可能已撤离'，后称击毙7人。乌海军发言人：舰已在海底。俄方：国防部未即时置评；军事博主频道称拖带未果后沉没。独立方：路透社、BBC均称无法核实；BBC Verify称视频中舰体编号不可辨；UK MoD将其计为'沉没'并给出此前两次遇袭的背景。舰员人数：GUR 52人 vs IStories估计至多60人。",
+  "losses_cn": "俄方：'谢尔盖·科托夫'号1艘（乌方、UK MoD称沉没；乌方估值约6500万美元）；人员：GUR先称52人可能撤离、后称击毙7人，俄方未公布。乌方：无人艇损耗与人员损失未公布。",
+  "analysis_cn": "此案是'同一目标反复打击'的例子：2023年7月与9月两次轻伤未能毁船（UK MoD），2024年3月被乌方称击沉。目标位于刻赤海峡附近海域，在克里米亚东端，距乌方控制区较远，说明无人艇的作战半径覆盖到黑海东北角。口径上，'沉没'来自乌方和UK MoD的判断，缺少独立影像或卫星图；人员数字前后相差明显，宜作为乌方单方口径记录。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Ukrainska Pravda（Українська правда）",
+    "title": "Defence Intelligence of Ukraine confirms destruction of Russian patrol ship Sergei Kotov by Magura drones",
+    "title_cn": "乌情报总局确认以Magura无人艇摧毁俄巡逻舰'谢尔盖·科托夫'号",
+    "author": "",
+    "date": "2024-03-05",
+    "date_basis": "URL日期",
+    "url": "https://www.pravda.com.ua/eng/news/2024/03/5/7445017/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Al Jazeera",
+    "title": "Russian Black Sea ship Sergey Kotov sunk after drone strike, says Ukraine",
+    "title_cn": "乌称俄黑海'谢尔盖·科托夫'号遭无人机打击沉没",
+    "author": "",
+    "date": "2024-03-05",
+    "date_basis": "URL日期",
+    "url": "https://www.aljazeera.com/news/2024/3/5/ukraine-claims-another-critical-strike-on-russias-black-sea-fleet",
+    "type": "其他"
+   },
+   {
+    "publisher": "CBS News",
+    "title": "Ukraine says it sank a Russian warship off Crimea in much-needed victory amid front line losses",
+    "title_cn": "乌称在克里米亚附近击沉俄军舰",
+    "author": "",
+    "date": "2024-03-05",
+    "date_basis": "按事件日推定",
+    "url": "https://www.cbsnews.com/news/ukraine-russia-war-russian-warship-sergey-kotov-sunk-crimea/",
+    "type": "其他"
+   },
+   {
+    "publisher": "gCaptain",
+    "title": "Ukraine Claims Sinking of Russian Patrol Ship Near Crimea",
+    "title_cn": "乌称在克里米亚附近击沉俄巡逻舰",
+    "author": "",
+    "date": "2024-03-05",
+    "date_basis": "按事件日推定",
+    "url": "https://gcaptain.com/ukraine-claims-sinking-of-russian-patrol-ship-near-crimea/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Novaya Gazeta Europe",
+    "title": "Russian patrol ship destroyed in Black Sea as Russia launches drone strike on Odesa",
+    "title_cn": "黑海俄巡逻舰被毁，俄同日对敖德萨发动无人机打击",
+    "author": "",
+    "date": "2024-03-05",
+    "date_basis": "URL日期",
+    "url": "https://novayagazeta.eu/en/articles/2024/03/05/russian-patrol-ship-destroyed-in-black-sea-as-russia-launches-drone-strike-on-odesa-en-news",
+    "type": "其他"
+   },
+   {
+    "publisher": "Ukrinform（转述英国国防部情报通报）",
+    "title": "Loss of Sergei Kotov ship will limit Russian Navy's freedom of maneuver in Black Sea – UK intelligence",
+    "title_cn": "英国情报：'谢尔盖·科托夫'号损失将限制俄海军在黑海的机动自由",
+    "author": "",
+    "date": "2024-03-06",
+    "date_basis": "按事件日后一日推定",
+    "url": "https://ukrinform.net/rubric-ato/3836279-loss-of-sergei-kotov-ship-will-limit-russian-navys-freedom-of-maneuver-in-black-sea-uk-intelligence.html",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Patrol_ship_Vasily_Bykov.jpg",
+    "file_name": "Patrol ship Vasily Bykov.jpg",
+    "desc_cn": "22160型巡逻舰首舰“瓦西里·贝科夫”号（Vasily Bykov）资料照——“谢尔盖·科托夫”号的同级舰，用作舰型参照，非科托夫号本舰",
+    "date": "",
+    "credit": "",
+    "license": "",
+    "verified": true,
+    "source_note": "第二轮经Commons检索（allowed_domains=commons.wikimedia.org）所见，文件页URL取自检索结果；日期/作者/许可未在摘要中给出者留空，需打开文件页核实。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Model_patrol_ship_project_22160_to_%C2%ABArmy_2016%C2%BB_2.jpg",
+    "file_name": "Model patrol ship project 22160 to «Army 2016» 2.jpg",
+    "desc_cn": "22160型巡逻舰模型（“军队-2016”展），舰型参照，非事发照片",
+    "date": "",
+    "credit": "",
+    "license": "",
+    "verified": true,
+    "source_note": "第二轮经Commons检索（allowed_domains=commons.wikimedia.org）所见，文件页URL取自检索结果；日期/作者/许可未在摘要中给出者留空，需打开文件页核实。"
+   }
+  ],
+  "stats": {
+   "舰员人数（GUR）": "52人'可能已撤离'；后称击毙7人",
+   "舰员人数（IStories估计）": "至多60人",
+   "乌方估值": "约6500万美元",
+   "此前遇袭（UK MoD）": "2023年7月、9月两次，均轻伤返役",
+   "黑海舰队五周内损失（UK MoD）": "第3艘"
+  },
+  "notes_cn": "第二轮已做Commons检索（结果见images/image_categories，多为同型/同级资料图，非事发照片）；其余图片线索如下。 另：BBC Verify称视频中舰体编号不可辨，故未配视频截图。",
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:383_Sergey_Kotov_(ship,_2022)",
+    "desc_cn": "“谢尔盖·科托夫”号分类页（检索所见URL带?uselang=de参数，此处为去参数形式；摘要称含2024-03-05乌方“13组”袭击影像条目，2022-05-16入役，长91.3米）",
+    "verified": true
+   },
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:Vasily_Bykov_class_patrol_ship",
+    "desc_cn": "瓦西里·贝科夫级（22160型）巡逻舰类别页",
+    "verified": true
+   }
+  ]
+ },
+ {
+  "case_key": "bs_magura_mi8_2024_12_31",
+  "category": "远海机动编组",
+  "title_cn": "无人艇首次以空空导弹击落直升机",
+  "subtitle_cn": "2024年12月31日，克里米亚西端塔尔汉库特角（Cape Tarkhankut）外海，乌军情总局Magura V5携'海龙'（SeeDragon/R-73改）击落俄Mi-8直升机",
+  "date_start": "2024-12-31",
+  "date_end": "2025-01-02",
+  "location_cn": "克里米亚西端塔尔汉库特角（Cape Tarkhankut）附近海域",
+  "lat": 45.35,
+  "lon": 32.45,
+  "region": "黑海",
+  "attacker": "乌克兰国防部情报总局（HUR/GUR）海上无人艇单位",
+  "defender": "俄军Mi-8直升机（隶属未见公开记载）",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "单平台",
+   "异构"
+  ],
+  "attack_means_cn": "Magura V5无人艇，携R-73短程空空导弹（GUR称'海龙'SeeDragon，对地/海面发射改型）。",
+  "defense_means_cn": "被击落方为直升机，未见机上对抗措施记载；Janes指出GUR未说明'SeeDragon'与苏联时期R-73的差异。",
+  "narrative_cn": "2024年12月31日，乌克兰国防部情报总局（GUR）称，其Magura V5无人艇在克里米亚西端塔尔汉库特角（Cape Tarkhankut）附近海域，用空空导弹击落俄军Mi-8直升机，称这是世界上首次由海上无人平台击落航空目标。GUR网站当日最初通报'击毁1架Mi-8、击伤1架'；2025年1月2日更新为'击毁2架Mi-8、击伤第3架'，并称被击毁飞机的机组人员阵亡（该点乌方亦未能独立核实）。所用武器是由R-73短程空空导弹改装的版本，GUR称为'海龙'（SeeDragon）。Janes在报道中指出，GUR并未说明该改型与苏联时期R-73的区别；The Aviationist在12月31日当天刊发同题报道。俄方侧，一家俄航空类Telegram频道称，12月30日至31日夜间俄方'损失两架Mi-8'（据Business Insider转引）；Business Insider表示无法独立核实行动细节。乌方公开的并非完整攻击过程，而是剪辑后的视频；检索结果中未见对该次行动无人艇数量、发射数量、直升机所属单位、任务性质的详细披露。乌方据此称无人艇已可承担对空作战功能；这一判断目前仅有GUR单方视频与通报支撑。",
+  "defense_effect_cn": "公开资料未显示被击落的直升机采取了任何有效对抗（未见告警、干扰弹或规避机动的记载）。乌方称2架被击毁、1架被击伤，俄方渠道只承认'两架损失'；二者数字有部分吻合，但击毁/击伤的区分、机组命运均无独立证据。若乌方说法属实，直升机在该海域活动将面临来自水面小艇的对空威胁；俄方飞行任务的性质、所属单位本次检索均未见披露，待核。该案未公布俄方事后改变战术的官方信息。",
+  "claims_compare_cn": "乌方（GUR）：12月31日称1毁1伤；1月2日更新为2毁1伤、机组阵亡；武器为R-73改型'海龙'，系首次海上无人艇击落航空目标。俄方：一家航空类Telegram频道（非官方）称夜间损失2架Mi-8；官方口径本次检索未见。独立核实：Business Insider称无法核实；Janes称GUR未说明改型与R-73差异。分歧点：击毁数量随时间上调，无直升机残骸/坠海影像的完整公开。",
+  "losses_cn": "俄方：Mi-8直升机（乌方称2毁1伤；俄一航空频道称损失2架），机组人员阵亡为乌方称谓，未获独立证实。乌方：无人艇损失及导弹消耗未公布。",
+  "analysis_cn": "将短程空空导弹装上水面无人艇，等于以极低成本把一枚红外导弹放到敌机低空巡逻的航路下方；这在海上缺少地面防空网的条件下，是一种非对称的'点防空'。乌方首次通报后一天内上调战果，提示在同一事件的通报上，应以首次声明为下限、后续更新为上限分别记录。对防御方而言，需把无人艇视为可能对空的威胁，而不再仅是水面爆炸目标；对攻击方而言，单艇携弹量有限，战术价值取决于目标指示与引导链的稳定性（本次检索未见相关细节，待核）。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "The Aviationist",
+    "title": "Ukrainian Surface Drone Equipped with R-73 Air-to-Air Missiles Shot Down Russian Mi-8 Helicopter",
+    "title_cn": "乌克兰水面无人艇以R-73空空导弹击落俄Mi-8直升机",
+    "author": "",
+    "date": "2024-12-31",
+    "date_basis": "URL日期",
+    "url": "https://theaviationist.com/2024/12/31/ukrainian-magura-usv-r-73-vs-mi-8-helicopter/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Janes",
+    "title": "Ukraine says Magura V5 USV downed Russian Mi-8 helicopter with adapted AAM",
+    "title_cn": "乌称Magura V5无人艇以改装空空导弹击落俄Mi-8直升机",
+    "author": "",
+    "date": "2024-12-31",
+    "date_basis": "按事件日推定",
+    "url": "https://www.janes.com/osint-insights/defence-news/defence/ukraine-says-magura-v5-usv-downed-russian-mi-8-helicopter-with-adapted-aam",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Liga.net",
+    "title": "Magura naval drones destroy two Russian Mi-8 helicopters, not one as reported earlier",
+    "title_cn": "Magura无人艇击毁2架俄Mi-8，非先前通报的1架",
+    "author": "",
+    "date": "2025-01-02",
+    "date_basis": "按更新日推定",
+    "url": "https://news.liga.net/en/politics/news/magura-naval-drones-destroy-two-russian-mi-8-helicopters-not-one-as-reported-earlier",
+    "type": "其他"
+   },
+   {
+    "publisher": "Yahoo News（转引Business Insider）",
+    "title": "Ukraine says its unusual missile-armed sea drones have scored hits on multiple Russian helicopters in the Black Sea",
+    "title_cn": "乌称其携导弹的无人艇在黑海多次命中俄直升机",
+    "author": "Business Insider",
+    "date": "2025-01-02",
+    "date_basis": "按更新日推定",
+    "url": "https://www.yahoo.com/news/ukraine-says-unusual-missile-armed-175705252.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "Euro-SD（European Security & Defence）",
+    "title": "Magura V5 Mi-8 kills（页面标题据URL）",
+    "title_cn": "Magura V5击落Mi-8",
+    "author": "",
+    "date": "2025-01-01",
+    "date_basis": "仅知2025年1月，具体日未显示",
+    "url": "https://euro-sd.com/2025/01/major-news/41911/magura-v5-mi-8-kills/",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mil_Mi-8T_(4262477038).jpg",
+    "file_name": "Mil Mi-8T (4262477038).jpg",
+    "desc_cn": "Mi-8T直升机资料照（机型示意，与事发机无关；摘要未给出场景与所属单位）",
+    "date": "",
+    "credit": "",
+    "license": "",
+    "verified": true,
+    "source_note": "第二轮经Commons检索（allowed_domains=commons.wikimedia.org）所见，文件页URL取自检索结果；日期/作者/许可未在摘要中给出者留空，需打开文件页核实。"
+   }
+  ],
+  "stats": {
+   "乌方战果（12月31日首报）": "1毁1伤",
+   "乌方战果（1月2日更新）": "2毁1伤",
+   "武器": "R-73改型'海龙'（SeeDragon）空空导弹（GUR口径）"
+  },
+  "notes_cn": "第二轮已做Commons检索（结果见images/image_categories，多为同型/同级资料图，非事发照片）；其余图片线索如下。 本案无人艇数量、导弹发射数、直升机所属单位在检索结果中均未见披露。",
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:Mil_Mi-8_in_Russian_service",
+    "desc_cn": "俄军服役Mi-8分类页",
+    "verified": true
+   },
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:MAGURA_V5",
+    "desc_cn": "Magura V5无人艇分类页（本案载机弹为R-73改型）",
+    "verified": true
+   }
+  ]
+ },
+ {
+  "case_key": "bs_magura_v7_su30_2025_05_02",
+  "category": "远海机动编组",
+  "title_cn": "无人艇以AIM-9击落两架苏-30",
+  "subtitle_cn": "2025年5月2日（乌方口径），新罗西斯克（Novorossiysk）外海及克里米亚上空，乌军情总局Magura V7携AIM-9导弹击落两架俄Su-30",
+  "date_start": "2025-05-02",
+  "date_end": "",
+  "location_cn": "新罗西斯克（Novorossiysk）附近海域（一架）；克里米亚上空（另一架，乌方称）",
+  "lat": 44.65,
+  "lon": 37.75,
+  "region": "黑海",
+  "attacker": "乌克兰国防部情报总局（HUR/GUR）",
+  "defender": "俄军Su-30（乌方称Su-30SM，所属单位待核）",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "异构"
+  ],
+  "attack_means_cn": "Magura V7无人艇3艘，其中2艘对空发射（GUR局长布达诺夫口径）；所用导弹乌方称为美制AIM-9（型号：TWZ按AIM-9M理解，USM Media称AIM-9X，未获证实）；俄军事博主Rybar称弹种为R-73。",
+  "defense_means_cn": "被击落方为战斗机，公开资料未见规避/干扰记载；一架飞行员由民用船只救起（乌方称）。",
+  "narrative_cn": "2025年5月初，乌军情总局（GUR）公布视频，称Magura V7无人艇用空空导弹击落两架俄军苏-30战斗机。GUR局长布达诺夫（Kyrylo Budanov）对The War Zone（TWZ）称，行动使用3艘Magura V7，其中2艘对目标发射；GUR自2025年1月起开始在无人艇上加装美制AIM-9导弹，'我们在V7上用过几种导弹，效果最好的是AIM-9'。他把行动日期说成5月2日。乌克兰《真理报》（Ukrainska Pravda）5月4日援引Naval News影像，称图中无人艇载有2枚AIM-9，并称这是水面无人艇首次击落作战飞机。乌方说法中，一架苏-30在新罗西斯克海军基地附近被击落，机组弹射后被民用船只救起；另一架在克里米亚上空被击落，布达诺夫称按初步数据两名机组人员死亡。Maritime Executive称，无人艇摄像头画面显示战斗机在落海前已解体。口径冲突：Grosswald分析称5月2日为Magura V5以R-73击落苏-30SM，5月6日为Magura V7以AIM-9在新罗西斯克附近再击落一架；Militaeraktuell称损失发生在5月3日；俄军事博主Rybar则称弹种是R-73；USM Media称使用的是AIM-9X，TWZ则按AIM-9M处理。俄国防部官方口径本次检索未见；TWZ文中所附苏-30照片为2017年航展的资料图，并非事发画面。",
+  "defense_effect_cn": "按乌方口径，两架苏-30均未能脱离无人艇发射的导弹威胁；一架飞行员获救，另一架机组阵亡。公开资料没有显示被击落方是否发现无人艇、是否使用过干扰弹或规避机动，也没有俄军事后改变飞行规程的官方信息。从防御端看，此类攻击要求战机进入无人艇红外导引头的有效射程内，说明飞机在海面附近活动时需考虑低成本水面节点的对空威胁；但无人艇携弹量有限，且命中依赖目标指示。本案暴露的问题：双方对导弹型号、日期、数量均无独立证据，只有乌方视频与二手分析。",
+  "claims_compare_cn": "乌方（布达诺夫，TWZ采访）：5月2日，3艘V7、2艘开火，AIM-9，击落两架苏-30，一架机组获救、一架机组阵亡（初步）。Grosswald：5月2日为V5/R-73击落一架，5月6日为V7/AIM-9在新罗西斯克击落一架（与乌官方日期冲突）。Militaeraktuell：5月3日损失一架苏-30SM。Rybar（俄博主）：R-73（Archer）。USM Media：AIM-9X；TWZ：AIM-9M。俄官方口径：本次检索未见。独立核实：除无人艇摄像头画面外无独立影像或残骸证据。",
+  "losses_cn": "俄方：2架苏-30（乌方口径，机组1人获救、另一机组据初步数据死亡）；俄官方未确认。乌方：无人艇是否损失、导弹消耗未公布（3艘V7，2艘发射）。",
+  "analysis_cn": "乌方把空空导弹从R-73（2024年12月）换成美制AIM-9，单次行动击落对象从直升机升到战斗机，若属实则无人艇的对空威胁范围由低空直升机延伸到喷气式战机。但本案的证据质量弱于舰艇被击案：没有卫星图，没有俄方确认，日期与弹种在二手来源之间互相矛盾。对防御方，海面附近的飞行任务需要评估低成本水面节点携带红外空空导弹的可能；对攻击方，单艇携弹量与目标指示链决定了该手段的可重复性。",
+  "confidence": "C",
+  "sources": [
+   {
+    "publisher": "The War Zone (TWZ)",
+    "title": "Two Russian Su-30 Flankers Downed By AIM-9s Fired From Drone Boats: Ukrainian Intel Boss",
+    "title_cn": "乌情报首长：两架俄苏-30被无人艇发射的AIM-9击落",
+    "author": "TWZ",
+    "date": "2025-05-03",
+    "date_basis": "按事件日推定（页面日期未在检索结果中显示）",
+    "url": "https://www.twz.com/news-features/two-russian-su-30-flankers-downed-by-aim-9s-fired-from-drone-boats-ukrainian-intel-boss",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Ukrainska Pravda（Українська правда）",
+    "title": "Photo reveals Ukrainian sea drone that downed Russian Su-30 fighter",
+    "title_cn": "照片披露击落俄苏-30战斗机的乌无人艇",
+    "author": "",
+    "date": "2025-05-04",
+    "date_basis": "URL日期",
+    "url": "https://pravda.com.ua/eng/news/2025/05/4/7510542",
+    "type": "其他"
+   },
+   {
+    "publisher": "Liga.net",
+    "title": "Russian Su-30s were shot down by US missiles from a new anti-aircraft drone – Ukrainian Intel Boss",
+    "title_cn": "乌情报首长：俄苏-30被新型防空无人艇以美制导弹击落",
+    "author": "",
+    "date": "2025-05-03",
+    "date_basis": "按事件日推定",
+    "url": "https://news.liga.net/en/politics/news/russian-su-30s-were-shot-down-by-us-missiles-from-a-new-anti-aircraft-drone-ukrainian-intel-boss",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "For First Time in History, Drone Boat Shoots Down Fighter Jet",
+    "title_cn": "历史上首次：无人艇击落战斗机",
+    "author": "",
+    "date": "2025-05-04",
+    "date_basis": "按事件日推定",
+    "url": "https://www.maritime-executive.com/article/for-first-time-in-history-drone-boat-shoots-down-fighter-jet",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "USM Media",
+    "title": "Details of the operation in the Black Sea: MaguraV7 drones shot down Russian aircraft with an American AIM 9 missile",
+    "title_cn": "黑海行动细节：MaguraV7无人艇以美制AIM-9击落俄机",
+    "author": "",
+    "date": "2025-05-04",
+    "date_basis": "按事件日推定",
+    "url": "https://en.usm.media/details-of-the-operation-in-the-black-sea-magurav7-drones-shot-down-russian-aircraft-with-an-american-aim-9-missile/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Militaeraktuell",
+    "title": "Ukrainian naval drone shoots down Russian Su-30SM Flanker",
+    "title_cn": "乌无人艇击落俄Su-30SM",
+    "author": "",
+    "date": "2025-05-04",
+    "date_basis": "按事件日推定",
+    "url": "https://militaeraktuell.at/en/ukrainian-naval-drone-shoots-down-russian-su-30sm-flanker/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Grosswald",
+    "title": "Ukraine's Sea-Based SAM Nodes: MAGURA V7 Delivers First NATO AIM-9 Kill, Second Su-30 Downed",
+    "title_cn": "乌克兰海基防空节点：MAGURA V7取得首个北约AIM-9击落、第二架苏-30被击落",
+    "author": "",
+    "date": "2025-05-07",
+    "date_basis": "按事件日推定",
+    "url": "https://www.grosswald.org/sea-based-sam-magura-v7-nato-aim9-su30/",
+    "type": "OSINT"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:NavalAviationRefueling2018-12.jpg",
+    "file_name": "NavalAviationRefueling2018-12.jpg",
+    "desc_cn": "海军航空兵第43独立海上突击航空团（43rd OMShAP，驻克里米亚萨基）苏-30SM空中加油训练，据摘要的俄文说明，年份依文件名为2018-12；机型/部队参照，非事发机",
+    "date": "2018-12",
+    "credit": "",
+    "license": "",
+    "verified": true,
+    "source_note": "第二轮经Commons检索（allowed_domains=commons.wikimedia.org）所见，文件页URL取自检索结果；日期/作者/许可未在摘要中给出者留空，需打开文件页核实。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sukhoi_Su-30SM_in_flight_2014.jpg",
+    "file_name": "Sukhoi Su-30SM in flight 2014.jpg",
+    "desc_cn": "苏-30SM飞行资料照（机型示意，非事发机）",
+    "date": "2014",
+    "credit": "",
+    "license": "",
+    "verified": true,
+    "source_note": "第二轮经Commons检索（allowed_domains=commons.wikimedia.org）所见，文件页URL取自检索结果；日期/作者/许可未在摘要中给出者留空，需打开文件页核实。"
+   }
+  ],
+  "stats": {
+   "无人艇数量（布达诺夫）": "3艘Magura V7，2艘开火",
+   "击落数量（乌方）": "2架苏-30",
+   "加装AIM-9起始（布达诺夫）": "2025年1月",
+   "日期（各方）": "乌官方5月2日；Militaeraktuell 5月3日；Grosswald 5月2日与5月6日两起"
+  },
+  "notes_cn": "第二轮已做Commons检索（结果见images/image_categories，多为同型/同级资料图，非事发照片）；其余图片线索如下。 图片线索：Ukrainska Pravda文所引Naval News影像（图中载2枚AIM-9的Magura V7）；TWZ文所附苏-30为2017年航展资料图，不可作事发图使用。",
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:Sukhoi_Su-30SM",
+    "desc_cn": "苏-30SM分类页（摘要称“俄军服役”子类含10个子类、15个文件）",
+    "verified": true
+   },
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:Unmanned_surface_vehicles",
+    "desc_cn": "无人水面艇分类页",
+    "verified": true
+   }
+  ]
+ },
+ {
+  "case_key": "bs_boyko_towers_2023_09_11",
+  "category": "海上小岛",
+  "title_cn": "乌特种部队夺回黑海钻井平台",
+  "subtitle_cn": "2023年8—9月（乌方9月11日公布），克里米亚西北海域'博伊科塔'（Boyko Towers）钻井平台群被乌军情总局夺回",
+  "date_start": "2023-09-11",
+  "date_end": "",
+  "location_cn": "克里米亚西北黑海'博伊科塔'（Boyko Towers/ Вишки Бойка）气田钻井平台群",
+  "lat": 45.6,
+  "lon": 31.6,
+  "region": "黑海",
+  "attacker": "乌克兰国防部情报总局（HUR/GUR）及国防部所属特种部队",
+  "defender": "占据平台的俄军（含雷达与观察哨）",
+  "outcome": "遭偷袭受损",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "偷袭/突防",
+   "异构"
+  ],
+  "attack_means_cn": "特种兵乘快艇登上平台（乌方口径）；过程中与1架俄Su-30交火（战果乌方口径不一致）。",
+  "defense_means_cn": "平台上驻有俄军雷达站及直升机起降设施；对空：1架Su-30到场（乌方称被击伤逼退，另一说被MANPADS击落，后者未获其他来源佐证）。",
+  "narrative_cn": "2023年9月11日，乌克兰国防部情报总局（GUR）宣布，已夺回克里米亚西北海域的'博伊科塔'（Boyko Towers）钻井平台群，涉及'彼得·霍多瓦列茨'号（Petro Hodovalets）、'乌克兰'号（Ukraina）两座钻井平台，以及'塔夫里达'（Tavrida）、'锡瓦什'（Syvash）两座钻井装置。这些平台因乌前能源部长尤里·博伊科（Yuriy Boyko）在2010年游说采购而得名，采购价曾被曝为实价两倍。GUR称，俄方2015年占据平台，全面入侵后将其用作直升机起降点和雷达站，用于观察和监视黑海西北部。特种兵缴获一批NAR型航空无控火箭弹和1部'涅瓦'（Neva）雷达站，该雷达可跟踪黑海舰船活动。过程中，乘艇特种兵与一架俄Su-30交火：一说该机被击伤并撤退，另一说战士以单兵防空导弹将其击落，后一说法在本次检索所见的其他来源中未获佐证。乌南部防御部队发言人称，俄军因此失去了设在平台上的侦察与雷达设备，'相关系统全部停止运转'。时间上，有报道指行动'很可能发生在8月'，9月11日为乌方公布日。分析人士称，夺回平台削弱了俄方在克里米亚周边的外围防御，有助于乌方对克里米亚俄军实施无人机和导弹打击，也与乌方重启黑海航运走廊的目标相关。本次检索未见俄国防部对此事件的公开回应，亦未见独立影像或卫星图对夺回行动的核实。",
+  "defense_effect_cn": "俄方在平台上的防御以雷达观察和临时空中支援（Su-30）为主，据乌方口径未能阻止特种兵登台，且战后雷达与观察设备停用，视为偷袭得手。暴露的问题：离岸平台孤立于海上、缺少常驻火力与近岸支援，很难抵抗夜间小股登陆；雷达站被缴获后，俄方对黑海西北部的海面监视出现缺口（乌南部防御部队口径）。俄方的应对（是否重占、是否加强空中巡逻）本次检索未见公开记录，待核。",
+  "claims_compare_cn": "乌方（GUR，9月11日）：夺回4座平台，缴获NAR火箭弹与'涅瓦'雷达。Su-30事件：一说被击伤逼退，另一说被MANPADS击落（仅单一来源）。占领时间：GUR称俄方2015年占据；另有来源称2014—2015年，年份存在差异。行动时间：乌方9月11日公布；有报道推测发生在8月。俄方：本次检索未见公开口径；独立核实：未见影像/卫星图印证。",
+  "losses_cn": "俄方：平台上的雷达与观察设备（据乌南部防御部队口径停用）、NAR火箭弹及'涅瓦'雷达被缴获；人员损失未见公开。乌方：未公布；俄方未公布。",
+  "analysis_cn": "离岸平台的价值在于为海面监视和直升机起降提供前沿支点；乌方以小股特种兵加快艇夺取，并用缴获物证明行动，'一说击伤、一说击落'的Su-30插曲提示：此类行动的战果通报常带有宣传成分，写入专报时应以单一来源标注。对于攻击方，夺取后能否守住是另一问题：本次检索未见乌方在平台上长期驻守的记录；对于防御方，此类设施需要常驻防空与近程火力，否则易被抵近破袭。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "LB.ua",
+    "title": "Boyko's Towers back under Ukrainian control（页面标题据URL）",
+    "title_cn": "博伊科塔回到乌控制之下",
+    "author": "",
+    "date": "2023-09-11",
+    "date_basis": "URL日期",
+    "url": "https://en.lb.ua/news/2023/09/11/22386_boykos_towers_back_under.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "Ukrainian Special Forces Retake Russian-Held Offshore Rigs",
+    "title_cn": "乌特种部队夺回俄占海上钻井平台",
+    "author": "",
+    "date": "2023-09-11",
+    "date_basis": "按公布日推定",
+    "url": "https://maritime-executive.com/article/ukrainian-special-forces-retake-russian-held-offshore-rigs",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Meduza",
+    "title": "Ukraine says it regained control of oil and gas drilling platforms in Black Sea",
+    "title_cn": "乌称重新控制黑海油气钻井平台",
+    "author": "",
+    "date": "2023-09-11",
+    "date_basis": "URL日期",
+    "url": "https://meduza.io/amp/en/news/2023/09/11/ukraine-says-it-regained-control-of-oil-and-gas-drilling-platforms-in-black-sea",
+    "type": "其他"
+   },
+   {
+    "publisher": "Espreso TV",
+    "title": "Blow to Russia's morale and surveillance. Ukrainian military comments on recapture of Boyko's Towers",
+    "title_cn": "对俄士气与监视的打击：乌军评述夺回博伊科塔",
+    "author": "",
+    "date": "2023-09-11",
+    "date_basis": "按公布日推定",
+    "url": "https://global.espreso.tv/blow-to-russias-morale-and-surveillance-ukrainian-military-comments-on-recapture-of-boykos-towers",
+    "type": "其他"
+   },
+   {
+    "publisher": "Babel",
+    "title": "Ukraine returned to its control \"Boyko Towers\"",
+    "title_cn": "乌克兰重新控制'博伊科塔'",
+    "author": "",
+    "date": "2023-09-11",
+    "date_basis": "按公布日推定",
+    "url": "https://babel.ua/en/news/98354-ukraine-returned-to-its-control-boyko-towers",
+    "type": "其他"
+   },
+   {
+    "publisher": "Liga.net",
+    "title": "Ukraine says recaptured Black Sea gas drilling platforms from Russia",
+    "title_cn": "乌称从俄手中夺回黑海天然气钻井平台",
+    "author": "",
+    "date": "2023-09-11",
+    "date_basis": "按公布日推定",
+    "url": "https://news.liga.net/en/politics/video/ukraina-vernula-vyshki-boyko-gur-zayavilo-ob-unikalnoy-operatsii-v-chernom-more-video",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ukrainian_gas_drilling_platforms_in_Black_sea.jpg",
+    "file_name": "Ukrainian gas drilling platforms in Black sea.jpg",
+    "desc_cn": "黑海乌克兰天然气钻井平台（摘要称乌/俄文说明链接到黑海石油天然气公司条目，法、德语维基“博伊科塔”条目使用此图），资料照",
+    "date": "",
+    "credit": "",
+    "license": "",
+    "verified": true,
+    "source_note": "第二轮经Commons检索（allowed_domains=commons.wikimedia.org）所见，文件页URL取自检索结果；日期/作者/许可未在摘要中给出者留空，需打开文件页核实。"
+   }
+  ],
+  "stats": {
+   "平台数量（GUR）": "4座（Petro Hodovalets、Ukraina、Tavrida、Syvash）",
+   "缴获": "NAR型航空无控火箭弹一批；'涅瓦'雷达站1部（GUR口径）",
+   "占据起始（GUR）": "2015年（他源：2014—2015）"
+  },
+  "notes_cn": "第二轮已做Commons检索（结果见images/image_categories，多为同型/同级资料图，非事发照片）；其余图片线索如下。 图片线索：offshore-energy.biz文（https://offshore-energy.biz/?p=677740）图注为'博伊科塔，来源：乌军事情报机构'，应为GUR公布图片，许可待核。lat/lon为近似值。",
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:Chornomornaftogaz",
+    "desc_cn": "黑海石油天然气公司（Chornomornaftogaz）分类页（含平台与钻探作业照片）",
+    "verified": true
+   }
+  ]
+ },
+ {
+  "case_key": "bs_kairos_virat_2025_11_28",
+  "category": "远海机动编组",
+  "title_cn": "乌无人艇在土耳其专属经济区击伤两艘油轮",
+  "subtitle_cn": "2025年11月28日，土耳其黑海沿岸专属经济区内，SBU与海军以Sea Baby攻击受制裁油轮'凯罗斯'号（Kairos）和'维拉特'号（Virat）",
+  "date_start": "2025-11-28",
+  "date_end": "",
+  "location_cn": "土耳其黑海沿岸专属经济区内（Turkish EEZ, Black Sea）",
+  "lat": 42.0,
+  "lon": 30.5,
+  "region": "黑海",
+  "attacker": "乌克兰安全局（SBU）第13总局与乌克兰海军联合（SBU口径）",
+  "defender": "油轮'凯罗斯'号（Kairos）、'维拉特'号（Virat）（受西方制裁的俄影子船队船舶）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "Sea Baby水面无人艇（SBU口径），数量未公布；两船在较短时间内先后被击中；部分转载稿提到'水下'Sea Baby，待核。",
+  "defense_means_cn": "民用油轮，船员以呼救（Virat船长发出遭'无人机攻击'求救）和撤离为主；未见船载防御。",
+  "narrative_cn": "2025年11月28日傍晚，路透社和彭博社首先报道土耳其黑海海岸外有两艘受制裁油轮发生爆炸。两船分别是'凯罗斯'号（Kairos）和'维拉特'号（Virat），均被西方列入制裁名单、被视为俄'影子船队'成员。乌克兰安全局（SBU）随后向美联社确认，其以国产Sea Baby无人艇击中两船，行动由SBU第13总局与乌克兰海军联合实施；SBU消息人士称两船均受重创，'已被有效退出运营'，并称两船可运载的石油价值近7000万美元（乌方单方数字）。土耳其交通部长表示，两船可能遭水雷、导弹、水面艇或无人机袭击，事发地在土耳其专属经济区内。'凯罗斯'号起火持续至次日，25名船员全部安全撤离；'维拉特'号船长曾发出遭'无人机攻击'的求救呼叫。航向与载货口径不一：一说'凯罗斯'号从埃及驶向俄罗斯，另一些来源称两船均为空载，驶往新罗西斯克（Novorossiysk）装货；Kyiv Post称事发时船上无石油。同日里海管道联盟（CPC）称其新罗西斯克海上终端遭无人艇攻击，属另一起事件。本次检索中，土耳其官方未确认袭击方，Sea Baby的使用来自乌方及乌方消息人士。",
+  "defense_effect_cn": "两艘油轮均无自卫手段，防护依赖航线与船员应变；两船被击中后起火但未报告沉没，船员全部撤离，说明损害主要是船体与舱室着火，而非沉没级毁伤。暴露的问题是：影子船队船舶在土耳其专属经济区内活动时无护航、无反无人艇手段；土耳其方面对责任方态度谨慎（只列出可能手段）。俄方随后的反应与土耳其方面的交涉，本次检索未核实，待核。",
+  "claims_compare_cn": "乌方（SBU，经美联社转述）：Sea Baby击中，两船受重创、已无法运营，所载油价值近7000万美元。Kyiv Post：事发时船上无石油。土耳其交通部长：可能是水雷、导弹、水面艇或无人机；地点在土耳其专属经济区。航向：一说埃及→俄罗斯，另一说空载驶向新罗西斯克。俄方官方口径：本次检索未见。船员：25人（'凯罗斯'号）全部安全；'维拉特'号船员数待核。",
+  "losses_cn": "'凯罗斯'号（起火，持续至次日）与'维拉特'号受损，乌方称均'已被有效退出运营'（单方口径）；两船沉没未见报告；25名船员（'凯罗斯'号）全部撤离；经济损失：乌方称油价值近7000万美元，但Kyiv Post称事发时空载，数字待核。",
+  "analysis_cn": "事发点在土耳其专属经济区内，而非乌方控制区附近；目标是受制裁的影子船队油轮，而非军舰。攻击方的政治风险与收益并存：土耳其官方对责任方态度谨慎；航运业与保险方面的反应，本次检索未核实，待核。乌方明确表示SBU与海军联合，且发布视频，说明此类行动已从秘密转为公开宣示的政策工具。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Associated Press（经 click2houston 转载）",
+    "title": "Ukraine's naval drones strike Russian oil tankers in the Black Sea off the Turkish coast",
+    "title_cn": "乌无人艇在土耳其沿岸黑海打击俄油轮",
+    "author": "AP",
+    "date": "2025-11-29",
+    "date_basis": "URL日期",
+    "url": "https://www.click2houston.com/news/2025/11/29/ukraines-naval-drones-strike-russian-oil-tankers-in-the-black-sea-off-the-turkish-coast/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "NewsTribune（newstribune.com，转载通讯社稿）",
+    "title": "Ukrainian drones strike Russian oil tankers in Black Sea（页面标题据URL）",
+    "title_cn": "乌无人艇打击黑海俄油轮",
+    "author": "",
+    "date": "2025-11-30",
+    "date_basis": "URL日期",
+    "url": "https://www.newstribune.com/news/2025/nov/30/ukrainian-drones-strike-russian-oil-tankers-in/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Kyiv Post",
+    "title": "[UPDATED: Nov. 29, 1:49 pm, Kyiv time. Updated with comments from Ukraine's Security Service (SBU)]（页面标题据检索结果）",
+    "title_cn": "乌克兰安全局就两艘油轮遇袭发表评论（更新稿）",
+    "author": "",
+    "date": "2025-11-29",
+    "date_basis": "页面更新时间",
+    "url": "https://www.kyivpost.com/post/65230",
+    "type": "其他"
+   },
+   {
+    "publisher": "Interfax-Ukraine",
+    "title": "（页面标题待核，Kairos/Virat相关报道）",
+    "title_cn": "待核",
+    "author": "",
+    "date": "2025-11-29",
+    "date_basis": "按事件日推定",
+    "url": "https://interfax.com.ua/news/general/1124576.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "Hvylya（en.hvylya.net）",
+    "title": "SBU sea drones strike two Russian shadow fleet tankers (video)（页面标题据URL）",
+    "title_cn": "SBU无人艇打击两艘俄影子船队油轮（视频）",
+    "author": "",
+    "date": "2025-11-29",
+    "date_basis": "按事件日推定",
+    "url": "https://en.hvylya.net/news/109-sbu-sea-drones-strike-two-russian-shadow-fleet-tankers-video",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ukrainian_marine_drones.jpg",
+    "file_name": "Ukrainian marine drones.jpg",
+    "desc_cn": "“海上宝贝”（Sea Baby）无人艇，乌英双语说明，并提及SBU称同型曾于2023年7月攻击克里米亚大桥；型号示意，非本案影像",
+    "date": "",
+    "credit": "",
+    "license": "",
+    "verified": true,
+    "source_note": "第二轮经Commons检索（allowed_domains=commons.wikimedia.org）所见，文件页URL取自检索结果；日期/作者/许可未在摘要中给出者留空，需打开文件页核实。"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sea_Baby_unmanned_surface_vehicle_undertaking_sea_trials.webm",
+    "file_name": "Sea Baby unmanned surface vehicle undertaking sea trials.webm",
+    "desc_cn": "SBU公布的“海上宝贝”无人艇海试视频（摘要称为2024年1月，说明称已去除原片版权音乐，作者署SBU）；型号示意，非本案影像",
+    "date": "2024-01",
+    "credit": "乌克兰安全局（SBU）",
+    "license": "",
+    "verified": true,
+    "source_note": "第二轮经Commons检索（allowed_domains=commons.wikimedia.org）所见，文件页URL取自检索结果；日期/作者/许可未在摘要中给出者留空，需打开文件页核实。"
+   }
+  ],
+  "stats": {
+   "'凯罗斯'号船员": "25人，全部撤离",
+   "乌方称所载油价值": "近7000万美元（SBU消息人士，单方）",
+   "攻击顺序": "两船在傍晚相继被击中（AP）"
+  },
+  "notes_cn": "第二轮已做Commons检索（结果见images/image_categories，多为同型/同级资料图，非事发照片）；其余图片线索如下。 lat/lon仅为'土耳其黑海沿岸专属经济区'的示意点，具体位置待核（后续可检索Turkish Ministry of Transport / UKMTO / Ambrey通报）。SBU公布视频截图许可待核。 第二轮交叉信息：检索摘要称日期有11月28日（多数）与29日（Wikipedia“Ukrainian attacks on the Russian shadow fleet”条目，乌方认领日）两种；SBU称两船空载驶往新罗西斯克；Kairos严重受损起火、25名船员安全撤离，Virat次日晨再遭袭、水线以上轻微受损；两船均挂冈比亚旗，已被美、欧、英制裁（出处：Kyiv Post / Al Jazeera 等摘要综述，细节未逐篇核对）。",
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:Unmanned_surface_vehicles",
+    "desc_cn": "无人水面艇分类页",
+    "verified": true
+   }
+  ]
+ },
+ {
+  "case_key": "bs_simferopol_2025_08_28",
+  "category": "远海机动编组",
+  "title_cn": "俄无人艇首次击中乌海军侦察船",
+  "subtitle_cn": "2025年8月28日，多瑙河口（Danube estuary）水域，俄无人艇攻击乌海军'辛菲罗波尔'号（Simferopol）侦察船",
+  "date_start": "2025-08-28",
+  "date_end": "",
+  "location_cn": "多瑙河口（Danube estuary/ Danube delta）水域",
+  "lat": 45.2,
+  "lon": 29.75,
+  "region": "黑海",
+  "attacker": "俄罗斯军队（俄国防部口径：海上无人艇）",
+  "defender": "乌克兰海军'辛菲罗波尔'号（Simferopol）'拉古纳'（Laguna）级侦察船",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "单平台",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "俄方称使用海上无人艇（具体型号未见公开）；俄国防部公布了接近与命中视频。",
+  "defense_means_cn": "乌海军侦察船，未见反无人艇防御记载。",
+  "narrative_cn": "2025年8月28日，俄国防部称，其海上无人艇在多瑙河口附近击中乌克兰海军'辛菲罗波尔'号（Simferopol），'乌舰被击沉'，并公布了接近与命中的视频。这是莫斯科首次公开确认使用无人艇打击乌方舰船。乌海军发言人普列坚丘克（Dmytro Pletenchuk）确认遇袭，起初未点名舰名，后承认'辛菲罗波尔'号被击中。俄《The Insider》援引乌媒Dumska报道称，袭击发生在午夜前后、舰位于多瑙河口水域，舰体被击穿后倾覆；Meduza与Maritime Executive则称乌方未确认该舰沉没。伤亡口径前后不一：早期称1名水兵死亡、数人受伤、搜救仍在进行；之后乌方将死亡数提高到2人，《The Insider》称还有舰员列为失踪。该舰为'拉古纳'（Laguna）级信号与电子侦察船（无线电、雷达、光学侦察），长约55米，编制29人（Marine Insight）。Euromaidan Press称，该舰曾在全面入侵后躲过42个月的打击，最终被俄无人艇发现并击中。TWZ称这是俄方首次成功以无人艇攻击乌方海军舰船。",
+  "defense_effect_cn": "乌海军侦察船在河口水域遭俄无人艇命中，公开资料未见任何拦截记载。暴露的问题：靠近多瑙河口的乌海军小型舰艇在事发时缺乏有效的反无人艇手段（公开资料未见记载）。沉没与否存在口径差异：俄方称沉没，乌方只确认被击中，一家乌媒称倾覆；人员伤亡数字三度变动，说明损管与搜救在事发后仍在进行。",
+  "claims_compare_cn": "俄国防部（8月28日）：无人艇击中，乌舰沉没，公布视频。乌海军（普列坚丘克）：确认遇袭、后承认'辛菲罗波尔'号被击中；Meduza与Maritime Executive称乌方未确认沉没。Dumska/The Insider：午夜袭击，舰体破口并倾覆。死亡人数：初称1人，后升至2人；《The Insider》称有人失踪。独立核实：本次检索未见卫星图或残骸影像。",
+  "losses_cn": "乌方：'辛菲罗波尔'号1艘（俄方称沉没，乌方称被击中，Dumska称倾覆）；人员：乌方称至少2人死亡、数人受伤，另有人失踪（The Insider）。俄方：无。",
+  "analysis_cn": "此前公开案例多为乌方无人艇打击俄方舰船，这次是俄方公开确认的首次无人艇攻击乌海军舰艇，地点在多瑙河口，距俄控区较远。Euromaidan Press标题称该舰'躲了42个月'，即该舰在全面入侵期间长期未被命中，最终被无人艇击中。对防御方，小型侦察/巡逻船在河口需要配备探测与近防手段，否则可视为被暴露的单一目标。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Meduza",
+    "title": "Russian drone hits Ukrainian naval ship, killing at least one and injuring several others",
+    "title_cn": "俄无人机击中乌海军舰艇，至少1死数伤",
+    "author": "",
+    "date": "2025-08-28",
+    "date_basis": "URL日期",
+    "url": "https://meduza.io/en/news/2025/08/28/russian-drone-hits-ukrainian-naval-ship-killing-at-least-one-and-injuring-several-others",
+    "type": "其他"
+   },
+   {
+    "publisher": "The War Zone (TWZ)",
+    "title": "Russia Just Made Its First Successful Drone Boat Attack On A Ukrainian Naval Ship",
+    "title_cn": "俄首次成功以无人艇攻击乌海军舰艇",
+    "author": "TWZ",
+    "date": "2025-08-28",
+    "date_basis": "按事件日推定",
+    "url": "https://www.twz.com/sea/russia-just-made-its-first-successful-drone-boat-attack-on-a-ukrainian-naval-ship",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "Video: Russia Damages Ukrainian Spy Ship in First Naval Drone Attack",
+    "title_cn": "视频：俄首次无人艇攻击重创乌侦察船",
+    "author": "",
+    "date": "2025-08-28",
+    "date_basis": "按事件日推定",
+    "url": "https://maritime-executive.com/article/video-russia-damages-ukrainian-spy-ship-in-first-naval-drone-attack",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Insider",
+    "title": "（页面标题待核，Simferopol遇袭报道）",
+    "title_cn": "待核",
+    "author": "",
+    "date": "2025-08-28",
+    "date_basis": "按事件日推定",
+    "url": "https://theins.ru/en/news/284484",
+    "type": "其他"
+   },
+   {
+    "publisher": "Euromaidan Press",
+    "title": "Ukraine's \"lucky\" spy ship hid for 42 months. A Russian drone boat finally found it",
+    "title_cn": "乌'幸运'侦察船躲了42个月，终被俄无人艇找到",
+    "author": "",
+    "date": "2025-08-31",
+    "date_basis": "URL日期",
+    "url": "https://euromaidanpress.com/2025/08/31/simferopol-sunk/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "Video: Russian Drone Boat Sinks Ukraine's Largest Naval Ship In First-Ever Strike",
+    "title_cn": "视频：俄无人艇首次出击击沉乌最大海军舰艇",
+    "author": "",
+    "date": "2025-08-29",
+    "date_basis": "按事件日推定",
+    "url": "https://www.marineinsight.com/shipping-news/video-russian-drone-boat-sinks-ukraines-largest-naval-ship-in-first-ever-strike/",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "死亡人数（乌方）": "初称1人，后升至2人",
+   "舰长/编制（Marine Insight）": "约55米 / 29人",
+   "俄方口径": "击沉；公布命中视频"
+  },
+  "notes_cn": "第二轮已做Commons检索（结果见images/image_categories，多为同型/同级资料图，非事发照片）；其余图片线索如下。 俄国防部视频为原始证据来源之一，截图许可待核。Marine Insight标题称'乌最大海军舰艇'，与他源'拉古纳级侦察船、约55米'的描述不符，仅标题口径，待核。",
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:Simferopol_(ship,_2019)",
+    "desc_cn": "乌海军“辛菲罗波尔”号（Laguna级侦察船，Kuznia na Rybalskomu建造）分类页，摘要称含3张照片，其中一图标题为“Ukrainian reconnaissance ship Lahuna”，但文件页URL在检索结果中未见，未收为文件",
+    "verified": true
+   }
+  ]
+ },
+ {
+  "case_key": "bs_ivan_khurs_2023_05_24",
+  "category": "远海机动编组",
+  "title_cn": "无人艇远程突袭土耳其外海的俄侦察船",
+  "subtitle_cn": "2023年5月24日，博斯普鲁斯海峡东北约140公里的土耳其专属经济区内，乌无人艇攻击俄黑海舰队'伊万·胡尔斯'号（Ivan Khurs）侦察船",
+  "date_start": "2023-05-24",
+  "date_end": "",
+  "location_cn": "博斯普鲁斯海峡东北约140公里黑海海域（土耳其专属经济区内，俄方口径）",
+  "lat": 42.1,
+  "lon": 30.3,
+  "region": "黑海",
+  "attacker": "乌克兰（具体单位未公布；乌国防部公布了影像）",
+  "defender": "俄黑海舰队'伊万·胡尔斯'号（Ivan Khurs）侦察船",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "无人快艇（俄方称3艘；乌方公布影像显示至少1艘命中舰艉）。",
+  "defense_means_cn": "舰载标准武器射击（俄国防部称3艘全部被击毁）；乌方影像显示无人艇穿越密集火力后命中舰艉。",
+  "narrative_cn": "2023年5月24日，俄国防部发言人科纳申科夫（Igor Konashenkov）称，黑海舰队'伊万·胡尔斯'号（Ivan Khurs）侦察船当天凌晨遭乌军3艘无人快艇攻击，3艘均被舰载标准武器击毁，地点在博斯普鲁斯海峡东北约140公里处。俄方称该舰当时在土耳其专属经济区内为'土耳其溪'（Turkish Stream）与'蓝溪'（Blue Stream）天然气管道提供警戒。俄军事博主最先披露遇袭，国防部过了12小时以上才予以确认。乌方未即时官方回应，但乌国防部随后发布影像，画面似显示该舰被无人艇命中；CNN分析认为被攻击的船很可能就是'伊万·胡尔斯'号。另一段由无人艇机载摄像头拍摄的视频显示，该艇穿越密集火力后撞击舰艉。乌媒Mind.ua援引军方消息称，该舰'没有沉没，但被击中，舰体和设备受到严重损伤'。该舰为俄海军仅有的两艘同级舰船之一。该事件的特殊性在于地点距乌控区很远，位于土耳其专属经济区，说明无人艇的作战半径已超出乌方近岸海域。本次检索未见卫星图或残骸影像对损伤程度的独立核实。",
+  "defense_effect_cn": "俄方称拦截全部成功，乌方影像则显示至少1艘突破火力并命中；双方证据并存，防御效果判断不能单边采信。乌方影像显示无人艇穿越密集火力后命中舰艉，说明舰上射击未能拦住至少1艘来袭小艇。暴露的问题：在远离俄控区的警戒任务中，侦察船缺少对水面无人艇的外圈探测与护航；俄国防部过了12小时以上才确认遇袭，说明信息披露与损失评估偏慢。",
+  "claims_compare_cn": "俄国防部（5月24日，Konashenkov）：3艘无人艇全部被击毁，舰继续执行任务，地点在博斯普鲁斯东北140公里。乌方：乌国防部发布影像，似显示舰被击中；官方未即时评论。CNN：被攻击的船很可能是'伊万·胡尔斯'号。Mind.ua军方消息：被击中、舰体与设备严重受损，但未沉没。差异：'3艘全部击毁、舰无损'与'至少1艘命中舰艉并造成严重损伤'直接冲突；本次检索未见独立核实。",
+  "losses_cn": "俄方：'伊万·胡尔斯'号受损（乌方军方消息称舰体与设备严重受损，俄称无损）；人员伤亡未见公开。乌方：无人艇数量未公布（俄称3艘全部被毁）。",
+  "analysis_cn": "此案的价值在于'距离'：事发点位于土耳其专属经济区，距乌控区数百公里，说明无人艇已能对远离海岸的目标实施打击。俄方称该舰当时在为能源管道提供警戒。口径上，俄方'全部拦截'与乌方'命中'同时存在，是后续多起案例（例如2023年8月1日俄方称击退无人艇）中常见的互相矛盾模式：以影像为依据的一方通常更具可核实性。对防御方，单舰近程射击对多个小目标的饱和来袭难以做到零漏；对攻击方，距离越远，越需要可靠的通信与目标指示。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Ukrainska Pravda（Українська правда）",
+    "title": "Russia's Defence Ministry claims its reconnaissance vessel attacked by naval drones",
+    "title_cn": "俄国防部称其侦察船遭无人艇攻击",
+    "author": "",
+    "date": "2023-05-24",
+    "date_basis": "URL日期",
+    "url": "https://www.pravda.com.ua/eng/news/2023/05/24/7403692",
+    "type": "其他"
+   },
+   {
+    "publisher": "The War Zone (TWZ)",
+    "title": "Russia Claims Ukrainian Drone Boats Attacked Its Navy Ship Off Turkey",
+    "title_cn": "俄称乌无人艇在土耳其外海攻击其海军舰艇",
+    "author": "TWZ",
+    "date": "2023-05-24",
+    "date_basis": "按事件日推定",
+    "url": "https://www.twz.com/russia-claims-ukrainian-drone-boats-attacked-its-navy-ship-off-turkey",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "CNN",
+    "title": "6:25 p.m. ET, May 25, 2023（Ukraine war live news页面）",
+    "title_cn": "CNN乌克兰战事直播页，2023年5月25日条目",
+    "author": "CNN",
+    "date": "2023-05-25",
+    "date_basis": "页面标题日期",
+    "url": "https://amp.cnn.com/cnn/europe/live-news/russia-ukraine-war-news-05-25-23/index.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "LB.ua",
+    "title": "Russian Defence Ministry claims Ukrainian unmanned boats attacked ship（页面标题据URL）",
+    "title_cn": "俄国防部称乌无人艇攻击其舰船",
+    "author": "",
+    "date": "2023-05-24",
+    "date_basis": "URL日期",
+    "url": "https://en.lb.ua/news/2023/05/24/20526_russian_defence_ministry.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "Mind.ua",
+    "title": "A video has appeared confirming that one of the unmanned boats has reached the Russian ship Ivan Khurs",
+    "title_cn": "视频显示一艘无人艇已抵达俄舰'伊万·胡尔斯'号",
+    "author": "",
+    "date": "2023-05-24",
+    "date_basis": "按事件日推定",
+    "url": "https://mind.ua/en/news/20257837-a-video-has-appeared-confirming-that-one-of-the-unmanned-boats-has-reached-the-russian-ship-ivan-khu",
+    "type": "其他"
+   },
+   {
+    "publisher": "Military.in.ua（mil.in.ua）",
+    "title": "An unmanned surface vessel struck a Russian ship in the Black Sea",
+    "title_cn": "一艘无人艇击中黑海俄舰",
+    "author": "",
+    "date": "2023-05-24",
+    "date_basis": "按事件日推定",
+    "url": "https://mil.in.ua/en/news/an-unmanned-surface-vessel-struck-a-russian-ship-in-the-black-sea/",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ivan_Khurs_USS_Farragut_Image7.jpg",
+    "file_name": "Ivan Khurs USS Farragut Image7.jpg",
+    "desc_cn": "“伊万·胡尔斯”号（Ivan Khurs）侦察船在北阿拉伯海与美舰“法拉古特”号（USS Farragut, DDG-99）近距离接近的照片；摘要称为2020年，来源疑为美国海军，许可待核",
+    "date": "2020",
+    "credit": "",
+    "license": "",
+    "verified": true,
+    "source_note": "第二轮经Commons检索（allowed_domains=commons.wikimedia.org）所见，文件页URL取自检索结果；日期/作者/许可未在摘要中给出者留空，需打开文件页核实。",
+    "year_hint": "2020（检索摘要）"
+   }
+  ],
+  "stats": {
+   "无人艇数量（俄方）": "3艘，称全部被击毁",
+   "距博斯普鲁斯海峡（俄方）": "东北约140公里",
+   "俄方确认延迟": "12小时以上"
+  },
+  "notes_cn": "第二轮已做Commons检索（结果见images/image_categories，多为同型/同级资料图，非事发照片）；其余图片线索如下。 图片线索：乌国防部公布的无人艇命中视频截图（见CNN直播页、Mind.ua文）；许可待核。",
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:Yury_Ivanov-class_intelligence_ship_(Project_18280)",
+    "desc_cn": "尤里·伊万诺夫级（18280型）侦察舰类别页（共2艘，北方造船厂建造）",
+    "verified": true
+   }
+  ]
+ },
+ {
+  "case_key": "bs_kotov_bykov_claim_2023_08_01",
+  "category": "远海机动编组",
+  "title_cn": "俄称击退无人艇袭击，乌否认参与",
+  "subtitle_cn": "2023年8月1日（俄国防部通报），塞瓦斯托波尔西南约340公里黑海，'谢尔盖·科托夫'号（Sergey Kotov）与'瓦西里·贝科夫'号（Vasily Bykov）巡逻舰称击退3艘无人艇",
+  "date_start": "2023-08-01",
+  "date_end": "",
+  "location_cn": "塞瓦斯托波尔西南约340公里黑海海域（俄方口径）",
+  "lat": 42.4,
+  "lon": 30.5,
+  "region": "黑海",
+  "attacker": "身份不明（俄方称乌军；乌海军否认参与）",
+  "defender": "俄黑海舰队'谢尔盖·科托夫'号、'瓦西里·贝科夫'号22160型巡逻舰（'控制航行'任务，俄方口径）",
+  "outcome": "防御成功",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "无人快艇3艘（俄方口径）。",
+  "defense_means_cn": "舰炮射击，将3艘无人艇全部击毁（俄国防部口径）。",
+  "narrative_cn": "2023年8月1日，俄国防部通报，乌方企图用3艘无人快艇攻击黑海舰队正在'控制航行'的22160型巡逻舰'谢尔盖·科托夫'号和'瓦西里·贝科夫'号，地点在塞瓦斯托波尔西南约340公里。俄方称两舰以舰炮火力将3艘无人艇全部击毁。乌海军发言人普列坚丘克（Dmytro Pletenchuk）否认乌方参与，并称乌海军并不拥有俄方所描述的这类无人艇。乌媒Babel援引安全部门消息称，其中一艘俄舰的水兵曾请求后送伤员，与俄方'成功击退'的说法不符，该说法仅为单一匿名来源，本次检索未能独立核实。此事发生在'伊万·胡尔斯'号遇袭（2023年5月24日）之后，且'谢尔盖·科托夫'号此后被英国国防部（UK MoD）称在2023年7月和9月两次遭无人艇攻击、均轻伤返役；该次通报是否即为UK MoD所称7月那次，本次检索未能确认，待核。本案中三方口径出现三种形态：俄方称击退，乌官方否认，乌媒体匿名来源称俄舰有伤员。公开资料未提供命中、爆炸或影像等可核实证据。",
+  "defense_effect_cn": "按俄方口径，防御成功：两舰舰炮将3艘无人艇全部击毁，未提及舰体受损。但无独立影像，且乌方否认、匿名来源称有伤员，防御效果无法确认。暴露的问题：俄方此类通报仅有结果，缺乏时间、命中与伤情细节；若匿名来源属实，则'全部击毁'与有人员伤亡之间存在矛盾。",
+  "claims_compare_cn": "俄国防部（8月1日）：3艘无人艇被两艘巡逻舰击毁，地点在塞瓦斯托波尔西南约340公里。乌海军（普列坚丘克）：乌方未参与，海军没有此类无人艇。Babel匿名来源：俄水兵曾请求后送伤员。UK MoD（据2024年3月通报）：科托夫号2023年7月、9月曾遭无人艇攻击并轻微受损，未说明是否即为本次。独立证据：未见。",
+  "losses_cn": "俄方：口径为无损（匿名来源称有人员待后送）；乌方：俄称无人艇3艘被毁，乌方否认拥有，数字待核。",
+  "analysis_cn": "此案的意义不在战果，而在口径管理：俄方通报'击退'、乌方'否认'，两者都缺少影像；这是黑海无人艇战中常见的信息战模式。地点位于距塞瓦斯托波尔340公里的远海，与5月'伊万·胡尔斯'号一案相近，若俄方所述地点属实，则无人艇的作战半径较大。写入专报时应将'防御成功'标为俄方单方口径，避免作为拦截成功率统计。",
+  "confidence": "C",
+  "sources": [
+   {
+    "publisher": "Ukrainska Pravda（Українська правда）",
+    "title": "Russians claim attack by Ukrainian drone boats on Black Sea Fleet vessels",
+    "title_cn": "俄称乌无人艇袭击黑海舰队舰船",
+    "author": "",
+    "date": "2023-08-01",
+    "date_basis": "URL日期",
+    "url": "https://www.pravda.com.ua/eng/news/2023/08/01/7413672/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Euromaidan Press",
+    "title": "Russia claimed it repelled Ukrainian attack of marine drones on its ships \"controlling navigation\" 340 km from Crimea",
+    "title_cn": "俄称击退乌无人艇对距克里米亚340公里处'控制航行'舰船的袭击",
+    "author": "",
+    "date": "2023-08-01",
+    "date_basis": "URL日期",
+    "url": "https://euromaidanpress.com/2023/08/01/russia-claimed-it-repelled-ukrainian-attack-of-marine-drones-on-its-ships-controlling-navigation-340-km-from-crimea/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Ukrinform",
+    "title": "Russia says it thwarted sea drone attack on its ships",
+    "title_cn": "俄称挫败对其舰船的无人艇袭击",
+    "author": "",
+    "date": "2023-08-01",
+    "date_basis": "按事件日推定",
+    "url": "https://www.ukrinform.net/rubric-ato/3742932-russia-says-it-thwarted-sea-drone-attack-on-its-ships.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "Babel",
+    "title": "The Ukrainian Navy denies involvement in the attack on the ship of the Black Sea Fleet of the Russian Federation",
+    "title_cn": "乌海军否认参与对俄黑海舰队舰船的袭击",
+    "author": "",
+    "date": "2023-08-01",
+    "date_basis": "按事件日推定",
+    "url": "https://babel.ua/en/news/96914-the-ukrainian-navy-denies-involvement-in-the-attack-on-the-ship-of-the-black-sea-fleet-of-the-russian-federation",
+    "type": "其他"
+   },
+   {
+    "publisher": "UkraNews",
+    "title": "Russia states that Ukrainian naval drones attacked ships of Black Sea Fleet",
+    "title_cn": "俄称乌无人艇袭击黑海舰队舰船",
+    "author": "",
+    "date": "2023-08-01",
+    "date_basis": "按事件日推定",
+    "url": "https://ukranews.com/en/news/947662-russia-states-that-ukrainian-naval-drones-attacked-ships-of-black-sea-fleet",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Patrol_ship_Vasily_Bykov.jpg",
+    "file_name": "Patrol ship Vasily Bykov.jpg",
+    "desc_cn": "“瓦西里·贝科夫”号巡逻舰资料照（非事发照片；本案俄方称被袭的是22160型巡逻舰）",
+    "date": "",
+    "credit": "",
+    "license": "",
+    "verified": true,
+    "source_note": "第二轮经Commons检索（allowed_domains=commons.wikimedia.org）所见，文件页URL取自检索结果；日期/作者/许可未在摘要中给出者留空，需打开文件页核实。"
+   }
+  ],
+  "stats": {
+   "无人艇数量（俄方）": "3艘，称全部击毁",
+   "距离（俄方）": "塞瓦斯托波尔西南约340公里"
+  },
+  "notes_cn": "第二轮已做Commons检索（结果见images/image_categories，多为同型/同级资料图，非事发照片）；其余图片线索如下。 无图。需后续检索：是否为UK MoD所称2023年7月科托夫号遇袭。",
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:368_Vasily_Bykov_(ship,_2018)",
+    "desc_cn": "“瓦西里·贝科夫”号分类页",
+    "verified": true
+   },
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:Vasily_Bykov_class_patrol_ship",
+    "desc_cn": "22160型类别页",
+    "verified": true
+   }
+  ]
+ },
+ {
+  "case_key": "bs_tarkhankut_raid_2023_08_24",
+  "category": "海上小岛",
+  "title_cn": "乌特种部队两栖登陆克里米亚西端岬角",
+  "subtitle_cn": "2023年8月24日，克里米亚西端塔尔汉库特角（Cape Tarkhankut）近马亚克、奥列尼夫卡，乌军情总局乘艇登陆并升旗，前一日称摧毁一套S-400",
+  "date_start": "2023-08-24",
+  "date_end": "",
+  "location_cn": "克里米亚西端塔尔汉库特角（Cape Tarkhankut），近马亚克（Mayak）与奥列尼夫卡（Olenivka）",
+  "lat": 45.35,
+  "lon": 32.5,
+  "region": "黑海",
+  "attacker": "乌克兰国防部情报总局（HUR/GUR）特种部队，海军配合",
+  "defender": "俄克里米亚驻军（含防空与雷达设施）",
+  "outcome": "遭偷袭受损",
+  "domains": [
+   "水面",
+   "岸基"
+  ],
+  "patterns": [
+   "偷袭/突防",
+   "异构"
+  ],
+  "attack_means_cn": "乘艇登陆；火力打击（乌方称前一日毁S-400）；乌军海军配合。",
+  "defense_means_cn": "岸上驻军与防空系统；俄方称发现并'消灭'一支破坏小组。",
+  "narrative_cn": "2023年8月24日（乌克兰独立日）凌晨，乌军情总局（HUR/GUR）称其特种部队在克里米亚西端塔尔汉库特角（Cape Tarkhankut）登陆，在海军配合下与驻军交火，并在一处小建筑上悬挂乌克兰国旗；GUR在Telegram上发布了夜间悬旗的视频。GUR发言人尤索夫（Andrii Yusov）称行动'具有突袭性质'，部队已撤离，俄方有损失而乌方无损失；他把地点定位在塔尔汉库特角，靠近马亚克（Mayak）和奥列尼夫卡（Olenivka）。当地居民称听到枪炮声和爆炸声。俄方说法不同：俄方消息称发现并'消灭'一支乌军'破坏小组'，地点在奥列尼夫卡附近；俄宣传类Telegram频道则称，乘橡皮艇的不明人员向奥列尼夫卡营地的游客开火。此前一日（8月23日），GUR称已摧毁塔尔汉库特角上的1套S-400防空系统，包括导弹储备和乘员。另有媒体报道称乌方称击毙30名俄军并击伤4艘俄艇，该数字在本次检索中未见独立证实（C级）。俄官方此时尚未对该事件置评。本案选取为'海上小岛/离岸点状目标'的近似案例：塔尔汉库特角是半岛西端岬角，而非岛屿，仅供参考，归类请编辑复核。",
+  "defense_effect_cn": "按乌方口径，驻军未能阻止登陆、升旗与撤离，但乌方称'有交战、俄方有损失'；俄方则称发现并消灭了破坏小组，与乌方称'无损失撤离'冲突。暴露的问题：公开资料未见俄方事前发现登陆的记载；乌方称前一日S-400被毁，若属实，则雷达/防空系统本身就是被打击目标。俄方如何改变海岸巡逻与监视，本次检索未见公开信息，待核。",
+  "claims_compare_cn": "乌方（GUR，8月24日）：登陆、交火、升旗；乌无损失、俄有损失；无具体数字。另有媒体称乌方称击毙30人、击伤4艘艇。俄方（俄方消息渠道，非官方）：发现并消灭破坏小组；橡皮艇人员向奥列尼夫卡营地游客开火。核实：未见独立影像或卫星图；俄国防部此时尚未置评。",
+  "losses_cn": "俄方：乌方称有人员与装备损失（具体数字不一，有称30人、4艘艇）；乌方称前日毁S-400一套。乌方：称无损失。数字均为单方口径，未获独立核实。",
+  "analysis_cn": "突袭的政治宣示成分大于军事消耗：悬旗视频、独立日、'有交火'的描述，都服务于叙事；实际战术成果（毁伤数字）缺少证据。但按乌方口径，特种部队可经海上抵近克里米亚西端并在一夜内往返，若属实，则说明沿岸夜间监视存在缺口。对防御方的启示：岬角、沙嘴类阵地应有持续的海岸雷达与快速反应力量；对攻击方：这类突袭的收益更多在信息层面，需要与火力打击（如前一日的S-400）配合才有军事价值。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Kyiv Post",
+    "title": "Ukrainian Special Ops Raid Occupied Crimea on Independence Day",
+    "title_cn": "乌特种部队在独立日突袭被占克里米亚",
+    "author": "",
+    "date": "2023-08-24",
+    "date_basis": "按事件日推定",
+    "url": "https://kyivpost.com/post/20887",
+    "type": "其他"
+   },
+   {
+    "publisher": "Euromaidan Press",
+    "title": "Ukraine intel hub says it raided Crimea's northwestern coast (updated)",
+    "title_cn": "乌情报机构称突袭克里米亚西北海岸（更新）",
+    "author": "",
+    "date": "2023-08-24",
+    "date_basis": "URL日期",
+    "url": "https://euromaidanpress.com/2023/08/24/ukraine-intel-hub-says-it-raided-crimeas-northwestern-coast/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Novaya Gazeta Europe",
+    "title": "Ukraine forces land in west Crimea and hoist Ukrainian flag, military intel claims",
+    "title_cn": "乌军情称部队在克里米亚西部登陆并升旗",
+    "author": "",
+    "date": "2023-08-24",
+    "date_basis": "URL日期",
+    "url": "https://novayagazeta.eu/en/articles/2023/08/24/ukraine-forces-land-in-west-crimea-and-hoist-ukrainian-flag-military-intel-claims-en-news",
+    "type": "其他"
+   },
+   {
+    "publisher": "Euromaidan Press",
+    "title": "Frontline report: Ukrainian special forces attack Russian radio-radar base in Crimea",
+    "title_cn": "前线报告：乌特种部队袭击克里米亚俄无线电/雷达基地",
+    "author": "",
+    "date": "2023-08-25",
+    "date_basis": "URL日期",
+    "url": "https://euromaidanpress.com/2023/08/25/frontline-report-ukrainian-special-forces-attack-russian-radio-radar-base-in-crimea/",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "乌方称战果（媒体转述，未获证实）": "击毙30名俄军，击伤4艘艇",
+   "前一日（8月23日）GUR称战果": "摧毁1套S-400（含导弹储备与乘员）"
+  },
+  "notes_cn": "第二轮未对本案做Commons/官方图源检索（额度有限）；图片线索如下。 图片线索：GUR公布的夜间悬旗视频（见Kyiv Post文）。Rubryka另有'乌特种部队再次在被占克里米亚登陆'报道（URL：https://rubryka.com/en/?p=583295，日期待核，可能为后续行动）。"
+ },
+ {
+  "case_key": "bs_sig_tanker_2023_08_04",
+  "category": "远海机动编组",
+  "title_cn": "海军配合的无人艇炸穿俄供油油轮",
+  "subtitle_cn": "2023年8月4日夜，刻赤海峡（Kerch Strait）以南，乌安全局（SBU）与海军以海上无人艇攻击受美制裁的俄化学品油轮'西格'号（SIG）",
+  "date_start": "2023-08-04",
+  "date_end": "2023-08-05",
+  "location_cn": "刻赤海峡（Kerch Strait）以南海域",
+  "lat": 44.95,
+  "lon": 36.6,
+  "region": "黑海",
+  "attacker": "乌克兰安全局（SBU）与乌克兰海军联合（SBU消息人士口径）",
+  "defender": "俄籍化学品/成品油轮'西格'号（SIG）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "单平台",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "海上无人艇及炸药；BBC乌克兰语服务援引消息人士称装药450公斤TNT。",
+  "defense_means_cn": "民用油轮，无自卫手段；船体机舱区被炸穿，仍浮在水面。",
+  "narrative_cn": "2023年8月4日（周五）夜间，俄籍化学品/成品油轮'西格'号（SIG）在刻赤海峡以南海域遭到海上无人艇攻击。俄方海事机构称，该轮约在当地时间晚11时20分（格林尼治时间20时20分）被击中，机舱区被炸出破口，'据称是海上无人艇攻击所致'；该轮仍浮在水面；塔斯社（TASS）称无燃油泄漏，俄新社（RIA Novosti）称无人员伤亡。乌克兰安全局（SBU）一名消息人士对法新社（AFP）称，SBU与海军在乌领海内以海上无人艇和炸药摧毁了该船，船上载有供俄军使用的燃料，满载的燃料使'烟火从远处可见'。该船受美国制裁，原因是向叙利亚的俄军和阿萨德政权提供航空燃油；乌方'黑海监测小组'称，该船屡次违反制裁，常把汽油与柴油从费奥多西亚（Feodosia）油库运往叙利亚塔尔图斯（Tartus）。Euromaidan Press援引该小组称，该轮曾履行过俄国防部合同。BBC乌克兰语服务的消息人士称，无人艇装有450公斤TNT；后续一段来自维修方面的视频显示破口，拍摄者估计约8米×8米，实际范围难以确认；该船处于修理中。日期口径：俄方称周五（8月4日）晚，不少报道按8月5日记。地点表述不同：SBU称在乌领海内，俄方称在刻赤海峡以南。",
+  "defense_effect_cn": "'西格'号为民用商船，无自卫手段，破口在机舱区但船体未沉；这使毁伤介于'受损'与'摧毁'之间——SBU称'摧毁'，俄方称'破口、浮在水面、无泄漏、无伤亡'。暴露的问题：公开资料未见该轮有护航或反无人艇措施；俄方称无泄漏。此类目标的防护依赖舱室分隔与应急排水，本次检索未见损管细节。",
+  "claims_compare_cn": "乌方（SBU消息人士，经AFP）：SBU与海军以无人艇和炸药摧毁该船，船满载燃料。俄方（海事机构、TASS、RIA）：约11:20 pm被击中，机舱区破口，仍浮在水面，无泄漏、无伤亡。装药：BBC乌克兰语服务消息人士称450公斤TNT；破口尺寸：维修视频拍摄者估计约8×8米，未获核实。日期：多数报道按8月5日，实为8月4日夜间发生。",
+  "losses_cn": "俄方：'西格'号机舱区破口，受损待修（未沉）；无泄漏、无伤亡（俄方口径）。乌方：无人艇1艘；人员损失未报告。",
+  "analysis_cn": "此案的特点是攻防双方都承认攻击发生，仅在毁伤程度上口径不同；这类'双方确认'的案例可信度高于单方通报。目标选择的逻辑是供应线：该船向俄军（含叙利亚方向）供油，打击带有制裁与后勤双重含义。对防御方，商船缺少自卫手段，应对依赖航线管控与护航；对攻击方，本案毁伤止于机舱区破口，未致沉没，实际效果取决于修理周期。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Novaya Gazeta Europe",
+    "title": "Russian chemical tanker Sig attacked in Kerch Strait",
+    "title_cn": "俄化学品油轮'西格'号在刻赤海峡遇袭",
+    "author": "",
+    "date": "2023-08-05",
+    "date_basis": "URL日期",
+    "url": "https://novayagazeta.eu/en/articles/2023/08/05/russian-chemical-tanker-sig-attacked-in-kerch-strait-en-news",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Peninsula Qatar（AFP稿）",
+    "title": "Ukraine drone hit Russian tanker overnight: Ukraine security source",
+    "title_cn": "乌安全部门消息人士：乌无人艇夜间击中俄油轮",
+    "author": "AFP",
+    "date": "2023-08-05",
+    "date_basis": "URL日期",
+    "url": "https://thepeninsulaqatar.com/article/05/08/2023/ukraine-drone-hit-russian-tanker-overnight-ukraine-security-source",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Euromaidan Press",
+    "title": "Russian tanker which was damaged by Ukrainian drone performed contracts with the Russian Ministry of Defense – Black Sea Monitoring Group",
+    "title_cn": "遭乌无人艇击伤的俄油轮曾履行俄国防部合同——黑海监测小组",
+    "author": "",
+    "date": "2023-08-05",
+    "date_basis": "URL日期",
+    "url": "https://euromaidanpress.com/2023/08/05/russian-tanker-which-was-damaged-by-ukrainian-drone-performed-contracts-with-the-russian-ministry-of-defense-black-sea-monitoring-group/",
+    "type": "其他"
+   },
+   {
+    "publisher": "The New Arab（Al-Araby）",
+    "title": "Ukraine drone 'blows up' Russian tanker overnight",
+    "title_cn": "乌无人艇夜间'炸毁'俄油轮",
+    "author": "",
+    "date": "2023-08-05",
+    "date_basis": "按事件日推定",
+    "url": "https://english.alaraby.co.uk/news/ukraine-drone-blows-russian-tanker-overnight",
+    "type": "其他"
+   },
+   {
+    "publisher": "USM Media",
+    "title": "What does the sanctioned Russian tanker hit by the SBU drone look like now (video)",
+    "title_cn": "遭SBU无人艇击中的受制裁俄油轮现状（视频）",
+    "author": "",
+    "date": "",
+    "date_basis": "待核",
+    "url": "https://en.usm.media/what-does-the-sanctioned-russian-tanker-hit-by-the-sbu-drone-look-like-now-video/",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "命中时间（俄方）": "8月4日约23:20当地时间（20:20 GMT）",
+   "装药（BBC乌语消息人士）": "450公斤TNT",
+   "破口估计（修理视频拍摄者）": "约8×8米（未获核实）",
+   "泄漏/伤亡（俄方）": "无泄漏、无伤亡"
+  },
+  "notes_cn": "第二轮未对本案做Commons/官方图源检索（额度有限）；图片线索如下。 图片线索：USM Media的修理现状视频截图（日期待核）；SBU公布的攻击视频。"
+ },
+ {
+  "case_key": "bs_tendra_kinburn_raids_2024_08",
+  "category": "海上小岛",
+  "title_cn": "乌特种部队两栖突袭坦德拉与金伯恩沙嘴",
+  "subtitle_cn": "2024年8月6日与9日，第聂伯河-布格河口西侧坦德拉沙嘴（Tendra Spit）与金伯恩沙嘴（Kinburn Spit），乌军情总局（GUR）特种部队乘艇登陆袭击俄据守阵地",
+  "date_start": "2024-08-06",
+  "date_end": "2024-08-09",
+  "location_cn": "赫尔松州西部黑海沿岸坦德拉沙嘴（Tendra Spit/Tendrivska Spit）与金伯恩沙嘴（Kinburn Spit）",
+  "lat": 46.35,
+  "lon": 31.55,
+  "region": "黑海",
+  "attacker": "乌克兰国防部情报总局（HUR/GUR）：坦德拉为“Artan”行动分队（海上中心）；金伯恩为“Timur”特种部队下属“Chimera / Stuhna / Paragon / 西伯利亚营 / Terror”等小组，海军支援",
+  "defender": "俄军驻沙嘴部队",
+  "outcome": "遭偷袭受损",
+  "domains": [
+   "水面",
+   "岸基",
+   "电磁"
+  ],
+  "patterns": [
+   "偷袭/突防",
+   "异构"
+  ],
+  "attack_means_cn": "两栖登陆小队乘艇抵近并攻击；金伯恩沙嘴行动有多个特战小组、海军支援。",
+  "defense_means_cn": "沙嘴上设有装甲车辆（含MT-LB）、电子战系统与工事（乌方通报所见）。",
+  "narrative_cn": "2024年8月，乌军情总局（GUR）对黑海西北部两处俄据沙嘴实施两栖突袭。其一为坦德拉沙嘴（Tendra Spit / Tendrivska Spit，狭长岛状沙嘴，长约65公里、最宽约1.8公里）：8月6日，GUR海上中心下属“Artan”行动分队登陆，摧毁数辆MT-LB装甲车、1套电子战系统与工事并击毙俄军人员，随后撤离，乌方称无伤亡；乌军后备役委员会负责人季莫琴科（Ivan Tymochko）称该行动“本应是长期行动”（检索摘要转述，未见其依据）。其二为金伯恩沙嘴：GUR声明称“2024年8月9日对被俄军占据的金伯恩沙嘴实施突袭，毁伤6台装甲车辆，击毙约三十余名俄军”；参战小组为Chimera、Stuhna、Paragon、西伯利亚营（俄志愿者组成）与Terror，隶属GUR“Timur”特种部队，由海军及其他防御力量配合；攻击对象为“金伯恩要塞”“海港”“苏沃洛夫纪念碑”三处据点，行动结束前后在苏沃洛夫纪念碑附近升起GUR战旗，无人机拍摄的升旗视频摄于8月11日。Ukrinform标题称“击毙30名侵略者”，数字区间随媒体在30至36之间。以上数字均为乌方单方口径。第二轮复核结论：年份确为2024年（GUR声明原文含“2024年8月9日”），并非前期推断的不确定状态。检索未见俄方对这两次袭击的公开回应，亦未见卫星图或独立影像核实毁伤。",
+  "defense_effect_cn": "按乌方口径，沙嘴上的俄军未能阻止登陆，装甲车、电子战系统与工事被毁；乌方称无伤亡撤离。乌方通报的毁伤对象是沙嘴上的装甲车、电子战系统与工事。俄方是否调整驻守方式，本次检索未见信息，待核。",
+  "claims_compare_cn": "乌方（GUR）：坦德拉8月6日，Artan分队摧毁MT-LB、电子战系统与工事、击毙俄军，无己方伤亡；金伯恩8月9日，毁装甲车6台，击毙约30—36人（Ukrinform称30人，GUR声明称“约三十余人”）。俄方口径与独立核实：本次检索未见。时间口径：GUR声明明确为2024年8月9日；无人机升旗视频摄于8月11日。",
+  "losses_cn": "俄方：乌方称装甲车6台（金伯恩）与MT-LB等（坦德拉）、电子战系统1套，人员约30—36人（单方口径）。乌方：称无伤亡。",
+  "analysis_cn": "乌方以小股两栖登陆攻击沙嘴上的装甲车、电子战系统与工事，并随即撤离，目标是摧毁而非占领。乌方强调'无伤亡撤离'，说明这是突袭而非夺控；是否留下持续控制，本次检索未见。对防御方而言，沙嘴驻军需要对来自海上的小股登陆保持持续监视（本次检索未见俄方应对）；对攻击方而言，航渡与撤离窗口是主要风险。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "NikVesti（nikvesti.com）",
+    "title": "Ukrainian special forces hit enemy equipment on the Tendra spit",
+    "title_cn": "乌特种部队袭击坦德拉沙嘴敌军装备",
+    "author": "",
+    "date": "",
+    "date_basis": "待核（报道内容对应2024年8月，第二轮复核）",
+    "url": "https://nikvesti.com/en/news/public/mdi-fighters-raided-tendra-spit-destroyed-russian-equipment",
+    "type": "其他"
+   },
+   {
+    "publisher": "Ukrinform",
+    "title": "Ukraine's scouts raid Kinburn spit, eliminating 30 invaders, destroying military hardware",
+    "title_cn": "乌侦察兵突袭金伯恩沙嘴，击毙30名侵略者并摧毁军事装备",
+    "author": "",
+    "date": "2024-08-09",
+    "date_basis": "GUR声明称2024年8月9日；本篇确切刊发日待核，暂按事件日",
+    "url": "https://ukrinform.net/rubric-ato/3893728-ukraines-scouts-raid-kinburn-spit-eliminating-30-invaders-destroying-military-hardware.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "Liga.net",
+    "title": "Ukrainian scouts conduct raid on occupied Tendra Spit in Kherson Oblast – video",
+    "title_cn": "乌侦察兵突袭赫尔松州被占坦德拉沙嘴（视频）",
+    "author": "",
+    "date": "",
+    "date_basis": "待核（报道内容对应2024年8月，第二轮复核）",
+    "url": "https://news.liga.net/en/politics/video/ukrainian-scouts-conduct-raid-on-occupied-tendra-spit-in-kherson-oblast-video",
+    "type": "其他"
+   },
+   {
+    "publisher": "Liga.net",
+    "title": "Ukraine's special forces raid Kinburn Spit, destroy Russian troops and equipment: video",
+    "title_cn": "乌特种部队突袭金伯恩沙嘴，摧毁俄军人员与装备（视频）",
+    "author": "",
+    "date": "",
+    "date_basis": "待核（报道内容对应2024年8月，第二轮复核）",
+    "url": "https://news.liga.net/en/politics/video/ukraines-special-forces-raid-kinburn-spit-destroy-russian-troops-and-equipment-video",
+    "type": "其他"
+   },
+   {
+    "publisher": "UkraNews",
+    "title": "Defense Intelligence installs flag of Ukraine on occupied Kinburn Spit",
+    "title_cn": "国防情报总局在被占金伯恩沙嘴升起乌克兰旗",
+    "author": "",
+    "date": "2024-08-11",
+    "date_basis": "按视频摄制日推定（摘要称视频摄于8月11日）",
+    "url": "https://ukranews.com/en/news/1026227-defense-intelligence-installs-flag-of-ukraine-on-occupied-kinburn-spit",
+    "type": "其他"
+   },
+   {
+    "publisher": "Online.ua",
+    "title": "Special forces of the DIU destroyed about 30 occupiers of the Russian Federation on the Kinburn spit",
+    "title_cn": "国防情报总局特种部队在金伯恩沙嘴消灭约30名俄占领者",
+    "author": "",
+    "date": "2024-08-09",
+    "date_basis": "按事件日推定",
+    "url": "https://news.online.ua/en/special-forces-of-the-diu-destroyed-about-30-occupiers-of-the-russian-federation-on-the-kinburn-spit-883161/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Online.ua",
+    "title": "The DIU released impressive footage of the raid on the Kinburn Spit — a video",
+    "title_cn": "国防情报总局公布金伯恩沙嘴突袭画面（视频）",
+    "author": "",
+    "date": "2024-08-09",
+    "date_basis": "按事件日推定",
+    "url": "https://news.online.ua/en/the-gur-released-impressive-footage-of-the-raid-on-the-kinburn-spit-a-video-883298/",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "坦德拉行动（乌方）": "2024年8月6日夜，毁MT-LB、电子战系统与工事，无伤亡",
+   "金伯恩行动（乌方）": "2024年8月9日，毁装甲车6台，击毙约30—36人",
+   "坦德拉沙嘴尺度": "长约65公里、最宽约1.8公里",
+   "金伯恩参战小组（GUR）": "Chimera、Stuhna、Paragon、西伯利亚营、Terror（Timur特种部队）",
+   "升旗视频摄制日": "2024-08-11"
+  },
+  "notes_cn": "年份已于第二轮复核：GUR声明（经Ukrinform等转引）给出“2024年8月9日”，坦德拉登陆为8月6日。图片线索：乌方公布的突袭视频截图，许可未核。后续线索（未收案，缺原文URL或年份）：检索摘要提及Kyiv Post 2026年6月一篇称乌军在俄军撤离后于金伯恩沙嘴升起国旗（乌方单方称，摘要称未获其他来源核实）；Kyiv Post post/79101“Ukrainian Navy Destroys Russian Supply Boat Near Tendra Spit”日期未见，按该站文章序号推断可能为2026年，与2024年突袭无直接关系，故未并入本案。"
+ },
+ {
+  "case_key": "bs_tankers_off_turkey_2026_05_28",
+  "category": "远海机动编组",
+  "title_cn": "无人机在土耳其外海同夜击中3艘影子船队油轮",
+  "subtitle_cn": "2026年5月28日（含3月26日'阿尔图拉'号先期遇袭），土耳其黑海沿岸外海，受制裁油轮'阿尔图拉'（Altura）、'维洛拉'（Velora）、'詹姆斯二号'（James II）遭无人机攻击",
+  "date_start": "2026-05-28",
+  "date_end": "",
+  "location_cn": "土耳其黑海沿岸外海（'詹姆斯二号'在Türkeli海域以北约50海里，Tribeca口径）",
+  "lat": 42.85,
+  "lon": 34.3,
+  "region": "黑海",
+  "attacker": "身份未获确认（无人认领；有土耳其记者认为'维洛拉'可能遭乌无人艇攻击）",
+  "defender": "受制裁影子船队油轮'阿尔图拉'、'维洛拉'（塞拉利昂旗）、'詹姆斯二号'（帕劳旗）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "无人机（媒体通称'drones'；3月26日'阿尔图拉'号遭'海上无人艇'命中）。",
+  "defense_means_cn": "民用油轮；土耳其海岸警卫队舰船被派往支援；3船均空载。",
+  "narrative_cn": "2026年5月28日，航运机构Tribeca称，3艘油轮在土耳其黑海沿岸外海被无人机击中：'詹姆斯二号'（James II，帕劳旗、空载）当时在Türkeli海域以北约50海里；'阿尔图拉'（Altura）与'维洛拉'（Velora）均为塞拉利昂旗、空载，据报在邻近海域进行船对船货物转驳作业时遇袭。三艘船均在西方制裁名单上，被视为俄罗斯石油出口的'影子船队'成员；'阿尔图拉'与'维洛拉'据OpenSanctions属于土耳其的Pergamon Shipping，'詹姆斯二号'船东为马绍尔群岛注册公司。无人受重伤；土耳其海岸警卫队舰船前往协助。'阿尔图拉'此前已在3月26日在接近博斯普鲁斯海峡黑海入口时被'海上无人艇'击中，造成驾驶台与机舱受损（报道口径）。无人认领责任，土耳其官员未置评。Liga引述一名土耳其记者的个人判断，认为'维洛拉'可能被乌无人艇击中，该判断并非官方结论。本次检索未见乌俄官方对该次攻击的表态，也未见具体攻击平台型号。",
+  "defense_effect_cn": "三艘船均为空载，船体与舱室受损程度、是否起火，在检索摘要中未详；无人重伤。'阿尔图拉'两个月内两度被击中（3月26日与5月28日），说明修复后重返航线的影子船队船舶仍处于威胁之下。防御端的暴露：船对船转驳作业需要船舶停止或低速并集中，是易受攻击的状态；土耳其海岸警卫队主要承担救援。",
+  "claims_compare_cn": "Tribeca（航运机构）：3艘油轮被无人机击中，其中2艘在转驳中。无人认领；土耳其官员未置评。Liga引述的土耳其记者：'维洛拉'可能被乌无人艇击中（个人判断）。攻击平台：'无人机'（drones）与'3月26日海上无人艇'表述并存，型号与发射点未见披露。",
+  "losses_cn": "3艘空载油轮受损（程度待核）；无人受重伤。乌/俄方损失：未见。",
+  "analysis_cn": "同一艘船（'阿尔图拉'）在2026年3月26日和5月28日两度被击中，修复后重返航线的船舶仍处于威胁之下。转驳作业是该类船舶的暴露点；一旦攻击落在土耳其专属经济区，沿岸国的态度成为外交变量（本次检索未见土耳其官方立场，待核）。无人认领、媒体口径含糊，使本案可信度止于'有多家媒体报道、未见官方认定'。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "WTOP（AP稿）",
+    "title": "Drones hit 3 'shadow fleet' oil tankers off Turkey's Black Sea coast",
+    "title_cn": "无人机击中土耳其黑海沿岸外3艘'影子船队'油轮",
+    "author": "AP",
+    "date": "2026-05-28",
+    "date_basis": "URL日期（2026/05）",
+    "url": "https://wtop.com/news/2026/05/drones-hit-3-shadow-fleet-oil-tankers-off-turkeys-black-sea-coast/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "The Week（India）",
+    "title": "Drones hit 3 'shadow fleet' oil tankers off Turkiye's Black Sea coast",
+    "title_cn": "无人机击中土耳其黑海沿岸3艘'影子船队'油轮",
+    "author": "",
+    "date": "2026-05-28",
+    "date_basis": "URL日期",
+    "url": "https://www.theweek.in/wire-updates/international/2026/05/28/drones-hit-3-shadow-fleet-oil-tankers-off-turkiyes-black-sea-coast.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Internazionale（Reuters稿）",
+    "title": "Three tankers reportedly attacked by drones in Black Sea, shipping agency says",
+    "title_cn": "航运机构称黑海3艘油轮遭无人机攻击",
+    "author": "Reuters",
+    "date": "2026-05-28",
+    "date_basis": "URL日期",
+    "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/05/28/three-tankers-reportedly-attacked-by-drones-in-black-sea-shipping-agency-says",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Baird Maritime",
+    "title": "Drones attack three tankers near Turkish northern coast",
+    "title_cn": "无人机攻击土耳其北部沿岸3艘油轮",
+    "author": "",
+    "date": "2026-05-28",
+    "date_basis": "按事件日推定",
+    "url": "https://www.bairdmaritime.com/security/incidents/drones-attack-three-tankers-near-turkish-northern-coast",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Liga.net",
+    "title": "Drones attacked three Russia-linked tankers in the Black Sea off the coast of Turkey",
+    "title_cn": "无人机袭击土耳其外黑海3艘与俄有关联油轮",
+    "author": "",
+    "date": "2026-05-28",
+    "date_basis": "按事件日推定",
+    "url": "https://news.liga.net/en/war/news/drones-attacked-three-russia-linked-tankers-in-the-black-sea-off-the-coast-of-turkey",
+    "type": "其他"
+   },
+   {
+    "publisher": "World Oil",
+    "title": "Drone attacks hit Russian shadow fleet tankers in Black Sea",
+    "title_cn": "无人机攻击击中黑海俄影子船队油轮",
+    "author": "",
+    "date": "2026-05-28",
+    "date_basis": "URL日期",
+    "url": "https://worldoil.com/news/2026/5/28/drone-attacks-hit-russian-shadow-fleet-tankers-in-black-sea/",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "遇袭油轮": "3艘：Altura、Velora、James II",
+   "'阿尔图拉'先期遇袭": "2026年3月26日（海上无人艇，驾驶台与机舱受损，报道口径）",
+   "船员": "无人重伤"
+  },
+  "notes_cn": "无图；原载事件的责任方与攻击平台待核。"
+ },
+ {
+  "case_key": "bs_molochka_black_sea_2026_07_15",
+  "category": "远海机动编组",
+  "title_cn": "无人系统部队宣布一夜打击20艘黑海船舶",
+  "subtitle_cn": "2026年7月15日起，黑海（继亚速海阶段后），乌无人系统部队'MoLoChKa'行动第一波：称一夜击中17艘油轮、2艘气体运输船、1艘拖船",
+  "date_start": "2026-07-15",
+  "date_end": "2026-07-22",
+  "location_cn": "黑海（含亚速海前阶段；具体海域未逐艘公布）",
+  "lat": 44.8,
+  "lon": 36.0,
+  "region": "黑海",
+  "attacker": "乌克兰无人系统部队（Unmanned Systems Forces，指挥官罗伯特'马佳尔'·布罗维，Robert 'Madyar' Brovdi）",
+  "defender": "俄籍及与俄有关的小中型油轮、气体运输船、拖船等（'影子船队'与'支线船队'）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "待核"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "无人系统（具体型号与比例在检索摘要中未见；乌方称操作员刻意避免击穿油轮船体以防漏油）。",
+  "defense_means_cn": "民用船舶，无自卫手段；俄方军方未评论。",
+  "narrative_cn": "2026年7月15日夜间，乌克兰无人系统部队（USF）指挥官布罗维（Robert 'Madyar' Brovdi）在Telegram上宣布，称一夜击中黑海20艘俄船，含17艘油轮、2艘气体运输船、1艘拖船，称这是'MoLoChKa'行动新阶段的第一波。他称此前的亚速海阶段已打击116艘俄影子船队船舶，下一步是黑海，目标是把小中型油轮这一'支线船队'整体打掉，以切断伏尔加-顿河与亚速海港口的出口——因大型油轮无法进入这些港口，货物须由小型油轮在黑海锚地换装。他还称，USF操作员有意避免击穿影子船队油轮的船体，以防漏油污染。7月17日他又宣布再击中12艘；一篇报道称行动发起以来亚速海与黑海已有159艘敌船被击中；另一篇称7月21日和22日被击中的船舶包括1艘油轮、10艘干货船和2艘拖船。俄方外长拉夫罗夫此前称亚速海打击'纯属恐怖主义，比海盗还恶劣'，布罗维回应'只是生意'；乌海军发言人普列坚丘克称对侵略国影子船队的打击符合国际法。Kyiv Independent称无法独立核实，俄军方未置评；各篇报道均称暂无独立确认。损失统计、攻击平台类型与逐艘船名，本次检索摘要未见，待核。",
+  "defense_effect_cn": "民用船舶无防御；乌方称有意不击穿油轮船体，实际损伤本次检索未见独立评估，待核。对俄方出口的实际影响（航运成本、保险、航线调整），本次检索未见数据，待核。暴露的问题：俄方对黑海锚地（船对船转驳点）的防护与监视缺少公开信息。",
+  "claims_compare_cn": "乌方（USF，布罗维，7月15日）：一夜击中20艘（17油轮、2气体运输船、1拖船）。7月17日又称12艘；一报道称累计159艘。俄方：军方未置评；拉夫罗夫此前称亚速海打击是'恐怖主义'。独立核实：Kyiv Independent称无法独立核实；其他来源均称无独立确认。数字口径：'116艘'（亚速海阶段）与'159艘'（累计）出自乌方通报与二手转述，口径与统计窗口未统一。",
+  "losses_cn": "俄方：乌方称20艘（首波）+12艘（7月17日）+累计159艘（亚速海与黑海），均为打击数而非沉没数；损失与毁伤程度待核，俄方未公布。乌方：未公布。",
+  "analysis_cn": "这是以批量化攻击商船为目标的新阶段：从个别油轮（如2025年11月'凯罗斯'、'维拉特'）转向按'船队类别'批量打击，且通报以数量为核心指标。'避免击穿船体'的表述说明乌方在行动中考虑环境与国际舆论成本，但这一点同样来自乌方单方说法。数字的可验证性很低：被'击中'与被'击沉''无法运营'之间差别很大，写入专报时应只作为乌方通报的打击数，不作为毁伤数。",
+  "confidence": "C",
+  "sources": [
+   {
+    "publisher": "Army Inform（armyinform.com.ua，乌国防部所属媒体，归属待核）",
+    "title": "UAS Forces Strike the First 20 Vessels of russia's Shadow Fleet in the Black Sea",
+    "title_cn": "无人系统部队打击俄影子船队首批20艘黑海船舶",
+    "author": "",
+    "date": "2026-07-15",
+    "date_basis": "URL日期",
+    "url": "https://armyinform.com.ua/en/2026/07/15/uas-forces-strike-the-first-20-vessels-of-russia%E2%80%99s-shadow-fleet-in-the-black-sea/",
+    "type": "官方"
+   },
+   {
+    "publisher": "Army Inform",
+    "title": "USF Strike Another 12 Enemy Vessels in the Black Sea",
+    "title_cn": "无人系统部队再击中黑海12艘敌船",
+    "author": "",
+    "date": "2026-07-17",
+    "date_basis": "URL日期",
+    "url": "https://armyinform.com.ua/en/2026/07/17/usf-strike-another-12-enemy-vessels-in-the-black-sea/",
+    "type": "官方"
+   },
+   {
+    "publisher": "UkraNews",
+    "title": "Ukrainian Armed Forces strike 20 Russian vessels in Black Sea overnight, including 17 oil tankers - Madyar",
+    "title_cn": "马佳尔：乌军一夜打击黑海20艘俄船，含17艘油轮",
+    "author": "",
+    "date": "2026-07-15",
+    "date_basis": "按事件日推定",
+    "url": "https://ukranews.com/en/news/1163178-ukrainian-armed-forces-strike-20-russian-vessels-in-black-sea-overnight-including-17-oil-tankers",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Kyiv Independent",
+    "title": "Ukraine expands maritime campaign to Black Sea, hits 20 Russian vessels including oil tankers, Madyar says",
+    "title_cn": "乌将海上行动扩大到黑海，马佳尔称击中20艘俄船含油轮",
+    "author": "",
+    "date": "2026-07-15",
+    "date_basis": "按事件日推定",
+    "url": "https://kyivindependent.com/ukraine-expands-maritime-campaign-to-black-sea-hits-20-russian-vessels-including-oil-tankers-madyar-says/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Liga.net（Business）",
+    "title": "\"Many don't understand\": Ukraine's commander explains strikes on Russian ships in the Sea of Azov",
+    "title_cn": "'很多人不理解'：乌指挥官解释对亚速海俄船的打击",
+    "author": "",
+    "date": "",
+    "date_basis": "待核",
+    "url": "https://biz.liga.net/en/transport/news/many-dont-understand-ukraines-commander-explains-strikes-on-russian-ships-in-the-sea-of-azov",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "首波（7月15日夜，USF口径）": "20艘：17油轮、2气体运输船、1拖船",
+   "7月17日（USF口径）": "再12艘",
+   "亚速海阶段（USF口径）": "116艘",
+   "行动累计（某报道）": "159艘（亚速海与黑海）"
+  },
+  "notes_cn": "图片线索：USF公布的打击视频/地图（Army Inform文）；许可待核。"
+ },
+ {
+  "case_key": "bs_izumrud_2026_07_14",
+  "category": "远海机动编组",
+  "title_cn": "乌海军称无人艇击沉FSB边防巡逻舰",
+  "subtitle_cn": "2026年7月14日，新罗西斯克（Novorossiysk）—格连吉克（Gelendzhik）一带，乌海军以'萨尔甘-3000'（Sargan-3000）无人艇击沉俄FSB'祖母绿'号（Izumrud）22460型边防巡逻舰",
+  "date_start": "2026-07-14",
+  "date_end": "",
+  "location_cn": "新罗西斯克（Novorossiysk）附近；卫星图显示舰在格连吉克（Gelendzhik）码头旁，击中地点与拖带关系待核",
+  "lat": 44.56,
+  "lon": 38.07,
+  "region": "黑海",
+  "attacker": "乌克兰海军（'萨尔甘-3000'无人海上系统）",
+  "defender": "俄联邦安全局（FSB）边防局'祖母绿'号（Izumrud）22460型'猎人'（Okhotnik）巡逻舰",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "单平台",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "'萨尔甘-3000'（Sargan-3000）无人海上系统（乌海军口径）。",
+  "defense_means_cn": "FSB巡逻舰（22460型，长62.5米，排水量约630—750吨，航速约27节，带直升机坪）；未见防御措施记载。",
+  "narrative_cn": "2026年7月14日，乌克兰海军称其'萨尔甘-3000'（Sargan-3000）无人海上系统在新罗西斯克附近击中并击沉俄联邦安全局（FSB）边防局的'祖母绿'号（Izumrud）22460型'猎人'（Okhotnik）巡逻舰，舰上俄军有人员伤亡，但未公布具体数字。乌海军并称该舰参与了2018年11月25日在刻赤海峡对乌海军舰艇的袭击。该舰2014年下水，长62.5米，排水量约630—750吨，最大航速约27节，设直升机坪。乌方公布的卫星图显示，该舰受到严重损伤，已部分沉入水中，位于码头旁。地点口径不一：一家媒体称图像显示舰位于新罗西斯克东南的格连吉克港附近，但不知是在该处遇袭还是被拖带至此；SAN转引《华尔街日报》称该舰停泊于格连吉克，距一处被纳瓦尔尼称与普京有关的豪华庄园不足15英里，克里姆林宫未立即置评。同期乌无人系统部队称7月13日至14日夜在亚速海再击中11艘俄船。本次检索未见俄方对该舰损失的公开表态，亦未见独立卫星图公司的核实。",
+  "defense_effect_cn": "按乌方口径，防御未能保护该舰；公开资料未显示其采取了拦截、规避或电子对抗措施。关键不确定性是击中地点：若舰在格连吉克港内被击，则案例属港内遇袭（A1组范围）；若在海上被击后被拖回，则属海上遇袭。本次检索无法区分。",
+  "claims_compare_cn": "乌海军（7月14日）：萨尔甘-3000击沉，舰上有人员伤亡；舰曾参与2018年刻赤海峡事件。卫星图（乌海军公布）：严重损伤，部分沉入水中，在码头旁。地点：一媒体称格连吉克附近，击中还是拖带至此不明；SAN转引WSJ称停泊在格连吉克。俄方：本次检索未见公开口径。",
+  "losses_cn": "俄方：'祖母绿'号1艘（乌方称击沉，卫星图显示部分沉没）；人员伤亡数字未公布（乌方称有伤亡）。乌方：无人艇1套；人员未报告。",
+  "analysis_cn": "目标为FSB边防巡逻舰，而非黑海舰队编成舰艇，说明乌方打击对象由军舰扩展到执法/边防力量。乌方以卫星图佐证战果，提高了可信度，但图像由乌方发布，需要商用卫星图公司复核。是否被击中于港内，决定了本案归入港口还是海上；目前乌方称击沉与卫星图显示部分沉没并存。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Ukrainska Pravda（Українська правда）",
+    "title": "Ukrainian drone sinks Russian border patrol vessel near Novorossiysk",
+    "title_cn": "乌无人艇在新罗西斯克附近击沉俄边防巡逻舰",
+    "author": "",
+    "date": "2026-07-14",
+    "date_basis": "URL日期",
+    "url": "https://pravda.com.ua/eng/news/2026/07/14/8044054/",
+    "type": "其他"
+   },
+   {
+    "publisher": "UkraNews",
+    "title": "A Russian ship that took part in the 2018 attack on Ukrainian ships in the Kerch Strait has been destroyed",
+    "title_cn": "参与2018年刻赤海峡袭击乌舰的俄舰被毁",
+    "author": "",
+    "date": "2026-07-14",
+    "date_basis": "按事件日推定",
+    "url": "https://ukranews.com/en/news/1163228-a-russian-ship-that-took-part-in-the-2018-attack-on-ukrainian-ships-in-the-kerch-strait-has-been",
+    "type": "其他"
+   },
+   {
+    "publisher": "UkraNews",
+    "title": "A satellite image of the Russian ship Izumrud, which was destroyed near Novorossiysk, has been published",
+    "title_cn": "新罗西斯克附近被毁的俄舰'祖母绿'号卫星图公布",
+    "author": "",
+    "date": "2026-07-14",
+    "date_basis": "按事件日推定",
+    "url": "https://ukranews.com/en/news/1163236-a-satellite-image-of-the-russian-ship-izumrud-which-was-destroyed-near-novorossiysk-has-been",
+    "type": "其他"
+   },
+   {
+    "publisher": "UNITED24 Media",
+    "title": "Russia's Izumrud helped capture Ukrainian ships. A Ukrainian sea drone just sank it",
+    "title_cn": "参与扣押乌舰的'祖母绿'号被乌无人艇击沉",
+    "author": "",
+    "date": "2026-07-14",
+    "date_basis": "按事件日推定",
+    "url": "https://united24media.com/war-in-ukraine/russias-izumrud-helped-capture-ukrainian-ships-a-ukrainian-sea-drone-just-sank-it-20762",
+    "type": "其他"
+   },
+   {
+    "publisher": "SAN（Straight Arrow News）",
+    "title": "Ukraine sinks Russian ship miles away from rumored Putin sea stronghold",
+    "title_cn": "乌在传闻的普京海滨据点附近击沉俄舰",
+    "author": "",
+    "date": "2026-07-14",
+    "date_basis": "按事件日推定",
+    "url": "https://san.com/cc/ukraine-sinks-russian-ship-miles-away-from-rumored-putin-sea-stronghold/",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "舰型": "22460型'猎人'级，长62.5米，排水量约630—750吨，航速约27节",
+   "下水年份": "2014",
+   "乌方通报": "舰上有人员伤亡，未公布数字"
+  },
+  "notes_cn": "图片线索：乌海军公布的卫星图（UkraNews 1163236）；许可待核。"
+ },
+ {
+  "case_key": "ss_qendil_mediterranean_2025_12_19",
+  "category": "海上交通线",
+  "title_cn": "乌称航空无人机在地中海首击影子油轮",
+  "subtitle_cn": "2025年12月19日，利比亚外海—克里特岛以南的地中海中部，乌克兰安全局（SBU）“阿尔法”小组称以航空无人机击中阿曼籍油轮“肯迪尔”号（Qendil）",
+  "date_start": "2025-12-19",
+  "date_end": "",
+  "location_cn": "地中海中部，利比亚沿岸外、克里特岛以南（MarineTraffic：13:30 GMT位于利比亚外海；Euronews：当日上午位于克里特外海；乌方未给确切坐标，坐标为示意点）",
+  "lat": 34.0,
+  "lon": 24.0,
+  "region": "东地中海",
+  "attacker": "乌克兰安全局（SBU）“阿尔法”（Alpha）特别小组（乌方称）",
+  "defender": "阿曼籍油轮“肯迪尔”号（Qendil，空载；Commons条目：IMO 9310525，2006年造，长249米；英国2025-02、欧盟2025-07制裁）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "航空无人机（据安全部门消息人士，自上方投放弹药）；数量、型号、发射点和飞越空域均未公布。Marine Insight推测可能由附近船只放飞，属媒体推断，未获证实。",
+  "defense_means_cn": "未见舰载防空、护航或船员反击的报道；空载商船单船航行。",
+  "narrative_cn": "2025年12月19日（周五），乌克兰安全局（SBU）一名官员向媒体称，SBU“阿尔法”（Alpha）特别小组使用航空无人机，在距乌克兰逾2000公里的中立水域击中俄“影子船队”油轮“肯迪尔”号（Qendil），该船当时空载，“受到严重损伤”。SBU称这是乌方首次在地中海对影子船队油轮实施打击，并称俄方借此类油轮规避制裁、为战争筹款，故属“合法目标”。SBU公布了打击视频；路透社将视频中的船只与资料图比对，确认为“肯迪尔”号，但无法独立核实视频的拍摄时间与地点。\n\n该船为阿曼籍油轮（Commons条目记录：2006年建造，长249米，曾用名Elia、Ionia、Spark、Oilstar；Maritime Executive称其年内先后挂过帕劳、几内亚比绍、吉布提旗），英国于2025年2月、欧盟于2025年7月将其列入制裁。据彭博社航行数据，该船自印度锡卡（Sikka）驶往俄波罗的海港口乌斯季卢加（Ust-Luga）；另有报道称其此前曾在新罗西斯克装载俄原油。位置口径不一：MarineTraffic数据显示该船当日13:30（GMT）位于利比亚沿岸外；Euronews称其当日上午位于克里特岛外海、沿利比亚海岸平行航行，并在夜间于距希腊与利比亚海岸约250公里处掉头；Greek City Times称攻击发生在希腊东南海域。乌方未说明攻击的确切时间与地点、无人机发射点及所飞越空域。\n\n此后，Maritime Executive报道，同一艘油轮在爱琴海博兹贾阿达岛（Bozcaada）附近搁浅，12天后脱浅；Marine Insight称将调查搁浅仅因恶劣天气，还是与此前所受损伤有关。据一则报道，自2025年11月下旬以来，乌方已攻击至少4艘被认定属影子船队的油轮，本船为其中之一。",
+  "defense_effect_cn": "空载商船在远离岸基防空覆盖的公海航行，未见护航、舰载防空或其他自卫措施的报道。船舶的AIS航迹与制裁名单公开，便于远程跟踪（此点为判断，非报道内容）。该船此后出现在爱琴海并搁浅，被击中后是否自航、是否被拖带，检索摘要未说明；损伤程度只有乌方“严重受损”一句，不宜外推。暴露的问题在于预警：航线所经国家和船东方没有手段发现“发射点不明的空中威胁”，乌方既未公开发射点，也未公开所飞越空域，沿岸国难以判断自身是否被牵涉。",
+  "claims_compare_cn": "乌方（SBU官员，12月19日）：阿尔法小组以航空无人机击中空载“肯迪尔”号，严重受损，为首次在地中海得手。路透社：确认视频中船只为“肯迪尔”号，但无法核实视频的拍摄时间与地点。位置有三种表述并存：MarineTraffic（利比亚外海）、Euronews（克里特外海）、Greek City Times（希腊东南）。俄方、船东及阿曼方面的回应：本次检索未见。搁浅原因：Marine Insight称待调查，不能认定与遇袭直接相关。",
+  "losses_cn": "乌方称“严重受损”（无量化数据）；货物：空载；人员伤亡：未见报道；后续搁浅12天后脱浅（Maritime Executive）。乌方无损失报道。",
+  "analysis_cn": "本案的特点是距离和手段。2025年11月底的“凯罗斯”“维拉特”案在黑海土耳其专属经济区内，乌方称使用无人艇；本案改称航空无人机，目标点移到距乌克兰2000公里以外的地中海中部，打击范围从黑海出口延伸到俄油出口航线中段。证据层面只有SBU视频与匿名官员说法，路透社仅确认船舶身份，攻击时间、地点和平台都没有独立核实，“航空无人机”不宜当作定论。对防御方，空载商船无自卫手段，又处在多国专属经济区与公海交界，沿岸国既难预警也难取证。对攻击方，发射点不明意味着需要某种中途平台；若按Marine Insight的推测由附近船只放飞（推断），风险就集中在该平台的隐蔽性与归属认定上。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Baird Maritime（转载路透社）",
+    "title": "Ukraine strikes Russian \"shadow fleet\" tanker in first Mediterranean raid",
+    "title_cn": "乌克兰在地中海首次突袭中打击俄“影子船队”油轮",
+    "author": "",
+    "date": "2025-12-19",
+    "date_basis": "按事件日推定（路透稿转载）",
+    "url": "https://www.bairdmaritime.com/security/incidents/acts-of-war/ukraine-strikes-russian-shadow-fleet-tanker-in-first-mediterranean-raid",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Euronews",
+    "title": "Ukraine strikes Russian shadow fleet tanker in Mediterranean（页面标题据URL）",
+    "title_cn": "乌克兰在地中海打击俄影子船队油轮",
+    "author": "",
+    "date": "2025-12-19",
+    "date_basis": "URL日期",
+    "url": "https://www.euronews.com/2025/12/19/ukraine-strikes-russian-shadow-fleet-tanker-in-mediterranean",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "Video: Ukraine Claims First Strike in the Mediterranean on Shadow Tanker",
+    "title_cn": "视频：乌称首次在地中海打击影子油轮",
+    "author": "",
+    "date": "2025-12-19",
+    "date_basis": "按事件日推定",
+    "url": "https://maritime-executive.com/article/video-ukraine-claims-first-strike-in-the-mediterranean-on-shadow-tanker",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "NBC News",
+    "title": "Ukraine strikes Russian 'shadow fleet' tanker in Mediterranean",
+    "title_cn": "乌克兰打击俄“影子船队”地中海油轮",
+    "author": "",
+    "date": "2025-12-19",
+    "date_basis": "按事件日推定",
+    "url": "https://www.nbcnews.com/world/russia/ukraine-strikes-russian-shadow-fleet-tanker-mediterranean-rcna250101",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Greek City Times",
+    "title": "BREAKING: Ukraine's SBU Drone Strike Hits Russian Shadow Fleet Tanker Off Greece",
+    "title_cn": "快讯：乌SBU无人机在希腊外海击中俄影子船队油轮",
+    "author": "",
+    "date": "2025-12-19",
+    "date_basis": "URL日期",
+    "url": "https://greekcitytimes.com/2025/12/19/ukraine-drone-strike-shadow-fleet-tanker-greece",
+    "type": "其他"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "In First-of-Its-Kind Attack, Ukraine Strikes Russian Tanker In The Mediterranean Sea",
+    "title_cn": "首次：乌克兰在地中海打击俄油轮",
+    "author": "",
+    "date": "2025-12-19",
+    "date_basis": "按事件日推定",
+    "url": "https://www.marineinsight.com/in-first-of-its-kind-attack-ukraine-strikes-russian-tanker-in-the-mediterranean-sea/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "Video: Shadow Tanker Attacked by Ukraine Refloated After 12 Days Aground",
+    "title_cn": "视频：遭乌攻击的影子油轮搁浅12天后脱浅",
+    "author": "",
+    "date": "",
+    "date_basis": "待核（遇袭次月，约2026年1月）",
+    "url": "https://maritime-executive.com/article/video-shadow-tanker-attacked-by-ukraine-refloated-after-12-days-aground",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "Russian Shadow Fleet Tanker Runs Aground Off Bozcaada Island Near Turkey",
+    "title_cn": "俄影子船队油轮在土耳其博兹贾阿达岛外搁浅",
+    "author": "",
+    "date": "",
+    "date_basis": "待核（遇袭次月）",
+    "url": "https://www.marineinsight.com/shipping-news/russian-shadow-fleet-tanker-runs-aground-off-bozcaada-island-near-turkey/",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [],
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:IMO_9310525",
+    "desc_cn": "Commons“IMO 9310525”分类页（摘要称为“肯迪尔”号，归入俄影子船队类别；2006年造，长249米；曾用名Elia、Ionia、Spark、Oilstar）；其中文件未检索到",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "距乌克兰（SBU口径）": "逾2000公里",
+   "船舶": "阿曼籍油轮，2006年造，长249米（Commons条目）",
+   "制裁": "英国2025-02，欧盟2025-07",
+   "搁浅后脱浅": "12天（Maritime Executive）"
+  },
+  "notes_cn": "category按任务说明用“海上交通线”（BRIEF原四类之外，总编请统一）；lat/lon为示意点；第二轮检索，Commons仅检得分类页，无文件页。SBU视频截图的转载许可未核。"
+ },
+ {
+  "case_key": "ss_midvolga2_off_turkey_2025_12_02",
+  "category": "海上交通线",
+  "title_cn": "土耳其外海俄籍油船遭无人机攻击",
+  "subtitle_cn": "2025年12月2日，土耳其黑海沿岸外约130公里，载葵花籽油自俄罗斯驶往格鲁吉亚的俄籍油船“米德沃尔加-2”号（Midvolga-2）遇袭",
+  "date_start": "2025-12-02",
+  "date_end": "",
+  "location_cn": "黑海东南部，土耳其海岸外约130公里（土耳其海事部门口径；具体坐标未见，坐标按俄—格航线推断的示意点）",
+  "lat": 42.3,
+  "lon": 40.0,
+  "region": "黑海",
+  "attacker": "未明（本次检索摘要未见乌方认领；土耳其NTV称为自杀式无人机）",
+  "defender": "俄籍油船“米德沃尔加-2”号（Midvolga-2），船员13人",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "NTV称为“自杀式（kamikaze）无人机”，空中或水面类型、数量均未明。",
+  "defense_means_cn": "未见自卫或护航报道；船员13人无恙。",
+  "narrative_cn": "2025年12月2日，土耳其海事管理部门称，俄籍油船“米德沃尔加-2”号（Midvolga-2）报告在距岸约130公里的黑海海域遭到攻击。该船载葵花籽油，自俄罗斯驶往格鲁吉亚，13名船员全部无恙。土耳其NTV电视台称攻击由自杀式无人机实施。半岛电视台将此事放在“乌克兰打击影子船队”的背景下报道（标题称“俄油轮在土耳其外海被击中”），Euronews的标题则称这是黑海内“第三艘”遭袭的俄油轮（“Third Russian tanker attacked in the Black Sea, Turkey says”）：此前数日，“凯罗斯”（Kairos）与“维拉特”（Virat）两艘油轮于11月28日前后在土耳其外海遇袭（见案例bs_kairos_virat_2025_11_28）。对于此前那两起爆炸，土耳其交通部长仅称为“外部干扰”，无法说明手段是水雷、无人机或其他；英国皇家海军一名军官评估这类针对出口俄油油轮的定点爆炸很可能由乌特种部队使用吸附水雷实施（摘要所指事件范围不明）。土耳其总统埃尔多安（Recep Tayyip Erdogan）称黑海商船遭袭是“令人担忧的升级”。本次检索摘要未见乌方对“米德沃尔加-2”号的认领，也未见俄方回应。",
+  "defense_effect_cn": "13名船员无恙，船体损伤程度本次检索未见披露。事发点在土耳其海事管理部门接报范围内，土方当局接报并通报。未见护航或自卫反击报道。暴露的问题：载运民用货物（植物油）驶往第三国的俄籍商船同样成为目标，风险不限于被制裁的空载油轮；单船航行的商船对低空小型无人机无探测与拦截手段。",
+  "claims_compare_cn": "土耳其海事部门：遭袭、距岸约130公里、船员无恙，载葵花籽油，俄→格鲁吉亚。NTV：自杀式无人机。乌方：本次检索摘要未见认领或否认。俄方：未检得回应。攻击手段与责任方均无独立核实。",
+  "losses_cn": "船体损伤程度未披露；船员13人无恙；货物受损情况未见。",
+  "analysis_cn": "该案若属实，目标范围从空载或被制裁油轮扩大到运送民用货物的俄籍船；同一周内黑海东南部出现三次事件（11月28日两艘、12月2日一艘），土耳其专属经济区成为高发区。攻击者未明，手段只有电视台一句话，证据弱于“凯罗斯”案，可信度按B下限掌握。对沿岸国土耳其，难点在取证和责任认定：此前事件中交通部长只能说“外部干扰”。对商船运营方，该船在距岸约130公里处遇袭，说明靠近土耳其近岸并不能避开风险。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Al Jazeera",
+    "title": "Russian tanker struck off Turkiye as Ukraine targets 'shadow fleet'（页面标题据URL）",
+    "title_cn": "俄油轮在土耳其外海被击中，乌克兰瞄准“影子船队”",
+    "author": "",
+    "date": "2025-12-02",
+    "date_basis": "URL日期",
+    "url": "https://aljazeera.com/news/2025/12/2/russian-tanker-struck-off-turkiye-as-ukraine-targets-shadow-fleet",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Euronews",
+    "title": "Third Russian tanker attacked in the Black Sea, Turkey says（页面标题据URL）",
+    "title_cn": "土耳其称黑海内第三艘俄油轮遇袭",
+    "author": "",
+    "date": "2025-12-02",
+    "date_basis": "URL日期",
+    "url": "https://www.euronews.com/2025/12/02/third-russian-tanker-attacked-in-the-black-sea-turkey-says",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Wikipedia",
+    "title": "Ukrainian attacks on the Russian shadow fleet",
+    "title_cn": "乌克兰对俄影子船队的攻击（条目，仅作辅助，非唯一来源）",
+    "author": "",
+    "date": "",
+    "date_basis": "待核（条目页，持续更新）",
+    "url": "https://en.wikipedia.org/wiki/Ukrainian_attacks_on_the_Russian_shadow_fleet",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "image_categories": [],
+  "stats": {
+   "距岸（土方口径）": "约130公里",
+   "船员": "13人，全部无恙",
+   "货物": "葵花籽油（俄→格鲁吉亚）"
+  },
+  "notes_cn": "category用“海上交通线”；lat/lon为示意点，据航线推断，非报道所给；英国皇家海军军官“吸附水雷”评估的指涉事件范围在摘要中不明，仅作背景，不归入本案。"
+ },
+ {
+  "case_key": "ss_mersin_dakar_2025_11_27",
+  "category": "海上交通线",
+  "title_cn": "西非达喀尔外海土籍油船遭四次爆炸",
+  "subtitle_cn": "2025年11月27日，塞内加尔达喀尔（Dakar）外海，土耳其船东Besiktas旗下约5万吨级油船“梅尔辛”号（Mersin）发生四次爆炸，12月1日获证实",
+  "date_start": "2025-11-27",
+  "date_end": "",
+  "location_cn": "塞内加尔达喀尔外海大西洋（具体坐标未见，坐标为示意点）",
+  "lat": 14.6,
+  "lon": -17.8,
+  "region": "非洲沿岸",
+  "attacker": "未明（见口径比对）",
+  "defender": "“梅尔辛”号（Mersin）油船，约5万吨，土耳其Besiktas公司船队",
+  "outcome": "被攻击受损",
+  "domains": [
+   "未明"
+  ],
+  "patterns": [
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "报道称发生四次爆炸；手段未明。一则摘要称土耳其海事机构称其被乌方无人机击中，另一则称塞内加尔当局与外媒均未说明责任方。",
+  "defense_means_cn": "未见。",
+  "narrative_cn": "据检索摘要，2025年11月27日，土耳其Besiktas公司旗下约5万吨级油船“梅尔辛”号（Mersin）在塞内加尔达喀尔外海发生四次爆炸；该消息直到12月1日（周一）才获官方证实。Besiktas随后宣布“停止一切涉及俄方利益的航运业务”。worldports.org将其列为紧接“凯罗斯”与“维拉特”（11月28日前后，土耳其外海）之后的“可能第三起”；Liga.net同期报道的标题为“海军就非洲外海俄油轮遇袭发表评论，土耳其宣布新……”（标题据检索摘要，后半被截断，内容本次检索未见）。责任方口径彼此矛盾：一则摘要称土耳其一家海事机构表示该船被乌方无人机击中，另一则称塞内加尔当局和外国媒体均未报道肇事方。本次检索未见乌方认领，也未见爆炸原因、船体损伤、人员伤亡的细节。",
+  "defense_effect_cn": "防御情况本次检索未见。公开信息只有“四次爆炸”与官方迟至12月1日才确认，说明远离黑海的西非海域缺少对此类事件的及时通报与取证；船东事后的反应是切断俄方业务。",
+  "claims_compare_cn": "土耳其海事机构（据一则摘要）：被乌方无人机击中。另一则摘要：塞内加尔当局和外媒均未说明肇事方。乌克兰海军就“非洲外海俄油轮遇袭”发表过评论（Liga.net，内容未见）。乌方正式认领：本次检索未见。以上口径无法互相印证，来源也未能回溯到一手声明。",
+  "losses_cn": "船体损伤、人员伤亡、货物情况均未检得；船东Besiktas宣布停止涉俄航运业务（商业后果）。",
+  "analysis_cn": "若归属乌方属实，这是已知距离乌克兰最远的一起油轮遇袭，说明目标选择已从黑海出口扩展到俄油出口全航线。但本案的证据明显偏弱：爆炸次数之外没有手段、没有责任认领，官方证实滞后四天，来源之间对责任方说法相反，因此仅作线索收录，可信度C。对商船东家，后果不是军事防护，而是业务切割：Besiktas的反应说明“被疑与俄油运输相关”本身已构成风险。",
+  "confidence": "C",
+  "sources": [
+   {
+    "publisher": "World Ports（worldports.org）",
+    "title": "Ukraine strikes two oil tankers linked to Russia off Turkey, possible third attack in Senegal",
+    "title_cn": "乌克兰在土耳其外海打击两艘与俄有关的油轮，塞内加尔可能发生第三起",
+    "author": "",
+    "date": "2025-12-01",
+    "date_basis": "按事件日推定（官方12月1日证实）",
+    "url": "https://www.worldports.org/ukraine-strikes-two-oil-tankers-linked-to-russia-off-turkey-possible-third-attack-in-senegal/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Liga.net",
+    "title": "The Navy comments on the attack on the Russian tanker off Africa, and Turkey announces a new（标题据检索摘要，后半被截断）",
+    "title_cn": "海军就非洲外海俄油轮遇袭发表评论，土耳其宣布新……",
+    "author": "",
+    "date": "",
+    "date_basis": "待核",
+    "url": "https://news.liga.net/en/amp/politics/news/the-navy-comments-on-the-attack-on-the-russian-tanker-off-africa-and-turkey-announces-a-new",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia",
+    "title": "Ukrainian attacks on the Russian shadow fleet",
+    "title_cn": "乌克兰对俄影子船队的攻击（条目，仅作辅助，非唯一来源）",
+    "author": "",
+    "date": "",
+    "date_basis": "待核（条目页，持续更新）",
+    "url": "https://en.wikipedia.org/wiki/Ukrainian_attacks_on_the_Russian_shadow_fleet",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "image_categories": [],
+  "stats": {
+   "爆炸次数": "4次（据摘要）",
+   "官方证实日": "2025-12-01",
+   "吨位": "约5万吨"
+  },
+  "notes_cn": "category用“海上交通线”；lat/lon为示意点；攻击者、手段、是否影子船队船舶均未经一手来源核实，仅作线索。"
+ },
+ {
+  "case_key": "bs_snake_island_2023_2026_leads",
+  "category": "海上小岛",
+  "title_cn": "蛇岛遭空袭与周边空海对抗线索汇编",
+  "subtitle_cn": "2023年2月至2026年8月，蛇岛（兹梅伊内岛，Zmiinyi / Snake Island）及其周边的零散事件线索；检索未得到单一事件的完整记录",
+  "date_start": "2023-02-11",
+  "date_end": "2025-08-14",
+  "location_cn": "蛇岛（兹梅伊内岛，Zmiinyi / Snake Island），敖德萨州，黑海西北部，面积约0.17平方公里",
+  "lat": 45.255,
+  "lon": 30.204,
+  "region": "黑海",
+  "attacker": "俄军空中力量（苏-30SM、米格-29、滑翔制导炸弹；据俄国防部及乌媒表述）",
+  "defender": "乌方（岛由火力控制；是否有常驻乌军，本次检索未见公开记录）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中",
+   "水面"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "俄方：苏-30SM与米格-29对快艇扫射（俄国防部口径，2023年，日期待核）；滑翔制导炸弹（乌媒标题称，2024年5月）。",
+  "defense_means_cn": "乌方火力控制（岸基/远程火力），具体配置本次检索未见。",
+  "narrative_cn": "蛇岛（Zmiinyi / Snake Island）面积约0.17平方公里，战略价值在于控制通往敖德萨方向的航道并影响海上划界。2022年6月底俄军撤出该岛（俄称“善意姿态”）后，岛由乌方以火力控制；乌军总参曾称计划将其置于“实际控制”之下（Liga.net标题，日期待核）。检索摘要中2023—2026年窗口内的线索如下，均为零散条目，未形成单一事件的完整记录：\n（1）2023年2月11日前后：乌媒Fakty（ICTV）刊文，标题（据URL还原）称解释俄为何“轰炸蛇岛”，并称其为“为宣传制造的人造胜利”，内容未见。\n（2）2023年（日期待核）：俄国防部称一架苏-30SM与一架米格-29在蛇岛东南用机炮歼灭乌方快艇，并公布苏-30SM机炮视频；Eurasian Times等将其作为俄方声称转述，未见独立核实。\n（3）2024年5月3日：乌军媒体ArmyInform刊文，标题（据URL还原）为蛇岛遭俄滑翔制导炸弹（КАБ）打击，内容未见。\n（4）2025年8月14日（年份据摘要，待核）：乌海军称一架俄苏-30SM可能在蛇岛东南坠毁，乌方截获俄方失去联系的无线电通话，海面发现疑似残骸，两名飞行员失踪；亲克里姆林宫的频道间接承认损失，某监测频道称该机驻萨基或别尔别克，另一俄频道称属黑海舰队海军航空兵。乌海军未称击落，坠毁原因称不明。\n（5）2026年8月27日：罗马尼亚雷达在蛇岛附近探测到空中目标，西班牙空军F-18战机升空（见案例bs_progress_iv_2026_08_27所引报道）。此外检索摘要提及2026年9月10日罗空军因蛇岛附近空中目标再度升空，出处为乌通社标签页，未取得原文。",
+  "defense_effect_cn": "按现有摘要，蛇岛防御的整体效果无法评估。可确认的只有：俄方持续有空中活动（苏-30SM、制导炸弹）；乌方称对岛以火力控制；2025年8月一架苏-30SM在岛东南失联，原因不明。岛上是否有乌军驻守、防空配置、受袭损失均为未检索到公开记录。",
+  "claims_compare_cn": "苏-30SM失联（2025年8月）：乌海军称“可能坠毁、原因不明”，俄亲政府频道间接承认损失；俄国防部口径本次检索未见。2023年扫射快艇：俄国防部称击毁，乌方口径未见。其余条目仅有标题，无法比对。",
+  "losses_cn": "未见系统统计；苏-30SM 1架（乌海军口径，2025-08-14，原因未明，飞行员失踪）；岛上损失与人员情况未检得。",
+  "analysis_cn": "蛇岛是面积不足0.2平方公里的点目标，价值在于它是黑海西北部的火力支点与空域边界参照：俄机在其附近活动，罗马尼亚2026年8月又以其附近空情为由出动战机。但检索结果以2022年材料为主，2023—2026年岛上攻防没有连续、可核实的记录，因此本条只作线索收录，不宜在专报中作为独立案例展开。后续应查乌海军、南部防御部队的通报与卫星图，再确定岛上是否设有常驻力量。",
+  "confidence": "C",
+  "sources": [
+   {
+    "publisher": "The Kyiv Independent",
+    "title": "Russian Su-30SM fighter jet likely down near Snake Island, Ukrainian Navy says（页面标题据URL）",
+    "title_cn": "乌海军称俄苏-30SM战斗机可能在蛇岛附近坠毁",
+    "author": "",
+    "date": "2025-08-14",
+    "date_basis": "摘要称8月14日；年份据乌语摘要，待核",
+    "url": "https://kyivindependent.com/russian-su-30sm-fighter-jet-likely-down-near-snake-island-ukrainian-navy-says/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "ArmyInform（Армійinform）",
+    "title": "Острів Зміїний зазнає ударів російськими КАБами（据URL还原）",
+    "title_cn": "蛇岛遭俄滑翔制导炸弹打击",
+    "author": "",
+    "date": "2024-05-03",
+    "date_basis": "URL日期",
+    "url": "https://armyinform.com.ua/2024/05/03/ostriv-zmiyinyj-zaznaye-udariv-rosijskymy-kabamy/",
+    "type": "官方"
+   },
+   {
+    "publisher": "Fakty（ICTV）",
+    "title": "Штучна перемога для пропаганди: Гуменюк пояснила, нащо РФ бомбардувала Зміїний（据URL还原）",
+    "title_cn": "为宣传制造的人造胜利：胡缅纽克解释俄为何轰炸蛇岛",
+    "author": "",
+    "date": "2023-02-11",
+    "date_basis": "URL日期",
+    "url": "https://fakty.com.ua/ua/ukraine/20230211-shtuchna-peremoga-dlya-propagandy-gumenyuk-poyasnyla-nashho-rf-bombarduvala-zmiyinyj/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Eurasian Times",
+    "title": "Russian Su-30 fighters strafe Ukrainian speed boats, neutralize（页面标题据URL）",
+    "title_cn": "俄苏-30战机扫射并歼灭乌快艇",
+    "author": "",
+    "date": "",
+    "date_basis": "待核（2023年，日期未见）",
+    "url": "https://www.eurasiantimes.com/russian-su-30-fighters-starfe-ukrainian-speed-boats-neutralize/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Liga.net",
+    "title": "Генштаб: ЗСУ контролюють Зміїний зброєю. У планах – взяти острів під фізичний контроль",
+    "title_cn": "总参：乌军以火力控制蛇岛，计划将其置于实际控制之下",
+    "author": "",
+    "date": "",
+    "date_basis": "待核（摘要疑为2022年材料）",
+    "url": "https://news.liga.net/ua/politics/news/genshtab-vsu-kontroliruyut-zmeinyy-orujiem-v-planah-vzyat-ostrov-pod-fizicheskiy-kontrol",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "image_categories": [],
+  "stats": {
+   "岛面积": "约0.17平方公里",
+   "苏-30SM损失（乌海军口径）": "1架，2025-08-14，原因不明"
+  },
+  "notes_cn": "线索汇编型条目，非完整案例。第二轮用英、乌语各检索一次，结果以2022年材料为主；多条2023—2026年条目仅有标题或URL slug。Liga.net“新的打击蛇岛”及“2026-07-17”日期的结论来自摘要转述，真伪未核，未采纳。outcome为近似值。Commons未对蛇岛检索（额度用尽）。"
+ },
+ {
+  "case_key": "ss_progress_iv_romania_2026_08_27",
+  "category": "海上交通线",
+  "title_cn": "罗马尼亚专属经济区内乌港出口货船起火沉没",
+  "subtitle_cn": "2026年8月27日傍晚，罗马尼亚黑海专属经济区、圣格奥尔基（Sfântu Gheorghe）外约15海里，多米尼加共和国籍干货船“进步四”号（PROGRESS IV）报称被无人机击中后起火沉没",
+  "date_start": "2026-08-27",
+  "date_end": "",
+  "location_cn": "罗马尼亚黑海专属经济区，圣格奥尔基（Sfântu Gheorghe）外约15海里（另说东南约20海里；坐标为示意点）",
+  "lat": 44.85,
+  "lon": 29.95,
+  "region": "黑海",
+  "attacker": "未明（罗总统：不知被谁、被何物击中；船方报称无人机）",
+  "defender": "多米尼加共和国籍（另有报道称多米尼克籍）干货船“进步四”号（PROGRESS IV），船员12人",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "船方报告被无人机击中；机型、数量、来源均未公布，罗方称不知击中物。",
+  "defense_means_cn": "无自卫手段；罗方事发当日雷达探测到蛇岛附近空中目标，西班牙空军F-18升空（与该船起火是否为同一目标，报道未说明）。海上救援：2艘ARSVOM搜救船约20分钟到场，商船“Mohamad B”受命协助。",
+  "narrative_cn": "2026年8月27日傍晚（罗马尼亚海事管理局称17:55接到起火报告，另一来源称“约18时”），多米尼加共和国籍（另有报道称多米尼克籍）干货船“进步四”号（PROGRESS IV）在罗马尼亚专属经济区内、距圣格奥尔基（Sfântu Gheorghe）约15海里处起火，此后沉没。另有报道称位置在东南约20海里，个别来源称在领海内，多数称在专属经济区。AIS显示该船驶向土耳其；报道称其自乌克兰多瑙河港口列尼（Reni）出发，载糖和豌豆，无易燃货物；另一说法是该船申报自苏利纳（Sulina）出发，报道称这是驶往乌多瑙河港口船舶的常见掩护申报。船方报告称被无人机击中。罗方2艘ARSVOM搜救船在求救约20分钟后抵达，商船“Mohamad B”受命协助；12名船员（8名乌克兰人、4名阿塞拜疆人）全部获救，1人手臂受伤，无生命危险。\n\n罗马尼亚总统尼库绍尔·丹（Nicușor Dan）在记者会上称，该船“被击中，似已沉没”，但“目前不知被谁、被什么击中”，将展开调查，并呼吁避免猜测；罗方已立案刑事调查。此前一天（8月26日），康斯坦察县奥林普（Olimp）海滩发现身份不明的无人机残骸；8月27日，罗雷达在蛇岛附近探测到空中目标，西班牙空军2架F-18升空。丹还称，罗方已请乌方不要攻击运往罗马尼亚的俄能源产品油轮。责任方至今未认定。",
+  "defense_effect_cn": "事发地在北约成员国专属经济区，罗方搜救反应较快（约20分钟到场），12人全部获救。但事发前一天已有无人机残骸上岸，当日又有雷达空情，说明已有预警信号，而报道未显示当日对在该航道航行的商船发布了有效警示，也未说明雷达发现的空中目标与该船起火是否为同一目标。商船无自卫手段。从多瑙河口出海的商船贴近乌—俄战区边缘，这一航道缺少空中防护。",
+  "claims_compare_cn": "罗总统丹：船被击中，肇事者与手段不明，将调查。船方/部分报道：被无人机击中。乌方与俄方回应：本次检索未见。口径差异：航线（列尼→土耳其，AIS/报道）vs 申报自苏利纳出发；船旗（多米尼加共和国 vs 多米尼克）；沉没位置（专属经济区为多数，个别称领海）；距岸距离（约15海里 vs 约20海里）；起火时刻（17:55 vs “约18时”）。窗口外的后续事件：2026年10月5日“Royad Mammadov”号在罗水域被击中、2人死亡，泽连斯基称是“两架俄无人机”的袭击，罗方确认2人死亡但未认定起火原因（Al Jazeera，2026-10-05）。",
+  "losses_cn": "船舶沉没（船价未见）；货物（糖、豌豆）灭失；船员12人获救，1人手臂受伤。经济损失无估算。",
+  "analysis_cn": "本案把商船受袭的地点推到北约成员国的专属经济区内，但责任方不明：罗马尼亚没有指认任何一方，只是在同一周内给出三条线索——残骸、空情和沉船。事发时段乌方打击俄能源油轮（黑海东南部与地中海）与俄方打击乌出口航道并行，公开信息不足以判断此案的行为方。对沿岸国，难点在预警（残骸与雷达空情）与对商船的实时警示脱节，以及取证；对多瑙河通道上的航运方，风险从乌方水域延伸到邻国专属经济区。窗口外10月5日的后续案已出现人员死亡。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Ukrainska Pravda（Українська правда）",
+    "title": "Commercial vessel catches fire in Romanian waters, president suggests it was an attack",
+    "title_cn": "罗马尼亚水域一艘商船起火，总统暗示为袭击",
+    "author": "",
+    "date": "2026-08-28",
+    "date_basis": "URL日期",
+    "url": "https://www.pravda.com.ua/eng/news/2026/08/28/8050724/",
+    "type": "其他"
+   },
+   {
+    "publisher": "European Pravda（Європейська правда）",
+    "title": "Commercial vessel catches fire in Romanian waters, president suggests it was an attack",
+    "title_cn": "罗马尼亚水域一艘商船起火，总统暗示为袭击",
+    "author": "",
+    "date": "2026-08-28",
+    "date_basis": "URL日期",
+    "url": "https://www.eurointegration.com.ua/eng/news/2026/08/28/7244354/",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "Romania Rescues Crew from Cargo Ship it Suspects Was Attacked in its EEZ",
+    "title_cn": "罗马尼亚救起疑遭袭货船的船员",
+    "author": "",
+    "date": "2026-08-28",
+    "date_basis": "按事件日推定",
+    "url": "https://maritime-executive.com/article/romania-rescues-crew-from-cargo-ship-it-suspects-was-attacked-in-its-eez",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Maritime Optima",
+    "title": "Dominican Republic-flagged cargo ship PROGRESS IV sinks in Romanian Black Sea EEZ（页面标题据URL）",
+    "title_cn": "多米尼加共和国籍货船“进步四”号在罗黑海专属经济区沉没",
+    "author": "",
+    "date": "2026-08-28",
+    "date_basis": "按事件日推定",
+    "url": "https://maritimeoptima.com/maritime-news/dominican-republic-flagged-cargo-ship-progress-iv-sinks-in-romanian-black-sea-eez",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Ukrainian Sea Ports Media（USM）",
+    "title": "Merchant ship catches fire and sinks in the Black Sea: all crew members rescued",
+    "title_cn": "商船在黑海起火沉没，全体船员获救",
+    "author": "",
+    "date": "2026-08-28",
+    "date_basis": "按事件日推定",
+    "url": "https://en.usm.media/?p=197909",
+    "type": "其他"
+   },
+   {
+    "publisher": "Hromadske",
+    "title": "Ship sailing from Ukraine sinks in Romania's Black Sea economic zone after reported drone strike（页面标题据URL）",
+    "title_cn": "自乌克兰出发的船在罗黑海专属经济区遭报道的无人机攻击后沉没",
+    "author": "",
+    "date": "2026-08-28",
+    "date_basis": "按事件日推定",
+    "url": "https://hromadske.ua/en/europa/270135-ship-sailing-from-ukraine-sinks-in-romanias-black-sea-economic-zone-after-reported-drone-strike",
+    "type": "其他"
+   },
+   {
+    "publisher": "Al Jazeera",
+    "title": "Ukraine says Russian drone attack sinks ship in Romanian waters（窗口外后续，页面标题据URL）",
+    "title_cn": "乌称俄无人机攻击致船只在罗马尼亚水域沉没",
+    "author": "",
+    "date": "2026-10-05",
+    "date_basis": "URL日期",
+    "url": "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters",
+    "type": "通讯社"
+   }
+  ],
+  "images": [],
+  "image_categories": [],
+  "stats": {
+   "船员": "12人获救（8乌克兰、4阿塞拜疆），1人轻伤",
+   "搜救到场": "约20分钟",
+   "距岸": "约15海里（另说约20海里）",
+   "起火报告时刻": "17:55（罗海事管理局，一说约18时）"
+  },
+  "notes_cn": "category用“海上交通线”；lat/lon为示意点；罗总统关于“请乌方不要攻击运往罗的俄能源产品油轮”及残骸、雷达空情、F-18升空的表述来自检索摘要，具体对应哪篇原文未逐一核对，使用时请复核。2026-10-05“Royad Mammadov”号案在窗口（2026-09-30）之外，仅作后续背景。gCaptain“Romania probes cause of Black Sea cargo ship sinking”一篇无法判定对应哪一起，未采。"
+ }
+]

@@ -1,0 +1,3230 @@
+[
+ {
+  "case_key": "is_bahrain_nsa_2026_02_28",
+  "category": "岛屿防卫",
+  "title_cn": "巴林岛国遭持续打击第五舰队撤离",
+  "subtitle_cn": "2026年2月28日起 巴林岛（麦纳麦朱费尔区等） 伊朗导弹与无人机持续打击巴林全境及美海军巴林支援基地（NSA Bahrain）",
+  "date_start": "2026-02-28",
+  "date_end": "",
+  "location_cn": "巴林麦纳麦朱费尔区，美国海军巴林支援基地（Naval Support Activity Bahrain, Juffair, Manama），美海军中央司令部/第五舰队司令部驻地",
+  "lat": 26.21,
+  "lon": 50.61,
+  "region": "波斯湾-霍尔木兹-阿曼湾",
+  "attacker": "伊朗伊斯兰革命卫队（IRGC）及伊朗武装力量导弹、无人机部队",
+  "defender": "美国海军中央司令部/第五舰队（NAVCENT/5th Fleet）、巴林国防军（BDF）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "异构",
+   "饱和"
+  ],
+  "attack_means_cn": "弹道导弹与无人机混合多轮投送。开战首夜巴林方面称击落导弹45枚、无人机9架；6月革命卫队称以无人机再袭第五舰队；7月中旬革命卫队称以导弹和无人机袭击。具体弹种、型号待核。",
+  "defense_means_cn": "巴林国防军及区域防空拦截（系统型号未公开，待核）；美方随后对基地周边人员实施撤离、迁往酒店并将约1500名水兵及家属撤回美国本土。",
+  "narrative_cn": "2026年2月28日，美国与以色列分别以“史诗怒火”（Operation Epic Fury）和“咆哮雄狮”（Operation Roaring Lion）为代号对伊朗发动大规模空袭。伊朗随即以导弹和无人机反击海湾地区美军设施，美国海军中央司令部兼第五舰队司令部所在的巴林支援基地（位于麦纳麦朱费尔区）成为首批目标之一。巴林政府当日确认一次导弹袭击以第五舰队设施为目标，称其侵犯巴林主权。伊朗无人机击中基地及周边多栋高层住宅楼，巴林国防军称当晚击落导弹45枚、无人机9架。\n当地时间2月28日（周六）夜，美海军中央司令部向基地内外人员发出题为“朱费尔撤离”的电子邮件，称“朱费尔区域已不再被评估为对美方人员安全”，要求在当地居住和工作的军人与承包商迁往别处酒店并发放补贴。五角大楼起初表示作战行动未受明显影响。Planet公司卫星图显示，2月28日至3月6日间基地内外至少7栋建筑被击中。美海军发言人此后确认，约1500名水兵及其家属、数百只宠物从巴林支援基地撤回美国本土。代理海军部长洪·曹（Hung Cao）在接受《大纪元时报》采访时称“他们把巴林炸得一塌糊涂”（They blew the hell out of Bahrain），与开战初期“影响有限”的官方表态形成反差。《任务与目的》（Task & Purpose）报道称，海军短期内不预期恢复使用该基地。\n袭击并未随4月停火终止。据巴林官方统计，开战以来累计拦截导弹174枚、无人机391架；截至6月11日，巴林境内累计3人死亡、51人以上受伤。6月，伊斯兰革命卫队称为报复美军打击伊朗南部，以无人机攻击第五舰队；7月中旬，革命卫队又宣称以导弹和无人机打击第五舰队驻地，引燃燃料库并摧毁数部雷达，该说法未获独立证实。8月底至9月初美伊冲突再起，CBS直播报道约旦和巴林再次遭伊朗导弹和无人机袭击。",
+  "defense_effect_cn": "巴林公布的累计拦截数（导弹174枚、无人机391架）说明来袭规模大、防空长期高强度运转，但卫星图证实基地内外至少7栋建筑被命中，岸上指挥与保障设施没有被末端防空完全遮护。基地位于城区，周边高层住宅同遭命中，美方最终选择撤离人员而非就地坚守，司令部所在地的岸基保障功能实际外移。暴露问题：一是前沿岸基司令部距伊朗导弹、无人机发射区近，预警时间短，少量突防即可造成功能性损失；二是官方初期“作战未受明显影响”的表态与后续卫星图、代理海军部长表态不一致；三是基地与民居混杂，附带损伤和驻在国安全压力随之上升。",
+  "claims_compare_cn": "五角大楼开战初称作战未受明显影响（Defense One 引述）；NPR 依据 Planet 卫星图报道至少7栋建筑在2月28日至3月6日间被击中；代理海军部长洪·曹称基地被“炸得一塌糊涂”。伊朗革命卫队6月、7月多次宣称摧毁燃料库、雷达等，美方未予证实。马来西亚网站“防务安全亚洲”（Defence Security Asia）称五角大楼低估损失，该站为单一、可靠性较低来源。巴林拦截数字为单方统计，未见独立核实。美军人员伤亡数字未检索到公开记录。",
+  "losses_cn": "设施：至少7栋建筑受损（Planet 卫星图，2月28日—3月6日，经 NPR 报道）；功能：海军撤离朱费尔区，约1500名水兵及家属、数百只宠物撤回美国本土（美海军发言人）。人员：巴林全境截至6月11日3人死亡、51人以上受伤（巴林官方，经维基百科汇总，未区分基地内外）；美军伤亡未检索到公开记录。",
+  "analysis_cn": "这是伊朗对美国海军海外前沿司令部的直接、多轮次打击。伊朗采用导弹与无人机混合投送，目标从司令部延伸到周边住宅区以及燃料、雷达等保障节点。从拦截数字看防空并不失职，但对固定岸基设施而言，少数突防即可迫使人员撤离、功能外移。对处于对手导弹覆盖圈内的前沿基地，拦截率之外还要看被动防护（加固、分散、伪装）、替代指挥所和人员疏散预案；官方损伤口径前后不一，也提示需要依靠商业卫星图做独立评估。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Military.com",
+    "title": "Attack On US Navy Fifth Fleet Headquarters In Bahrain",
+    "title_cn": "美海军第五舰队巴林司令部遭袭",
+    "author": "Military.com",
+    "date": "2026-02-28",
+    "url": "https://www.military.com/feature/2026/02/28/attack-us-navy-fifth-fleet-headquarters-bahrain.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Defense One（防务一号）",
+    "title": "Iranian drones damage US Navy base in Bahrain; Americans evacuate",
+    "title_cn": "伊朗无人机击伤美海军巴林基地，美方人员撤离",
+    "author": "Defense One",
+    "date": "2026-02-28",
+    "url": "https://www.defenseone.com/threats/2026/02/americans-evacuate-after-iranian-drones-damage-us-navy-base-bahrain/411786/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Defense One（防务一号）",
+    "title": "'It sounded relentless': American in Bahrain describes days of drone and missile attacks",
+    "title_cn": "“声音从未停歇”：在巴林的美国人讲述连日无人机与导弹袭击",
+    "author": "Defense One",
+    "date": "2026-03（日待核）",
+    "url": "https://www.defenseone.com/threats/2026/03/it-sounded-relentless-american-bahrain-describes-days-drone-and-missile-attacks/411794",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "GPB/NPR（佐治亚公共广播/美国国家公共电台）",
+    "title": "Evacuation of US troops from Mideast base sends community groups scrambling to help",
+    "title_cn": "美军撤离中东基地，社区团体忙于援助",
+    "author": "NPR",
+    "date": "2026-04-03",
+    "url": "https://www.gpb.org/news/2026/04/03/evacuation-of-us-troops-mideast-base-sends-community-groups-scrambling-help",
+    "type": "其他"
+   },
+   {
+    "publisher": "Task & Purpose（任务与目的）",
+    "title": "Navy base Bahrain Iran damage",
+    "title_cn": "伊朗袭击致海军巴林基地受损",
+    "author": "Task & Purpose",
+    "date": "待核",
+    "url": "https://taskandpurpose.com/news/navy-base-bahrain-iran-damage/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "WSET（Sinclair 集团）",
+    "title": "US positions across the Middle East have been severely damaged by Iranian missiles: report",
+    "title_cn": "报道：美军中东多处阵地遭伊朗导弹严重破坏",
+    "author": "WSET",
+    "date": "待核",
+    "url": "https://wset.com/news/nation-world/us-positions-across-the-middle-east-have-been-severely-damaged-by-iranian-missiles-report-hung-cao-navy-air-force-saudi-arabia",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "2026 Iranian strikes on Bahrain",
+    "title_cn": "2026年伊朗对巴林的打击",
+    "author": "维基百科编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_Bahrain",
+    "type": "其他"
+   },
+   {
+    "publisher": "Times of Israel（以色列时报）",
+    "title": "Iran's Revolutionary Guards say they targeted US Fifth Fleet in Bahrain after American strikes",
+    "title_cn": "伊朗革命卫队称在美军打击后袭击驻巴林第五舰队",
+    "author": "Times of Israel 直播",
+    "date": "待核（2026年6月）",
+    "url": "https://www.timesofisrael.com/liveblog_entry/irans-revolutionary-guards-say-they-targeted-us-fifth-fleet-in-bahrain-after-american-strikes/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Middle East Eye（中东之眼）",
+    "title": "IRGC attacks target US Fifth Fleet in Bahrain",
+    "title_cn": "革命卫队袭击驻巴林美第五舰队",
+    "author": "Middle East Eye 直播",
+    "date": "待核（2026年7月中旬）",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-attacks-target-us-fifth-fleet-bahrain",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "CBS News（哥伦比亚广播公司新闻）",
+    "title": "Jordan and Bahrain face Iranian missiles and drones as hostilities flare",
+    "title_cn": "敌对行动升温，约旦和巴林遭伊朗导弹与无人机袭击",
+    "author": "CBS News 直播",
+    "date": "待核（2026年8月底—9月初）",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-strikes-strait-of-hormuz-larak-island/",
+    "type": "通讯社"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://www.gpb.org/news/2026/04/03/evacuation-of-us-troops-mideast-base-sends-community-groups-scrambling-help",
+    "file_name": "",
+    "desc_cn": "NPR 报道所引 Planet 卫星图出处：2月28日—3月6日巴林支援基地内外至少7栋建筑受损（报道页，未核实是否内嵌原图）",
+    "date": "2026-04-03",
+    "credit": "Planet Labs（经 NPR 报道）",
+    "license": "商业卫星图，版权保留",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "首夜拦截（巴林国防军称）": "导弹45枚、无人机9架",
+   "累计拦截（巴林官方，维基汇总）": "导弹174枚、无人机391架",
+   "卫星图确认受损建筑": "≥7栋（2月28日—3月6日，Planet）",
+   "撤回美国本土人员": "约1500名水兵及家属（美海军发言人）",
+   "巴林境内伤亡（截至6月11日）": "3死、51+伤"
+  }
+ },
+ {
+  "case_key": "pg_iran_naval_bases_epic_fury_2026_03",
+  "category": "周边港口",
+  "title_cn": "伊朗海军舰艇泊港遭成批摧毁",
+  "subtitle_cn": "2026年2月28日—3月中旬 阿巴斯港、科纳拉克/恰巴哈尔 美军“史诗怒火”行动打击伊朗海军与革命卫队海军",
+  "date_start": "2026-02-28",
+  "date_end": "2026-03-16",
+  "location_cn": "伊朗阿巴斯港海军基地（Bandar Abbas）；恰巴哈尔湾两岸的科纳拉克海军基地（Konarak）与恰巴哈尔港（Chabahar / Chah Bahar）",
+  "lat": 27.14,
+  "lon": 56.21,
+  "region": "波斯湾-霍尔木兹-阿曼湾",
+  "attacker": "美国中央司令部（CENTCOM）打击力量（以色列同期参战）",
+  "defender": "伊朗伊斯兰共和国海军（IRIN）、伊斯兰革命卫队海军（IRGCN）",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "美军空中精确打击，覆盖波斯湾沿岸多处海军基地；所用平台与弹种未公开（待核）。",
+  "defense_means_cn": "伊朗岸基防空及停泊舰艇自身防空；未检索到有效拦截记录。",
+  "narrative_cn": "据五角大楼官员表述，摧毁伊朗海军和伊斯兰革命卫队海军是“史诗怒火”行动的优先任务。美国中央司令部3月2日公布的目标清单显示，伊朗反舰导弹阵地、水面战舰和潜艇被列为开战后48小时内的优先目标，打击覆盖波斯湾沿岸多处海军基地。\n阿巴斯港是重点。据美国保卫民主基金会（FDD）统计，美军至少于2月28日、3月2日、3月5日三次打击该港。由集装箱船改装的无人机母舰“沙希德·巴盖里”号（IRIS Shahid Bagheri，C110-4）在泊位被摧毁，中央司令部予以确认；前沿基地舰“马克兰”号（IRIS Makran）在码头被击中，3月2日卫星图显示其起火。停靠阿巴斯港的一艘“基洛”级潜艇被击中，卫星图显示可能沉没，中央司令部司令称击沉了伊朗“最具作战能力的潜艇”。\n阿曼湾方向，3月1日一艘“贾马兰”级（Moudge级）护卫舰在恰巴哈尔湾的码头被击中并坐沉。分析人士对舰名有分歧，可能为“贾马兰”号（IRIS Jamaran，F76），也可能为“巴扬多尔”级轻型护卫舰“纳格迪”号（IRIS Naghdi，F82）；《海军新闻》称“巴扬多尔”号与“纳格迪”号均在科纳拉克海军基地沉没，卫星图显示一艘战舰在码头旁部分没入水中。革命卫队海军的“苏莱曼尼”级双体轻型护卫舰“沙希德·萨亚德·希拉齐”号（IRIS Shahid Sayyad Shirazi）3月3日遭打击，至4日仍在燃烧但未沉；国防部长赫格塞思称已击沉伊朗“最新战舰”，《战区》（TWZ）援引美国防部称该舰此后沉没。\n战果口径差异很大：开战初特朗普称击毁或击沉9至10艘；TWZ统计逾20艘；3月16日中央司令部司令布拉德·库珀（Brad Cooper）海军上将称已摧毁伊朗海军舰艇“逾100艘”。另据《大英百科全书》，开战首波打击中一枚导弹击中阿巴斯港附近米纳卜（Minab）一处海军基地旁的女子学校，约170人死亡。",
+  "defense_effect_cn": "伊朗海军大中型舰艇在开战后数日内大多在港内被毁，未见出港疏散或港口防空有效拦截的记录。泊位、码头成为固定靶，由商船改装的无人机母舰也在泊位被毁。伊朗的小艇与布雷能力并未被一次清除，此后仍发生布雷、袭船（见本组霍尔木兹相关案例），但大中型舰艇体系基本瓦解。代价方面，米纳卜女子学校约170人死亡，系本次打击中伤亡最重的附带损伤事件。",
+  "claims_compare_cn": "美方战果数字随时间和统计口径变化：特朗普早期称9—10艘，TWZ称逾20艘，库珀3月16日称逾100艘（应包含小型艇，口径待核）；西班牙防务网站 Zona Militar 早期统计为11艘。具体舰名存在识别分歧（“贾马兰”号或“纳格迪”号）；“希拉齐”号是否沉没，赫格塞思、TWZ 与《海军新闻》、FDD 的表述前后不一。伊朗官方损失数字未检索到公开记录。",
+  "losses_cn": "伊朗方（美方及开源分析口径）：无人机母舰“沙希德·巴盖里”号被毁；前沿基地舰“马克兰”号被击中起火；“基洛”级潜艇1艘可能沉没；护卫舰/轻型护卫舰至少1—3艘在科纳拉克/恰巴哈尔坐沉（舰名有分歧）；双体轻型护卫舰“希拉齐”号被击中（是否沉没有分歧）；累计舰艇损失美方称逾100艘（3月16日）。人员伤亡：海军官兵伤亡未检索到公开记录；米纳卜女子学校约170人死亡（大英百科）。",
+  "analysis_cn": "开战首波即把海军列为优先目标，意在先拔除能出海拦截、布雷和发射反舰导弹的大中型平台，为此后的海峡控制创造条件。伊朗大中型舰艇集中停泊于少数港口，被成批打击，说明在对手掌握制空权和持续侦察时，港内停泊兵力的生存取决于战前分散、出港机动和港内掩体伪装。无人机母舰在泊位被毁，表明商船改装的海上基地缺乏护卫和隐蔽时生存性差。战果统计口径不一，后续引用需注明统计时点与对象。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "USNI News（美国海军学会新闻）",
+    "title": "Iranian Naval Forces are Major Target in Operation Epic Fury Strikes",
+    "title_cn": "伊朗海军力量是“史诗怒火”打击的主要目标",
+    "author": "USNI News",
+    "date": "2026-03-02",
+    "url": "https://news.usni.org/2026/03/02/iranian-naval-forces-are-major-target-in-operation-epic-fury-strikes",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "FDD（保卫民主基金会）",
+    "title": "10 major Iranian naval targets struck in Operation Epic Fury",
+    "title_cn": "“史诗怒火”行动打击的10个伊朗主要海军目标",
+    "author": "FDD's Long War Journal",
+    "date": "2026-03-18",
+    "url": "https://www.fdd.org/analysis/2026/03/18/10-major-iranian-naval-targets-struck-in-operation-epic-fury/",
+    "type": "智库"
+   },
+   {
+    "publisher": "Naval News（海军新闻）",
+    "title": "Iran's Catamaran Corvette Struck During Operation Epic Fury",
+    "title_cn": "伊朗双体轻型护卫舰在“史诗怒火”行动中被击中",
+    "author": "Naval News",
+    "date": "2026-03（日待核）",
+    "url": "https://www.navalnews.com/naval-news/2026/03/irans-catamaran-corvette-struck-during-operation-epic-fury/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The War Zone（战区，TWZ）",
+    "title": "One Of Iran's Most Advanced Wacky Catamaran Warships Sunk In Epic Fury",
+    "title_cn": "伊朗最先进的怪异双体战舰之一在“史诗怒火”中被击沉",
+    "author": "TWZ",
+    "date": "待核（2026年3月）",
+    "url": "https://www.twz.com/news-features/one-of-irans-most-advanced-wacky-catamaran-warships-sunk-in-epic-fury",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "U.S Strikes Iranian Navy In Operation Epic Fury, Warships Hit At Bandar Abbas And Chah Bahar",
+    "title_cn": "美军在“史诗怒火”中打击伊朗海军，阿巴斯港与恰巴哈尔战舰被击中",
+    "author": "Marine Insight",
+    "date": "待核（2026年3月）",
+    "url": "https://www.marineinsight.com/shipping-news/u-s-strikes-iranian-navy-in-operation-epic-fury-warships-hit-at-bandar-abbas-and-chah-bahar/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Forecast International（预测国际）",
+    "title": "The Naval Targets and Implications of Operation Epic Fury",
+    "title_cn": "“史诗怒火”行动的海军目标及其影响",
+    "author": "Forecast International",
+    "date": "2026-03-03",
+    "url": "https://dsm.forecastinternational.com/2026/03/03/the-naval-targets-and-implications-of-operation-epic-fury/",
+    "type": "智库"
+   },
+   {
+    "publisher": "Zona Militar",
+    "title": "Operation Epic Fury: The Iranian Navy's expeditionary bases, another of the priority targets struck by the United States",
+    "title_cn": "“史诗怒火”行动：伊朗海军远征基地是美国优先打击目标之一",
+    "author": "Zona Militar",
+    "date": "2026-03-03",
+    "url": "https://www.zona-militar.com/en/2026/03/03/operation-epic-fury-the-iranian-navys-expeditionary-bases-another-of-the-priority-targets-struck-by-the-united-states/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Britannica（大英百科全书）",
+    "title": "2026 Iran war",
+    "title_cn": "2026年伊朗战争",
+    "author": "Encyclopaedia Britannica",
+    "date": "2026-10-09（检索日）",
+    "url": "https://www.britannica.com/event/2026-Iran-war",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "IRIS Jamaran (76)",
+    "title_cn": "“贾马兰”号护卫舰（76）",
+    "author": "维基百科编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://en.wikipedia.org/wiki/IRIS_Jamaran_(76)",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://www.fdd.org/analysis/2026/03/18/10-major-iranian-naval-targets-struck-in-operation-epic-fury/",
+    "file_name": "",
+    "desc_cn": "FDD 分析所引3月2日卫星图出处：阿巴斯港“马克兰”号前沿基地舰起火（报道页，原图文件名待核）",
+    "date": "2026-03-18",
+    "credit": "FDD 引商业卫星图",
+    "license": "待核",
+    "verified": false
+   },
+   {
+    "file_page": "https://www.twz.com/news-features/one-of-irans-most-advanced-wacky-catamaran-warships-sunk-in-epic-fury",
+    "file_name": "",
+    "desc_cn": "TWZ 报道所引卫星图出处：首轮被击中的两艘护卫舰已坐沉（报道页，原图文件名待核）",
+    "date": "待核",
+    "credit": "TWZ 引商业卫星图",
+    "license": "待核",
+    "verified": false
+   },
+   {
+    "file_page": "https://www.navalnews.com/naval-news/2026/03/irans-catamaran-corvette-struck-during-operation-epic-fury/",
+    "file_name": "",
+    "desc_cn": "《海军新闻》报道配图出处：“希拉齐”号双体轻护舰中弹燃烧（报道页，原图待核）",
+    "date": "待核",
+    "credit": "Naval News",
+    "license": "待核",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "阿巴斯港遭打击次数": "≥3次（2月28日、3月2日、3月5日，FDD）",
+   "美方宣称摧毁舰艇": "9—10艘（特朗普早期）/逾20艘（TWZ）/逾100艘（库珀，3月16日）",
+   "米纳卜女子学校死亡": "约170人（大英百科）"
+  }
+ },
+ {
+  "case_key": "fg_lincoln_csg_claims_2026_03",
+  "category": "远海机动编组",
+  "title_cn": "林肯号航母编组遭多轮打击宣称",
+  "subtitle_cn": "2026年3月1日—25日 阿拉伯海/阿曼湾 伊朗宣称以弹道导弹、海上无人机、岸射巡航导弹打击美“亚伯拉罕·林肯”号航母打击群",
+  "date_start": "2026-03-01",
+  "date_end": "2026-03-25",
+  "location_cn": "阿拉伯海、阿曼湾（Arabian Sea / Gulf of Oman），具体位置未公开",
+  "lat": 23.0,
+  "lon": 61.5,
+  "region": "阿拉伯海-印度洋",
+  "attacker": "伊朗伊斯兰革命卫队（弹道导弹、海上无人机）；伊朗陆军（岸射巡航导弹）；声明经哈塔姆·安比亚中央司令部（Khatam al-Anbiya Central Headquarters）发布",
+  "defender": "美国海军“亚伯拉罕·林肯”号（USS Abraham Lincoln）航母打击群（编组内含“斯普鲁恩斯”号驱逐舰 USS Spruance 等）",
+  "outcome": "防御成功",
+  "domains": [
+   "空中",
+   "水面"
+  ],
+  "patterns": [
+   "异构",
+   "集群"
+  ],
+  "attack_means_cn": "伊朗方称：3月1日弹道导弹4枚；随后称以海上无人机在阿曼湾命中该舰；3月25日伊朗陆军称以岸射巡航导弹命中。特朗普3月24日称伊朗累计向该舰发射101枚导弹。来袭兵器具体型号待核。",
+  "defense_means_cn": "编组防空拦截（拦截弹种类与数量未公开，待核）；保持远离伊朗海岸的作战海域；中央司令部发布照片与持续出动信息进行舆论反制。",
+  "narrative_cn": "开战次日（3月1日），伊朗伊斯兰革命卫队发表声明，称以4枚弹道导弹打击了在阿拉伯海活动的美国“亚伯拉罕·林肯”号航母，伊朗官方媒体予以转发。美国中央司令部当天否认该舰被击中，称“没有可信报道显示该舰被命中”。此后，哈塔姆·安比亚中央司令部发言人又称该舰在阿曼湾被革命卫队海上无人机击中，随后撤离该海域。社交媒体上流传多段“林肯”号起火视频，美国事实核查机构 PolitiFact 3月2日核查认定，其中一段视频的舰体细节与真实影像不符，另一段最早于2025年“12日战争”期间即已发布；法新社核查也指出相关帖子使用旧视频。\n3月6日至7日，美军发布该舰在阿拉伯海航行作业的新照片，中央司令部同时指出，伊朗官员先称该舰“被击沉”、后又改称其“撤离战场”。3月24日，特朗普称伊朗共向“林肯”号发射101枚导弹，“每一枚都在海上被击落”，这一数字远高于伊朗3月初宣称的4枚。3月25日，伊朗陆军称从沿岸向海上发射的巡航导弹“成功命中”该舰；美方对此未确认也未否认，中央司令部仅表示该舰“在地区水域航行的同时，继续对伊朗境内军事目标实施飞行作业”。4月19日，同属该编组的“斯普鲁恩斯”号驱逐舰在阿拉伯海执行封锁拦截任务（见本组“图斯卡”号案例），可旁证编组仍在战区持续活动。",
+  "defense_effect_cn": "按美方口径，编组未受损并持续出动，伊朗多轮宣称的命中未获任何独立证实；美方发布的照片与持续作战记录构成主要反证。若特朗普所称101枚来袭属实，编组在一个月内承受了相当规模的反舰打击，拦截弹消耗和补给压力不可忽视，但具体拦截弹种类、数量、拦截位置均未公开。暴露问题：航母编组的实际受威胁程度和防空消耗缺乏透明数据，外界只能在双方宣传之间判断；伪造和旧视频在社交媒体传播快，需要专门的事实核查应对。",
+  "claims_compare_cn": "伊朗：3月1日称4枚弹道导弹命中；随后称无人机命中、该舰撤离；官员曾称该舰“被击沉”；3月25日陆军称巡航导弹命中。美国：中央司令部3月1日否认被击中；3月6—7日发布在海上作业照片；3月24日特朗普称101枚来袭全部被击落；对3月25日说法未作正面回应。独立核查：PolitiFact、法新社认定流传视频不实或为旧视频。双方在来袭数量（4枚 vs 101枚）上相差悬殊，均无第三方数据。",
+  "losses_cn": "美方：未报告损伤或伤亡（中央司令部、美方照片）。伊朗宣称命中、击沉或迫使撤离，均未获证实。",
+  "analysis_cn": "本案的攻防同时发生在海上和信息空间。伊朗对航母反复“宣布命中”，配合旧视频传播；美方以照片和持续作战回应。航母编组在阿拉伯海保持距伊朗海岸较远的作战海域，拉长了伊朗岸基反舰火力的杀伤链，使其需要远程目标指示才能形成有效打击。对远海机动编组，持续公开的作战行动本身就是对敌方毁伤宣称的反证，但防空弹药消耗与补给数据仍是评估编组可持续作战能力的关键空白。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Middle East Monitor（中东观察）",
+    "title": "US denies Iranian claim USS Abraham Lincoln was struck by ballistic missiles",
+    "title_cn": "美方否认伊朗所称“林肯”号被弹道导弹击中",
+    "author": "MEMO",
+    "date": "2026-03-01",
+    "url": "https://www.middleeastmonitor.com/20260301-us-denies-iranian-claim-uss-abraham-lincoln-was-struck-by-ballistic-missiles/",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Express Tribune（快报论坛报）",
+    "title": "Iran says it targeted USS Abraham Lincoln, US denies claim",
+    "title_cn": "伊朗称打击“林肯”号，美方否认",
+    "author": "The Express Tribune",
+    "date": "待核（2026年3月1日前后）",
+    "url": "https://tribune.com.pk/story/2595246/iran-says-it-targeted-us-aircraft-carrier-state-media-reports",
+    "type": "其他"
+   },
+   {
+    "publisher": "PolitiFact",
+    "title": "Videos do not show missile strike on USS Abraham Lincoln",
+    "title_cn": "视频并未显示“林肯”号遭导弹击中",
+    "author": "PolitiFact",
+    "date": "2026-03-02",
+    "url": "https://politifact.com/factchecks/2026/mar/02/social-media/uss-abraham-lincoln-fire-missile-iran/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Naval Today（今日海军）",
+    "title": "US shares photos of USS Abraham Lincoln at sea after Iran's claims it was struck by missile",
+    "title_cn": "伊朗称导弹命中后，美方公布“林肯”号海上照片",
+    "author": "Naval Today",
+    "date": "2026-03-07",
+    "url": "https://www.navaltoday.com/2026/03/07/us-shares-photos-of-uss-abraham-lincoln-at-sea-after-irans-claims-it-was-struck-by-missile/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Naval Today（今日海军）",
+    "title": "Trump: Iran fired 101 missiles at USS Abraham Lincoln",
+    "title_cn": "特朗普：伊朗向“林肯”号发射101枚导弹",
+    "author": "Naval Today",
+    "date": "2026-03-24",
+    "url": "https://www.navaltoday.com/2026/03/24/trump-iran-fired-101-missiles-at-uss-abraham-lincoln",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Naval Today（今日海军）",
+    "title": "VIDEO: Iran says cruise missiles fired at USS Abraham Lincoln",
+    "title_cn": "视频：伊朗称向“林肯”号发射巡航导弹",
+    "author": "Naval Today",
+    "date": "2026-03-25",
+    "url": "https://www.navaltoday.com/2026/03/25/video-iran-says-cruise-missiles-fired-at-uss-abraham-lincoln/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Middle East Monitor（中东观察）",
+    "title": "Iran's army claims missile attack on USS Abraham Lincoln aircraft carrier",
+    "title_cn": "伊朗陆军宣称导弹打击“林肯”号航母",
+    "author": "MEMO",
+    "date": "2026-03-25",
+    "url": "https://www.middleeastmonitor.com/20260325-irans-army-claims-missile-attack-on-uss-abraham-lincoln-aircraft-carrier/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Yahoo News（转载法新社核查）",
+    "title": "Baseless posts about Iran strike on USS Abraham Lincoln share old clip",
+    "title_cn": "关于伊朗打击“林肯”号的不实帖子使用旧视频",
+    "author": "AFP（经 Yahoo 转载，待核）",
+    "date": "待核",
+    "url": "https://www.yahoo.com/news/articles/baseless-posts-iran-strike-uss-100554878.html",
+    "type": "通讯社"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://www.navaltoday.com/2026/03/07/us-shares-photos-of-uss-abraham-lincoln-at-sea-after-irans-claims-it-was-struck-by-missile/",
+    "file_name": "",
+    "desc_cn": "美军3月6—7日发布的“林肯”号在阿拉伯海作业照片出处（报道页；原始 DVIDS 图片页未检索，待核）",
+    "date": "2026-03-07",
+    "credit": "美国中央司令部（经 Naval Today）",
+    "license": "美国政府作品，推定公有领域（待核）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_Carrier_Strike_Group_Conducts_Photo_Exercise.jpg",
+    "file_name": "Abraham_Lincoln_Carrier_Strike_Group_Conducts_Photo_Exercise.jpg",
+    "desc_cn": "2026年2月6日“林肯”号航母打击群（含“迈克尔·墨菲”号、“弗兰克·E·彼得森”号等）在阿拉伯海编队合影，距“史诗怒火”行动开始22天",
+    "date": "2026-02-06",
+    "credit": "美国海军",
+    "license": "Public Domain（美国政府作品，推定，待核）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:USS_Abraham_Lincoln_(CVN_72)_supports_Operation_Epic_Fury_(9556565).jpg",
+    "file_name": "USS_Abraham_Lincoln_(CVN_72)_supports_Operation_Epic_Fury_(9556565).jpg",
+    "desc_cn": "“林肯”号支援“史诗怒火”行动（DVIDS编号9556565；具体画面待核。检索摘要提到一张2026年2月27日阿拉伯海舰员向升降机转运弹药的照片，与本文件或下一文件对应，待核）",
+    "date": "待核（2026年2—3月）",
+    "credit": "美国海军",
+    "license": "Public Domain（美国政府作品，推定，待核）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:U_S_Forces_Launch_Operation_Epic_Fury_(9542590).jpg",
+    "file_name": "U_S_Forces_Launch_Operation_Epic_Fury_(9542590).jpg",
+    "desc_cn": "美军发起“史诗怒火”行动（DVIDS编号9542590，检索时与“林肯”号同列；画面待核）",
+    "date": "待核（2026-02-28前后）",
+    "credit": "美国国防部",
+    "license": "Public Domain（美国政府作品，推定，待核）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:USS_Abraham_Lincoln_Conducts_Flight_Deck_Operations_(9715021).jpg",
+    "file_name": "USS_Abraham_Lincoln_Conducts_Flight_Deck_Operations_(9715021).jpg",
+    "desc_cn": "“林肯”号飞行甲板作业（检索摘要称有一张2026年5月29日MH-60R在飞行甲板、部署于第五舰队的照片，与本文件的对应关系待核）",
+    "date": "待核（2026年5月）",
+    "credit": "美国海军",
+    "license": "Public Domain（美国政府作品，推定，待核）",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "伊朗宣称弹道导弹（3月1日）": "4枚",
+   "特朗普所称累计来袭（3月24日）": "101枚，全部击落",
+   "美方承认受损": "无",
+   "被核查为不实的流传视频": "≥2段（PolitiFact）"
+  }
+ },
+ {
+  "case_key": "fg_iris_dena_sunk_2026_03_04",
+  "category": "远海机动编组",
+  "title_cn": "德纳号返航途中遭美潜艇鱼雷击沉",
+  "subtitle_cn": "2026年3月4日 斯里兰卡加勒外海约19海里 美核潜艇“夏洛特”号以鱼雷击沉伊朗护卫舰“德纳”号（IRIS Dena）",
+  "date_start": "2026-03-04",
+  "date_end": "",
+  "location_cn": "印度洋，斯里兰卡加勒（Galle）外海约19海里国际水域",
+  "lat": 5.75,
+  "lon": 80.1,
+  "region": "阿拉伯海-印度洋",
+  "attacker": "美国海军“洛杉矶”级攻击型核潜艇“夏洛特”号（USS Charlotte）",
+  "defender": "伊朗伊斯兰共和国海军护卫舰“德纳”号（IRIS Dena）",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "水下"
+  ],
+  "patterns": [
+   "单平台",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "Mk 48型重型鱼雷。美参联会主席丹·凯恩（Dan Caine）称使用1枚；另有报道称发射2枚、首枚未中（单一来源，且该来源误称“德纳”号为潜艇）。",
+  "defense_means_cn": "无有效防御记录。斯里兰卡官员称该舰按演习规程返航，处于非武装状态。",
+  "narrative_cn": "“德纳”号此前参加了印度主办的“2026国际舰队检阅”（International Fleet Review 2026）相关演习，返航途中于3月4日在斯里兰卡加勒外约19海里处遭美国海军“洛杉矶”级核潜艇“夏洛特”号鱼雷攻击，2至3分钟内沉没。美国国防部长赫格塞思在五角大楼称：“一艘美国潜艇击沉了一艘自以为在国际水域很安全的伊朗军舰……它被鱼雷击沉。安静的死亡。”他称这是二战以来首次以鱼雷击沉敌舰，这一说法存在争议，此前英国和巴基斯坦均有以鱼雷击沉舰船的战例。参联会主席凯恩介绍此次攻击使用了1枚Mk 48鱼雷。\n斯里兰卡军方实施救援，运回87具遗体，救起32人送医，舰上估计约180人中约60人下落不明；维基百科条目统计为104人死亡（含20人失踪）、32人获救。伊朗国际电视台首报称80人遇难。次日，斯里兰卡对另一艘伊朗船只实施控制。伊朗外长阿拉格齐（Abbas Araghchi）称此事为“海上暴行”。斯里兰卡官员称，该舰在返航途中按演习规程处于非武装状态。美方随后公布了击沉过程视频。斯里兰卡此后向伊朗移交了84名水兵的遗骸。",
+  "defense_effect_cn": "“德纳”号在战争爆发后仍以单舰、非武装状态沿常规航线远海返航，没有反潜护航，也未见规避措施，对处于有利阵位的攻击型核潜艇基本没有防御余地。暴露问题：一是战争突然爆发时，远离本土的舰艇缺少及时撤回或规避的预案；二是平时外交性质的海上活动（舰队检阅、联演）可能在冲突骤起时变为高风险暴露；三是交战发生在第三国近海，斯里兰卡被动承担搜救和遗体处理，引发主权与人道问题。",
+  "claims_compare_cn": "鱼雷数量：凯恩称1枚Mk 48；航空迷俱乐部（Aviation Geek Club）等称2枚、首枚未中。遇难人数：伊朗国际电视台首报80人；斯方运回87具遗体、约60人失踪；维基统计104人（含20人失踪）；斯方后移交84具遗骸。定性：赫格塞思称“二战以来首次”，被指不准确；伊方称“海上暴行”并强调非武装状态，美方强调目标位于国际水域。巴基斯坦《今日巴基斯坦》将“德纳”号误报为潜艇。",
+  "losses_cn": "伊朗：护卫舰1艘沉没；死亡87—104人（各方口径），32人获救；斯里兰卡向伊方移交84具遗骸。美方：无损失。",
+  "analysis_cn": "本案是战争初期对敌方远海兵力的猎杀行动：攻击型核潜艇在敌舰返航必经航线附近伏击，单发鱼雷即在数分钟内击沉护卫舰。对远海单舰或小编组而言，冲突爆发前后的风险窗口判断、通信预警和航线规避，比单舰自身防御能力更具决定性。舰艇沉没速度快，也说明在远离友方的海域，搜救几乎完全依赖第三国。赫格塞思公开以“安静的死亡”描述此次击沉，表明美方有意借此对伊朗远海兵力形成威慑。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Iran International（伊朗国际）",
+    "title": "Iranian warship sunk off Sri Lanka by US submarine torpedo; 80 killed",
+    "title_cn": "伊朗军舰在斯里兰卡外海被美潜艇鱼雷击沉，80人死亡",
+    "author": "Iran International",
+    "date": "2026-03-04",
+    "url": "https://www.iranintl.com/en/202603040268",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Globe and Mail（环球邮报）",
+    "title": "U.S. submarine sinks Iranian warship IRIS Dena off Sri Lanka with torpedo, Hegseth says",
+    "title_cn": "赫格塞思称美潜艇在斯里兰卡外海以鱼雷击沉伊朗军舰“德纳”号",
+    "author": "The Globe and Mail",
+    "date": "待核（2026年3月4日前后）",
+    "url": "https://www.theglobeandmail.com/world/article-us-submarine-sinks-iran-warship-off-sri-lanka-hegseth/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Yahoo News",
+    "title": "US submarine sank Iran's warship off Sri Lanka coast, says Hegseth",
+    "title_cn": "赫格塞思称美潜艇在斯里兰卡沿海击沉伊朗军舰",
+    "author": "Yahoo News（转载，原出处待核）",
+    "date": "待核",
+    "url": "https://www.yahoo.com/news/articles/least-100-people-missing-iranian-120656447.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "Yahoo News",
+    "title": "Sri Lanka takes control of second Iranian vessel a day after US sub attack",
+    "title_cn": "美潜艇袭击次日斯里兰卡控制第二艘伊朗船只",
+    "author": "Yahoo News（转载，原出处待核）",
+    "date": "待核",
+    "url": "https://www.yahoo.com/news/articles/sri-lanka-evacuates-second-iranian-020549744.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Aviation Geek Club（航空迷俱乐部）",
+    "title": "Video shows US Navy submarine sinking Iranian Frigate IRIS Dena by torpedo off Sri Lanka",
+    "title_cn": "视频显示美海军潜艇在斯里兰卡外海以鱼雷击沉伊朗护卫舰“德纳”号",
+    "author": "The Aviation Geek Club",
+    "date": "待核",
+    "url": "https://theaviationgeekclub.com/video-shows-us-navy-submarine-sinking-iranian-frigate-iris-dena-by-torpedo-off-sri-lanka/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Pakistan Today（今日巴基斯坦）",
+    "title": "Iranian submarine IRIS Dena sunk by torpedo in international waters near Sri Lanka",
+    "title_cn": "伊朗“潜艇”德纳号在斯里兰卡附近国际水域被鱼雷击沉（原题误称潜艇）",
+    "author": "Pakistan Today",
+    "date": "2026-03-10",
+    "url": "https://www.pakistantoday.com.pk/2026/03/10/iranian-submarine-iris-dena-sunk-by-torpedo-in-international-waters-near-sri-lanka",
+    "type": "其他"
+   },
+   {
+    "publisher": "News On AIR（全印广播电台新闻）",
+    "title": "Sri Lanka returns remains of 84 Iranian sailors after IRIS Dena sinking by US submarine",
+    "title_cn": "斯里兰卡移交“德纳”号被美潜艇击沉后84名伊朗水兵遗骸",
+    "author": "All India Radio",
+    "date": "待核",
+    "url": "https://www.newsonair.gov.in/sri-lanka-returns-remains-of-84-iranian-sailors-after-iris-dena-sinking-by-us-submarine",
+    "type": "官方"
+   },
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "Sinking of IRIS Dena",
+    "title_cn": "“德纳”号沉没事件",
+    "author": "维基百科编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://en.wikipedia.org/wiki/Sinking_of_IRIS_Dena",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://theaviationgeekclub.com/video-shows-us-navy-submarine-sinking-iranian-frigate-iris-dena-by-torpedo-off-sri-lanka/",
+    "file_name": "",
+    "desc_cn": "美方公布的“德纳”号被鱼雷击中沉没视频出处（报道页；原始视频/截图的官方图片页未检索，待核）",
+    "date": "待核",
+    "credit": "美国国防部（经 The Aviation Geek Club）",
+    "license": "美国政府作品，推定公有领域（待核）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sinking_of_IRIS_Dena_2.jpg",
+    "file_name": "Sinking_of_IRIS_Dena_2.jpg",
+    "desc_cn": "“德纳”号在印度洋被鱼雷击中的画面（680×472，来源注明美国战争部）",
+    "date": "2026-03-04",
+    "credit": "美国战争部（U.S. Department of War）",
+    "license": "Public Domain（美国联邦政府作品）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:DENA_(30426275637).jpg",
+    "file_name": "DENA_(30426275637).jpg",
+    "desc_cn": "“德纳”号护卫舰（拍摄日期、作者待核，Flickr来源）",
+    "date": "待核",
+    "credit": "待核",
+    "license": "待核",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:IRIS_75_Dena_(ship,_2021)",
+    "file_name": "INS Shakti (A57) with IRIS Dena (75) and Russian cruiser Varyag during Milan exercise 2024.jpg",
+    "desc_cn": "2024年“米兰”演习中印度海军“沙克蒂”号补给舰与“德纳”号、俄罗斯“瓦良格”号巡洋舰同框（文件名见于分类页摘要，File页URL未直接出现）",
+    "date": "2024",
+    "credit": "待核",
+    "license": "待核",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "沉没用时": "2—3分钟",
+   "距加勒": "约19海里",
+   "舰上人数": "约180人（斯方估计）",
+   "获救": "32人",
+   "死亡": "87具遗体（斯方）/104人含20失踪（维基）",
+   "移交遗骸": "84具",
+   "使用鱼雷": "Mk 48，1枚（凯恩）；另说2枚"
+  }
+ },
+ {
+  "case_key": "is_akrotiri_drones_2026_03_02",
+  "category": "岛屿防卫",
+  "title_cn": "塞浦路斯英军基地遭无人机突袭",
+  "subtitle_cn": "2026年3月1日—4日 塞浦路斯阿克罗蒂里 “沙赫德”型无人机袭击英国皇家空军阿克罗蒂里基地",
+  "date_start": "2026-03-01",
+  "date_end": "2026-03-04",
+  "location_cn": "塞浦路斯阿克罗蒂里英国主权基地区，英国皇家空军阿克罗蒂里基地（RAF Akrotiri, Sovereign Base Areas of Akrotiri and Dhekelia）",
+  "lat": 34.59,
+  "lon": 32.99,
+  "region": "东地中海",
+  "attacker": "伊朗制“沙赫德”（Shahed）型无人机，塞浦路斯外长称自黎巴嫩方向发射；黎巴嫩真主党被列为“涉嫌”方，未获证实",
+  "defender": "英国皇家空军阿克罗蒂里基地及英军；希腊空军F-16战斗机（前出拦截）",
+  "outcome": "部分拦截",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "“沙赫德”型单向攻击无人机，3月1日、2日、4日多批次，总数待核；3月2日1架命中基地。",
+  "defense_means_cn": "英军基地防空（具体系统待核）；3月4日希腊空军F-16在黎巴嫩空域拦截2架飞向塞浦路斯的无人机；英方事后向塞浦路斯增派军舰和直升机。",
+  "narrative_cn": "2026年2月28日美以对伊朗开战后，英国首相斯塔默表示英国允许美军使用英国基地打击伊朗。3月2日凌晨刚过午夜，一架无人机击中塞浦路斯境内的英国皇家空军阿克罗蒂里基地。塞浦路斯总统称，一架“沙赫德”型无人机坠入阿克罗蒂里英军基地的军事设施，造成轻微物质损失。对命中部位说法不一：维基百科条目称击中一座机库，英国外交大臣称击中跑道。塞浦路斯外长称这架无人机为伊朗制造，从黎巴嫩方向发射。\n3月1日和3月4日另有飞向塞浦路斯的无人机被拦截，其中3月4日希腊空军F-16在黎巴嫩空域拦截了2架。英国国防部称正在应对一起疑似无人机袭击，随后宣布向塞浦路斯部署一艘军舰和直升机；英国政府同时公开表示“英国并未处于战争状态”。本次袭击无人员伤亡。维基百科条目将黎巴嫩真主党列为“涉嫌”参战方，本轮检索未见真主党或伊朗官方认领，也未见独立证据。阿克罗蒂里基地上一次遭袭是1986年，当时利比亚武装人员以迫击炮、火箭筒和轻武器袭击基地，造成3人受伤。",
+  "defense_effect_cn": "首批来袭中有1架无人机突防并命中基地，说明开战初期基地对低慢小目标的预警和点防御准备不足；此后3月1日、4日的来袭被拦截，盟国希腊的战斗机前出至黎巴嫩空域参与拦截，英方随即补充舰艇与直升机。损失轻微，但事件表明东地中海的英国岛屿基地处于伊朗及其盟友无人机的覆盖范围内，英国在允许美方使用基地后即成为报复对象。",
+  "claims_compare_cn": "命中部位：维基称机库，英国外交大臣称跑道，马来邮报（Malay Mail）报道称跑道受损。机型：塞浦路斯总统、外长称“沙赫德”型、伊朗制造。发射地与责任方：塞浦路斯外长称自黎巴嫩发射；维基将真主党列为“涉嫌”；伊朗与真主党认领情况未检索到公开记录。英国定性：英方称“未处于战争状态”。袭击持续时间：维基不同版本分别标注“持续中”与“3月1日—4日”。",
+  "losses_cn": "轻微物质损失（机库或跑道，口径不一）；无人员伤亡（塞浦路斯政府、媒体报道）。",
+  "analysis_cn": "东地中海的英国基地处在中东冲突外沿，但对手只需从黎巴嫩方向发射廉价无人机即可触及。首架即突防，说明后方岛屿基地平时防空配置偏弱，需要在盟国表态参战或开放基地之前完成防空加强。盟国战斗机在第三国空域的前出拦截，以及舰载防空力量的快速补充，是岛屿基地应对此类低强度袭扰的现实做法。英方遇袭后强调“未处于战争状态”，说明东道国与基地使用国之间的政治切割需求，也会影响防御部署的公开程度。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Al Jazeera（半岛电视台）",
+    "title": "British military base in Cyprus targeted in suspected drone attack",
+    "title_cn": "塞浦路斯英军基地疑遭无人机袭击",
+    "author": "Al Jazeera",
+    "date": "2026-03-02",
+    "url": "https://www.aljazeera.com/news/2026/3/2/british-military-base-in-cyprus-targeted-in-suspected-drone-attack",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Euronews（欧洲新闻台）",
+    "title": "UK says it is not at war after Iranian drone strikes RAF Akrotiri base in Cyprus",
+    "title_cn": "伊朗无人机袭击塞浦路斯阿克罗蒂里基地后英国称未处于战争状态",
+    "author": "Euronews",
+    "date": "2026-03-02",
+    "url": "https://www.euronews.com/2026/03/02/uk-says-it-is-not-at-war-after-iranian-drone-strikes-raf-akrotiri-base-in-cyprus",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Malay Mail（马来邮报）",
+    "title": "Iranian drone strikes UK military base in Cyprus, damages runway",
+    "title_cn": "伊朗无人机袭击塞浦路斯英军基地，跑道受损",
+    "author": "Malay Mail（转载通讯社稿）",
+    "date": "2026-03-02",
+    "url": "https://www.malaymail.com/amp/news/world/2026/03/02/iranian-drone-strikes-uk-military-base-in-cyprus-damages-runway/211020",
+    "type": "其他"
+   },
+   {
+    "publisher": "Fox News（福克斯新闻）",
+    "title": "UK deploying warship, helicopters to Cyprus after drone strike",
+    "title_cn": "无人机袭击后英国向塞浦路斯部署军舰和直升机",
+    "author": "Fox News",
+    "date": "待核（2026年3月初）",
+    "url": "https://www.foxnews.com/world/uk-deploying-warship-helicopters-cyprus-after-drone-strike.amp",
+    "type": "其他"
+   },
+   {
+    "publisher": "Gulf News（海湾新闻）",
+    "title": "Britain responding to suspected drone strike at Cyprus base: Defence ministry",
+    "title_cn": "英国防部：正在应对塞浦路斯基地疑似无人机袭击",
+    "author": "Gulf News",
+    "date": "待核（2026年3月2日前后）",
+    "url": "https://gulfnews.com/world/mena/britain-responding-to-suspected-drone-strike-at-cyprus-base-defence-ministry-1.500460196",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "2026 drone strikes on Akrotiri and Dhekelia",
+    "title_cn": "2026年阿克罗蒂里与德凯利亚无人机袭击事件",
+    "author": "维基百科编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://en.wikipedia.org/wiki/2026_drone_strikes_on_Akrotiri_and_Dhekelia",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:An_11_Squadron_Typhoon_at_RAF_Akrotiri_in_Cyprus.jpg",
+    "file_name": "An_11_Squadron_Typhoon_at_RAF_Akrotiri_in_Cyprus.jpg",
+    "desc_cn": "英国皇家空军第11中队“台风”FGR4战斗机在阿克罗蒂里基地（2013年）",
+    "date": "2013",
+    "credit": "英国皇家空军摄影师 / 英国国防部",
+    "license": "OGL（英国开放政府许可，推定）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Typhoon_at_RAF_Akrotiri_MOD_45166134.jpg",
+    "file_name": "Typhoon_at_RAF_Akrotiri_MOD_45166134.jpg",
+    "desc_cn": "阿克罗蒂里基地的“台风”FGR4（2020年；基地为塞浦路斯作战保障单位驻地）",
+    "date": "2020",
+    "credit": "英国国防部",
+    "license": "OGL（推定）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:RAF_E3-D_Sentry_at_RAF_Akrotiri_MOD_45156413.jpg",
+    "file_name": "RAF_E3-D_Sentry_at_RAF_Akrotiri_MOD_45156413.jpg",
+    "desc_cn": "第8中队E-3D“哨兵”预警机在阿克罗蒂里基地（2013年）",
+    "date": "2013",
+    "credit": "英国国防部",
+    "license": "OGL（推定）",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "命中": "1架（3月2日）",
+   "拦截": "3月1日、4日多架；其中3月4日希腊F-16拦截2架",
+   "人员伤亡": "0",
+   "英方增援": "军舰1艘及直升机（数量待核）"
+  }
+ },
+ {
+  "case_key": "is_kharg_island_2026_03_13",
+  "category": "岛屿防卫",
+  "title_cn": "哈尔克岛军事目标遭两轮重击",
+  "subtitle_cn": "2026年3月13—14日、4月7日 伊朗哈尔克岛 美军打击岛上90余处军事目标并刻意保留石油设施",
+  "date_start": "2026-03-13",
+  "date_end": "2026-04-07",
+  "location_cn": "伊朗哈尔克岛（Kharg Island / جزیره خارک），波斯湾北部，伊朗主要原油出口岛",
+  "lat": 29.24,
+  "lon": 50.31,
+  "region": "波斯湾-霍尔木兹-阿曼湾",
+  "attacker": "美国中央司令部（维基百科称由美国空军实施；有单一来源称使用B-2，未获证实）",
+  "defender": "伊朗武装力量及哈尔克岛驻岛军事设施",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "饱和"
+  ],
+  "attack_means_cn": "空中精确打击。3月13日夜至14日打击90余处军事目标；4月7日对已打击目标实施“复打”。平台与弹种待核（B-2说法仅见 defconlevel 单一来源）。",
+  "defense_means_cn": "岛上防空力量（型号待核）；未检索到有效拦截记录。",
+  "narrative_cn": "哈尔克岛承担伊朗约90%的原油出口。开战后伊朗持续袭扰霍尔木兹海峡商船，特朗普威胁若伊朗不停止袭击船只，将打击哈尔克岛的石油基础设施。3月13日夜至14日，美军对该岛实施打击。美国中央司令部14日在X平台称，成功打击岛上90余处伊朗军事目标，摧毁了水雷储存设施、导弹储存掩体和多处其他军事设施，“同时保留了石油基础设施”。特朗普称这是“中东历史上最强有力的轰炸之一”。3月16日，中央司令部司令库珀在视频简报中重申上述数字，称打击旨在消除伊朗的弹道导弹、无人机和海上威胁，并瓦解其国防工业基础。伊朗官员则称岛上石油出口“完全照常”。\n3月30日，特朗普公开提出可能夺取哈尔克岛石油码头。4月7日美军再次打击该岛，一名美方官员称系对此前已打击目标的“复打”。4月中旬美方对伊朗实施海上封锁后，哈尔克岛原油外运严重受阻；据 Kpler 估算（经 Maritime News 引述），至8月装船量降至约25.1万桶/日，9月有报道称该岛已基本无法进行大宗原油装运，伊朗石油公司则称作业未停止。7月8日特朗普再称美国“可能接管哈尔克岛”；8月底他发布一段AI生成视频，配文“哈尔克岛被炸成碎片”；福克斯新闻报道，美方正考虑以打击哈尔克岛报复伊朗对约旦美军基地的袭击。截至检索时，未见美军登陆或占领该岛的报道。",
+  "defense_effect_cn": "美方称两轮打击共命中90余处军事目标，岛上防空未见有效抵抗记录。打击重点为水雷库和导弹掩体，直接针对伊朗封锁海峡所依赖的手段；石油设施被刻意保留，使该岛成为后续施压与谈判筹码。伊朗方面的问题在于关键能源岛与军事设施同岛配置、防空薄弱，岛屿在对手空中优势下难以自保；美方方面，独立毁伤评估缺乏，伊朗出口在打击后并未立即中断，真正使出口萎缩的是4月起的海上封锁。",
+  "claims_compare_cn": "美方（中央司令部、库珀、特朗普）：90余处军事目标被毁，石油设施完好，“最强有力的轰炸之一”。伊朗：石油出口“完全照常”，伊朗石油公司至9月仍称作业未停。实施平台：维基称美国空军，defconlevel 称B-2，后者未获独立证实。毁伤情况未见卫星图等独立核实。",
+  "losses_cn": "美方称90余处军事目标被毁，含水雷储存设施、导弹储存掩体；人员伤亡未检索到公开记录；石油设施据美方称未被打击。经济：至8月装船量约25.1万桶/日（Kpler 估算，主要受封锁影响）。",
+  "analysis_cn": "哈尔克岛案例显示，对能源岛的打击可以把军事目标与经济目标分开处理：先摧毁岛上与海峡封锁直接相关的水雷、导弹设施，把石油设施留作威慑筹码，再以海上封锁切断出口，而不必登岛占领。对岛屿防御方而言，防空和被动防护薄弱的能源岛在对手掌握制空权时基本无法自保；把布雷、导弹储存设施放在出口枢纽岛上，也为对手提供了打击理由。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "BOE Report（转载路透社稿）",
+    "title": "US strikes more than 90 Iranian military targets on Kharg Island, CENTCOM says",
+    "title_cn": "中央司令部：美军打击哈尔克岛90余处伊朗军事目标",
+    "author": "Reuters（经 BOE Report 转载）",
+    "date": "2026-03-14",
+    "url": "https://boereport.com/2026/03/14/us-strikes-more-than-90-iranian-military-targets-on-kharg-island-centcom-says/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "China Daily（中国日报）",
+    "title": "US strikes over 90 military targets on Iran's Kharg Island: CENTCOM",
+    "title_cn": "美中央司令部：美军打击伊朗哈尔克岛90余处军事目标",
+    "author": "China Daily",
+    "date": "2026-03-15",
+    "url": "http://global.chinadaily.com.cn/a/202603/15/WS69b611f8a310d6866eb3ddb0.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "Iran International（伊朗国际）",
+    "title": "US struck more than 90 targets on Iran's Kharg Island",
+    "title_cn": "美军打击伊朗哈尔克岛90余处目标",
+    "author": "Iran International",
+    "date": "2026-03-16",
+    "url": "https://www.iranintl.com/en/202603166081",
+    "type": "其他"
+   },
+   {
+    "publisher": "Times of Israel（以色列时报）",
+    "title": "US struck more than 90 Iranian military targets on Kharg Island in overnight attack, CENTCOM says",
+    "title_cn": "中央司令部：美军夜袭哈尔克岛90余处伊朗军事目标",
+    "author": "Times of Israel 直播",
+    "date": "待核（2026年3月14日前后）",
+    "url": "https://www.timesofisrael.com/liveblog_entry/us-struck-more-than-90-iranian-military-targets-on-kharg-island-in-overnight-attack-centcom-says/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "NPR（美国国家公共电台）",
+    "title": "U.S. military launches strikes on Iran's Kharg Island",
+    "title_cn": "美军对伊朗哈尔克岛发起打击",
+    "author": "NPR",
+    "date": "2026-04-07",
+    "url": "https://www.npr.org/2026/04/07/nx-s1-5776495/u-s-military-launches-strikes-on-irans-kharg-island",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "News On AIR（全印广播电台新闻）",
+    "title": "US President Trump openly suggests possibility of seizing Iran's Kharg Island oil terminal in Persian Gulf",
+    "title_cn": "特朗普公开提出可能夺取伊朗哈尔克岛石油码头",
+    "author": "All India Radio",
+    "date": "2026-03-30",
+    "url": "https://www.newsonair.gov.in/us-president-trump-openly-suggests-possibility-of-seizing-irans-kharg-island-oil-terminal-in-persian-gulf",
+    "type": "官方"
+   },
+   {
+    "publisher": "Al Jazeera（半岛电视台）",
+    "title": "Trump says US 'may take over Kharg Island': Here's what you need to know",
+    "title_cn": "特朗普称美国“可能接管哈尔克岛”：你需要了解的情况",
+    "author": "Al Jazeera",
+    "date": "2026-07-08",
+    "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-us-may-take-over-kharg-island-heres-what-you-need-to-know",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Fox News（福克斯新闻）",
+    "title": "Retaliation on Kharg Island weighed as US-Iran hostilities reignite",
+    "title_cn": "美伊敌对再起，美方考虑报复打击哈尔克岛",
+    "author": "Fox News 直播",
+    "date": "2026-08-31（页面地址日期）",
+    "url": "https://www.foxnews.com/live-news/us-iran-news-war-trump-jordan-latest-today-august-31",
+    "type": "其他"
+   },
+   {
+    "publisher": "Maritime News",
+    "title": "Kharg Island oil storage strain April 2026",
+    "title_cn": "2026年4月哈尔克岛石油储存承压",
+    "author": "Maritime News",
+    "date": "待核",
+    "url": "https://www.maritimenews.com/kharg-island/kharg-island-storage-pressures-us-blockade",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "2026 Kharg Island attack",
+    "title_cn": "2026年哈尔克岛袭击事件",
+    "author": "维基百科编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://en.wikipedia.org/wiki/2026_Kharg_Island_attack",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kharg_island.jpg",
+    "file_name": "Kharg_island.jpg",
+    "desc_cn": "哈尔克岛航天照片（NASA，1993年4月）",
+    "date": "1993-04",
+    "credit": "NASA",
+    "license": "Public Domain（NASA）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kharg_Island_in_2022_(13).jpg",
+    "file_name": "Kharg_Island_in_2022_(13).jpg",
+    "desc_cn": "2022年3月26日的哈尔克岛（塔斯尼姆通讯社摄）",
+    "date": "2022-03-26",
+    "credit": "Tasnim News Agency",
+    "license": "CC BY 4.0",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kharg_Island_in_2022_(07).jpg",
+    "file_name": "Kharg_Island_in_2022_(07).jpg",
+    "desc_cn": "2022年3月的哈尔克岛（塔斯尼姆通讯社摄，2025年去除水印）",
+    "date": "2022-03",
+    "credit": "Tasnim News Agency",
+    "license": "CC BY 4.0（推定，待核）",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "打击目标数（3月13—14日）": "90余处（中央司令部）",
+   "打击轮次": "2轮（3月13—14日；4月7日复打）",
+   "占伊朗原油出口比重": "约90%（半岛电视台）",
+   "8月装船量": "约25.1万桶/日（Kpler，经 Maritime News）"
+  }
+ },
+ {
+  "case_key": "is_diego_garcia_2026_03_20",
+  "category": "岛屿防卫",
+  "title_cn": "迪戈加西亚首遭远程弹道导弹袭击",
+  "subtitle_cn": "2026年3月20—21日 英属印度洋领地迪戈加西亚 伊朗被指发射两枚远程弹道导弹，一枚失效、一枚被“标准-3”拦截",
+  "date_start": "2026-03-20",
+  "date_end": "2026-03-21",
+  "location_cn": "查戈斯群岛迪戈加西亚岛（Diego Garcia, Chagos Archipelago），美英联合军事基地",
+  "lat": -7.31,
+  "lon": 72.41,
+  "region": "阿拉伯海-印度洋",
+  "attacker": "伊朗（被指；伊朗官方否认）",
+  "defender": "迪戈加西亚美英联合基地；美国海军驱逐舰（“标准-3”拦截弹）",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "弹道导弹2枚。伊朗半官方迈赫尔通讯社称为两枚中程弹道导弹；维基百科条目称至少2枚“霍拉姆沙赫尔-4”（Khorramshahr-4）。",
+  "defense_means_cn": "美国军舰发射“标准-3”（SM-3）拦截弹，据《华尔街日报》援引五角大楼消息拦截1枚；另1枚飞行中失效。舰名待核。",
+  "narrative_cn": "迪戈加西亚距伊朗约3800公里（2360英里），驻有美军远程轰炸机。冲突期间，英国扩大了美国使用英国基地打击伊朗特定目标的许可。3月20日（部分媒体以21日报道），伊朗向该岛发射弹道导弹。伊朗半官方迈赫尔通讯社称发射了两枚中程弹道导弹；维基百科条目称至少为两枚“霍拉姆沙赫尔-4”。据《华尔街日报》援引五角大楼消息，一枚导弹在飞行中失效，另一枚被美国军舰发射的“标准-3”拦截弹拦截。英国方面称袭击“失败”，导弹未命中该岛；彭博社援引知情人士称基地未受损。英国政府谴责“伊朗鲁莽的袭击”，外交大臣随后进一步扩大允许美国利用英国基地打击特定目标的许可。伊朗官方否认发动此次袭击，称其为“假旗行动”；以色列方面则称袭击确有发生。美国全国广播公司（NBC）指出，此次发射显示伊朗具备其此前否认拥有的远程打击能力。公开资料对拦截是否成功存在分歧，伊朗与英国均未披露导弹距该岛最近的距离。\n此次袭击发生在开战约三周后。同一时期，英国在塞浦路斯的阿克罗蒂里基地也遭无人机袭击（见本组案例），维基百科将两处事件一并收入“2026年伊朗对英国军事设施的打击”条目。迪戈加西亚此前从未遭受弹道导弹攻击，此次虽未命中，但英美两国随即面临为远离战区的岛屿基地常态化部署反导兵力的问题。",
+  "defense_effect_cn": "按五角大楼口径，两枚来袭导弹一枚失效、一枚被舰载“标准-3”拦截，基地无损。此案说明远离中东的“后方岛屿基地”已进入伊朗弹道导弹的打击范围，岛屿基地的防御依赖海上部署的反导舰艇，而不是岛上固定反导系统。暴露问题：拦截是否成功在开源层面说法不一；印度洋方向的反导预警和拦截兵力需要长期部署，挤占其他方向的舰艇资源。",
+  "claims_compare_cn": "英国：袭击“失败”，谴责伊朗。美国（五角大楼经《华尔街日报》）：一枚失效、一枚被“标准-3”拦截。彭博：基地无损（知情人士）。伊朗：否认袭击，称“假旗”；迈赫尔社称两枚中程弹道导弹。导弹分类：中程弹道导弹与“霍拉姆沙赫尔-4”两说并存。开源分析对拦截是否成功存在分歧。",
+  "losses_cn": "无（彭博援引知情人士；英方称未命中）。",
+  "analysis_cn": "伊朗向约3800公里外的岛屿基地发射导弹，表明战区纵深被大幅拉长，原本被视为安全后方的轰炸机基地也需要反导掩护。此次防御依赖在附近海域部署的“标准-3”舰艇，说明岛屿基地的反导防御可以由机动的海上兵力承担，但需要预先判断威胁方向并长期保持舰艇在位。来袭仅两枚，未对拦截体系形成饱和，若来袭数量增加，单舰拦截能力的局限会更明显。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Bloomberg（彭博社）",
+    "title": "Iran's Strike Attempt on Diego Garcia Reveals Missile Range",
+    "title_cn": "伊朗对迪戈加西亚的打击尝试暴露其导弹射程",
+    "author": "Bloomberg",
+    "date": "2026-03-21",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-21/iran-s-failed-diego-garcia-strike-is-show-of-missile-capability",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "NBC News（美国全国广播公司新闻）",
+    "title": "Iran fires missiles at remote U.K.-U.S. base, suggesting long-range capabilities it previously denied",
+    "title_cn": "伊朗向偏远英美基地发射导弹，显示其此前否认的远程能力",
+    "author": "NBC News",
+    "date": "待核（2026年3月21日前后）",
+    "url": "https://www.nbcnews.com/world/iran/iran-fires-missiles-remote-uk-us-base-claiming-long-range-capabilities-rcna264547",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Military.com",
+    "title": "What to Know About Diego Garcia After Iran Targets the Remote Island's Key US Military Base",
+    "title_cn": "伊朗瞄准偏远岛屿美军关键基地后，关于迪戈加西亚你需要了解的",
+    "author": "Military.com",
+    "date": "2026-03-21",
+    "url": "https://www.military.com/daily-news/2026/03/21/what-know-about-diego-garcia-after-iran-targets-remote-islands-key-us-military-base.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Al Jazeera（半岛电视台）",
+    "title": "UK says Iran missile attack on Diego Garcia failed",
+    "title_cn": "英国称伊朗对迪戈加西亚的导弹袭击失败",
+    "author": "Al Jazeera",
+    "date": "2026-03-21",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/uk-says-iran-missile-attack-on-diego-garcia-failed",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Fox News（福克斯新闻）",
+    "title": "LIVE UPDATES: Iran reportedly fires missiles at US base in Indian Ocean",
+    "title_cn": "直播：据报伊朗向印度洋美军基地发射导弹",
+    "author": "Fox News 直播",
+    "date": "2026-03-21（页面地址日期）",
+    "url": "https://www.foxnews.com/live-news/us-iran-israel-war-latest-march-21-live-updates",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "2026 Iranian strike on Diego Garcia",
+    "title_cn": "2026年伊朗对迪戈加西亚的打击",
+    "author": "维基百科编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://en.wikipedia.org/wiki/2026_Iranian_strike_on_Diego_Garcia",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "2026 Iranian strikes on British military facilities",
+    "title_cn": "2026年伊朗对英国军事设施的打击",
+    "author": "维基百科编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_British_military_facilities",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Detail_of_an_aerial_photo_of_Diego_Garcia_from_1965_-b.jpg",
+    "file_name": "Detail_of_an_aerial_photo_of_Diego_Garcia_from_1965_-b.jpg",
+    "desc_cn": "1965年1月迪戈加西亚岛航拍照片局部（基地建设前的环礁形态）",
+    "date": "1965-01",
+    "credit": "Naval Reconnaissance and Technical Support Center（美国海军）",
+    "license": "Public Domain（美国海军）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:USS_Stethem_Arrives_in_Diego_Garcia_(8187974).jpg",
+    "file_name": "USS_Stethem_Arrives_in_Diego_Garcia_(8187974).jpg",
+    "desc_cn": "美驱逐舰“斯特西姆”号抵达迪戈加西亚（日期待核）",
+    "date": "待核",
+    "credit": "美国海军",
+    "license": "Public Domain（美国政府作品，推定，待核）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:NSF_Diego_Garcia_Deep_Wharf_Ribbon_Cutting_Ceremony_(9141608).jpg",
+    "file_name": "NSF_Diego_Garcia_Deep_Wharf_Ribbon_Cutting_Ceremony_(9141608).jpg",
+    "desc_cn": "迪戈加西亚海军保障设施深水码头剪彩仪式（日期待核）",
+    "date": "待核",
+    "credit": "美国海军",
+    "license": "Public Domain（美国政府作品，推定，待核）",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "距伊朗": "约3800 km（2360英里）",
+   "来袭导弹": "2枚",
+   "拦截": "1枚（SM-3，《华尔街日报》援引五角大楼）",
+   "飞行中失效": "1枚",
+   "基地损失": "无（彭博援引知情人士）"
+  }
+ },
+ {
+  "case_key": "fg_hormuz_mine_closure_2026",
+  "category": "远海机动编组",
+  "title_cn": "伊朗封海布雷与美军反封锁扫雷",
+  "subtitle_cn": "2026年3月—8月 霍尔木兹海峡 伊朗宣布封闭海峡并布设水雷，美军打击布雷船、实施封锁并扫清通航分道",
+  "date_start": "2026-02-28",
+  "date_end": "2026-08-25",
+  "location_cn": "霍尔木兹海峡（Strait of Hormuz）分道通航制航道及阿布穆萨岛（Abu Musa）、大小通布岛（Greater and Lesser Tunb）周边海域",
+  "lat": 26.57,
+  "lon": 56.25,
+  "region": "波斯湾-霍尔木兹-阿曼湾",
+  "attacker": "伊斯兰革命卫队海军（IRGCN）：布雷船、小艇、岸基火力与通航威胁通告",
+  "defender": "过往商船与油轮；美国海军中央司令部反水雷、护航与封锁兵力",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水下",
+   "水面",
+   "岸基"
+  ],
+  "patterns": [
+   "异构",
+   "集群"
+  ],
+  "attack_means_cn": "水雷（美方水下无人航行器在通航分道识别出逾100枚疑似水雷）；布雷船；对商船的袭击与拦停；关闭海峡声明与“批准航线”要求。",
+  "defense_means_cn": "空袭布雷船（中央司令部称击毁16艘）；打击哈尔克岛水雷储存设施；水下无人航行器探雷、扫雷；对伊朗实施海上封锁。",
+  "narrative_cn": "开战前，霍尔木兹海峡承担全球约25%的海运石油贸易和20%的液化天然气贸易。2月28日战争爆发后，伊朗宣布关闭海峡并开始在航道布设水雷，油轮通行量随即降至接近零。据海湾新闻报道（日期待核），美国中央司令部称击毁多艘伊朗海军舰艇，其中包括海峡附近的16艘布雷船；特朗普警告，若伊朗布雷而不立即清除，将承受“前所未有”的军事后果。3月13—14日美军打击哈尔克岛时，摧毁目标包括水雷储存设施。3月27日，革命卫队宣布海峡对往返美国、以色列及其盟国港口的船只关闭。4月中旬起，美方对伊朗实施海上封锁（见本组“图斯卡”号案例）。\n6月，伊朗被指再次袭击海峡内多艘商船，美方对伊朗本土实施报复打击。有资料称美方于6月18日解除封锁，但海峡通航量仅恢复至战前的5%—10%；7月14日美方恢复封锁。7月下旬，革命卫队称“锁定并拦停”3艘油轮，结束了为期4天的暂停。8月13日，革命卫队海军司令称“霍尔木兹海峡处于关闭状态”；8月23日特朗普称所有水雷已被清除或引爆，封锁继续维持；8月25日美方官员确认海军已清理分道通航制航道中的水雷，水下无人航行器共识别出逾100枚疑似水雷。伊朗同期要求油轮按德黑兰“批准航线”通行，否则将遭“强力回应”。据《华盛顿邮报》7月报道，扼守海峡入口的阿布穆萨岛与大、小通布岛在战事中再次成为焦点；有分析称伊朗在三岛周边加强了水雷使用，但本轮检索未见针对三岛的具体攻防事件。",
+  "defense_effect_cn": "美方通过打击布雷船、水雷库并以无人化手段扫雷，最终在8月下旬宣布清理通航分道，但从3月开战到8月宣布扫清历时近半年，其间航运基本停摆或仅恢复至战前一成以下。伊朗大中型舰艇在开战数日内被毁，但小型布雷船、小艇和岸基威胁仍足以让商业航运长期不敢通行。暴露问题：一是反水雷作业慢、难以确认“清零”，美方宣布扫清后，伊朗仍声称有油轮触雷；二是商业航运对风险高度敏感，军事上的通道开放不等于航运恢复。",
+  "claims_compare_cn": "海峡状态：不同来源对6月18日是否解除封锁、何时重开说法不一；8月13日伊方称“关闭”，8月23日美方称水雷已全部清除。水雷：美方称UUV识别逾100枚疑似水雷；9月2日革命卫队称2艘油轮触雷起火，中央司令部称“不实”（FALSE）。“16艘布雷船”为美方单方数字。三岛水雷化的说法来自单一分析网站，待核。",
+  "losses_cn": "航运：3月油轮通行量接近零；一说6月后通航量仅恢复至战前5%—10%。被雷击或被袭船只的完整数量未检索到可靠统计。伊朗方：布雷船16艘被毁（美方称）。",
+  "analysis_cn": "水雷是低成本、高杠杆的海峡封锁手段：即便伊朗大中型舰艇在开战数日内被毁，小型布雷船与岸基威胁仍让航运停摆数月。美方的应对是源头打击（布雷船、水雷库）、无人化探扫雷和反向封锁对手出口三者并举，但扫清通航分道仍耗时约半年。百余枚疑似水雷的数字说明，海峡型水域的反水雷需要大量平台和时间，扫雷完成后航运能否恢复还取决于保险和船东对剩余风险的判断。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "2026 Strait of Hormuz crisis",
+    "title_cn": "2026年霍尔木兹海峡危机",
+    "author": "维基百科编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "2026 Strait of Hormuz campaign",
+    "title_cn": "2026年霍尔木兹海峡战役",
+    "author": "维基百科编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_campaign",
+    "type": "其他"
+   },
+   {
+    "publisher": "International Crisis Group（国际危机组织）",
+    "title": "Strait of Hormuz",
+    "title_cn": "霍尔木兹海峡（伊朗—美以冲突触发点清单）",
+    "author": "Crisis Group",
+    "date": "待核",
+    "url": "https://www.crisisgroup.org/trigger-list/iran-usisrael-trigger-list/flashpoints/strait-hormuz",
+    "type": "智库"
+   },
+   {
+    "publisher": "Gulf News（海湾新闻）",
+    "title": "US strikes multiple Iranian naval vessels, mine-laying ships used to harass shipping in Strait of Hormuz",
+    "title_cn": "美军打击多艘用于袭扰霍尔木兹航运的伊朗海军舰艇和布雷船",
+    "author": "Gulf News",
+    "date": "待核",
+    "url": "https://gulfnews.com/world/mena/us-strikes-multiple-iranian-naval-vessels-mine-laying-ships-used-to-harass-shipping-in-strait-of-hormuz-1.500470395",
+    "type": "其他"
+   },
+   {
+    "publisher": "Yahoo News",
+    "title": "US strikes minelaying ships in Iran after warning of 'intense' day of bombing",
+    "title_cn": "警告“高强度”轰炸日后美军打击伊朗布雷船",
+    "author": "Yahoo News（转载，原出处待核）",
+    "date": "待核",
+    "url": "https://www.yahoo.com/news/articles/defence-secretary-hegseth-warns-most-213749111.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "bne IntelliNews",
+    "title": "Iran's IRGC says two tankers 'hit mines' in Strait of Hormuz",
+    "title_cn": "伊朗革命卫队称两艘油轮在霍尔木兹海峡“触雷”",
+    "author": "bne IntelliNews",
+    "date": "待核（2026年9月初）",
+    "url": "https://www.intellinews.com/iran-s-irgc-says-two-tankers-hit-mines-in-strait-of-hormuz-465241/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Press TV（伊朗新闻电视台）",
+    "title": "Two tankers heeding US instructions destroyed by mines in Strait of Hormuz: IRGC",
+    "title_cn": "革命卫队：两艘听从美方指令的油轮在霍尔木兹海峡触雷被毁",
+    "author": "Press TV",
+    "date": "2026-09-02",
+    "url": "https://www.presstv.co.uk/Detail/2026/09/02/775527/IRGC-Two-oil-tankers-following-US-instructions-explode-after-hitting-mines-in-Strait-of-Hormuz",
+    "type": "官方"
+   },
+   {
+    "publisher": "The Washington Post（华盛顿邮报）",
+    "title": "3 islands help control access to the Strait of Hormuz. They're in the crosshairs of the Iran war",
+    "title_cn": "三座岛屿扼守霍尔木兹海峡通道，正处于伊朗战争的瞄准线上",
+    "author": "The Washington Post",
+    "date": "2026-07-16",
+    "url": "https://www.washingtonpost.com/business/2026/07/16/iran-us-war-abu-musa-tunb-kharg-islands/7a80f018-8114-11f1-8a16-393bd03340b0_story.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Congressional Research Service（美国国会研究处）",
+    "title": "U.S. Conflict with Iran (R48887)",
+    "title_cn": "美国与伊朗的冲突",
+    "author": "CRS",
+    "date": "待核",
+    "url": "https://www.congress.gov/crs-product/R48887",
+    "type": "官方"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "战前海峡份额": "全球海运石油约25%、LNG约20%",
+   "美方称击毁布雷船": "16艘",
+   "UUV识别疑似水雷": "逾100枚（8月25日）",
+   "通航恢复水平": "战前5%—10%（一说）",
+   "开战至宣布扫清通航分道": "约6个月（2月28日—8月25日）"
+  }
+ },
+ {
+  "case_key": "fg_touska_blockade_2026_04_19",
+  "category": "远海机动编组",
+  "title_cn": "美舰炮击瘫痪闯封锁伊朗货轮",
+  "subtitle_cn": "2026年4月19日 阿拉伯海 美驱逐舰“斯普鲁恩斯”号以舰炮瘫痪并扣押伊朗关联集装箱船“图斯卡”号（MV Touska）",
+  "date_start": "2026-04-19",
+  "date_end": "",
+  "location_cn": "阿拉伯海（Arabian Sea），具体位置未公开",
+  "lat": 23.5,
+  "lon": 60.5,
+  "region": "阿拉伯海-印度洋",
+  "attacker": "美国海军驱逐舰“斯普鲁恩斯”号（USS Spruance），隶属“亚伯拉罕·林肯”号航母打击群",
+  "defender": "伊朗关联集装箱船“图斯卡”号（MV Touska）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "Mk 45型5英寸舰炮数发，打击推进系统致其失去动力，随后扣押。",
+  "defense_means_cn": "无（商船）。",
+  "narrative_cn": "4月中旬起，美国对伊朗实施海上封锁，哈尔克岛原油外运随之严重受阻。据美国中央司令部通报，4月19日，“林肯”号航母打击群所属驱逐舰“斯普鲁恩斯”号在阿拉伯海拦截了试图突破封锁的集装箱船“图斯卡”号。该舰向“图斯卡”号发射数发Mk 45型5英寸舰炮炮弹，击毁其推进系统使之失去动力，美军随后将其扣押。《美国海军学会新闻》称，这是封锁开始以来美军首次向伊朗关联船只开火或实施扣押。此前，“斯普鲁恩斯”号还曾迫使一艘离开霍尔木兹海峡、沿伊朗海岸航行的伊朗籍货船改变航向（美国退伍军人协会报道）。\n此后封锁时紧时松：有资料称美方于6月18日解除封锁，7月14日又恢复；8月下旬美方表示封锁仍全面维持。伊朗方面对“图斯卡”号事件的官方回应、船员情况和船上货物，本轮检索未见公开记录。\n封锁的直接对象是伊朗原油出口。哈尔克岛承担伊朗约90%的原油出口，据 Kpler 估算（经 Maritime News 引述），其装船量至8月降至约25.1万桶/日，9月有报道称该岛已基本无法进行大宗原油装运。执行本次拦截的“林肯”号航母打击群，3月间多次被伊朗宣称击中，美方均予否认（见本组案例）。",
+  "defense_effect_cn": "本案中防御方为商船，没有抵抗能力。从封锁执行方看，先以驱逐舰拦截、警告和迫使改航，对拒不服从者以舰炮精确打击推进系统、使其丧失航行能力后再扣押，避免击沉和大量人员伤亡。暴露问题：舰炮射击商船存在误伤船员和引发火灾、溢油的风险；在公海对第三方关联商船动武的法律依据和外交后果，美方通报中未见详述。",
+  "claims_compare_cn": "目前仅见美方（中央司令部通报、USNI 及美国退伍军人协会转述）口径。伊朗方面回应、船东及船旗国表态、船员伤亡情况均未检索到公开记录。USNI 将其称为“伊朗关联”船只，船舶实际所有人、船旗国及与伊朗的具体关系待核。",
+  "losses_cn": "“图斯卡”号推进系统受损、失去动力并被扣押；人员伤亡未检索到公开记录。",
+  "analysis_cn": "以舰炮打击推进系统的“致残不致沉”方式，是海上封锁中介于登临检查与击沉之间的强制手段，代价低、可控性高，适合由航母编组的护航驱逐舰执行。封锁的效果在哈尔克岛出口量的下降中有体现，但封锁时松时紧，也说明封锁本身成为美伊谈判的筹码。对被封锁方而言，商船单船突围在对手驱逐舰巡逻的海域成功率很低。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "USNI News（美国海军学会新闻）",
+    "title": "U.S. Disables, Seizes Iranian Ship Attempting to Run Strait of Hormuz Blockade",
+    "title_cn": "美军瘫痪并扣押试图突破霍尔木兹封锁的伊朗船只",
+    "author": "USNI News",
+    "date": "2026-04-19",
+    "url": "https://news.usni.org/2026/04/19/u-s-disables-seizes-iranian-container-ship-attempting-to-run-strait-of-hormuz-blockade",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The American Legion（美国退伍军人协会）",
+    "title": "Navy destroyer deters Iranian-flagged cargo ship from breaching US blockade",
+    "title_cn": "海军驱逐舰阻止伊朗籍货船突破美方封锁",
+    "author": "The American Legion",
+    "date": "2026-04（日待核）",
+    "url": "https://www.legion.org/information-center/news/security/2026/april/navy-destroyer-deters-iranian-flagged-cargo-ship-from-breaching-us-blockade",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "2026 Strait of Hormuz crisis",
+    "title_cn": "2026年霍尔木兹海峡危机",
+    "author": "维基百科编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+    "type": "其他"
+   },
+   {
+    "publisher": "Maritime News",
+    "title": "Kharg Island oil storage strain April 2026",
+    "title_cn": "2026年4月哈尔克岛石油储存承压",
+    "author": "Maritime News",
+    "date": "待核",
+    "url": "https://www.maritimenews.com/kharg-island/kharg-island-storage-pressures-us-blockade",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "使用弹药": "5英寸舰炮数发",
+   "结果": "失去动力、被扣押",
+   "性质": "封锁以来美军首次向伊朗关联船只开火/扣押（USNI）"
+  }
+ },
+ {
+  "case_key": "is_lavan_island_2026_04",
+  "category": "岛屿防卫",
+  "title_cn": "拉万岛炼厂停火当日遭空袭",
+  "subtitle_cn": "2026年4月1日、4月8日、9月1—2日 伊朗拉万岛 炼油厂与驻岛人员多次遭无人机与空中打击",
+  "date_start": "2026-04-01",
+  "date_end": "2026-09-02",
+  "location_cn": "伊朗拉万岛（Lavan Island），波斯湾中部，伊朗炼油及原油外运岛",
+  "lat": 26.81,
+  "lon": 53.36,
+  "region": "波斯湾-霍尔木兹-阿曼湾",
+  "attacker": "4月：被指为阿联酋（伊朗称阿联酋“阿金奇”无人机；《华尔街日报》称阿联酋所为，阿方未承认）；9月：美军（据革命卫队官员）",
+  "defender": "伊朗拉万岛炼油厂及驻岛巴斯基民兵（Basij）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "无人机或空中打击；伊朗驻联合国代表信函称4月1日为阿联酋“阿金奇”（Akinci）无人机。数量与弹种待核。",
+  "defense_means_cn": "未检索到拦截记录；岛上消防力量控制火势。",
+  "narrative_cn": "拉万岛是伊朗位于波斯湾中部的炼油与原油外运岛屿。据《简氏》报道，伊朗常驻联合国代表致安理会的信函称，4月1日阿联酋“阿金奇”无人机袭击了拉万岛，信中未说明具体目标；《简氏》标题称德黑兰指控阿联酋使用无人机袭击“多座岛屿”。4月8日（周三），在美伊宣布停火数小时后，岛上炼油厂遭空袭起火。伊朗国家电视台称消防人员正在控制火势，无人受伤，但未说明袭击方。维基百科条目将此次打击描述为对伊朗袭击阿联酋的报复，并称该炼厂产量严重受损。《华尔街日报》此后报道称袭击系阿联酋所为，阿联酋未公开承认。\n停火与谅解备忘录先后破裂后，8月底至9月初美伊在霍尔木兹方向重新交火。据伊朗国际电视台9月2日报道，一名革命卫队官员称，美军当夜袭击拉万岛，造成3名巴斯基成员死亡、数人受伤。美方对该次打击的具体说明本轮检索未见公开记录。\n拉万岛遭袭前后，美军于3月13—14日、4月7日两度打击哈尔克岛（见本组案例），伊朗在波斯湾的离岸能源岛普遍处于打击范围之内。4月停火之后，美伊于6月签署谅解备忘录，数周后即告破裂，并于8月正式到期，拉万岛在9月再次遇袭。",
+  "defense_effect_cn": "三次打击均未见拦截记录，炼厂在停火宣布当天被击中并严重减产，说明伊朗离岸能源岛的防空在战争中后期仍未恢复，且停火宣布到实际生效之间存在打击窗口。9月的打击造成驻岛民兵伤亡，表明岛上存在武装人员部署，岛屿兼具经济与军事属性，使其难以以“纯民用设施”为由获得保护。袭击方归属长期不明，也使伊朗难以对等报复。",
+  "claims_compare_cn": "4月1日：伊朗致联合国信函称阿联酋“阿金奇”无人机所为，未说明目标。4月8日：伊朗国家电视台未点名袭击方；《华尔街日报》称阿联酋所为；阿联酋未承认。9月1—2日：革命卫队官员称美军所为，3名巴斯基死亡；美方说明未检索到。炼厂受损程度仅见维基“产量严重受损”表述，未见卫星图等独立核实。",
+  "losses_cn": "4月8日：炼油厂起火，产量严重受损（维基），无人受伤（伊朗国家电视台）。9月1—2日：巴斯基3人死亡、数人受伤（革命卫队官员，经伊朗国际电视台）。",
+  "analysis_cn": "本案显示海湾国家可能以无人机对伊朗离岸能源岛实施不认领的报复，冲突由美伊双边扩展为地区多方。停火宣布当日的打击说明停火执行存在空窗。离岸能源岛目标集中、易定位，防空薄弱时即便少量无人机也能造成大幅减产；对防御方而言，此类岛屿需要独立的近程防空和损管消防能力，而不能依赖本土防空覆盖。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Janes（简氏）",
+    "title": "Iran conflict 2026: Tehran accuses UAE of using UAVs to attack islands",
+    "title_cn": "2026伊朗冲突：德黑兰指控阿联酋使用无人机袭击岛屿",
+    "author": "Janes",
+    "date": "待核（2026年4月）",
+    "url": "https://www.janes.com/osint-insights/defence-news/air/iran-conflict-2026-tehran-accuses-uae-of-using-uavs-to-attack-islands",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Ada Derana（转载美联社稿）",
+    "title": "Iran says Lavan Island refinery came under attack after ceasefire announced",
+    "title_cn": "伊朗称拉万岛炼油厂在停火宣布后遭袭",
+    "author": "AP（经 Ada Derana 转载）",
+    "date": "2026-04-08（据报道内容推定）",
+    "url": "https://www.adaderana.lk/news/120928/iran-says-lavan-island-refinery-came-under-attack-after-ceasefire-announced",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Iran International（伊朗国际）",
+    "title": "Three Basij members killed in US attack on Lavan Island（标题据检索摘要，原题待核）",
+    "title_cn": "美军袭击拉万岛致3名巴斯基成员死亡",
+    "author": "Iran International",
+    "date": "2026-09-02",
+    "url": "https://www.iranintl.com/en/202609024874",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "2026 Lavan Island attack",
+    "title_cn": "2026年拉万岛袭击事件",
+    "author": "维基百科编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://en.wikipedia.org/wiki/2026_Lavan_Island_attack",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "遭袭次数": "≥3次（4月1日、4月8日、9月1—2日）",
+   "4月8日伤亡": "0（伊朗国家电视台）",
+   "9月1—2日伤亡": "巴斯基3死、数伤（革命卫队官员）"
+  }
+ },
+ {
+  "case_key": "fg_hormuz_destroyers_2026_05",
+  "category": "远海机动编组",
+  "title_cn": "三艘美驱逐舰过航海峡遭袭全部拦截",
+  "subtitle_cn": "2026年5月上旬 霍尔木兹海峡 伊朗攻击3艘过航美海军驱逐舰，美方称全部拦截并回击伊朗军事设施",
+  "date_start": "2026-05-07",
+  "date_end": "",
+  "location_cn": "霍尔木兹海峡（Strait of Hormuz）",
+  "lat": 26.55,
+  "lon": 56.4,
+  "region": "波斯湾-霍尔木兹-阿曼湾",
+  "attacker": "伊朗（伊朗国家媒体称由伊斯兰革命卫队实施；美方未公开具体部队）",
+  "defender": "美国海军导弹驱逐舰3艘：“特鲁克斯顿”号（USS Truxtun, DDG-103）、“拉斐尔·佩拉尔塔”号（USS Rafael Peralta, DDG-115）、“梅森”号（USS Mason, DDG-87）",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "据美中央司令部，伊朗部队向经海峡驶往阿曼湾的3艘驱逐舰发射了“多枚导弹、无人机，并出动小艇”；型号、数量未公开。",
+  "defense_means_cn": "舰艇防空拦截并“消除来袭威胁”（拦截弹种类未公开）；随后对“负有责任的伊朗军事设施”实施打击。",
+  "narrative_cn": "4月美伊宣布停火后，双方围绕海峡通行和美方封锁的对峙并未停止。伊朗革命卫队此前于3月27日宣布海峡对往返美国、以色列及其盟国港口的船只关闭，美方则从4月中旬起对伊朗实施海上封锁。5月1日，科威特布比延岛（Bubiyan Island）发生革命卫队人员乘渔船渗透事件，科威特内阁5月12日公开谴责（见案例is_bubiyan_irgc_infiltration_2026_05_01）。5月上旬，美国中央司令部在社交媒体发文称，3艘美海军驱逐舰在通过霍尔木兹海峡时遭到伊朗攻击，美军拦截了这些攻击，并“打击了对袭击美军负有责任的伊朗军事设施”。美国国家公共电台（NPR）5月7日报道此事时指出，事件凸显了实施仅约一个月的美伊停火的脆弱性。\n《美国海军学会新闻》5月8日报道称，霍尔木兹海峡航运处于“混乱状态”，业界在观望美伊双方动作；报道援引分析人士称，针对驱逐舰的攻击表明升级风险上升，在谈判最终破裂的情况下尤其如此。NPR、USNI的首批报道没有写明3艘驱逐舰的舰名，中央司令部也未公布来袭武器的数量及拦截方式（舰名和来袭手段类别见下文）。此后，美伊于6月签署谅解备忘录，意在结束冲突并谈判更广泛的协议，但数周后即因战事再起而破裂，并于8月正式到期。\n据美中央司令部通报（经《星条旗报》、贝尔德海事、阿纳多卢通讯社等报道），遭袭的3艘驱逐舰是“特鲁克斯顿”号（USS Truxtun, DDG-103）、“拉斐尔·佩拉尔塔”号（USS Rafael Peralta, DDG-115）和“梅森”号（USS Mason, DDG-87），事件发生在5月7日（周四），三舰当时正经霍尔木兹海峡驶往阿曼湾。中央司令部称伊朗部队发射了“多枚导弹、无人机，并出动小艇”，美军拦截后“消除了来袭威胁”，随后打击了伊朗的导弹和无人机发射场以及指挥控制节点；中央司令部称“不寻求升级”，但已做好保护美军的准备。伊朗国家媒体称革命卫队用导弹击中了一艘美国军舰，中央司令部予以否认，称“没有美国舰艇被击中”。特朗普称来袭兵力被“彻底摧毁”、伊朗小艇“沉入海底”，又把美方的回击称作“轻拍”（love tap），并表示停火仍然有效；阿纳多卢通讯社报道，特朗普称3艘驱逐舰“在炮火下”驶出海峡，之后将重新加入封锁。\n此前的5月4日（周一），有报道援引美国官员称“特鲁克斯顿”号和“梅森”号已遭伊朗攻击，中央司令部否认了这一说法。同一时段，中央司令部司令称美军“阿帕奇”和“海鹰”直升机击沉了6艘威胁商船的伊朗小艇，并击落了导弹和无人机；伊朗国家电视台否认有小艇被击沉。",
+  "defense_effect_cn": "按美方口径，3艘驱逐舰在狭窄海峡内遭袭后全部拦截、无损伤报告，并随即对发射源实施反击，体现了编队过航时“拦截加即时回击”的做法。暴露问题：海峡宽度有限，驱逐舰处于伊朗岸基火力和小艇的近距离覆盖下，预警时间短；美方只公布了舰名和来袭手段类别（导弹、无人机、小艇），未公布来袭数量和拦截消耗，外界无法评估来袭规模；停火期间的过航行动本身也成为冲突再起的引爆点。",
+  "claims_compare_cn": "美方（中央司令部社交媒体发文，经 NPR、USNI 报道）：3艘驱逐舰遭攻击，全部拦截，并打击了伊朗相关军事设施。伊朗：国家媒体称革命卫队导弹击中一艘美舰，中央司令部称“没有美国舰艇被击中”。特朗普称伊方兵力“彻底摧毁”、小艇“沉入海底”，说法超出中央司令部通报。5月4日：美国官员（经CBS）称“特鲁克斯顿”号、“梅森”号遭袭，中央司令部否认；中央司令部司令称直升机击沉6艘伊朗小艇，伊朗否认。双方均未公布来袭和拦截的数量。交火日期为5月7日（周四），NPR当天报道。",
+  "losses_cn": "美方：未报告损伤或伤亡。伊朗：被美方回击的军事设施损失情况未检索到公开记录。",
+  "analysis_cn": "停火期间美舰坚持过航霍尔木兹，意在以实际通航否定伊朗的“封闭”宣示，但也把驱逐舰置于伊朗近岸火力的覆盖之下。三舰同时遭袭说明伊朗有能力在海峡内对编队实施多目标攻击；美方以即时回击发射源的方式压制后续攻击。对远海编组过航狭窄水道而言，关键在于预警纵深、编队内防空分工以及对岸基发射点的快速打击能力。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "NPR（美国国家公共电台）",
+    "title": "U.S. military says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz",
+    "title_cn": "美军称在霍尔木兹海峡拦截了伊朗对3艘海军舰艇的攻击",
+    "author": "NPR",
+    "date": "2026-05-07",
+    "url": "https://www.npr.org/2026/05/07/g-s1-120978/u-s-military-intercepted-iran-attacks-navy-ships-hormuz",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "USNI News（美国海军学会新闻）",
+    "title": "Strait of Hormuz Shipping in State of Confusion as Industry Watches U.S., Iranian Actions",
+    "title_cn": "业界观望美伊动作，霍尔木兹海峡航运陷入混乱",
+    "author": "USNI News",
+    "date": "2026-05-08",
+    "url": "https://news.usni.org/2026/05/08/strait-of-hormuz-shipping-in-state-of-confusion-as-industry-watches-u-s-iranian-actions",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Congressional Research Service（美国国会研究处）",
+    "title": "U.S. Conflict with Iran (R48887)",
+    "title_cn": "美国与伊朗的冲突",
+    "author": "CRS",
+    "date": "待核",
+    "url": "https://www.congress.gov/crs-product/R48887",
+    "type": "官方"
+   },
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "2026 Strait of Hormuz crisis",
+    "title_cn": "2026年霍尔木兹海峡危机",
+    "author": "维基百科编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "2026 Bubiyan Island raid",
+    "title_cn": "2026年布比延岛突袭事件",
+    "author": "维基百科编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://en.wikipedia.org/wiki/2026_Bubiyan_Island_raid",
+    "type": "其他"
+   },
+   {
+    "publisher": "Stars and Stripes（星条旗报）",
+    "title": "destroyers attacked iran persian gulf hormuz（检索结果仅显示URL短语）",
+    "title_cn": "驱逐舰在霍尔木兹海峡遭伊朗攻击的报道（含中央司令部否认5月4日遇袭）",
+    "author": "Stars and Stripes",
+    "date": "2026-05-05",
+    "url": "https://www.stripes.com/theaters/middle_east/2026-05-05/destroyers-attacked-iran-persian-gulf-hormuz-21580965.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Baird Maritime（贝尔德海事）",
+    "title": "CENTCOM: US forces intercept Iranian attacks on warships, launch strikes in response",
+    "title_cn": "美中央司令部：美军拦截伊朗对军舰的攻击并实施回击",
+    "author": "Baird Maritime",
+    "date": "待核（2026-05-07前后）",
+    "url": "https://www.bairdmaritime.com/security/incidents/acts-of-war/centcom-us-forces-intercept-iranian-attacks-on-warships-launch-strikes-in-response",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Tribune（印度论坛报）",
+    "title": "US CENTCOM confirms Iranian missile strike on American naval vessels, says no US assets were struck",
+    "title_cn": "美中央司令部确认伊朗导弹攻击美舰，称无美方资产被击中",
+    "author": "The Tribune（通讯社稿）",
+    "date": "待核（2026-05-07前后）",
+    "url": "https://www.tribuneindia.com/news/world/us-centcom-confirms-iranian-missile-strike-on-american-naval-vessels-says-no-us-assets-were-struck/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Anadolu Agency（阿纳多卢通讯社）",
+    "title": "Trump says 3 Navy destroyers exited Strait of Hormuz under fire, will rejoin blockade",
+    "title_cn": "特朗普称3艘海军驱逐舰在炮火下驶出霍尔木兹海峡，将重新加入封锁",
+    "author": "Michael Hernandez, Ahmet Salih Alacaci, Burak Bir",
+    "date": "待核（2026-05-07前后）",
+    "url": "https://aa.com.tr/en/world/trump-says-3-navy-destroyers-exited-strait-of-hormuz-under-fire-will-rejoin-blockade/3930786",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "The Korea Times（韩国时报）",
+    "title": "US destroys 6 Iranian small boats, shoots down missiles, drones, admiral says",
+    "title_cn": "美军上将称美军摧毁6艘伊朗小艇并击落导弹和无人机",
+    "author": "The Korea Times（通讯社稿）",
+    "date": "2026-05-05",
+    "url": "https://www.koreatimes.co.kr/amp/world/20260505/us-destroys-6-iranian-small-boats-shoots-down-missiles-drones-admiral-says",
+    "type": "其他"
+   },
+   {
+    "publisher": "WION",
+    "title": "US destroys six Iranian boats, intercepts missiles and drones in Strait of Hormuz; Tehran denies",
+    "title_cn": "美军在霍尔木兹海峡摧毁6艘伊朗小艇、拦截导弹和无人机，德黑兰否认",
+    "author": "WION",
+    "date": "待核（2026-05-04前后）",
+    "url": "https://www.wionews.com/world/us-destroys-six-iranian-boats-intercepts-missiles-and-drones-in-strait-of-hormuz-tehran-denies-1777918123369",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "遭袭舰艇": "驱逐舰3艘",
+   "美方损伤": "未报告",
+   "停火实施时间": "约1个月（NPR）",
+   "舰名": "特鲁克斯顿号DDG-103、拉斐尔·佩拉尔塔号DDG-115、梅森号DDG-87",
+   "来袭手段": "导弹、无人机、小艇（CENTCOM）",
+   "5月4日直升机击沉伊朗小艇": "6艘（CENTCOM司令称；伊方否认）"
+  }
+ },
+ {
+  "case_key": "fg_hormuz_flareup_2026_09",
+  "category": "远海机动编组",
+  "title_cn": "停火破裂后美伊在海峡互袭升级",
+  "subtitle_cn": "2026年8月31日—9月5日 霍尔木兹海峡 伊朗袭击商船并以弹道导弹瞄准美航母与驱逐舰，美军打击80余处目标、60余艘快艇和3艘伊朗油轮",
+  "date_start": "2026-08-31",
+  "date_end": "2026-09-05",
+  "location_cn": "霍尔木兹海峡及伊朗沿岸（含拉腊克岛 Larak Island、拉万岛 Lavan Island）",
+  "lat": 26.86,
+  "lon": 56.36,
+  "region": "波斯湾-霍尔木兹-阿曼湾",
+  "attacker": "双向：伊朗伊斯兰革命卫队（袭击商船、弹道导弹攻击美舰）；美国中央司令部（空中打击）",
+  "defender": "商船3艘；美海军航母与导弹驱逐舰各1艘（美方未点名；伊方称航母为“乔治·华盛顿”号）；伊朗岸基雷达、反舰导弹阵地与革命卫队小艇",
+  "outcome": "防御成功",
+  "domains": [
+   "空中",
+   "水面",
+   "岸基"
+  ],
+  "patterns": [
+   "异构",
+   "集群"
+  ],
+  "attack_means_cn": "伊朗：对3艘商船的袭击（手段待核）；向美航母与驱逐舰发射弹道导弹（数量待核）；宣称水雷致2艘油轮起火（美方否认）。美方：精确弹药打击80余处目标，含防空系统、指挥控制网络、岸基雷达、反舰导弹能力及60余艘革命卫队小艇；9月5日打击3艘伊朗原油运输船。",
+  "defense_means_cn": "美舰机动规避弹道导弹（美方称“evaded”），无人员伤亡；对伊朗发射与支援节点实施报复打击。",
+  "narrative_cn": "6月签署的美伊谅解备忘录在数周后因战事再起而破裂，并于8月正式到期。8月底，伊朗向约旦境内美军基地发射导弹，福克斯新闻8月31日报道美方正考虑以打击哈尔克岛作为报复。据《国会山报》报道（发布日期待核），伊朗击中3艘商船后，美军对伊朗发起一系列“强有力”打击，以精确弹药命中80余处目标，包括防空系统、指挥控制网络、岸基雷达站、反舰导弹能力和60余艘革命卫队小艇；特朗普政府同时撤销了一项允许出售伊朗石油的关键豁免。\n9月1日，美国消费者新闻与商业频道（CNBC）报道，美军在海峡周边发起新一轮打击，起因是伊朗对商业航运和美方人员的攻击。中央司令部称伊朗的攻击“无端、危险，明显违反停火”，并称“伊朗制造了威胁，美军消除了威胁，以保护民用海员、商业航运和全球贸易的自由流通”；特朗普称打击“大规模且强有力”，并威胁若伊朗再次报复将发动更大规模打击。伊朗外交部称美方打击违反《联合国宪章》第二条第四款，并指责美方打击其沿岸基地违反停火谅解；伊朗国家电视台播出向约旦美军基地发射弹道导弹的画面。哥伦比亚广播公司（CBS）直播报道约旦和巴林再次遭伊朗导弹和无人机袭击，其页面涉及美军8月30日对拉腊克岛的打击（见案例is_larak_island_strike_2026_08_30）。\n9月2日，革命卫队称2艘“听从美方指令”的油轮在海峡触雷起火（船员已撤离），中央司令部称该说法“不实”；同日伊朗国际电视台援引革命卫队官员称，美军夜袭拉万岛致3名巴斯基成员死亡。9月4日《美国海军学会新闻》称美伊在海峡互相打击，同时在社交媒体上展开舆论战。9月5日前后，革命卫队向美海军一艘航母和一艘导弹驱逐舰发射弹道导弹，美方称两舰规避成功、无人员伤亡，中央司令部随后打击了3艘伊朗原油运输船；德黑兰称命中两舰，与美方说法直接矛盾，未获独立证实。中央司令部未公布涉事舰名。\n关于9月5日被瞄准的美舰，中央司令部只称“一艘美国航母和一艘导弹驱逐舰成功规避了伊朗多次无端攻击”，没有点名，并称无美军人员受伤；革命卫队则称其空天军用弹道导弹击中两舰，两舰受损后撤离，理由是两舰在骚扰伊朗船只、参与海上封锁。有网站援引伊朗官方媒体称，主要目标是8月起部署在阿拉伯海、前来接替“林肯”号的“乔治·华盛顿”号（USS George Washington）航母，五角大楼否认该舰被击中；美方来源没有确认舰名。《战区》9月9日刊发了美航母位置汇总（内容本轮未核）。9月8日，在革命卫队又瞄准一艘美舰后，中央司令部再摧毁5艘伊朗原油运输船。",
+  "defense_effect_cn": "按美方口径，美舰对弹道导弹实施规避、无伤亡，同时通过大规模打击岸基雷达、反舰导弹阵地和60余艘小艇，削弱伊朗在海峡的近岸打击能力。伊朗的小艇集群和岸基反舰火力在开战半年后仍需大规模打击才能压制，说明此类分散、低成本兵力难以一次清除。暴露问题：商船在美伊交火间隙仍被击中；美方以打击伊朗油轮作为报复，冲突对象扩展到民用船舶，海峡航运风险进一步上升。",
+  "claims_compare_cn": "美方：伊朗攻击违反停火；打击80余处目标、60余艘小艇；美舰规避弹道导弹无伤亡；伊朗关于油轮触雷的说法“不实”。伊朗：美方打击违反《联合国宪章》和停火谅解；称命中美航母和驱逐舰；称2艘油轮触雷起火；称美军袭击拉万岛致3名巴斯基死亡。双方在美舰是否被命中、油轮是否触雷两点上说法直接矛盾，均无独立核实。美方打击80余处目标的数字为单方口径。航母舰名：伊朗官方媒体（经第三方网站转述）称为“乔治·华盛顿”号，五角大楼否认该舰被击中，美方未点名。9月8日：美方称在革命卫队再次瞄准美舰后摧毁5艘伊朗原油运输船，伊方说法本轮未检索。",
+  "losses_cn": "伊朗：80余处目标被打击，含60余艘革命卫队小艇（美方称）；3艘原油运输船被打击（美方）；拉万岛巴斯基3人死亡（革命卫队官员）。商船：3艘被伊朗击中（伤亡待核）；2艘油轮起火（伊方称触雷，美方否认触雷说法）。美方：未报告损伤或伤亡。",
+  "analysis_cn": "停火破裂后的冲突重心转向海峡及其两岸：伊朗用袭船和弹道导弹打击美舰施压，美方则以岸基雷达、反舰导弹和小艇为目标进行“清剿式”打击，并把伊朗油轮纳入报复范围。此阶段海上攻防呈现异构特征：伊朗以弹道导弹、小艇、水雷宣称和舆论战并用；美方以空中精确打击和经济制裁（撤销石油豁免）配合。弹道导弹攻击航母编组的宣称再次出现，但仍无独立证据证明命中。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Fox News（福克斯新闻）",
+    "title": "Retaliation on Kharg Island weighed as US-Iran hostilities reignite",
+    "title_cn": "美伊敌对再起，美方考虑报复打击哈尔克岛",
+    "author": "Fox News 直播",
+    "date": "2026-08-31（页面地址日期）",
+    "url": "https://www.foxnews.com/live-news/us-iran-news-war-trump-jordan-latest-today-august-31",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Hill（国会山报）",
+    "title": "US military strikes Iran after Tehran hits 3 tankers in Strait of Hormuz",
+    "title_cn": "德黑兰在霍尔木兹海峡击中3艘油轮后美军打击伊朗",
+    "author": "The Hill",
+    "date": "待核（2026年8月底—9月初）",
+    "url": "https://thehill.com/policy/defense/5957880-us-military-strikes-iran-strait-hormuz/",
+    "type": "其他"
+   },
+   {
+    "publisher": "CNBC（美国消费者新闻与商业频道）",
+    "title": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
+    "title_cn": "美国打击伊朗，德黑兰报复，扩大战争风险上升",
+    "author": "CNBC",
+    "date": "2026-09-01",
+    "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "CBS News（哥伦比亚广播公司新闻）",
+    "title": "U.S. hits dozens of Iranian targets in retaliatory strikes after ship attacks in Strait of Hormuz",
+    "title_cn": "霍尔木兹海峡船只遇袭后美军报复打击数十处伊朗目标",
+    "author": "CBS News 直播",
+    "date": "待核",
+    "url": "https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "CBS News（哥伦比亚广播公司新闻）",
+    "title": "Jordan and Bahrain face Iranian missiles and drones as hostilities flare",
+    "title_cn": "敌对行动升温，约旦和巴林遭伊朗导弹与无人机袭击",
+    "author": "CBS News 直播",
+    "date": "待核",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-strikes-strait-of-hormuz-larak-island/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "PBS NewsHour（美国公共广播新闻一小时）",
+    "title": "U.S. launches new strikes on Iran after attacks on tankers in Strait of Hormuz",
+    "title_cn": "霍尔木兹海峡油轮遇袭后美国对伊朗发动新一轮打击",
+    "author": "PBS NewsHour",
+    "date": "待核",
+    "url": "https://www.pbs.org/newshour/show/u-s-launches-new-strikes-on-iran-after-attacks-on-tankers-in-strait-of-hormuz",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Press TV（伊朗新闻电视台）",
+    "title": "Two tankers heeding US instructions destroyed by mines in Strait of Hormuz: IRGC",
+    "title_cn": "革命卫队：两艘听从美方指令的油轮在霍尔木兹海峡触雷被毁",
+    "author": "Press TV",
+    "date": "2026-09-02",
+    "url": "https://www.presstv.co.uk/Detail/2026/09/02/775527/IRGC-Two-oil-tankers-following-US-instructions-explode-after-hitting-mines-in-Strait-of-Hormuz",
+    "type": "官方"
+   },
+   {
+    "publisher": "Iran International（伊朗国际）",
+    "title": "Three Basij members killed in US attack on Lavan Island（标题据检索摘要，原题待核）",
+    "title_cn": "美军袭击拉万岛致3名巴斯基成员死亡",
+    "author": "Iran International",
+    "date": "2026-09-02",
+    "url": "https://www.iranintl.com/en/202609024874",
+    "type": "其他"
+   },
+   {
+    "publisher": "USNI News（美国海军学会新闻）",
+    "title": "U.S., Iran Trade Strikes in Strait of Hormuz as Both Battle on Social Media",
+    "title_cn": "美伊在霍尔木兹海峡互相打击，同时在社交媒体交锋",
+    "author": "USNI News",
+    "date": "2026-09-04",
+    "url": "https://news.usni.org/2026/09/04/u-s-iran-trade-strikes-in-strait-of-hormuz-as-both-battle-on-social-media",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "NPR（美国国家公共电台）",
+    "title": "U.S. strikes Iranian oil tankers after Navy ships targeted",
+    "title_cn": "海军舰艇遭瞄准后美军打击伊朗油轮",
+    "author": "NPR",
+    "date": "2026-09-05",
+    "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Army Recognition（陆军识别）",
+    "title": "Iran Fires Ballistic Missiles at U.S. Navy Carrier and Destroyer as U.S. Strikes 3 Oil Tankers",
+    "title_cn": "伊朗向美海军航母和驱逐舰发射弹道导弹，美军打击3艘油轮",
+    "author": "Army Recognition",
+    "date": "待核（2026年9月）",
+    "url": "https://www.armyrecognition.com/news/navy-news/2026/iran-fires-ballistic-missiles-at-u-s-navy-carrier-and-destroyer-as-u-s-strikes-3-oil-tankers",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Times of Oman（阿曼时报）",
+    "title": "IRGC says several ballistic missiles fired at US aircraft carrier and a destroyer",
+    "title_cn": "革命卫队称向美航母和一艘驱逐舰发射多枚弹道导弹",
+    "author": "Times of Oman",
+    "date": "待核（2026-09-05前后）",
+    "url": "https://timesofoman.com/article/176512-irgc-says-several-ballistic-missiles-fired-at-us-aircraft-carrier-and-a-destroyer",
+    "type": "其他"
+   },
+   {
+    "publisher": "A News（土耳其）",
+    "title": "Iran's Revolutionary Guards say missiles struck US aircraft carrier, destroyer（据URL）",
+    "title_cn": "伊朗革命卫队称导弹击中美航母和驱逐舰",
+    "author": "A News",
+    "date": "2026-09-06",
+    "url": "https://www.anews.com.tr/world/2026/09/06/irans-revolutionary-guards-say-missiles-struck-us-aircraft-carrier-destroyer",
+    "type": "其他"
+   },
+   {
+    "publisher": "Crypto Briefing",
+    "title": "Iran claims it damaged USS George Washington with missile strike, Pentagon denies any hit",
+    "title_cn": "伊朗称导弹击伤“乔治·华盛顿”号，五角大楼否认",
+    "author": "Crypto Briefing（转述伊朗官方媒体）",
+    "date": "待核（2026年9月）",
+    "url": "https://cryptobriefing.com/iran-claims-uss-george-washington-missile-strike/",
+    "type": "其他"
+   },
+   {
+    "publisher": "The War Zone（战区）",
+    "title": "Where Are The American Aircraft Carriers September 9, 2026（据URL）",
+    "title_cn": "2026年9月9日美国航母位置汇总",
+    "author": "The War Zone",
+    "date": "2026-09-09（据URL）",
+    "url": "https://www.twz.com/sea/where-are-the-american-aircraft-carriers-september-9-2026.md",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Irish Times（爱尔兰时报）",
+    "title": "US forces strike two Iranian launchers on Larak island, US official says",
+    "title_cn": "美国官员称美军打击拉腊克岛上2具伊朗发射装置",
+    "author": "The Irish Times（通讯社稿，推定）",
+    "date": "2026-08-30",
+    "url": "https://www.irishtimes.com/world/middle-east/2026/08/30/us-forces-strike-two-iranian-launchers-on-larak-island-us-official-says/",
+    "type": "通讯社"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "美方打击目标": "80余处，含60余艘革命卫队小艇（《国会山报》）",
+   "伊朗击中商船": "3艘",
+   "弹道导弹攻击美舰": "航母1艘、驱逐舰1艘，均规避（美方）",
+   "美方打击伊朗原油运输船": "3艘（9月5日）",
+   "伊方称触雷油轮": "2艘（美方称不实）",
+   "9月8日美方再摧毁伊朗原油运输船": "5艘（美方）",
+   "被瞄准航母": "美方未点名；伊方称“乔治·华盛顿”号"
+  }
+ },
+ {
+  "case_key": "fg_true_promise1_carney_burke_2024_04_13",
+  "category": "远海机动编组",
+  "title_cn": "美舰东地中海拦截伊朗弹道导弹4至6枚",
+  "subtitle_cn": "2024年4月13—14日 东地中海 美驱逐舰“卡尼”号、“阿利·伯克”号参与抗击伊朗“真实承诺”行动",
+  "date_start": "2024-04-13",
+  "date_end": "2024-04-14",
+  "location_cn": "东地中海（Eastern Mediterranean），两舰具体阵位未公开（坐标为示意）",
+  "lat": 33.8,
+  "lon": 33.5,
+  "region": "东地中海",
+  "attacker": "伊朗（“真实承诺”行动，Operation True Promise）；美中央司令部称部分无人机自也门发射",
+  "defender": "美国海军“阿利·伯克”级驱逐舰“卡尼”号（USS Carney, DDG-64）、“阿利·伯克”号（USS Arleigh Burke, DDG-51）；美中央司令部、欧洲司令部所属兵力；以色列本土防空体系",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "异构",
+   "饱和"
+  ],
+  "attack_means_cn": "伊朗当夜共发射无人机约170架、弹道导弹约120枚、巡航导弹约30枚（德国《海洋论坛》统计）。美中央司令部称来袭无人机分别从伊朗和也门发射。",
+  "defense_means_cn": "两舰具备宙斯盾弹道导弹防御能力，携带“标准-3”（SM-3）拦截弹。美高级军官称两舰共击落4—6枚弹道导弹；当时未确认所用拦截弹型号，海军部长德尔托罗随后称“周末发射了SM-3”。美中央、欧洲司令部兵力另击落80架单向攻击无人机。",
+  "narrative_cn": "据美国全国广播公司（NBC）等报道，2024年4月1日伊朗驻叙利亚使馆遭疑似以色列空袭，伊朗誓言报复。4月13日夜至14日凌晨，伊朗发动“真实承诺”行动，首次从本土直接对以色列实施大规模导弹和无人机攻击。据德国《海洋论坛》（MarineForum）统计，来袭兵器约为无人机170架、弹道导弹120枚、巡航导弹30枚，只有少数弹道导弹落入以色列境内。\n美国海军当时在东地中海有2艘具备弹道导弹防御能力的驱逐舰。“卡尼”号（USS Carney, DDG-64）在2023年10月7日之后曾随“福特”号和“艾森豪威尔”号航母打击群在红海活动，4月10日刚靠泊意大利西西里岛巴勒莫；“阿利·伯克”号（USS Arleigh Burke, DDG-51）前沿部署于西班牙罗塔。《美国海军学会新闻》（USNI News）4月14日援引一名高级军官的话说，两舰共击落4至6枚伊朗弹道导弹。报道指出，两舰都装有“标准-3”拦截弹，但不清楚这次是否使用了该型导弹。美国中央司令部称，中央司令部和欧洲司令部的兵力另外击落了80架单向攻击无人机，这些无人机分别从伊朗和也门发射。\n此后，美国海军部长卡洛斯·德尔托罗（Carlos Del Toro）在国会听证时说：“我们一直在发射SM-2、SM-6，就在上周末，还发射了SM-3。”多家媒体据此认为这是“标准-3”首次实战使用。《海洋论坛》分析称，SM-6只能在末段拦截弹道导弹，两舰很可能用的是SM-3。同年6月，以色列国防军副总参谋长登舰访问“卡尼”号，美国海军在新闻稿中确认，“卡尼”号于4月13日与“阿利·伯克”号一起成功拦截了射向以色列的伊朗弹道导弹。",
+  "defense_effect_cn": "两舰在东地中海构成以色列外围的前置反导屏障，承担中段拦截任务。按美方口径，两舰击落4—6枚，在约120枚来袭弹道导弹中只占一小部分，主要拦截仍由以色列本土防空体系及多国空中力量完成（以方拦截细节本轮未检索）。暴露的问题：一是SM-3单价高、库存有限，用于拦截中程弹道导弹意味着高端弹药快速消耗；二是只有2艘驱逐舰在位，承担的是补充层而非主力，舰艇数量直接限制了拦截份额；三是美方当时没有确认拦截弹型号和具体战果，公开信息滞后约一周。",
+  "claims_compare_cn": "美方：高级军官称两舰击落4—6枚弹道导弹（USNI，4月14日）；海军6月新闻稿只说“成功拦截”，没有给出数字。拦截弹型号：USNI当时称“不清楚是否使用SM-3”，德尔托罗随后在听证会上称周末发射了SM-3。来袭规模：《海洋论坛》称约170架无人机、120枚弹道导弹、30枚巡航导弹；中央司令部称美方击落80架无人机。伊朗方面对美舰拦截的表态，本轮检索未见公开记录。",
+  "losses_cn": "美舰：无损伤报告。弹药：SM-3等拦截弹若干（数量未公开）。以色列：少数弹道导弹落地（损失详情本轮未检索）。",
+  "analysis_cn": "这是美国海军驱逐舰首次在东地中海为以色列提供弹道导弹中段拦截，按海军部长的说法也是SM-3首次实战。两舰不是攻击目标，承担的是区域反导任务，作用在于在导弹飞行中段多加一层拦截机会。平时分散部署的单舰（一艘刚在巴勒莫靠港，一艘前沿部署于罗塔）能在数日内进入拦截阵位，说明前沿部署的宙斯盾舰对突发弹道导弹威胁响应较快。4—6枚的战果也表明，在百枚级齐射面前，单艘驱逐舰的拦截份额有限，舰载反导更适合作为陆基体系的补充层。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "USNI News（美国海军学会新闻）",
+    "title": "U.S. Warships in Eastern Mediterranean Down Iranian Ballistic Missiles",
+    "title_cn": "东地中海美舰击落伊朗弹道导弹",
+    "author": "USNI News",
+    "date": "2024-04-14",
+    "url": "https://news.usni.org/2024/04/14/u-s-warships-in-eastern-mediterranean-down-iranian-ballistic-missiles",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "U.S. Navy（美国海军）",
+    "title": "Israeli Defense Force Deputy Chief Visits USS Carney",
+    "title_cn": "以色列国防军副总参谋长访问“卡尼”号",
+    "author": "美国海军",
+    "date": "2024-06-28（据GlobalSecurity转载编号mil-240628推定）",
+    "url": "https://www.navy.mil/Press-Office/News-Stories/Article/3821712/israeli-defense-force-deputy-chief-visits-uss-carney/",
+    "type": "官方"
+   },
+   {
+    "publisher": "MarineForum（德国《海洋论坛》）",
+    "title": "Iran's attack on Israel: US Navy involved in defence",
+    "title_cn": "伊朗袭击以色列：美国海军参与防御",
+    "author": "MarineForum",
+    "date": "待核（2024年4月）",
+    "url": "https://marineforum.online/en/irans-attack-on-israel-us-navy-involved-in-defence/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Business Insider（商业内幕，荷兰版转载）",
+    "title": "US Navy warships shot down Iranian missiles with a weapon they've never used in combat before",
+    "title_cn": "美舰用从未实战过的武器击落伊朗导弹",
+    "author": "Business Insider",
+    "date": "待核（2024年4月）",
+    "url": "https://www.businessinsider.nl/us-navy-warships-shot-down-iranian-missiles-with-a-weapon-theyve-never-used-in-combat-before",
+    "type": "其他"
+   },
+   {
+    "publisher": "Warrior Maven",
+    "title": "US Navy fires SM-3 to destroy Iranian missiles in first combat use",
+    "title_cn": "美海军首次实战发射SM-3摧毁伊朗导弹",
+    "author": "Warrior Maven",
+    "date": "待核（2024年4月）",
+    "url": "https://warriormaven.com/sea/us-navy-fires-sm-3-to-destroy-iranian-missiles-in-first-combat-use",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "NBC News（美国全国广播公司新闻）",
+    "title": "iran special forces seize ship israel strait hormuz irgc（检索结果仅显示URL短语）",
+    "title_cn": "伊朗特种部队在霍尔木兹海峡扣押以色列关联船只（报道背景：4月1日使馆遇袭）",
+    "author": "NBC News",
+    "date": "2024-04-13（据报道内容推定）",
+    "url": "https://www.nbcnews.com/news/world/iran-special-forces-seize-ship-israel-strait-hormuz-irgc-red-sea-rcna147689",
+    "type": "通讯社"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Port_side_view_of_USS_Carney_(DDG-64)_departing_Souda_Bay_161021-N-GP524-236.jpg",
+    "file_name": "Port_side_view_of_USS_Carney_(DDG-64)_departing_Souda_Bay_161021-N-GP524-236.jpg",
+    "desc_cn": "“卡尼”号（DDG-64）驶离克里特岛苏达湾的左舷视图（2016年，非本次作战照片；G组Commons检索所见）",
+    "date": "2016-10-21",
+    "credit": "美国海军",
+    "license": "Public Domain（美国政府作品，推定，待核）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:2024_Iranian_strikes_in_Israel._VI.jpeg",
+    "file_name": "2024_Iranian_strikes_in_Israel._VI.jpeg",
+    "desc_cn": "2024年伊朗对以色列袭击的影像（检索摘要未描述画面，具体为4月还是10月待核；G组Commons检索所见）",
+    "date": "2024",
+    "credit": "待核",
+    "license": "待核",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "来袭弹道导弹": "约120枚（MarineForum）",
+   "来袭无人机": "约170架（MarineForum）",
+   "来袭巡航导弹": "约30枚（MarineForum）",
+   "两舰击落弹道导弹": "4—6枚（美高级军官）",
+   "美中央/欧洲司令部击落无人机": "80架（CENTCOM）",
+   "参战美驱逐舰": "2艘"
+  }
+ },
+ {
+  "case_key": "fg_true_promise2_bulkeley_cole_2024_10_01",
+  "category": "远海机动编组",
+  "title_cn": "两艘美驱逐舰对伊朗导弹齐射约12枚拦截弹",
+  "subtitle_cn": "2024年10月1日 东地中海 美驱逐舰“巴尔克利”号、“科尔”号拦截伊朗“真实承诺-2”弹道导弹",
+  "date_start": "2024-10-01",
+  "date_end": "",
+  "location_cn": "东地中海（Eastern Mediterranean），两舰具体阵位未公开（坐标为示意）",
+  "lat": 33.5,
+  "lon": 33.8,
+  "region": "东地中海",
+  "attacker": "伊朗（伊方行动代号“真实承诺-2”）",
+  "defender": "美国海军“阿利·伯克”级驱逐舰“巴尔克利”号（USS Bulkeley, DDG-84）、“科尔”号（USS Cole, DDG-67）；以色列本土防空体系",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "饱和"
+  ],
+  "attack_means_cn": "约200枚弹道导弹（五角大楼新闻秘书赖德口径）；赖德当天表示不确定伊朗是否同时使用了无人机或巡航导弹。",
+  "defense_means_cn": "两舰共发射“大约十几枚拦截弹”（赖德）；次日一名美官员向USNI证实，两舰使用了包括“标准-3”（SM-3）在内的多型武器，摧毁“少量”（a handful）伊朗导弹。",
+  "narrative_cn": "2024年10月1日晚，伊朗向以色列发射约200枚弹道导弹。五角大楼新闻秘书帕特·赖德（Pat Ryder）少将当天在记者会上说，在东地中海活动的美海军驱逐舰“巴尔克利”号（USS Bulkeley, DDG-84）和“科尔”号（USS Cole, DDG-67）向来袭的伊朗导弹发射了“大约十几枚拦截弹”。赖德没有说明拦截弹型号，也表示还不知道这些拦截弹是否击落了导弹。他称初步迹象显示地面损失很小，以色列成功抵御了这次攻击；他还说，不确定伊朗是否也使用了无人机或巡航导弹。\n美国海军随后发表声明，称两舰于10月1日“从东地中海拦截了多枚射向以色列的伊朗弹道导弹”，但没有公布数量。《美国海军学会新闻》（USNI News）10月2日援引一名美国官员的话说，两艘导弹驱逐舰使用包括“标准-3”在内的多型武器，摧毁了“少量”伊朗导弹；同一篇报道称，“哈里·S·杜鲁门”号航母（USS Harry S. Truman）已进入美国第六舰队责任区。《战区》（The War Zone）、《防务一号》（Defense One）和军事网（Military.com）当天或次日也作了报道。USNI的一篇报道导语将舰名误拼为“Bulkely”。\n“科尔”号就是2000年在也门亚丁港遭自杀艇袭击的那艘驱逐舰。与4月的“真实承诺”行动相比，伊朗这次以弹道导弹为主，数量从约120枚增加到约200枚；美国海军在东地中海参与反导的仍是2艘驱逐舰。",
+  "defense_effect_cn": "两舰在约200枚弹道导弹的齐射中发射约12枚拦截弹，按美官员说法摧毁了“少量”导弹，与4月一样属于补充层。美方当天未能确认拦截效果，说明舰载反导的战果评估需要时间，也要依赖与以方的数据融合。暴露的问题：舰载拦截弹装载有限，补充需返港；面对200枚级的齐射，2艘驱逐舰只能保护特定方向或高价值目标；SM-3半年内两次实战使用，高端拦截弹库存压力进一步加大。",
+  "claims_compare_cn": "赖德（10月1日）：两舰发射约12枚拦截弹，战果未知；伊朗发射约200枚弹道导弹；地面损失很小。美海军声明：拦截“多枚”，没有数字。USNI（10月2日）援引美官员：使用包括SM-3在内的多型武器，摧毁“少量”导弹。伊朗方面对美舰拦截的表态，本轮未检索。",
+  "losses_cn": "美舰：无损伤。弹药：约12枚拦截弹（含SM-3）。以色列：赖德称地面损失很小（具体伤亡本轮未检索）。",
+  "analysis_cn": "两次“真实承诺”行动之间，伊朗的弹道导弹齐射规模从约120枚增加到约200枚，美国海军在东地中海的反导兵力仍是2艘驱逐舰。约12枚拦截弹按一弹一拦计算也只够应对来袭总量的6%左右，远海编组的反导火力在大规模齐射中只能起局部作用，起决定作用的是陆基多层体系以及舰艇与陆基的数据共享。两舰拦截与“杜鲁门”号航母进入第六舰队同步发生，反映出美方在危机期间“驱逐舰先行、航母跟进”的兵力调整方式。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "USNI News（美国海军学会新闻）",
+    "title": "U.S. Warships Fire a Dozen Interceptors Against Iranian Missile Attack",
+    "title_cn": "美舰发射十几枚拦截弹应对伊朗导弹袭击",
+    "author": "USNI News",
+    "date": "2024-10-01",
+    "url": "https://news.usni.org/2024/10/01/u-s-warships-fire-a-dozen-interceptions-against-iranian-missile-attack-against-israel",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "USNI News（美国海军学会新闻）",
+    "title": "U.S. Destroyers Successfully Down Iranian Missiles with SM-3s, Carrier USS Harry. S. Truman Now in U.S. 6th Fleet",
+    "title_cn": "美驱逐舰以SM-3成功击落伊朗导弹，“杜鲁门”号航母进入第六舰队",
+    "author": "USNI News",
+    "date": "2024-10-02",
+    "url": "https://news.usni.org/2024/10/02/u-s-destroyers-successfully-down-iranian-missiles-with-sm-3s-carrier-uss-harry-s-truman-now-in-u-s-6th-fleet",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Military.com（军事网）",
+    "title": "Two Navy Destroyers Helped Defend Israel Against Iranian Missile Barrage",
+    "title_cn": "两艘海军驱逐舰协助以色列抵御伊朗导弹齐射",
+    "author": "Military.com",
+    "date": "2024-10-01",
+    "url": "https://mst.military.com/daily-news/2024/10/01/two-navy-destroyers-helped-defend-israel-against-iranian-missile-barrage.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Defense One（防务一号）",
+    "title": "us destroyers fire dozen interceptors against iranian missiles middle east crisis intensifies（检索结果仅显示URL短语）",
+    "title_cn": "中东危机加剧，美驱逐舰对伊朗导弹发射十几枚拦截弹",
+    "author": "Defense One",
+    "date": "待核（2024年10月）",
+    "url": "https://defenseone.com/threats/2024/10/us-destroyers-fire-dozen-interceptors-against-iranian-missiles-middle-east-crisis-intensifies/399979",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The War Zone（战区）",
+    "title": "U.S. Navy Destroyers Successfully Engaged Iranian Ballistic Missiles On Their Way To Israel",
+    "title_cn": "美海军驱逐舰成功拦截飞向以色列的伊朗弹道导弹",
+    "author": "The War Zone",
+    "date": "待核（2024年10月）",
+    "url": "https://www.twz.com/news-features/u-s-navy-destroyers-successfully-engaged-iranian-ballistic-missiles-on-their-way-to-israel.md",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "GlobalSecurity.org（转载美国国防部记者会记录）",
+    "title": "mil-241001-dod01（检索结果未显示标题）",
+    "title_cn": "美国国防部2024年10月1日记者会记录（转载）",
+    "author": "美国国防部",
+    "date": "2024-10-01",
+    "url": "https://www.globalsecurity.org/military/library/news/2024/10/mil-241001-dod01.htm",
+    "type": "官方"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:US_Navy_100905-N-0569K-172_USS_Bulkeley_(DDG_84)_is_underway_in_the_Atlantic_Ocean.jpg",
+    "file_name": "US_Navy_100905-N-0569K-172_USS_Bulkeley_(DDG_84)_is_underway_in_the_Atlantic_Ocean.jpg",
+    "desc_cn": "“巴尔克利”号（DDG-84）在大西洋航行（2010年，非本次作战照片；G组Commons检索所见）",
+    "date": "2010-09-05",
+    "credit": "美国海军",
+    "license": "Public Domain（美国政府作品，推定，待核）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:USS_Cole_(DDG-67)_front.jpg",
+    "file_name": "USS_Cole_(DDG-67)_front.jpg",
+    "desc_cn": "“科尔”号（DDG-67）正面照片（拍摄日期待核；G组Commons检索所见）",
+    "date": "待核",
+    "credit": "待核",
+    "license": "待核",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:119103_remnants_of_an_iranian_ballistic_missile_october_2_PikiWiki_Israel.jpg",
+    "file_name": "119103_remnants_of_an_iranian_ballistic_missile_october_2_PikiWiki_Israel.jpg",
+    "desc_cn": "伊朗弹道导弹残骸（PikiWiki Israel；文件名标注10月2日，年份据语境推定为2024年，待核）",
+    "date": "2024-10-02（推定）",
+    "credit": "PikiWiki Israel",
+    "license": "待核",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "伊朗弹道导弹": "约200枚（赖德）",
+   "美舰拦截弹": "约12枚（赖德）",
+   "美舰摧毁": "“少量”（美官员，USNI）",
+   "参战美驱逐舰": "2艘",
+   "拦截弹/来袭比": "约6%（按数字推算）"
+  }
+ },
+ {
+  "case_key": "pg_haifa_bazan_2025_06",
+  "category": "周边港口",
+  "title_cn": "伊朗导弹两度击中海法港区炼厂，3人死亡",
+  "subtitle_cn": "2025年6月14—16日 以色列海法湾 伊朗弹道导弹击中巴赞集团炼厂；美第六舰队5艘驱逐舰参与拦截",
+  "date_start": "2025-06-14",
+  "date_end": "2025-06-16",
+  "location_cn": "以色列海法湾（Haifa Bay）海法港区，巴赞集团（Bazan Group）炼厂",
+  "lat": 32.8,
+  "lon": 35.04,
+  "region": "东地中海",
+  "attacker": "伊朗弹道导弹部队（伊方称“真实承诺-3”行动，Operation True Promise III）",
+  "defender": "以色列本土多层防空；美国海军第六舰队5艘“阿利·伯克”级驱逐舰；美陆军驻以“萨德”连（以媒称）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "饱和"
+  ],
+  "attack_means_cn": "弹道导弹（型号、命中枚数未公开）。6月14日夜至15日的袭击造成厂区“局部损坏”并损坏供电；6月16日凌晨4时许导弹直接命中厂区。",
+  "defense_means_cn": "以色列多层防空；美第六舰队5艘驱逐舰——“托马斯·赫德纳”号（USS Thomas Hudner）、“阿利·伯克”号（USS Arleigh Burke）、“沙利文斯”号（USS The Sullivans）、“奥斯卡·奥斯汀”号（USS Oscar Austin）、“保罗·伊格内修斯”号（USS Paul Ignatius）——以宙斯盾系统拦截，拦截弹型号未公布；以媒称美陆军驻以“萨德”（THAAD）连也参与拦截。",
+  "narrative_cn": "2025年6月以伊战争期间，伊朗多次向以色列北部海法湾发射弹道导弹。巴赞集团（Bazan Group）是以色列最大的炼油企业，其炼厂日加工能力19.7万桶，设施位于海法港区。据阿格斯（Argus Media）报道，6月14日至15日周末，一次导弹袭击损坏了炼厂供电，炼厂停产。空袭监测机构Airwars援引《以色列时报》称，前一晚的弹道导弹袭击已在厂区造成“局部损坏”。\n6月16日凌晨4时稍过，炼厂再遭伊朗导弹击中。3名巴赞员工被埋在废墟下，救援人员花了数小时才接近现场，3人因窒息和高温死亡，分别是来自基亚特莫茨金（Kiryat Motzkin）的伊戈尔·弗拉德金（50岁）、乌里·列维（58岁）和达尼·阿夫拉哈姆（59岁）；当时与他们在一起的另外2名工人轻伤逃出。印度亚洲新闻社（IANS）报道，巴赞宣布其位于海法港区的全部设施因导弹损坏而完全关闭。这是该炼厂已知首次遭直接命中；以色列政府曾在2022年决定于2030年前迁走这座炼厂。以色列《环球报》（Globes）报道，冲突期间以方还下令卡里什（Karish）和利维坦（Leviathan）两座海上气田暂停供气，巴赞的输气管线也被击中。\n同期，美国海军第六舰队在东地中海部署了5艘具备弹道导弹防御能力的“阿利·伯克”级驱逐舰。《美国海军学会新闻》6月20日援引以色列媒体称，此前一周，一艘未具名的美驱逐舰和美陆军驻以“萨德”连拦截了伊朗弹道导弹。6月29日，美国海军确认自6月14日起其驱逐舰拦截了多枚伊朗弹道导弹，并点名上述5艘舰，但没有公布拦截数量、目标和拦截弹型号，相关问题转给中央司令部回答。据《商业内幕》报道，代理海军作战部长詹姆斯·基尔比（James Kilby）上将对国会议员说，美舰正以“惊人的速度”消耗SM-3。\n2026年7月，伊朗新闻电视台（Press TV）转述其他报道称，以方此前没有公开真实损失，炼厂的燃气轮机、蒸汽锅炉、电气室等辅助系统都受了损，而巴赞当时只说一座馏分油罐顶部“局部受损”。",
+  "defense_effect_cn": "以色列多层防空加上美舰中段拦截，没能阻止弹道导弹连续两晚命中同一座炼厂。炼厂与港区设施面积大、易燃、难以加固，一次命中就导致停产和人员死亡。暴露的问题：一是高价值能源设施集中在港区，连续两晚被命中，说明对重点目标的末段防护密度不足；二是损失信息不透明，巴赞最初只承认“局部受损”，后来的报道称动力系统受损；三是美舰以SM-3为主的中段拦截消耗大，海军高层公开表达了库存担忧；四是出于防护考虑关停海上气田，带来能源供应的连带损失。",
+  "claims_compare_cn": "伤亡：Airwars与《以色列时报》都称3人死亡、2人轻伤。损坏程度：巴赞最初称一座馏分油罐顶部“局部受损”；IANS称海法港区全部设施关闭；Press TV（2026年7月，转述他方报道）称燃气轮机、锅炉、电气室等受损而以方未公开。美舰战果：海军确认拦截“多枚”，没有数字；USNI转述以媒称一艘美驱逐舰和“萨德”连拦截，属以媒单方说法。Airwars该条记录的地点字段误列“叙利亚”。伊朗方面对命中炼厂的表态，本轮未检索。",
+  "losses_cn": "以方：巴赞员工3人死亡、2人轻伤（Airwars/《以色列时报》）；日加工19.7万桶的炼厂停产（Argus），港区设施全部关闭（IANS）；输气管线受损，卡里什、利维坦气田暂停供气（Globes）。美方：无损失，SM-3等拦截弹消耗未公开。",
+  "analysis_cn": "本案说明港区能源设施在弹道导弹饱和攻击下很脆弱：即使拦截率较高，少数漏网导弹就足以让一座炼厂停产、让港区设施全部关闭。巴赞炼厂位于人口密集的海法湾，政府2022年已决定迁厂，战时这一风险成为现实。美海军5艘驱逐舰在东地中海参与拦截，但海军不公布数量和目标，外界难以评估舰载反导在保护港口目标上的实际作用。海上气田因防护考虑停产，也说明对离岸设施而言，预防性关停本身就是代价。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Argus Media（阿格斯）",
+    "title": "Israel's Haifa refinery shuts after Iran missile strike",
+    "title_cn": "以色列海法炼厂遭伊朗导弹袭击后停产",
+    "author": "Argus Media",
+    "date": "待核（2025年6月15—16日前后）",
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2699702-israel-s-haifa-refinery-shuts-after-iran-missile-strike",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Airwars",
+    "title": "Incident Code IRIS250616B（检索结果标题为Incident Code）",
+    "title_cn": "Airwars事件记录IRIS250616B：巴赞炼厂遇袭",
+    "author": "Airwars（援引《以色列时报》Emanuel Fabian等）",
+    "date": "待核（事件日2025-06-16）",
+    "url": "https://airwars.org/incidents/iris250616b-june-26-2025",
+    "type": "OSINT"
+   },
+   {
+    "publisher": "Greater Kashmir（大克什米尔报，转IANS）",
+    "title": "Iranian strike shuts down Israel's largest oil refinery",
+    "title_cn": "伊朗袭击致以色列最大炼厂关闭",
+    "author": "IANS（印度亚洲新闻社）",
+    "date": "待核（2025年6月）",
+    "url": "https://m.greaterkashmir.com/article/iranian-strike-shuts-down-israels-largest-oil-refinery/406474",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Calcalist Ctech",
+    "title": "Bazan facility after Iranian missile strike in June 2025（检索结果所示为配图说明）",
+    "title_cn": "2025年6月遭伊朗导弹袭击后的巴赞设施",
+    "author": "Calcalist",
+    "date": "待核",
+    "url": "https://calcalistech.com/ctechnews/article/5qaa06qfl",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Globes（以色列《环球报》）",
+    "title": "Gas flow from Leviathan and Karish halted, Bazan pipeline hit",
+    "title_cn": "利维坦、卡里什气田停止供气，巴赞输气管线被击中",
+    "author": "Globes",
+    "date": "待核（2025年6月）",
+    "url": "https://en.globes.co.il/en/article-gas-flow-from-leviathan-and-karish-halted-bazan-pipeline-hit-1001512891",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Defense News（防务新闻）",
+    "title": "Navy destroyers intercepted Iranian missiles, service confirms",
+    "title_cn": "美海军确认驱逐舰拦截了伊朗导弹",
+    "author": "Defense News",
+    "date": "2025-06-30",
+    "url": "https://www.defensenews.com/news/your-navy/2025/06/30/navy-destroyers-intercepted-iranian-missiles-service-confirms/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "USNI News（美国海军学会新闻）",
+    "title": "5 U.S. Ballistic Missile Defense Destroyers Now in the Mediterranean Sea",
+    "title_cn": "5艘美弹道导弹防御驱逐舰已在地中海",
+    "author": "USNI News",
+    "date": "2025-06-20",
+    "url": "https://news.usni.org/2025/06/20/5-u-s-ballistic-missile-defense-destroyers-now-in-the-mediterranean-sea",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Business Insider（商业内幕，荷兰版转载）",
+    "title": "US Navy warships picked up multiple new Iranian ballistic missile kills in the latest defense of Israel",
+    "title_cn": "美舰在最新一轮护以作战中又击落多枚伊朗弹道导弹",
+    "author": "Business Insider",
+    "date": "待核（2025年6月）",
+    "url": "https://www.businessinsider.nl/us-navy-warships-picked-up-multiple-new-iranian-ballistic-missile-kills-in-the-latest-defense-of-israel/",
+    "type": "其他"
+   },
+   {
+    "publisher": "GlobalSecurity.org（转载Press TV）",
+    "title": "israel-260702-presstv01（检索结果未显示标题）",
+    "title_cn": "伊朗新闻电视台：以方未公开巴赞炼厂真实损失（转载）",
+    "author": "Press TV",
+    "date": "2026-07-02（据URL）",
+    "url": "https://www.globalsecurity.org/wmd/library/news/israel/2026/07/israel-260702-presstv01.htm",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:%D7%91%D7%AA%D7%99%D7%9D_%D7%A9%D7%A0%D7%A4%D7%92%D7%A2%D7%95_%D7%9E%D7%98%D7%99%D7%9C_%D7%A9%D7%9C_%D7%90%D7%99%D7%A8%D7%90%D7%9F_%D7%91%D7%A8%D7%97%D7%95%D7%91_%D7%94%D7%92%D7%9C%D7%99%D7%9C_%D7%91%D7%A0%D7%95%D7%95%D7%94_%D7%A9%D7%90%D7%A0%D7%9F_%D7%91%D7%97%D7%99%D7%A4%D7%94_%D7%91-15_%D7%91%D7%99%D7%95%D7%A0%D7%99_2025_10.jpg",
+    "file_name": "בתים שנפגעו מטיל של איראן ברחוב הגליל בנווה שאנן בחיפה ב-15 ביוני 2025 10.jpg",
+    "desc_cn": "2025年6月15日海法内韦沙阿南区加利尔街被伊朗导弹损毁的民房（非港区，作同期海法遇袭参考；文件元数据日期为2025-06-22）",
+    "date": "2025-06-22",
+    "credit": "Hanay",
+    "license": "待核（Commons页面所载）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Iranian_missile_strike_in_Bat_Yam,_15_June_2025._IV.jpg",
+    "file_name": "Iranian_missile_strike_in_Bat_Yam,_15_June_2025._IV.jpg",
+    "desc_cn": "2025年6月15日伊朗导弹袭击以色列沿海城市巴特亚姆后的破坏现场（非海法，作同期参考）",
+    "date": "2025-06-15",
+    "credit": "Yoav Keren",
+    "license": "CC BY-SA 3.0",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "炼厂产能": "19.7万桶/日（Argus）",
+   "死亡": "3人（巴赞员工）",
+   "轻伤": "2人",
+   "命中次数": "至少2次（6月14—15日、6月16日）",
+   "参与反导美驱逐舰": "5艘（第六舰队）",
+   "海上气田": "卡里什、利维坦暂停供气"
+  }
+ },
+ {
+  "case_key": "ms_karish_drone_cdome_2024_07_27",
+  "category": "海上小岛",
+  "title_cn": "萨尔-6舰以C-穹远距拦截飞向卡里什的无人机",
+  "subtitle_cn": "2024年7月27日 东地中海卡里什气田 以色列海军“萨尔-6”级护卫舰以舰载“C-穹”击落真主党无人机",
+  "date_start": "2024-07-27",
+  "date_end": "",
+  "location_cn": "东地中海以色列北部外海，卡里什气田（Karish gas field）离岸生产设施外围（坐标为示意）",
+  "lat": 33.05,
+  "lon": 34.05,
+  "region": "东地中海",
+  "attacker": "黎巴嫩真主党（以方判断）",
+  "defender": "以色列海军“萨尔-6”级护卫舰（舰名未公开），舰载“C-穹”（C-Dome，“铁穹”海基型）",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "无人机1架（以方判断由真主党发射，很可能执行侦察；是否携带炸药，以军称仍在调查）。",
+  "defense_means_cn": "“萨尔-6”级护卫舰在距气田“相当远的距离”以舰载C-穹拦截击落。背景：2022年7月2日的3架无人机，1架由F-16击落，2架由“萨尔-5”级“埃拉特”号（INS Eilat）发射“巴拉克-8”击落。",
+  "narrative_cn": "卡里什气田位于以色列北部外海，由Energean公司运营，是以色列东地中海的主要离岸气田之一。2022年7月2日，真主党曾向卡里什方向放飞3架无人机，1架被以色列空军F-16击落，另2架被“萨尔-5”级护卫舰“埃拉特”号（INS Eilat）发射的“巴拉克-8”导弹击落，3架都在地中海上空被摧毁。以军事后称事先掌握了真主党的行动情报，初步调查认为无人机未构成迫近威胁。一名以色列海军前指挥官撰文称，这次拦截首次证明舰载“巴拉克”系统可以实战使用。该事件在本汇编时间窗口之前，作为背景列出。\n2023年10月加沙战争爆发后，真主党与以色列在黎以边境持续交火。2024年7月27日（周六），以色列国防军通报，海军一艘“萨尔-6”级护卫舰在距卡里什气田“相当远的距离”拦截了一架无人机，关键基础设施没有受到威胁。这架无人机被舰载“铁穹”的海基型“C-穹”击落。以军判断无人机由真主党发射，很可能是在气田上空侦察，是否携带炸药仍在调查。《以色列时报》以“真主党无人机疑似飞向海上气田平台，被以色列海军击落”为题报道，《海事执行官》（Maritime Executive）和《贝尔德海事》（Baird Maritime）也作了报道。\n此后，卡里什面临的主要是预防性停产。2025年6月以伊战争期间，以色列下令卡里什和利维坦两座气田暂停供气（《环球报》）；2026年2月28日美以对伊朗开战当天，以色列能源部指示Energean暂停卡里什生产，利维坦也被要求预防性关闭（阿格斯）。本轮检索未见真主党在2026年战争中实际攻击海上气田平台的报道。",
+  "defense_effect_cn": "C-穹在远离平台的位置完成拦截，体现了“以舰护台”的前出防空：护卫舰在平台外围设拦截区，避免在平台上空交战、残骸坠落到设施上。但这次来袭只有1架无人机，以方判断为侦察性质，对防御体系的压力有限。《耶路撒冷邮报》援引以色列安全人士称，真正的攻击会动用多架无人机以提高突防概率，并认为此类行动更可能带有宣传目的（该报道所指事件年份待核）。离岸平台本身没有自卫能力，防护完全靠海军舰艇；而在更高强度的冲突中（2025年6月、2026年2月），以方选择直接停产，说明舰艇防护不足以让决策层接受平台在战时继续运行的风险。",
+  "claims_compare_cn": "以色列国防军（2024年7月27日）：一艘“萨尔-6”级护卫舰以C-穹在距气田较远处拦截，无威胁；无人机用途（侦察或攻击）仍在调查。真主党是否认领，本轮未检索到。2022年事件：以军称3架无人机全部被击落、未构成迫近威胁；一名前海军指挥官撰文称这是“巴拉克”系统首次证明可以实战使用。本轮检索没有找到确认2024年7月这次是否为C-穹“首次实战拦截”的来源。",
+  "losses_cn": "无直接损失。C-穹拦截弹消耗若干（数量未公开）。间接损失：2025年6月、2026年2月卡里什两度预防性停产（停产时长本轮未检索）。",
+  "analysis_cn": "离岸气田平台是固定、易燃、无自卫能力的点状目标，真主党以单架无人机多次试探，意图可能在于侦察和政治施压。以色列的应对是让装备舰载“铁穹”的“萨尔-6”级护卫舰在平台外围值守，用成本相对低的拦截弹对付单架无人机，并争取在远离平台处完成交战。这种方式对零星来袭有效；面对多架同时来袭，或与弹道导弹混合的攻击能否守住，还没有实战检验。以方在大规模冲突中选择停产，说明对平台而言，最稳妥的“防御”仍是事先关停。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "The Times of Israel（以色列时报）",
+    "title": "Hezbollah drone apparently heading for offshore gas rig downed by Israeli Navy",
+    "title_cn": "真主党无人机疑似飞向海上气田平台，被以色列海军击落",
+    "author": "The Times of Israel",
+    "date": "2024-07-27（据报道内容推定）",
+    "url": "https://www.timesofisrael.com/hezbollah-drone-apparently-heading-for-offshore-gas-rig-downed-by-israeli-navy/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Maritime Executive（海事执行官）",
+    "title": "Israeli Navy Shoots Down Drone Near Karish Offshore Gas Field",
+    "title_cn": "以色列海军在卡里什海上气田附近击落无人机",
+    "author": "The Maritime Executive",
+    "date": "待核（报道称事件发生于2024-07-27周六）",
+    "url": "https://maritime-executive.com/article/israeli-navy-shoots-down-drone-near-karish-offshore-gas-field",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Baird Maritime（贝尔德海事）",
+    "title": "Israeli warship intercepts drone near Karish gas field",
+    "title_cn": "以色列军舰在卡里什气田附近拦截无人机",
+    "author": "Baird Maritime",
+    "date": "待核（2024年7月）",
+    "url": "https://www.bairdmaritime.com/amp/story/security/incidents/acts-of-war/israeli-warship-intercepts-drone-near-karish-gas-field",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "JNS（犹太新闻联合社）",
+    "title": "IDF intercepts 3 Hezbollah UAVs approaching Israel's Karish natgas rig",
+    "title_cn": "以军拦截3架飞向卡里什天然气平台的真主党无人机",
+    "author": "JNS",
+    "date": "待核（事件日2022-07-02）",
+    "url": "https://www.jns.org/idf-intercepts-3-hezbollah-uavs-approaching-israels-karish-natgas-rig/",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Times of Israel（以色列时报）",
+    "title": "IDF had advance intel on Hezbollah attempt to launch drones at Karish gas field",
+    "title_cn": "以军事先掌握真主党向卡里什气田放飞无人机的情报",
+    "author": "The Times of Israel",
+    "date": "待核（2022年7月）",
+    "url": "https://www.timesofisrael.com/idf-had-advance-intel-on-hezbollah-attempt-to-launch-drones-at-karish-gas-field/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "JNS（犹太新闻联合社）",
+    "title": "Against Hezbollah, the best defense is a good offense",
+    "title_cn": "对付真主党，最好的防御是进攻（评论）",
+    "author": "以色列海军前指挥官（评论）",
+    "date": "待核",
+    "url": "https://www.jns.org/opinion/against-hezbollah-the-best-defense-is-a-good-offense/",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Jerusalem Post（耶路撒冷邮报）",
+    "title": "article-711124（检索结果未显示标题）",
+    "title_cn": "以安全人士称真实攻击会动用多架无人机（所指事件年份待核）",
+    "author": "The Jerusalem Post",
+    "date": "待核",
+    "url": "https://m.jpost.com/middle-east/article-711124",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Argus Media（阿格斯）",
+    "title": "Israel gas fields, refinery shut after attack on Iran",
+    "title_cn": "对伊朗开战后以色列气田与炼厂关停",
+    "author": "Argus Media",
+    "date": "待核（2026-02-28前后）",
+    "url": "https://www.argusmedia.com/de/news-and-insights/latest-market-news/2794474-israel-gas-fields-refinery-shut-after-attack-on-iran",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Globes（以色列《环球报》）",
+    "title": "Gas flow from Leviathan and Karish halted, Bazan pipeline hit",
+    "title_cn": "利维坦、卡里什气田停止供气，巴赞输气管线被击中",
+    "author": "Globes",
+    "date": "待核（2025年6月）",
+    "url": "https://en.globes.co.il/en/article-gas-flow-from-leviathan-and-karish-halted-bazan-pipeline-hit-1001512891",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sa%27ar-6-class-corvette-0023.jpg",
+    "file_name": "Sa'ar-6-class-corvette-0023.jpg",
+    "desc_cn": "以色列海军“萨尔-6”级护卫舰（拍摄日期待核，非本次拦截照片；G组Commons检索所见）",
+    "date": "待核",
+    "credit": "待核",
+    "license": "待核",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Die_vier_Sa'ar-6_Korvetten_bei_der_Bauwerft_in_Kiel.jpg",
+    "file_name": "Die_vier_Sa'ar-6_Korvetten_bei_der_Bauwerft_in_Kiel.jpg",
+    "desc_cn": "德国基尔造船厂内的4艘“萨尔-6”级护卫舰（摘要称2020年；G组Commons检索所见）",
+    "date": "2020（摘要）",
+    "credit": "待核",
+    "license": "待核",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "来袭无人机": "1架（以方）",
+   "拦截平台": "“萨尔-6”级护卫舰1艘",
+   "拦截系统": "C-穹（C-Dome）",
+   "2022年先例": "3架无人机全部击落（F-16 1架、巴拉克-8 2架）",
+   "预防性停产": "2025年6月、2026年2月28日"
+  }
+ },
+ {
+  "case_key": "pg_latakia_syrian_navy_2024_12_10",
+  "category": "周边港口",
+  "title_cn": "以海军夜袭叙利亚两港，叙海军舰艇大批被毁",
+  "subtitle_cn": "2024年12月9—10日 叙利亚拉塔基亚港、米纳特贝达港 以色列海军导弹舰艇同时打击停泊的叙利亚海军舰艇",
+  "date_start": "2024-12-09",
+  "date_end": "2024-12-10",
+  "location_cn": "叙利亚拉塔基亚港（Latakia）及米纳特贝达港（Minet al-Beida / el-Beida）",
+  "lat": 35.52,
+  "lon": 35.77,
+  "region": "东地中海",
+  "attacker": "以色列海军导弹舰艇（舰名、舰型未公开）",
+  "defender": "叙利亚阿拉伯海军（阿萨德政权于12月8日垮台，处于无组织状态）",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "以色列海军导弹舰艇对两港同时发射导弹（型号、数量未公开）。",
+  "defense_means_cn": "无有效防御记录。政权更迭期间叙海军未组织抵抗。",
+  "narrative_cn": "2024年12月8日，叙利亚阿萨德政权垮台。以色列随即对叙利亚境内军事目标展开大规模打击，并派地面部队进入戈兰高地附近的隔离区。据俄塔社转引以色列国防军新闻办公室的说法，12月9日夜至10日，以色列海军导弹舰艇同时打击了叙利亚西部的米纳特贝达港（el-Beida）和拉塔基亚港，两港内停泊着15艘叙利亚海军舰艇。以色列国防部长以色列·卡茨（Israel Katz）称，行动目的是摧毁威胁以色列的“战略能力”；以色列还表示要防止武器落入极端组织手中。《军事识别》（Army Recognition）援引以方说法，称这是一次“决定性打击”，基本摧毁了叙利亚海军的地中海舰队。\n独立来源给出的数字低于以方口径。叙利亚人权观察站称约10艘海军舰艇受损；法新社记者看到拉塔基亚港内至少3艘苏联时期建造的军舰在冒烟（《监察》Al-Monitor转引）；《战区》（The War Zone）分析图像后认为，至少6艘“黄蜂-II”级（Osa II）导弹艇被毁。以色列国防军称，此后几天以军战机在叙利亚全境实施了350余次打击。阿富汗帕杰沃克通讯社12月11日、贝尔德海事等也报道了此次打击。",
+  "defense_effect_cn": "叙利亚海军在政权更迭的混乱中没有组织任何防御，舰艇集中停泊在两座港口，被以色列导弹舰艇成批清除。暴露的问题：一是港内集中停泊的舰艇在没有防空和岸防掩护时，面对舰射导弹几乎没有生存可能；二是国家指挥体系崩溃后，海军装备很快成为外部力量的打击对象；三是这次行动由海军舰艇而非空军执行，说明以色列海军具备对数百公里外港口实施精确打击的能力。",
+  "claims_compare_cn": "以色列国防军：两港停泊15艘叙海军舰艇，两港同时遭打击；未公布确认击毁数。卡茨称目的是摧毁“战略能力”，以方称“决定性打击”。叙利亚人权观察站：约10艘受损。法新社：至少3艘军舰冒烟。《战区》：图像显示至少6艘“黄蜂-II”级导弹艇被毁。数字差异主要在于以方给的是“在港舰艇数”，并非确认击毁数。叙利亚过渡当局的表态，本轮未检索。",
+  "losses_cn": "叙利亚海军：在港15艘（以方口径）；约10艘受损（叙利亚人权观察站）；其中至少6艘“黄蜂-II”级导弹艇被毁（《战区》图像分析）。港口设施损失未见统计。以方：无损失。",
+  "analysis_cn": "这是2023—2025年间少见的由海军舰艇对他国港内舰队实施的一次性清除行动。叙利亚已无有效防御，本案体现的主要是以色列在对手政权崩溃窗口期“先发处置”的决策逻辑，而不是攻防对抗。对港口防御而言，本案说明海军基地能否生存，很大程度取决于国家指挥体系和岸基防空能否持续运转；一旦指挥中断，港内舰艇比分散在海上的舰艇更容易被成批摧毁。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "TASS（俄塔社）",
+    "title": "Israel attacks two ports in Syria harboring 15 Syrian military ships",
+    "title_cn": "以色列袭击停泊15艘叙利亚军舰的两座叙利亚港口",
+    "author": "TASS（援引以色列国防军新闻办公室）",
+    "date": "待核（2024-12-10前后）",
+    "url": "https://tass.com/world/1885441/amp",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Pajhwok Afghan News（帕杰沃克阿富汗通讯社）",
+    "title": "Israeli ships strike Syrian naval fleet",
+    "title_cn": "以色列舰艇打击叙利亚海军舰队",
+    "author": "Pajhwok",
+    "date": "2024-12-11",
+    "url": "https://pajhwok.com/2024/12/11/israeli-ships-strike-syrian-naval-fleet",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Al-Monitor（监察）",
+    "title": "Charred remains of Syrian ships after Israeli strikes",
+    "title_cn": "以色列打击后叙利亚舰艇的焦黑残骸（援引法新社）",
+    "author": "Al-Monitor / AFP",
+    "date": "待核（2024年12月）",
+    "url": "https://al-monitor.com/originals/2024/12/charred-remains-syrian-ships-after-israeli-strikes",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The War Zone（战区）",
+    "title": "Israel Lays Waste To Syria's Missile Boats",
+    "title_cn": "以色列摧毁叙利亚导弹艇",
+    "author": "The War Zone",
+    "date": "待核（2024年12月）",
+    "url": "https://www.twz.com/news-features/israel-lays-waste-to-syrias-missile-boats",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Army Recognition（军事识别）",
+    "title": "Syria's navy neutralized: Israeli forces target missile boats in Mediterranean",
+    "title_cn": "叙利亚海军被瘫痪：以军打击地中海导弹艇",
+    "author": "Army Recognition",
+    "date": "待核（2024年12月）",
+    "url": "https://www.armyrecognition.com/archives/archives-naval-defense/2024/syrias-navy-neutralized-israeli-forces-target-missile-boats-in-mediterranean",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Baird Maritime（贝尔德海事）",
+    "title": "Israel wipes out Syria's naval fleet and strategic weapons stockpiles",
+    "title_cn": "以色列摧毁叙利亚海军舰队和战略武器库存",
+    "author": "Baird Maritime",
+    "date": "待核（2024年12月）",
+    "url": "https://www.bairdmaritime.com/amp/story/security/naval/israel-wipes-out-syrias-naval-fleet-and-strategic-weapons-stockpiles",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:2024_Israeli_invasion_of_Syria.png",
+    "file_name": "2024_Israeli_invasion_of_Syria.png",
+    "desc_cn": "2024年12月以色列进入叙利亚态势图（2024-12-08版本，反映南部地面行动，未标注拉塔基亚港打击）",
+    "date": "2024-12-08",
+    "credit": "Wikimedia Commons 用户",
+    "license": "待核",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "在港舰艇": "15艘（以方）",
+   "受损": "约10艘（叙利亚人权观察站）",
+   "确认被毁导弹艇": "≥6艘“黄蜂-II”级（TWZ）",
+   "冒烟军舰": "≥3艘（法新社，拉塔基亚港）",
+   "以军后续对叙打击": "350余次（以方）"
+  }
+ },
+ {
+  "case_key": "pg_gaza_trident_pier_2024",
+  "category": "周边港口",
+  "title_cn": "加沙浮码头遭迫击炮袭扰，又被风浪冲断",
+  "subtitle_cn": "2024年4月25日—7月17日 加沙地带中部沿岸 美军“三叉戟”临时浮码头（JLOTS）建设期遭迫击炮袭扰，运营一周后因海况断裂",
+  "date_start": "2024-04-25",
+  "date_end": "2024-07-17",
+  "location_cn": "加沙地带中部沿岸、内察里姆走廊（Netzarim corridor）西端海滩（临时码头，无常设港口设施）",
+  "lat": 31.46,
+  "lon": 34.39,
+  "region": "东地中海",
+  "attacker": "加沙武装人员（以军称“恐怖组织”成员，无组织认领）；另有恶劣海况造成主要损坏（非人为）",
+  "defender": "美国陆军、海军“联合后勤滩头作业”（JLOTS）部队；以色列国防军负责岸上警戒",
+  "outcome": "被攻击受损",
+  "domains": [
+   "岸基"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "迫击炮弹若干（数量未公开），落在码头建设区的物资“集结区”。",
+  "defense_means_cn": "以军负责岸滩警戒；美军人员和舰船部署在迫击炮射程之外（五角大楼称）。未见专门的反炮兵记录。",
+  "narrative_cn": "2024年，美军在加沙中部内察里姆走廊西端海滩搭建临时浮码头，以“联合后勤滩头作业”（JLOTS）方式向加沙输送人道援助。码头通过“三叉戟”（Trident）栈桥连接海滩。\n4月25日，码头还在建设中，联合国官员在以军陪同下视察现场时，加沙方向射来迫击炮弹。以军称是加沙一个“恐怖组织”的成员发射的，联合国官员被转移到掩体，无人受伤。五角大楼发言人帕特·赖德称，炮弹落在为码头卸货准备的“集结区”，损失很小，美军人员和舰船“远在迫击炮射程之外”，建设进度没有受影响。没有组织认领这次袭击。哈马斯官员哈利勒·哈亚（Khalil al-Hayya）此前称，将抵抗任何保护码头的非巴勒斯坦部队，称其为“占领力量和侵略”。美国防部长奥斯汀称，目前没有迹象显示哈马斯有攻击美军的现实意图，但“这是战区，什么事都可能发生”；参议员罗杰·威克（Roger Wicker）称袭击“令人遗憾但可以预见”。\n5月17日码头开始运营。一周后的5月24日，海上运输因风浪过大暂停，两天后部分栈桥段脱离，数艘船只被冲上岸：2艘搁浅在加沙码头根部附近，2艘搁浅在以色列阿什凯隆附近。CNN报道码头在大浪中断裂受损，五角大楼发言人萨布丽娜·辛格（Sabrina Singh）称码头“受损，部分栈桥需要重建和修复”。美空军预备役第315空运联队网站文章称，高海况和一个北非天气系统导致部分“三叉戟”栈桥脱落。按维基共享资源分类页记载，这次行动于7月17日结束。多数报道称码头造价3.2亿美元。2025年5月，军事网报道一项监察调查认为，资金削减和计划不周影响了这次行动：2014—2024年，陆军削减了约2300万美元的相关系统运维预算，海军削减了6900万美元。",
+  "defense_effect_cn": "迫击炮袭扰没有造成实质损失。美军把人员和舰船部署在迫击炮射程外的做法有效，但岸上集结区仍在射程内，只能依赖以军警戒。真正让码头失效的是海况：栈桥在高海况下断裂、船只被冲上岸，运营一周就中断。暴露的问题：一是临时码头对天气极为敏感，风浪可以直接切断补给线；二是JLOTS装备长期预算不足，维护和训练欠账在实战中暴露；三是码头位于交战区，美方在“不派地面部队上岸”的政治约束下，安保只能依赖第三方。",
+  "claims_compare_cn": "以军：加沙“恐怖组织”发射迫击炮，联合国官员躲入掩体，无人受伤。五角大楼（赖德）：集结区轻微受损，工程未延误，美军不在射程内。哈马斯：未认领，但表示将抵抗保护码头的外国部队。奥斯汀：未见哈马斯攻击美军的现实意图。造价：多数报道称3.2亿美元，另有一说2.3亿美元（称部分费用由英国分担），未见官方核实。损坏原因：五角大楼和美军文章均归因于海况，没有提到敌方攻击。",
+  "losses_cn": "迫击炮袭扰：集结区轻微受损，无人员伤亡（美方、以方）。海况：部分栈桥段断裂需重建；4艘船只搁浅（加沙2艘、阿什凯隆2艘）。经济：项目约3.2亿美元（多数报道）；监察调查称2014—2024年陆军、海军分别削减约2300万、6900万美元相关预算。",
+  "analysis_cn": "本案是“周边港口”类中的临时港口样本：在没有港口设施的交战区海滩搭建浮码头，同时面对敌方火力和自然环境两种威胁，其中海况造成的损失远大于敌方袭扰。袭扰方只用少量迫击炮弹落在集结区，没有造成实质损害，却迫使美方高层公开回应安全问题，政治和心理效果明显。对类似的远征后勤设施，防护设计除了反炮兵、防无人机，还要把海况窗口、锚泊和快速解脱能力列为同等重要的条件。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "The Times of Israel（以色列时报）",
+    "title": "IDF says terrorists fired mortar shells at under-construction US-led Gaza aid pier as UN officials toured site",
+    "title_cn": "以军称恐怖分子在联合国官员视察时向在建的美国主导加沙援助码头发射迫击炮弹",
+    "author": "The Times of Israel（直播博客）",
+    "date": "2024-04-25（据报道内容推定）",
+    "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-mortar-fired-at-under-construction-gaza-aid-pier-as-un-officials-toured-site/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "FDD（保卫民主基金会）",
+    "title": "Terrorists attack U.S. pier under construction off Gaza coast（Flash Brief）",
+    "title_cn": "恐怖分子袭击加沙沿岸在建美国码头",
+    "author": "FDD",
+    "date": "2024-04-26",
+    "url": "https://www.fdd.org/analysis/2024/04/26/terrorists-attack-u-s-pier-under-construction-off-gaza-coast/",
+    "type": "智库"
+   },
+   {
+    "publisher": "The Times of Israel（以色列时报）",
+    "title": "US defense secretary: No signs Hamas plans to attack our troops building Gaza pier",
+    "title_cn": "美防长：没有迹象显示哈马斯计划攻击建设加沙码头的美军",
+    "author": "The Times of Israel",
+    "date": "待核（2024年4月）",
+    "url": "https://www.timesofisrael.com/us-defense-secretary-no-signs-hamas-plans-to-attack-our-troops-building-gaza-pier/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The War Zone（战区）",
+    "title": "Despite Mortar Attack, U.S. Is Satisfied With Gaza Beachhead Security",
+    "title_cn": "尽管遭迫击炮袭击，美方对加沙滩头安全仍感满意",
+    "author": "The War Zone",
+    "date": "待核（2024年4月）",
+    "url": "https://www.twz.com/news-features/despite-mortar-attack-u-s-is-satisfied-with-gaza-beachhead-security.md",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "U.S. Senator Roger Wicker（美国参议员威克办公室）",
+    "title": "Senator Wicker Statement on Reported Gaza Pier Attack",
+    "title_cn": "威克参议员就加沙码头遇袭报道发表声明",
+    "author": "Roger Wicker",
+    "date": "待核（2024年4月）",
+    "url": "https://www.wicker.senate.gov/2024/4/senator-wicker-statement-on-reported-gaza-pier-attack",
+    "type": "官方"
+   },
+   {
+    "publisher": "Yahoo News（新加坡版转载）",
+    "title": "$320m US pier in Gaza breaks apart days after supplies began arriving in war-torn region",
+    "title_cn": "3.2亿美元的美军加沙码头在物资开始抵达数日后断裂",
+    "author": "Yahoo News（原出处待核）",
+    "date": "待核（2024年5月下旬）",
+    "url": "https://sg.news.yahoo.com/us-320m-pier-gaza-breaks-192252531.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "315th Airlift Wing, U.S. Air Force（美空军第315空运联队）",
+    "title": "Defense Department conducts recover, repair mission for temporary pier after heavy...（检索结果标题截断）",
+    "title_cn": "国防部对受恶劣海况影响的临时码头实施回收修复",
+    "author": "美国空军",
+    "date": "待核（2024年5—6月）",
+    "url": "https://www.315aw.afrc.af.mil/News/Article/3791051/defense-department-conducts-recover-repair-mission-for-temporary-pier-after-hea",
+    "type": "官方"
+   },
+   {
+    "publisher": "Military.com（军事网）",
+    "title": "Investigation into Gaza Pier Mission Finds Funding Cuts, Poor Planning Hindered the Operation",
+    "title_cn": "调查发现资金削减和计划不周阻碍了加沙码头任务",
+    "author": "Military.com",
+    "date": "2025-05-06",
+    "url": "https://365.military.com/daily-news/2025/05/06/investigation-gaza-pier-mission-finds-funding-cuts-poor-planning-hindered-operation.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Naval Historical Society of Australia（澳大利亚海军历史学会）",
+    "title": "Gaza Trident pier – start and finish",
+    "title_cn": "加沙“三叉戟”码头始末",
+    "author": "Naval Historical Society of Australia",
+    "date": "待核",
+    "url": "https://navyhistory.au/gaza-trident-pier-start-and-finish/",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Gaza_floating_pier",
+    "file_name": "Trident Pier on the Gaza coast - 2024 (8535727).jpg",
+    "desc_cn": "加沙沿岸的“三叉戟”栈桥（2024年）。文件名见于Commons分类页“Gaza floating pier”检索摘要，File页URL未直接出现在检索结果中",
+    "date": "2024",
+    "credit": "美军（DVIDS编号8535727，推定）",
+    "license": "待核",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Gaza_floating_pier",
+    "file_name": "Truck with humanitarian aid drives down ramp to roll-on, roll-off ship, Gaza 240517-N-KL617-1080.jpg",
+    "desc_cn": "2024年5月17日运营首日，载援助物资卡车驶下滚装船坡道（文件名见于分类页摘要，File页URL未直接出现）",
+    "date": "2024-05-17",
+    "credit": "美国海军（推定）",
+    "license": "待核",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Gaza_floating_pier",
+    "file_name": "JLOTS Trident Pier Delivers Humanitarian Aid (8504690).jpg",
+    "desc_cn": "JLOTS“三叉戟”栈桥输送人道援助（文件名见于分类页摘要，扩展名推定，File页URL未直接出现）",
+    "date": "2024-05",
+    "credit": "美军（推定）",
+    "license": "待核",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:US_Navy_080721-N-1424C-317_The_Army_Trident_pier_approaches_Gold_Beach_during_Joint_Logistics_Over-The-Shore_(JLOTS)_2008.jpg",
+    "file_name": "US_Navy_080721-N-1424C-317_The_Army_Trident_pier_approaches_Gold_Beach_during_Joint_Logistics_Over-The-Shore_(JLOTS)_2008.jpg",
+    "desc_cn": "2008年JLOTS演习中陆军“三叉戟”栈桥接近金滩（同型装备参考，非加沙）",
+    "date": "2008-07-21",
+    "credit": "美国海军",
+    "license": "Public Domain（美国政府作品，推定）",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "迫击炮袭扰": "1次（2024-04-25），无伤亡",
+   "运营开始": "2024-05-17",
+   "因海况停运": "2024-05-24",
+   "搁浅船只": "4艘（加沙2、阿什凯隆2）",
+   "造价": "约3.2亿美元（多数报道）；一说2.3亿美元",
+   "行动结束": "2024-07-17（Commons分类页）",
+   "预算削减": "陆军约2300万、海军6900万美元（2014—2024）"
+  }
+ },
+ {
+  "case_key": "fg_msc_aries_seizure_2024_04_13",
+  "category": "远海机动编组",
+  "title_cn": "革命卫队直升机机降扣押以关联货轮白羊座号",
+  "subtitle_cn": "2024年4月13日 霍尔木兹海峡附近 伊朗革命卫队特种部队以直升机机降扣押集装箱船“MSC白羊座”号（MSC Aries）",
+  "date_start": "2024-04-13",
+  "date_end": "",
+  "location_cn": "霍尔木兹海峡附近海域（海上交通线），被扣后驶入伊朗领海（坐标为示意）",
+  "lat": 25.9,
+  "lon": 56.6,
+  "region": "波斯湾-霍尔木兹-阿曼湾",
+  "attacker": "伊朗伊斯兰革命卫队特种部队（直升机机降）",
+  "defender": "集装箱船“MSC白羊座”号（MSC Aries），由地中海航运公司（MSC）管理运营，所有权属与以色列商人埃亚勒·奥费尔（Eyal Ofer）集团有关联的Gortal Shipping；船员25人",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "空中",
+   "水面"
+  ],
+  "patterns": [
+   "单平台",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "直升机（型号、架数未公开）运载特种部队，队员索降到甲板集装箱堆上，控制船舶后驶向伊朗领海。",
+  "defense_means_cn": "无武装护卫，无抵抗记录。",
+  "narrative_cn": "据美国全国广播公司（NBC）、美国国家公共电台（NPR）等报道，2024年4月1日伊朗驻叙利亚使馆遭疑似以色列空袭，此后以色列一直戒备伊朗报复。4月13日，即伊朗对以色列发动“真实承诺”行动当天，伊朗伊斯兰革命卫队在霍尔木兹海峡附近扣押了集装箱船“MSC白羊座”号（MSC Aries）。伊朗伊斯兰共和国通讯社（IRNA）称，革命卫队特种部队从直升机登上该船，并把船引向伊朗领海，没有说明扣押原因。视频显示，特种队员从直升机上索降到甲板的集装箱堆上。\n地中海航运公司（MSC）称船上有25名船员，公司正与有关方面密切合作，确保船员安全和船舶返还。印度政府官员称其中17人是印度籍。IRNA把该船与以色列富商埃亚勒·奥费尔（Eyal Ofer）旗下的佐迪亚克海运（Zodiac Maritime）挂钩；佐迪亚克则称该船由MSC管理运营，所有权属于与奥费尔集团有关联的Gortal Shipping。爱尔兰《星期日独立报》4月14日以“伊朗伞兵扣押船只和25名船员”为题报道。伊朗外交部发言人后来称，该船没有回应伊朗当局的呼叫，驶入了伊朗领海，因“违反海事法规”被扣。此后有报道称伊朗释放了船员，但船舶仍处于司法扣押状态；船员获释的具体日期本轮没有核实。",
+  "defense_effect_cn": "商船在冲突升级期间沿常规航线通过霍尔木兹海峡，没有护航，也没有防范直升机机降的手段，很快就被控制。暴露的问题：一是商船常见的防登临措施多针对小艇从舷侧攀爬，直升机机降可以绕开，甲板集装箱堆反而成了索降平台；二是船舶所有权链与以色列有关，在伊以冲突升级时成为报复对象，风险评估需要追溯实际受益人；三是被扣船员的去留取决于外交谈判，船东和船旗国几乎没有直接手段。",
+  "claims_compare_cn": "伊朗：IRNA称革命卫队特种部队以直升机登船，起初未给理由；外交部发言人后来称该船未回应呼叫、驶入伊朗领海、违反海事法规。船方：MSC称船上25名船员，正寻求安全返还。归属：IRNA称属佐迪亚克海运（奥费尔集团）；佐迪亚克称由MSC运营、所有权属Gortal Shipping。多家媒体把扣押解读为对使馆遇袭的报复，伊朗官方没有这样表述。",
+  "losses_cn": "船舶被扣；25名船员（17名印度籍）被扣押，后获释（日期待核）；船舶仍被司法扣押（报道称）。无人员伤亡报道。",
+  "analysis_cn": "以直升机机降扣押商船，是伊朗革命卫队多年来使用的手段。这次在伊以直接冲突前夕实施，信号意味明显。对海上交通线防护而言：一是冲突升级期，与冲突一方有所有权关联的商船风险骤升；二是空中机降几分钟内就能完成控制，护航若覆盖不了空中接近方向，单纯的水面护航很难阻止；三是伊方事后以“违反海事法规”“司法扣押”包装，把扣押纳入法律程序，延长了扣押时间，也增加了谈判筹码。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "NBC News（美国全国广播公司新闻）",
+    "title": "iran special forces seize ship israel strait hormuz irgc（检索结果仅显示URL短语）",
+    "title_cn": "伊朗特种部队在霍尔木兹海峡附近扣押以色列关联船只",
+    "author": "NBC News",
+    "date": "2024-04-13（据报道内容推定）",
+    "url": "https://www.nbcnews.com/news/world/iran-special-forces-seize-ship-israel-strait-hormuz-irgc-red-sea-rcna147689",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "MPR News（转载NPR）",
+    "title": "Iranian commandos seize an Israeli-linked container ship near Strait of Hormuz",
+    "title_cn": "伊朗突击队在霍尔木兹海峡附近扣押以色列关联集装箱船",
+    "author": "NPR",
+    "date": "2024-04-13",
+    "url": "https://www.mprnews.org/story/2024/04/13/npr-iran-seizes-container-ship-strait-of-hormuz-israel",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Gulf News（海湾新闻）",
+    "title": "Iran seizes Israel-linked container ship near Hormuz Strait",
+    "title_cn": "伊朗在霍尔木兹海峡附近扣押以色列关联集装箱船",
+    "author": "Gulf News",
+    "date": "2024-04-13（据报道内容推定）",
+    "url": "https://gulfnews.com/world/mena/iran-seizes-israel-linked-container-ship-near-hormuz-strait-1.1713012222217",
+    "type": "其他"
+   },
+   {
+    "publisher": "Sunday Independent（爱尔兰星期日独立报，经PressReader）",
+    "title": "Iranian paratroopers seize ship and 25 crew",
+    "title_cn": "伊朗伞兵扣押船只和25名船员",
+    "author": "Sunday Independent",
+    "date": "2024-04-14",
+    "url": "https://www.pressreader.com/ireland/sunday-independent-ireland/20240414/281775634196841",
+    "type": "其他"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "Iran Claims MSC Aries Ship Was Seized For Violating Maritime Laws",
+    "title_cn": "伊朗称“MSC白羊座”号因违反海事法规被扣",
+    "author": "Marine Insight",
+    "date": "待核（2024年4月）",
+    "url": "https://www.marineinsight.com/iran-claims-msc-aries-ship-was-seized-for-violating-maritime-laws/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "World Cargo News（世界货运新闻）",
+    "title": "MSC Aries crew released, says Iran",
+    "title_cn": "伊朗称已释放“MSC白羊座”号船员",
+    "author": "World Cargo News",
+    "date": "待核",
+    "url": "https://www.worldcargonews.com/?p=38561",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Jewish Press（犹太新闻报）",
+    "title": "Iranian commandos capture Israeli-owned vessel",
+    "title_cn": "伊朗突击队夺取以色列所属船只",
+    "author": "The Jewish Press",
+    "date": "2024-04-13",
+    "url": "https://www.jewishpress.com/headline/iranian-commandos-capture-israeli-owned-vessel/2024/04/13/",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "船员": "25人（17名印度籍）",
+   "扣押方式": "直升机机降、索降至集装箱堆",
+   "扣押日期": "2024-04-13（与“真实承诺”行动同日）"
+  }
+ },
+ {
+  "case_key": "fg_hormuz_tanker_seizures_2023_2025",
+  "category": "远海机动编组",
+  "title_cn": "伊朗以司法扣押为名连续扣押过往油轮",
+  "subtitle_cn": "2023年4月—2025年11月 阿曼湾及霍尔木兹海峡 伊朗海军与革命卫队先后扣押“优势甜蜜”号、“尼奥维”号、“圣尼古拉斯”号、“塔拉拉”号油轮（综合案例）",
+  "date_start": "2023-04-27",
+  "date_end": "2025-11-19",
+  "location_cn": "阿曼湾、霍尔木兹海峡（海上交通线；“塔拉拉”号在阿联酋豪尔费坎 Khor Fakkan 外约20海里处失联；坐标为示意）",
+  "lat": 25.4,
+  "lon": 56.7,
+  "region": "波斯湾-霍尔木兹-阿曼湾",
+  "attacker": "伊朗伊斯兰共和国海军（“优势甜蜜”号、“圣尼古拉斯”号）；伊斯兰革命卫队海军（“尼奥维”号、“塔拉拉”号）",
+  "defender": "各油轮及其船东、船员；美国第五舰队、中央司令部（监视、通报、谴责，未实施干预）",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "单平台",
+   "集群"
+  ],
+  "attack_means_cn": "武装登临：小艇编队（“塔拉拉”号案3艘小艇，安布雷称）、直升机机降（“塔拉拉”号案，美中央司令部称）、身着制服头戴面罩的武装人员登船（“圣尼古拉斯”号案4—5人）；事后以“法院命令”“撞船”“燃油走私”等为由。",
+  "defense_means_cn": "各船均无武装护卫，无抵抗记录。船舶失联后由英国海上贸易行动办公室（UKMTO）、安布雷（Ambrey）等发布通报。",
+  "narrative_cn": "2023年4月27日，伊朗海军在阿曼湾扣押马绍尔群岛籍油轮“优势甜蜜”号（Advantage Sweet）。船上有23名印度籍和1名俄罗斯籍船员，装载为美国雪佛龙公司运输的科威特原油。德黑兰称该船撞上了另一艘船，但船舶跟踪数据没有显示异常航迹。海事安全公司安布雷认为，这是对美国此前依法院命令扣押“苏伊士拉詹”号（Suez Rajan）所载伊朗石油的报复。六天后的5月3日6时20分，据美国第五舰队通报，巴拿马籍油轮“尼奥维”号（Niovi）在通过霍尔木兹海峡时被伊斯兰革命卫队海军扣押；德黑兰检察官称，扣押依据的是原告投诉后下达的司法命令。两船都被押往阿巴斯港，阿拉伯卫星台和伊朗国际电视台5月7日发布了两船停在阿巴斯港外的卫星图像。\n2024年1月11日，伊朗国家媒体报道伊朗海军在伊朗与阿曼之间的水域扣押了一艘油轮，希腊管理公司帝国航运（Empire Navigation）确认是马绍尔群岛籍“圣尼古拉斯”号（St Nikolas）。该船在伊拉克巴士拉装载14.5万吨原油，经苏伊士运河驶往土耳其西部，船员19人（18名菲律宾籍、1名希腊籍）。英国海上贸易行动办公室称，4至5名身着制服、头戴黑色面罩的武装人员登船，安布雷称他们遮挡了监控摄像头。伊朗海军称持司法命令扣船，理由是美国“去年盗窃伊朗石油”——该船正是2023年以“苏伊士拉詹”号之名被美国扣押货物的那艘船。白宫国家安全发言人约翰·柯比说：“他们必须放船。”\n2025年11月14日，马绍尔群岛籍油轮“塔拉拉”号（Talara）从阿联酋阿治曼驶往新加坡，在豪尔费坎外约20海里处与管理公司失联。安布雷称扣押由3艘小艇实施，美国中央司令部称革命卫队乘直升机登船，随后把船驶入伊朗领海。革命卫队11月15日确认扣船，称依据法院命令，货物“未经授权”。中央司令部称，在国际水域武装登临、扣押商船“公然违反国际法”。11月19日4时42分，管理公司哥伦比亚船舶管理（Columbia Shipmanagement）称船舶获释，21名船员均安全；船舶跟踪数据显示所载高硫柴油已被卸走，船以空载状态离开。",
+  "defense_effect_cn": "四起扣押中，商船都没有武装护卫，从被登临到被驶离航线时间很短，美国第五舰队和中央司令部只能事后通报和谴责。暴露的问题：一是扣押多与美伊之间围绕石油制裁的“对等报复”相关（“苏伊士拉詹”号—“优势甜蜜”号—“圣尼古拉斯”号），商船成了国家间博弈的筹码；二是伊方以“法院命令”“撞船”“走私”包装扣押，法律外衣使国际反应局限于外交层面；三是阿曼湾、霍尔木兹海峡航道贴近伊朗海岸，伊方小艇和直升机反应时间短，护航兵力难以全程覆盖。",
+  "claims_compare_cn": "“优势甜蜜”号：伊方称撞船；跟踪数据无异常；安布雷认为是报复美方扣押“苏伊士拉詹”号货物。“尼奥维”号：伊方称司法命令；分析人士认为两案动机可能不同。“圣尼古拉斯”号：扣押地点有“阿曼湾”与“霍尔木兹海峡”两说，登船人数有4—5人与6人两说；伊方称报复美方“盗窃石油”，白宫要求放船。“塔拉拉”号：货物有“高硫柴油”与“3万吨石化产品”（伊朗官方媒体）两说；释放日期有11月18日与19日两说；船员多数报道称21人，一说23人；伊方称打击燃油走私，船方称船舶、船员和船东未受任何指控。",
+  "losses_cn": "无人员伤亡报道。“优势甜蜜”号（24名船员）、“尼奥维”号、“圣尼古拉斯”号（19名船员、14.5万吨原油）被押往伊朗（后续释放情况本轮未逐一核实）；“塔拉拉”号被扣5天，货物被卸走后获释。",
+  "analysis_cn": "这些扣押构成伊朗在霍尔木兹—阿曼湾方向长期使用的灰色地带手段：不开火、不击沉，以武装登临加司法程序扣船、扣货，对象是与美国制裁执法或以色列利益有关联的船舶。手段上从小艇登临发展到小艇与直升机配合；2025年“塔拉拉”号案中卸货后放船，使扣押更接近没收货物。这些案例是2026年战争中伊朗封锁海峡、美方反封锁的前史：海峡交通线上的对抗，在全面冲突之前已以低烈度方式长期存在。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Al Arabiya（阿拉伯卫星台）",
+    "title": "Satellite images show two oil tankers seized by Iran off Bandar Abbas",
+    "title_cn": "卫星图像显示伊朗扣押的两艘油轮停在阿巴斯港外",
+    "author": "Al Arabiya",
+    "date": "2023-05-07",
+    "url": "https://english.alarabiya.net/News/middle-east/2023/05/07/Satellite-images-show-two-oil-tankers-seized-by-Iran-off-Bandar-Abbas",
+    "type": "其他"
+   },
+   {
+    "publisher": "Iran International（伊朗国际）",
+    "title": "Satellite Images Show Tankers Seized By Iran",
+    "title_cn": "卫星图像显示被伊朗扣押的油轮",
+    "author": "Iran International",
+    "date": "2023-05-07（据URL编号推定）",
+    "url": "https://iranintl.com/en/202305076997",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Maritime Executive（海事执行官）",
+    "title": "Video: Iran Says It “Impounded” Second Crude Oil Tanker Today",
+    "title_cn": "视频：伊朗称今日“扣押”第二艘原油轮",
+    "author": "The Maritime Executive",
+    "date": "2023-05-03（据报道内容推定）",
+    "url": "https://maritime-executive.com/article/video-iran-confirms-it-impounded-second-crude-oil-tanker-today",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "S&P Global Commodity Insights（标普全球）",
+    "title": "Iran seizes second oil tanker in a week amid escalating shipping spat",
+    "title_cn": "航运争端升级，伊朗一周内扣押第二艘油轮",
+    "author": "S&P Global",
+    "date": "2023-05-03（据URL推定）",
+    "url": "https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/050323-iran-seizes-second-oil-tanker-in-a-week-amid-escalating-shipping-spat",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The National（国民报）",
+    "title": "Iran's IRGC navy pursuing the Niovi before seizing the ship on May 3（检索结果为配图说明）",
+    "title_cn": "革命卫队海军5月3日扣押前追赶“尼奥维”号（配图说明，法新社图）",
+    "author": "The National / AFP",
+    "date": "2023-06-05",
+    "url": "https://www.thenationalnews.com/world/uk-news/2023/06/05/iran-seized-tanker/",
+    "type": "其他"
+   },
+   {
+    "publisher": "ABC7（美联社稿）",
+    "title": "Iranian navy seizes oil tanker in Gulf of Oman",
+    "title_cn": "伊朗海军在阿曼湾扣押油轮",
+    "author": "Associated Press",
+    "date": "2024-01-11（据报道内容推定）",
+    "url": "https://abc7news.com/iranian-navy-seizes-oil-tanker-in-gulf-of-oman/14310012/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "To Vima（希腊《论坛报》）",
+    "title": "Iran Seizes Greek-Owned Tanker St. Nikolas, Iranian State Agency (IRNA) Reports",
+    "title_cn": "伊朗官方通讯社称伊朗扣押希腊船东油轮“圣尼古拉斯”号",
+    "author": "To Vima",
+    "date": "2024-01-11（据报道内容推定）",
+    "url": "https://tovima.com/politics/iran-seizes-greek-owned-tanker-st-nikolas-iranian-state-agency-irna-reports/amp",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Business Standard（孟加拉《商业标准报》）",
+    "title": "Iran seizes oil tanker involved in US-Iran dispute in Gulf of Oman",
+    "title_cn": "伊朗在阿曼湾扣押卷入美伊争端的油轮",
+    "author": "The Business Standard（路透社稿，推定）",
+    "date": "待核（2024年1月）",
+    "url": "https://www.tbsnews.net/node/775654",
+    "type": "其他"
+   },
+   {
+    "publisher": "USNI News（美国海军学会新闻）",
+    "title": "Iran Strait of Hormuz Tanker Seizure Violates International Law, CENTCOM Says",
+    "title_cn": "美中央司令部称伊朗在霍尔木兹海峡扣押油轮违反国际法",
+    "author": "USNI News",
+    "date": "2025-11-17",
+    "url": "https://news.usni.org/2025/11/17/iran-strait-of-hormuz-tanker-seizure-violates-international-law-centcom-says",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "CBS News（哥伦比亚广播公司新闻）",
+    "title": "Iran confirms seizure of oil tanker in the Strait of Hormuz",
+    "title_cn": "伊朗确认在霍尔木兹海峡扣押油轮",
+    "author": "CBS News",
+    "date": "2025-11-15（据报道内容推定）",
+    "url": "https://www.cbsnews.com/amp/news/iran-confirms-tanker-seizure-strait-of-hormuz-talara",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Baird Maritime（贝尔德海事）",
+    "title": "Iran releases tanker Talara, all 21 crew safe",
+    "title_cn": "伊朗释放“塔拉拉”号油轮，21名船员均安全",
+    "author": "Baird Maritime",
+    "date": "待核（2025年11月）",
+    "url": "https://www.bairdmaritime.com/security/incidents/iran-releases-tanker-talara-all-21-crew-safe",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "PBS NewsHour（美国公共电视新闻时间）",
+    "title": "Iran releases tanker and crew it seized last week",
+    "title_cn": "伊朗释放上周扣押的油轮和船员",
+    "author": "Associated Press",
+    "date": "待核（2025年11月）",
+    "url": "https://www.pbs.org/newshour/amp/world/iran-releases-tanker-and-crew-it-seized-last-week",
+    "type": "通讯社"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://english.alarabiya.net/News/middle-east/2023/05/07/Satellite-images-show-two-oil-tankers-seized-by-Iran-off-Bandar-Abbas",
+    "file_name": "",
+    "desc_cn": "“优势甜蜜”号与“尼奥维”号被扣后停泊在阿巴斯港外的卫星图像出处（报道页；卫星图提供方本轮未核实）",
+    "date": "2023-05-07",
+    "credit": "阿拉伯卫星台报道所引商业卫星图",
+    "license": "商业卫星图，版权保留",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "本案收录扣押船舶": "4艘",
+   "“优势甜蜜”号": "2023-04-27，阿曼湾，24名船员",
+   "“尼奥维”号": "2023-05-03 06:20，霍尔木兹海峡",
+   "“圣尼古拉斯”号": "2024-01-11，19名船员、14.5万吨原油",
+   "“塔拉拉”号": "2025-11-14扣押、11-19获释，21名船员"
+  }
+ },
+ {
+  "case_key": "pg_zikim_hamas_naval_raid_2023_10_07",
+  "category": "周边港口",
+  "title_cn": "海军截杀约半数，哈马斯快艇仍登陆齐基姆",
+  "subtitle_cn": "2023年10月7日 以色列南部齐基姆海滩 哈马斯海上突击队乘7艘快艇渗透，以色列海军第916巡逻中队拦截",
+  "date_start": "2023-10-07",
+  "date_end": "2023-10-08",
+  "location_cn": "以色列南部齐基姆海滩（Zikim Beach），加沙地带以北海岸（海岸防御，非港口；拦截兵力出自阿什杜德海军基地）",
+  "lat": 31.61,
+  "lon": 34.51,
+  "region": "东地中海",
+  "attacker": "哈马斯海上突击队：7艘快艇（含橡皮艇），38名武装人员",
+  "defender": "以色列海军第916巡逻中队（阿什杜德海军基地，“德沃拉”级巡逻艇）；岸上为戈兰尼旅第51营",
+  "outcome": "部分拦截",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群",
+   "异构",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "快艇7艘（含2艘橡皮艇，一说），载38人，航速约30节（约55公里/小时）；与6时29分开始的逾1000枚火箭弹齐射同步发起。",
+  "defense_means_cn": "第916巡逻中队“德沃拉”级（Dvora）巡逻艇海上拦截；戈兰尼旅第51营岸上防御。",
+  "narrative_cn": "2023年10月7日6时29分，哈马斯从加沙地带向以色列发射逾1000枚火箭弹，同时出动7艘快艇，载38名武装人员从海上向北渗透。据以色列媒体报道的海军调查，各艇航速约30节（约55公里/小时）。6时36分，第一艘快艇越过加沙与以色列之间的海上边界，3分钟内被海军第916巡逻中队的一艘“德沃拉”级（Dvora）巡逻艇摧毁。\n关于拦截数量，各方说法不一。《耶路撒冷邮报》称，海军当即摧毁3艘，另外4艘冲上了齐基姆海滩；军事维基（Military Wiki）称，从阿什杜德海军基地出动的第916巡逻中队在抵岸前摧毁了4艘（含2艘橡皮艇）。以色列新消息网（Ynet）援引以军内部调查称，海军击毙了从海上渗透人员中的约一半，但没能全部拦住，16人登上齐基姆海滩，杀害了17人。\n《以色列时报》报道，以军调查认定，戈兰尼旅第51营在海滩上没有与乘快艇登陆的武装人员有效交战，随后撤离；7名遇害平民的遗体在海滨避难所内被遗留了一周。《耶路撒冷邮报》还报道，海军军官指称，有关哈马斯计划对齐基姆海滩发动海上突击的关键情报没有转给海军。据军事维基，10月8日上午，第916巡逻中队又在齐基姆海滩击毙5名武装人员；搜剿海上突击队员时，以军1人死亡、2人受伤。",
+  "defense_effect_cn": "海军发现目标后数分钟内摧毁首艇，总体截击了约一半渗透兵力，说明巡逻艇在近岸水域对高速小艇有反应能力。但整体防御失败：一是海上边界离登陆点很近，30节快艇十几分钟即可抵岸，巡逻艇数量不足以同时应对7艘分散来袭的快艇；二是海上突击与千余枚火箭弹同步，兵力和注意力被分散；三是岸上兵力没能接住海军漏掉的一半，登陆者在海滩一带造成17名平民死亡；四是预警情报没有传到海军，海军军官称关键情报被扣留。",
+  "claims_compare_cn": "拦截数量：《耶路撒冷邮报》称摧毁3艘、4艘登陆；军事维基称抵岸前摧毁4艘；Ynet援引以军调查称击毙约一半渗透人员、16人登陆。遇难平民：Ynet称17人。岸上表现：以军调查认定第51营撤离海滩。情报：海军军官称情报被扣留。哈马斯方面对海上突击的公开说法，本轮未检索。军事维基和维基百科属二手汇编，数字仅作参考。",
+  "losses_cn": "以方：齐基姆一带17名平民遇害（Ynet）；10月8日搜剿中以军1死2伤（军事维基）。哈马斯：约一半海上渗透人员被海军击毙，10月8日又有5人被击毙；快艇3—4艘在海上被毁（各方口径）。",
+  "analysis_cn": "本案是“小艇集群加火箭弹齐射”的混合突袭，目标不是港口，而是港口之间的开放海岸。以色列海军的海上拦截有效，但整个海岸防御在海陆衔接处断开：海军截住一半，岸上兵力没能处置另一半。对岛屿和海岸防御而言，近岸反小艇需要足够的巡逻密度、与岸上部队的统一指挥，以及情报及时下达到一线海上兵力；只靠海上拦截，面对多艇分散突入，很难做到零漏网。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Ynetnews（以色列新消息网）",
+    "title": "Israeli Navy foiled Hamas infiltration by sea on Oct. 7, but deadly breach cost 17 lives",
+    "title_cn": "以色列海军10月7日挫败哈马斯海上渗透，但防线缺口致17人死亡",
+    "author": "Ynetnews",
+    "date": "待核（以军调查公布后）",
+    "url": "https://ynetnews.com/article/rkvjewr9ye",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Times of Israel（以色列时报）",
+    "title": "IDF's probes into Oct. 7: 7 murdered civilians left in seaside shelter for a week",
+    "title_cn": "以军10·7调查：7名遇害平民遗体在海滨避难所内被遗留一周",
+    "author": "The Times of Israel",
+    "date": "待核",
+    "url": "https://www.timesofisrael.com/in-massive-failure-troops-abandoned-civilians-at-zikim-beach-on-oct-7-idf-probe-finds/amp/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Jerusalem Post（耶路撒冷邮报）",
+    "title": "article-837155（检索结果未显示标题）",
+    "title_cn": "海军摧毁3艘、4艘登陆；海军军官称情报被扣留",
+    "author": "The Jerusalem Post",
+    "date": "待核",
+    "url": "https://jpost.com/israel-news/article-837155",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Jerusalem Post（耶路撒冷邮报）",
+    "title": "article-772158（检索结果未显示标题）",
+    "title_cn": "齐基姆海上渗透相关报道",
+    "author": "The Jerusalem Post",
+    "date": "待核",
+    "url": "https://stgmobile.jpost.com/arab-israeli-conflict/gaza-news/article-772158",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Military Wiki（Fandom）",
+    "title": "Battle of Zikim",
+    "title_cn": "齐基姆之战",
+    "author": "Military Wiki 编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://military-history.fandom.com/wiki/Battle_of_Zikim",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "Zikim attack",
+    "title_cn": "齐基姆袭击",
+    "author": "维基百科编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://en.wikipedia.org/wiki/Zikim_attack",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "来袭快艇": "7艘",
+   "渗透人员": "38人",
+   "快艇航速": "约30节",
+   "首艇被毁": "越界后3分钟内",
+   "登陆人员": "16人（以军调查，Ynet）",
+   "遇害平民": "17人",
+   "同步火箭弹": "逾1000枚"
+  }
+ },
+ {
+  "case_key": "is_bubiyan_irgc_infiltration_2026_05_01",
+  "category": "岛屿防卫",
+  "title_cn": "革命卫队人员乘渔船渗透布比延岛，4人被捕",
+  "subtitle_cn": "2026年5月1日 科威特布比延岛 6名武装人员乘渔船接近登岛，与科威特安全部队交火",
+  "date_start": "2026-05-01",
+  "date_end": "2026-05-12",
+  "location_cn": "科威特布比延岛（Bubiyan Island），海湾第二大岛，岛上有穆巴拉克·卡比尔港（Mubarak Al Kabeer Port）",
+  "lat": 29.78,
+  "lon": 48.25,
+  "region": "波斯湾-霍尔木兹-阿曼湾",
+  "attacker": "伊朗伊斯兰革命卫队（科威特方面指控）：6名武装人员，据称含2名海军上校（naval captain）、1名海军上尉、1名陆军中尉",
+  "defender": "科威特内政部安全部队；岛上驻有一支美国海军陆战队分队",
+  "outcome": "防御成功",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "单平台",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "渔船1艘，武装人员6名。",
+  "defense_means_cn": "科威特安全部队在岸上交火并实施抓捕。",
+  "narrative_cn": "科威特内政部称，2026年5月1日，6名武装人员受伊朗伊斯兰革命卫队指派，乘一艘渔船接近科威特布比延岛。当时美伊停火已实施约一个月，美方对伊朗的海上封锁仍在继续。这些人与科威特安全部队交火，2人逃脱，4人被捕；另有报道称1名科威特安全人员受伤、2名嫌疑人逃脱。科方称，被捕者供认与革命卫队有关联，其中包括2名海军上校、1名海军上尉和1名陆军中尉。\n科威特没有立即公开指控伊朗。5月12日，科威特内阁“强烈谴责”革命卫队人员渗透布比延岛、对科威特实施敌对行为，要求伊朗立即无条件停止非法敌对行动。同日，卡塔尔外交部称此事公然侵犯科威特主权，是威胁地区安全稳定的危险升级；阿拉伯国家联盟也发表谴责。伊朗官方没有回应指控；报道指出，此事公开时美国总统特朗普正准备赴北京会谈。\n布比延岛是海湾第二大岛，岛上有科威特多处敏感军事和工业设施，包括与中国“一带一路”倡议相关的穆巴拉克·卡比尔港，岛上还驻有一支美国海军陆战队分队。《海湾新闻》称科威特挫败了革命卫队针对这座港口的图谋；《卡塔尔论坛报》援引科方称，革命卫队早前已把该岛列为目标。",
+  "defense_effect_cn": "科威特安全部队在对方接近登岛时交火并抓获4人，阻止了可能的破坏行动，但有2人逃脱，1名安全人员受伤（一说）。暴露的问题：一是布比延岛靠近伊拉克和伊朗水域，渔船可以混在正常渔业活动中接近海岸，海上预警没能在登岛前拦住；二是岛上同时有港口、军事设施和美军分队，目标价值高；三是事件发生在停火期间，说明停火并不能让海湾国家的岛屿和港口免受低烈度渗透。",
+  "claims_compare_cn": "科威特内政部：6人乘渔船于5月1日接近，2人逃脱、4人被捕，被捕者承认与革命卫队有关。另一说：1名安全人员受伤、2人逃脱。科威特内阁、卡塔尔、阿盟（5月12日）均谴责革命卫队渗透。伊朗：没有正式回应。行动目的：《海湾新闻》称针对与中国相关的港口，属媒体报道；科方官方表述为“敌对行为”。",
+  "losses_cn": "科方：1名安全人员受伤（一说）。渗透方：4人被捕，2人逃脱。设施：未见受损报告。",
+  "analysis_cn": "本案是2026年战争中少见的人员渗透袭岛样本：不用导弹或无人机，而是以渔船掩护、小队登岛，目的可能是侦察、破坏或制造政治压力。岛屿防卫的难点在于识别和拦截海上小型民用船只；本案中防守方是在岸上交火处置的，海上拦截环节缺失。对同时承载港口与外国驻军的岛屿，需要把渔船、小艇纳入日常海上监视，并与驻岛外军协调响应。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "QNA（卡塔尔通讯社）",
+    "title": "Kuwait's Cabinet Condemns Infiltration by IRGC Members into Bubiyan Island",
+    "title_cn": "科威特内阁谴责革命卫队人员渗透布比延岛",
+    "author": "QNA",
+    "date": "2026-05-12",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-5/12/kuwaits-cabinet-condemns-infiltration-by-irgc-members-into-bubiyan-island",
+    "type": "官方"
+   },
+   {
+    "publisher": "Qatar Ministry of Foreign Affairs（卡塔尔外交部）",
+    "title": "Qatar Condemns Armed IRGC Infiltration into Bubiyan Island to Carry Out Hostile Acts Against Kuwait",
+    "title_cn": "卡塔尔谴责革命卫队武装渗透布比延岛对科威特实施敌对行为",
+    "author": "卡塔尔外交部",
+    "date": "2026-05-12（据QNA同题报道）",
+    "url": "https://mofa.gov.qa/en/latest-articles/statements/qatar-condemns-armed-irgc-infiltration-into-bubiyan-island-to-carry-out-hostile-acts-against-kuwait",
+    "type": "官方"
+   },
+   {
+    "publisher": "QNA（卡塔尔通讯社）",
+    "title": "Qatar Condemns Armed IRGC Infiltration into Bubiyan Island to Carry Out Hostile Acts Against Kuwait",
+    "title_cn": "卡塔尔谴责革命卫队武装渗透布比延岛",
+    "author": "QNA",
+    "date": "2026-05-12",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-5/12/qatar-condemns-armed-irgc-infiltration-into-bubiyan-island-to-carry-out-hostile-acts-against-kuwait",
+    "type": "官方"
+   },
+   {
+    "publisher": "The National（国民报）",
+    "title": "why did kuwaits bubiyan island interest irgc infiltrators（检索结果仅显示URL短语与配图说明）",
+    "title_cn": "布比延岛为何引起革命卫队渗透者的兴趣",
+    "author": "The National",
+    "date": "2026-05-12",
+    "url": "https://www.thenationalnews.com/news/gulf/2026/05/12/why-did-kuwaits-bubiyan-island-interest-irgc-infiltrators/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Gulf News（海湾新闻）",
+    "title": "Inside Iran Guards plot targeting Kuwait's Bubiyan Island hosting China-backed port",
+    "title_cn": "揭秘革命卫队针对科威特布比延岛中资港口的图谋",
+    "author": "Gulf News",
+    "date": "待核（2026年5月）",
+    "url": "https://gulfnews.com/amp/story/world%2Fmena%2Fkuwait-foils-iran-guards-plot-targeting-china-backed-port-1.500537970",
+    "type": "其他"
+   },
+   {
+    "publisher": "Qatar Tribune（卡塔尔论坛报）",
+    "title": "IRGC targeted island earlier, says Kuwait",
+    "title_cn": "科威特称革命卫队早前已将该岛列为目标",
+    "author": "Qatar Tribune",
+    "date": "待核（2026年5月）",
+    "url": "https://www.qatar-tribune.com/article/233925/world/irgc-targeted-island-earlier-says-kuwait",
+    "type": "其他"
+   },
+   {
+    "publisher": "Libnanews",
+    "title": "Arab League Condemns IRGC Infiltration into Kuwait's Bubiyan",
+    "title_cn": "阿盟谴责革命卫队渗透科威特布比延岛",
+    "author": "Libnanews（援引QNA）",
+    "date": "待核（2026-05-12前后）",
+    "url": "https://live.libnanews.com/event/ev-1778605424725-7ff4",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "2026 Bubiyan Island raid",
+    "title_cn": "2026年布比延岛袭击（第一轮检索所见条目名）",
+    "author": "维基百科编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://en.wikipedia.org/wiki/2026_Bubiyan_Island_raid",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:ISS-64_Kuwait,_Persian_Gulf_northern_coast.jpg",
+    "file_name": "ISS-64_Kuwait,_Persian_Gulf_northern_coast.jpg",
+    "desc_cn": "国际空间站第64批乘员拍摄的科威特与海湾北岸，图注标出布比延岛（拍摄日期待核，约2020—2021年）",
+    "date": "待核",
+    "credit": "NASA",
+    "license": "Public Domain（NASA）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kuwait-Islands.png",
+    "file_name": "Kuwait-Islands.png",
+    "desc_cn": "科威特岛屿分布示意图（含布比延岛、沃尔拜岛等）",
+    "date": "待核",
+    "credit": "待核",
+    "license": "待核",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Satellite_pictures_of_Kuwait",
+    "file_name": "Satellite photo of Warbah and Bubiyan Islands.jpg",
+    "desc_cn": "沃尔拜岛与布比延岛卫星照片（文件名见于分类页检索摘要，File页URL未直接出现）",
+    "date": "待核",
+    "credit": "待核",
+    "license": "待核",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "登岛人员": "6人",
+   "被捕": "4人",
+   "逃脱": "2人",
+   "科方伤亡": "1人受伤（一说）",
+   "公开指控间隔": "11天（5月1日—5月12日）"
+  }
+ },
+ {
+  "case_key": "pg_gulf_energy_ports_2026_03",
+  "category": "周边港口",
+  "title_cn": "能源互袭：拉斯拉凡LNG港重创，海湾多港起火",
+  "subtitle_cn": "2026年3月2—19日 卡塔尔拉斯拉凡、沙特拉斯坦努拉、阿联酋富查伊拉、伊朗阿萨卢耶 南帕尔斯遇袭与海湾能源港遭伊朗报复打击",
+  "date_start": "2026-03-02",
+  "date_end": "2026-03-19",
+  "location_cn": "卡塔尔拉斯拉凡工业城（Ras Laffan Industrial City）；伊朗布什尔省阿萨卢耶（Asaluyeh）南帕尔斯经济能源特区；沙特拉斯坦努拉（Ras Tanura）炼厂；阿联酋富查伊拉石油工业区（Fujairah Oil Industry Zone）（坐标取拉斯拉凡）",
+  "lat": 25.91,
+  "lon": 51.55,
+  "region": "波斯湾-霍尔木兹-阿曼湾",
+  "attacker": "伊朗（打击拉斯拉凡、拉斯坦努拉、富查伊拉等）；以色列空军（打击南帕尔斯陆上设施，维基百科称美方协调批准，特朗普否认事先知情）",
+  "defender": "卡塔尔、沙特、阿联酋防空体系及能源企业；伊朗",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "异构"
+  ],
+  "attack_means_cn": "伊朗：弹道导弹（拉斯拉凡5枚，1枚命中、4枚被拦截，卡方口径）；无人机（拉斯坦努拉2架被拦截后残骸落入厂区，路透社称；富查伊拉多次无人机袭击）。以色列：空袭南帕尔斯陆上处理设施和阿萨卢耶炼厂（弹药未公开）。",
+  "defense_means_cn": "卡塔尔防空拦截4枚导弹；沙特拦截2架无人机；阿联酋拦截导弹，残骸导致哈卜善（Habshan）气厂、巴布（Bab）油田起火。各国均启动应急灭火。",
+  "narrative_cn": "美以对伊朗开战后，海湾能源设施很快成为相互打击的目标。3月2日，沙特阿美拉斯坦努拉炼厂遭无人机袭击，厂区发生有限火情，很快被扑灭，据行业消息源称炼厂一度关闭。3月4日，沙特能源部称该炼厂遭“未遂无人机袭击”，无损失、供应未受影响；路透社（经AGBI）则报道，3月2日（周一）有2架无人机被拦截，残骸落入厂区造成损坏。阿联酋富查伊拉石油工业区先后因伊朗无人机袭击和拦截残骸坠落起火，3月16日又发生一场大火，均无人受伤。\n3月18日，以色列空袭伊朗南帕尔斯气田在阿萨卢耶的陆上处理设施和阿萨卢耶炼厂，引发大火。维基百科称美方协调并批准了这次打击；特朗普则称打击由以色列实施，美国和卡塔尔都没有参与，并表示除非伊朗攻击卡塔尔，以色列不会再打南帕尔斯。伊朗国家电视台称美以共同实施了打击。南帕尔斯与卡塔尔北方气田（North Dome）同属一个气藏，卡塔尔称这是“危险且不负责任”的一步。维基百科称打击影响了伊朗12%的天然气产量，另有报道称影响了近70%的国内供气，两者差距很大。布伦特原油价格当天上涨约6%。\n伊朗随即报复。3月18日夜至19日凌晨，伊朗导弹袭击卡塔尔拉斯拉凡工业城，卡方称其中1枚命中、4枚被拦截。卡塔尔能源公司（QatarEnergy）称，“珍珠”天然气制油（GTL）厂严重受损，多处液化天然气设施起火；首席执行官称，卡塔尔14条LNG生产线中有2条、2座天然气制油厂中有1座受损，每年影响1280万吨LNG产量，持续3至5年，每年收入损失约200亿美元。卡塔尔能源公司宣布不可抗力，称无人员伤亡。同期，阿联酋称拦截导弹的残骸导致哈卜善气厂和巴布油田起火，相关气厂关闭。",
+  "defense_effect_cn": "海湾国家对伊朗导弹和无人机的拦截率不低（拉斯拉凡5枚拦截4枚，拉斯坦努拉2架无人机都被拦截），但1枚漏网导弹就让全球最大的LNG出口基地损失约七分之一的生产线（14条中2条），修复期以年计。暴露的问题：一是能源港设施密集、易燃，一次命中造成的连锁损失远超一般军事目标；二是拦截残骸本身会引发火灾（拉斯坦努拉、富查伊拉、哈卜善），在设施上空拦截需要权衡；三是以方打击南帕尔斯直接招致伊朗对第三国（卡塔尔）设施的报复，冲突外溢到未参战的海湾国家。",
+  "claims_compare_cn": "南帕尔斯：维基百科称以色列空军实施、美方协调批准；特朗普称以色列单独实施、美卡未参与；伊朗称美以共同实施；以色列未公开认领。产量影响：12%（维基百科）与近70%国内供气（另一报道）两说。拉斯拉凡：卡方称1中4拦，损失数字来自卡塔尔能源公司。拉斯坦努拉：行业消息称被无人机击中、炼厂关闭；沙特能源部称“未遂袭击”、无损失；路透社称拦截残骸造成损坏——三种说法的严重程度依次不同。",
+  "losses_cn": "卡塔尔：14条LNG线中2条、2座GTL厂中1座受损，年影响1280万吨LNG，持续3—5年，年收入损失约200亿美元（卡塔尔能源公司），宣布不可抗力，无伤亡。伊朗：南帕尔斯陆上设施与阿萨卢耶炼厂起火，维基百科称两座炼厂停产、对伊拉克供气中断。沙特：拉斯坦努拉有限火情、一度停产（说法不一）。阿联酋：富查伊拉石油工业区多次起火，哈卜善气厂关闭，无伤亡。",
+  "analysis_cn": "本案把“周边港口”延伸到能源出口港：拉斯拉凡、拉斯坦努拉、富查伊拉都是港口与加工设施合一的工业港。伊朗选择与南帕尔斯同一气藏的卡塔尔设施作为报复对象，体现了“以能源对能源”的对等打击意图。防御方拦截率并不低，但能源港的损失取决于漏网的一两枚弹和拦截残骸落在哪里。对海湾能源港而言，分散关键装置、加强末段近程防空、预设灭火和快速恢复能力，比单纯追求更高的拦截率更现实。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Wikipedia（维基百科）",
+    "title": "2026 South Pars field attack",
+    "title_cn": "2026年南帕尔斯气田遇袭事件",
+    "author": "维基百科编者",
+    "date": "2026-10-09（检索日）",
+    "url": "https://en.wikipedia.org/wiki/2026_South_Pars_field_attack",
+    "type": "其他"
+   },
+   {
+    "publisher": "Business Today（今日商业，印度）",
+    "title": "Israel hits Iran's largest gas field South Pars; Tehran warns of retaliation across Gulf",
+    "title_cn": "以色列打击伊朗最大气田南帕尔斯，德黑兰警告将在海湾全域报复",
+    "author": "Business Today",
+    "date": "2026-03-18",
+    "url": "https://www.businesstoday.in/amp/world/story/israel-hits-irans-largest-gas-field-south-pars-tehran-warns-of-retaliation-across-gulf-521282-2026-03-18",
+    "type": "其他"
+   },
+   {
+    "publisher": "Chronicle.lu",
+    "title": "Trump says Israel attacked Iran gas field without US, Qatari involvement",
+    "title_cn": "特朗普称以色列在美卡未参与的情况下袭击伊朗气田",
+    "author": "Chronicle.lu（通讯社稿）",
+    "date": "待核（2026年3月）",
+    "url": "https://chronicle.lu/category/international-news/60187-trump-says-israel-attacked-iran-gas-field-without-us-qatari-involvement",
+    "type": "其他"
+   },
+   {
+    "publisher": "Bloomberg Government（彭博政府）",
+    "title": "Iran Says US, Israel Struck Giant Gas Field as War Escalates (2)",
+    "title_cn": "伊朗称美以打击其巨型气田，战事升级",
+    "author": "Bloomberg",
+    "date": "待核（2026-03-18前后）",
+    "url": "https://news.bgov.com/bloomberg-government-news/iran-vows-revenge-for-larijani-as-trump-says-war-may-end-soon",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "The Maritime Executive（海事执行官）",
+    "title": "Iran Damages Ras Laffan LNG Terminal, Sending EU Energy Prices Soaring",
+    "title_cn": "伊朗损毁拉斯拉凡LNG码头，欧盟能源价格飙升",
+    "author": "The Maritime Executive",
+    "date": "待核（2026-03-19前后）",
+    "url": "https://maritime-executive.com/article/iran-hits-ras-laffan-home-of-the-world-s-largest-lng-terminal",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Al-Monitor（监察）",
+    "title": "Qatar says Iran attacked LNG hub; UAE shuts gas facilities",
+    "title_cn": "卡塔尔称伊朗袭击其LNG枢纽，阿联酋关闭天然气设施",
+    "author": "Al-Monitor（通讯社稿）",
+    "date": "2026-03-19（据Profit同题报道）",
+    "url": "https://www.al-monitor.com/originals/2026/03/qatar-says-iran-attacked-lng-hub-uae-shuts-gas-facilities",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Profit by Pakistan Today",
+    "title": "Qatar says Iran attacked LNG hub; UAE shuts gas facilities",
+    "title_cn": "卡塔尔称伊朗袭击其LNG枢纽，阿联酋关闭天然气设施",
+    "author": "Profit（通讯社稿）",
+    "date": "2026-03-19",
+    "url": "https://profit.pakistantoday.com.pk/2026/03/19/qatar-says-iran-attacked-lng-hub-uae-shuts-gas-facilities/",
+    "type": "其他"
+   },
+   {
+    "publisher": "GIIGNL（国际液化天然气进口商集团）",
+    "title": "QatarEnergy reports damage to Ras Laffan complex after missile strikes",
+    "title_cn": "卡塔尔能源公司通报拉斯拉凡综合体遭导弹袭击受损",
+    "author": "GIIGNL",
+    "date": "待核（2026年3月）",
+    "url": "https://www.giignl.org/news/qatarenergy-reports-damage-to-ras-laffan-complex-after-missile-strikes",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "MEED（中东经济文摘）",
+    "title": "Qatar and Iran's LNG and gas assets suffer severe attacks",
+    "title_cn": "卡塔尔与伊朗的LNG和天然气资产遭严重袭击",
+    "author": "MEED",
+    "date": "待核（2026年3月）",
+    "url": "https://www.meed.com/qatar-and-irans-lng-and-gas-assets-suffer-severe-attacks",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Euronews（欧洲新闻台）",
+    "title": "Drones hit Saudi Ras Tanura refinery as Iran strikes targets across region",
+    "title_cn": "伊朗在地区多处打击目标，无人机击中沙特拉斯坦努拉炼厂",
+    "author": "Euronews",
+    "date": "2026-03-02",
+    "url": "https://www.euronews.com/2026/03/02/drones-hit-saudi-ras-tanura-refinery-as-iran-strikes-targets-across-region",
+    "type": "其他"
+   },
+   {
+    "publisher": "WAM（阿联酋通讯社）",
+    "title": "Saudi Arabia confirms attempted attack on Ras Tanura oil refinery; no damage reported",
+    "title_cn": "沙特证实拉斯坦努拉炼厂遭未遂袭击，未报告损失",
+    "author": "WAM（援引沙特能源部）",
+    "date": "待核（2026-03-04前后）",
+    "url": "https://www.wam.ae/en/article/bz1904b-saudi-arabia-confirms-attempted-attack-ras-tanura",
+    "type": "官方"
+   },
+   {
+    "publisher": "AGBI（阿拉伯海湾商业洞察）",
+    "title": "Saudi Arabia reports drone attack on Ras Tanura refinery",
+    "title_cn": "沙特通报拉斯坦努拉炼厂遭无人机袭击（援引路透社）",
+    "author": "AGBI / Reuters",
+    "date": "待核（2026年3月）",
+    "url": "https://www.agbi.com/oil-and-gas/2026/03/saudi-arabia-reports-drone-attack-on-ras-tanura-refinery/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "Iran missile strikes hit world's largest LNG hub in Qatar, UAE shuts major gas facilities",
+    "title_cn": "伊朗导弹击中卡塔尔全球最大LNG枢纽，阿联酋关闭主要天然气设施",
+    "author": "Marine Insight",
+    "date": "待核（2026年3月）",
+    "url": "https://www.marineinsight.com/iran-missile-strikes-hit-worlds-largest-lng-hub-in-qatar-uae-shuts-major-gas-facilities",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ras_Laffan_LNG_terminal_in_2012.jpg",
+    "file_name": "Ras_Laffan_LNG_terminal_in_2012.jpg",
+    "desc_cn": "2012年的拉斯拉凡LNG码头（遇袭前设施参考）",
+    "date": "2012",
+    "credit": "Matthew Smith（Flickr）",
+    "license": "CC BY 2.0",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ras_Laffan_satellite_imagery_in_2006.jpg",
+    "file_name": "Ras_Laffan_satellite_imagery_in_2006.jpg",
+    "desc_cn": "2006年拉斯拉凡工业城卫星图像（设施布局参考）",
+    "date": "2006-12-30",
+    "credit": "NASA",
+    "license": "Public Domain（NASA）",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "拉斯拉凡来袭导弹": "5枚（1中4拦，卡方）",
+   "受损LNG生产线": "2条/14条",
+   "受损GTL厂": "1座/2座",
+   "LNG年产量影响": "1280万吨，持续3—5年",
+   "年收入损失": "约200亿美元（卡塔尔能源公司）",
+   "布伦特油价": "约+6%（3月18日）",
+   "拉斯坦努拉": "2架无人机被拦截，残骸致损（路透社）",
+   "南帕尔斯产量影响": "12%（维基百科）/近70%国内供气（另一报道）"
+  }
+ },
+ {
+  "case_key": "pg_haifa_bay_energy_2026_03",
+  "category": "周边港口",
+  "title_cn": "海法湾炼厂再遭拦截残片击中，海上气田停产",
+  "subtitle_cn": "2026年2月28日—3月19日 以色列海法湾与东地中海离岸气田 卡里什、利维坦预防性停产，3月19日伊朗导弹拦截残片击中巴赞炼厂",
+  "date_start": "2026-02-28",
+  "date_end": "2026-03-19",
+  "location_cn": "以色列海法湾巴赞集团（Bazan Group）炼化综合体；东地中海卡里什（Karish）、利维坦（Leviathan）离岸气田",
+  "lat": 32.8,
+  "lon": 35.04,
+  "region": "东地中海",
+  "attacker": "伊朗（弹道导弹）",
+  "defender": "以色列多层防空；离岸气田采取预防性停产",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "伊朗弹道导弹（数量、型号未公开），在海法湾上空被拦截，残片落入巴赞厂区。",
+  "defense_means_cn": "以色列防空拦截（具体系统未公开）；对离岸气田实施预防性停产。",
+  "narrative_cn": "2026年2月28日美以对伊朗开战当天，据阿格斯（Argus Media）报道，以色列能源部指示Energean公司暂停卡里什气田生产；另据消息人士称，利维坦气田也被下令预防性关闭，巴赞集团则关停了部分装置。2025年6月以伊战争期间，两座气田也曾暂停供气。\n战争进入第四周，3月19日（周四），一枚伊朗导弹在海法湾上空被拦截，残片落入巴赞集团炼化综合体。以色列财经媒体Calcalist报道，巴赞向特拉维夫证券交易所提交的公告称，多处设施被击中，包括电气基础设施和建筑物；更严重的损坏发生在为巴赞生产装置供气的以色列天然气管道公司（Israel Natural Gas Lines）设施上。巴赞称相关系统预计数日内恢复，能源官员警告，若供气持续中断，可能需要用液化石油气替代。维基共享资源收录了一张3月19日拦截残片击中海法湾炼厂的现场照片，其说明称袭击造成高压线受损、短时停电。\nCalcalist称，以色列官员预计伊朗和真主党会试图打击关键能源基础设施。本轮检索没有找到真主党在2026年战争中实际打击海上气田平台的报道，也没有找到卡里什、利维坦复产时间和巴赞全面复产的信息。",
+  "defense_effect_cn": "以色列防空拦截了来袭导弹，但拦截发生在炼厂上空，残片仍损坏了电气设施和供气设施，说明对港区密集工业设施的防护不只要“打得下”，还要考虑拦截点的位置。离岸气田以停产换安全，避免平台成为目标，代价是国内供气和出口收入受损（停产时长未检索）。与2025年6月相比，这次未见人员伤亡报告，但同一座炼厂在九个月内两度受损，港区炼厂的迁移或加固问题依然没有解决。",
+  "claims_compare_cn": "以方（巴赞公告，经Calcalist）：多处设施被拦截残片击中，含电气设施和建筑物，供气设施损坏更重，预计数日恢复。伊朗：本轮未检索到伊方对该次袭击的具体说法。气田停产：阿格斯援引能源部指令和消息人士，未见运营商公布复产时间。真主党是否攻击海上平台：以方官员预计会有，但未见实际攻击报道。",
+  "losses_cn": "巴赞：电气基础设施、建筑物受损，部分装置停运；以色列天然气管道公司供气设施受损；未见人员伤亡报告。卡里什、利维坦：2月28日起预防性停产（复产时间未检索）。",
+  "analysis_cn": "2026年战争中，以色列对东地中海离岸气田采取“开战即停产”的做法，平台没有遭到攻击，但停产本身就是战争代价。港区炼厂在拦截成功的情况下仍被残片击中，说明拦截残骸对密集工业设施有实际杀伤。与2025年6月的案例对照看：同一座炼厂、同一片港湾，在两场战争中两度受损，港口防护问题是结构性的，单靠提高拦截率解决不了。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Calcalist Ctech",
+    "title": "rkhnh7tq11x（检索结果未显示标题）",
+    "title_cn": "巴赞海法湾综合体遭伊朗导弹拦截残片击中，供气设施受损",
+    "author": "Calcalist",
+    "date": "2026-03-19（据配图说明推定）",
+    "url": "https://www.calcalistech.com/ctechnews/article/rkhnh7tq11x",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Argus Media（阿格斯）",
+    "title": "Israel gas fields, refinery shut after attack on Iran",
+    "title_cn": "对伊朗开战后以色列气田与炼厂关停",
+    "author": "Argus Media",
+    "date": "待核（2026-02-28前后）",
+    "url": "https://www.argusmedia.com/de/news-and-insights/latest-market-news/2794474-israel-gas-fields-refinery-shut-after-attack-on-iran",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Globes（以色列《环球报》）",
+    "title": "Gas flow from Leviathan and Karish halted, Bazan pipeline hit",
+    "title_cn": "利维坦、卡里什气田停止供气，巴赞输气管线被击中（2025年6月先例）",
+    "author": "Globes",
+    "date": "待核（2025年6月）",
+    "url": "https://en.globes.co.il/en/article-gas-flow-from-leviathan-and-karish-halted-bazan-pipeline-hit-1001512891",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Missile_interception_fragments_of_an_Iranian_missile_hit_Haifa_oil_refineries_in_Haifa_Bay,_March,_19_2026.jpg",
+    "file_name": "Missile_interception_fragments_of_an_Iranian_missile_hit_Haifa_oil_refineries_in_Haifa_Bay,_March,_19_2026.jpg",
+    "desc_cn": "2026年3月19日伊朗导弹拦截残片击中海法湾炼厂现场（说明称造成高压线受损、短时停电）",
+    "date": "2026-03-19",
+    "credit": "待核",
+    "license": "待核",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "受损日期": "2026-03-19",
+   "受损方式": "拦截残片",
+   "离岸气田停产": "卡里什、利维坦（2月28日起，预防性）",
+   "人员伤亡": "未见报告"
+  }
+ },
+ {
+  "case_key": "is_larak_island_strike_2026_08_30",
+  "category": "岛屿防卫",
+  "title_cn": "美军打击拉腊克岛布雷火箭发射装置",
+  "subtitle_cn": "2026年8月30日 伊朗拉腊克岛 美中央司令部打击革命卫队准备向霍尔木兹海峡发射布雷火箭的2具发射装置",
+  "date_start": "2026-08-30",
+  "date_end": "2026-08-31",
+  "location_cn": "伊朗拉腊克岛（Larak Island），阿巴斯港外海，格什姆岛以东、霍尔木兹岛以南",
+  "lat": 26.86,
+  "lon": 56.36,
+  "region": "波斯湾-霍尔木兹-阿曼湾",
+  "attacker": "美国中央司令部",
+  "defender": "伊朗伊斯兰革命卫队岛上发射单元",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "美方打击2具发射装置（弹药未公开）；伊朗塔斯尼姆通讯社称是无人机打击。",
+  "defense_means_cn": "无拦截记录。",
+  "narrative_cn": "6月签署的美伊谅解备忘录破裂后，8月30日（周日），一名美国官员称美军打击了伊朗拉腊克岛上的2具发射装置，这是7月下旬以来美方已知的首次对伊打击。拉腊克岛是阿巴斯港外海的小岛，位于格什姆岛以东、霍尔木兹岛以南，紧邻霍尔木兹海峡航道。美国中央司令部称，革命卫队正准备向海峡发射携带水雷的火箭，打击“有限且精确”，针对的是准备在海峡布雷的部队。关于打击方式，部分报道称打击对象是导弹发射装置，伊朗半官方的塔斯尼姆通讯社称美军实施的是无人机打击。\n革命卫队称打击造成数名军人和平民伤亡，誓言作出“回应和惩罚”。伊朗外交部谴责美军侵犯伊朗国家主权和领土完整。随后，革命卫队称打击了约旦侯赛因国王空军基地和阿兹拉克空军基地的美方技术与维修设施；有报道称伊朗向约旦发射了8枚弹道导弹，全部被拦截。拉腊克岛打击由此成为8月底至9月初海峡方向冲突再度升级的起点（见案例fg_hormuz_flareup_2026_09）。\n格什姆岛、阿布穆萨岛、大小通布岛在2026年是否遭到具体打击，本轮检索没有找到可靠报道。",
+  "defense_effect_cn": "拉腊克岛紧贴航道，是伊朗在海峡布雷、发射反舰武器的前沿阵地。美方在发射前就实施打击，说明其对岛上发射准备活动有持续监视能力。暴露的问题：对伊朗而言，岛上发射单元在准备阶段即被发现和摧毁，在海峡狭窄地形中岛屿阵地的隐蔽性有限；对美方而言，有限打击没能阻止伊朗报复，伊朗转而打击约旦境内的美军基地，冲突范围扩大。",
+  "claims_compare_cn": "美方（中央司令部、美国官员）：打击2具发射装置，目的是阻止向海峡布雷，行动“有限且精确”。伊朗：塔斯尼姆称是无人机打击；革命卫队称造成数名军人和平民伤亡；外交部称侵犯主权。目标描述有“导弹发射装置”和“布雷火箭发射装置”两种说法。伤亡双方都没有给出具体数字，未获独立核实。约旦方向：报道称8枚弹道导弹全部被拦截。",
+  "losses_cn": "伊朗：发射装置2具被毁（美方）；数名军人和平民伤亡（伊方，未给数字）。美方：无损失。",
+  "analysis_cn": "本案体现了岛屿在海峡封控中的双重角色：对伊朗是布雷和反舰火力的前沿发射平台，对美方是优先打击目标。美方专门针对“布雷火箭”实施打击，说明水雷对海峡通航的威胁被放在最高优先级。小岛阵地缺少纵深和防空掩护，一旦暴露就难以生存；但打掉岛上阵地并不能消除对手的报复手段，伊朗随即用弹道导弹打击第三国境内的美军基地。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "The Irish Times（爱尔兰时报）",
+    "title": "US forces strike two Iranian launchers on Larak island, US official says",
+    "title_cn": "美国官员称美军打击拉腊克岛上2具伊朗发射装置",
+    "author": "The Irish Times（路透社稿，推定）",
+    "date": "2026-08-30",
+    "url": "https://www.irishtimes.com/world/middle-east/2026/08/30/us-forces-strike-two-iranian-launchers-on-larak-island-us-official-says/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "The Kathmandu Post（加德满都邮报）",
+    "title": "US forces strike two Iranian launchers on Iran's Larak island, US official says",
+    "title_cn": "美国官员称美军打击伊朗拉腊克岛上2具发射装置",
+    "author": "The Kathmandu Post（通讯社稿）",
+    "date": "2026-08-31",
+    "url": "https://kathmandupost.com/world/2026/08/31/us-forces-strike-two-iranian-launchers-on-iran-s-larak-island-us-official-says",
+    "type": "其他"
+   },
+   {
+    "publisher": "Chronicle.lu",
+    "title": "US forces strike 2 Iranian launchers on Iran's Larak island",
+    "title_cn": "美军打击伊朗拉腊克岛上2具发射装置",
+    "author": "Chronicle.lu（通讯社稿）",
+    "date": "待核（2026-08-30前后）",
+    "url": "https://chronicle.lu/category/international-news/63091-us-forces-strike-2-iranian-launchers-on-irans-larak-island",
+    "type": "其他"
+   },
+   {
+    "publisher": "Telangana Today（特伦甘纳今日报）",
+    "title": "US strikes Iranian launchers on Larak Island in first known attack since late July; IRGC vows punishment for aggressor",
+    "title_cn": "美军打击拉腊克岛伊朗发射装置，系7月下旬以来首次；革命卫队誓言惩罚",
+    "author": "Telangana Today（通讯社稿）",
+    "date": "2026-08-31（据页面日期）",
+    "url": "https://telanganatoday.com/us-strikes-iranian-launchers-on-larak-island-in-first-known-attack-since-late-july-irgc-vows-punishment-for-aggressor",
+    "type": "其他"
+   },
+   {
+    "publisher": "Telangana Today（特伦甘纳今日报）",
+    "title": "Iran's IRGC says it attacked US bases in Jordan in retaliation",
+    "title_cn": "伊朗革命卫队称报复性打击约旦境内美军基地",
+    "author": "Telangana Today（通讯社稿）",
+    "date": "2026-08-31（据页面日期）",
+    "url": "https://telanganatoday.com/irans-irgc-says-it-attacked-us-bases-in-jordan-in-retaliation",
+    "type": "其他"
+   },
+   {
+    "publisher": "FOX 10 Phoenix",
+    "title": "US forces launch first attack on Iran in a month",
+    "title_cn": "美军一个月来首次对伊朗发起攻击",
+    "author": "FOX 10",
+    "date": "待核（2026-08-30前后）",
+    "url": "https://fox10phoenix.com/news/us-forces-launch-first-attack-iran-month",
+    "type": "其他"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "被打击发射装置": "2具（美方）",
+   "目的": "阻止向海峡发射布雷火箭（CENTCOM）",
+   "伊方报复": "向约旦发射8枚弹道导弹（报道称全部拦截）",
+   "间隔": "7月下旬以来美方首次对伊打击"
+  }
+ }
+]

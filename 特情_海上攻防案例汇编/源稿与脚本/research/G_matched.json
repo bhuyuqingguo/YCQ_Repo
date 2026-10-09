@@ -1,0 +1,619 @@
+{
+  "by_case": {
+    "bs_denmark_drones_2025_09_22": [],
+    "is_bahrain_nsa_2026_02_28": [],
+    "is_akrotiri_drones_2026_03_02": [],
+    "is_kharg_island_2026_03_13": [],
+    "is_diego_garcia_2026_03_20": [],
+    "pagasa_2026_03_25_frigate_close": [],
+    "is_lavan_island_2026_04": [],
+    "rs_perim_mokha_2026_09_11": [],
+    "rs_zuqar_hanish_2026_09": [],
+    "rs_perim_island_seized_2026_09": [],
+    "bp_odesa_2023_07_18_grain_terminals": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:82-BM-37_Chornomorsk_2021_G1.jpg",
+        "file_name": "82-BM-37_Chornomorsk_2021_G1.jpg",
+        "level": "subject",
+        "desc_cn": "切尔诺莫尔斯克港（Chornomorsk）2021 年港口照片，文件名编号 82-BM-37，船只与任务未核实",
+        "date": "2021",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "bp_danube_2023_08_izmail_reni_romania": [],
+    "bs_novorossiysk_2023_08_04": [],
+    "bs_rus_port_defense_2023_2026": [],
+    "bp_corridor_2023_08_16_joseph_schulte": [],
+    "bs_sevastopol_2023_09_13": [],
+    "bs_sevastopol_hq_2023_09_22": [],
+    "bs_kerch_zaliv_2023_11_04": [],
+    "bp_odesa_2023_11_08_kmax_ruler": [],
+    "bs_feodosia_2023_12_26": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:BDK_Novocherkassk_2012_G2.jpg",
+        "file_name": "BDK_Novocherkassk_2012_G2.jpg",
+        "level": "subject",
+        "desc_cn": "大型登陆舰“新切尔卡斯克”号（BDK-46 Novocherkassk）2012 年照片，早于本次袭击",
+        "date": "2012",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "bs_sevastopol_2024_03_24": [],
+    "bs_sevastopol_2024_05_19": [],
+    "ye_hodeidah_port_2024_07_20": [],
+    "bs_sevastopol_2024_08_02": [],
+    "bp_odesa_2024_10_09_shui_spirit": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:82-BM-37_Chornomorsk_2021_G1.jpg",
+        "file_name": "82-BM-37_Chornomorsk_2021_G1.jpg",
+        "level": "subject",
+        "desc_cn": "切尔诺莫尔斯克港（Chornomorsk）2021 年港口照片，文件名编号 82-BM-37，船只与任务未核实",
+        "date": "2021",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "ye_ras_isa_port_2025_04_17": [],
+    "ye_hodeidah_israeli_navy_2025_06_10": [],
+    "ye_three_ports_galaxy_leader_2025_07_06": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Car_carrier_Galaxy_Leader.jpg",
+        "file_name": "Car_carrier_Galaxy_Leader.jpg",
+        "level": "subject",
+        "desc_cn": "汽车运输船“银河领袖”号（Galaxy Leader）2007 年 11 月停靠德国不来梅港，为被劫持前的港口照片",
+        "date": "2007-11-07",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "med_sumud_sidi_bou_said_2025_09_09": [],
+    "bs_belgium_drones_2025_11_06": [],
+    "bs_novorossiysk_2025_11_14": [],
+    "bs_novorossiysk_cpc_2025_11_29": [],
+    "bs_novorossiysk_ssb_2025_12_15": [],
+    "ca_venezuela_port_strikes_2026_01_03": [],
+    "pg_iran_naval_bases_epic_fury_2026_03": [],
+    "bs_novorossiysk_frigates_2026_03_04": [],
+    "bp_odesa_2026_03_20_grain_bulkers": [],
+    "bp_odesa_2026_07_corridor_halt": [],
+    "bp_odesa_2026_07_13_18_flagged_ships": [],
+    "rs_saudi_tanker_blockade_2026_07_08": [],
+    "bp_odesa_2026_07_19_golden_leo": [],
+    "bp_odesa_2026_07_25_palau_bulker": [],
+    "bs_novorossiysk_2026_08_12": [],
+    "bp_odesa_2026_09_23_antigua_captain": [],
+    "ayungin_2023_08_05_water_cannon": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:China_Coast_Guard_fires_water_cannons_vs._PH_Coast_Guard_en_route_to_Second_Thomas_Shoal.webm",
+        "file_name": "China_Coast_Guard_fires_water_cannons_vs._PH_Coast_Guard_en_route_to_Second_Thomas_Shoal.webm",
+        "level": "event",
+        "desc_cn": "中国海警向菲律宾海岸警卫队驶往仁爱礁途中施放水炮（2023 年 8 月 5 日，菲方发布视频）",
+        "date": "2023-08-05",
+        "credit": "菲律宾海岸警卫队（据摘要）",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:BRP_Sierra_Madre_in_2017.jpg",
+        "file_name": "BRP_Sierra_Madre_in_2017.jpg",
+        "level": "subject",
+        "desc_cn": "菲律宾海军坐滩登陆舰“马德雷山”号（BRP Sierra Madre）2017 年照片，仁爱礁运补目标舰",
+        "date": "2017",
+        "credit": "",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+        "file_name": "Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+        "level": "subject",
+        "desc_cn": "仁爱礁卫星影像（Landsat 8，2014 年 2 月 28 日，15 米分辨率）",
+        "date": "2014-02-28",
+        "credit": "Landsat 8（美国地质调查局卫星，据文件名）",
+        "license": ""
+      }
+    ],
+    "bs_tarkhankut_raid_2023_08_24": [],
+    "bs_boyko_towers_2023_09_11": [],
+    "bs_balticconnector_2023_10_08": [],
+    "ayungin_2023_10_22_collisions": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:BRP_Sierra_Madre_in_2017.jpg",
+        "file_name": "BRP_Sierra_Madre_in_2017.jpg",
+        "level": "subject",
+        "desc_cn": "菲律宾海军坐滩登陆舰“马德雷山”号（BRP Sierra Madre）2017 年照片，仁爱礁运补目标舰",
+        "date": "2017",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "ayungin_2023_12_10_water_cannon": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:BRP_Sierra_Madre_in_2017.jpg",
+        "file_name": "BRP_Sierra_Madre_in_2017.jpg",
+        "level": "subject",
+        "desc_cn": "菲律宾海军坐滩登陆舰“马德雷山”号（BRP Sierra Madre）2017 年照片，仁爱礁运补目标舰",
+        "date": "2017",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "ayungin_2024_03_water_cannon_injuries": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:BRP_Sierra_Madre_in_2017.jpg",
+        "file_name": "BRP_Sierra_Madre_in_2017.jpg",
+        "level": "subject",
+        "desc_cn": "菲律宾海军坐滩登陆舰“马德雷山”号（BRP Sierra Madre）2017 年照片，仁爱礁运补目标舰",
+        "date": "2017",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "ayungin_2024_06_17_boarding_clash": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:BRP_Sierra_Madre_in_2017.jpg",
+        "file_name": "BRP_Sierra_Madre_in_2017.jpg",
+        "level": "subject",
+        "desc_cn": "菲律宾海军坐滩登陆舰“马德雷山”号（BRP Sierra Madre）2017 年照片，仁爱礁运补目标舰",
+        "date": "2017",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "ayungin_provisional_2024_07": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:BRP_Sierra_Madre_in_2017.jpg",
+        "file_name": "BRP_Sierra_Madre_in_2017.jpg",
+        "level": "subject",
+        "desc_cn": "菲律宾海军坐滩登陆舰“马德雷山”号（BRP Sierra Madre）2017 年照片，仁爱礁运补目标舰",
+        "date": "2017",
+        "credit": "",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+        "file_name": "Second_Thomas_Shoal_-_2014-02-28_-_Landsat_8_-_15m.png",
+        "level": "subject",
+        "desc_cn": "仁爱礁卫星影像（Landsat 8，2014 年 2 月 28 日，15 米分辨率）",
+        "date": "2014-02-28",
+        "credit": "Landsat 8（美国地质调查局卫星，据文件名）",
+        "license": ""
+      }
+    ],
+    "bs_tendra_kinburn_raids_2024_08": [],
+    "bs_eagle_s_estlink2_2024_12_25": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Crude_oil_tanker_Eagle_S_at_Porvoo_2024-12-31_a.jpg",
+        "file_name": "Crude_oil_tanker_Eagle_S_at_Porvoo_2024-12-31_a.jpg",
+        "level": "subject",
+        "desc_cn": "油轮“鹰S”号（Eagle S）2024 年 12 月 31 日停泊于芬兰波尔沃附近锚地，非事件现场照片",
+        "date": "2024-12-31",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "bs_fitburg_2025_12_31": [],
+    "ayungin_2026_09_24_blockade": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:BRP_Sierra_Madre_in_2017.jpg",
+        "file_name": "BRP_Sierra_Madre_in_2017.jpg",
+        "level": "subject",
+        "desc_cn": "菲律宾海军坐滩登陆舰“马德雷山”号（BRP Sierra Madre）2017 年照片，仁爱礁运补目标舰",
+        "date": "2017",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "bs_ivan_khurs_2023_05_24": [],
+    "bs_kotov_bykov_claim_2023_08_01": [],
+    "rs_carney_2023_10_19": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:USS_Carney_engages_Houthi_missiles.jpg",
+        "file_name": "USS_Carney_engages_Houthi_missiles.jpg",
+        "level": "event",
+        "desc_cn": "美国“卡尼”号（USS Carney）在红海上空拦截胡塞导弹与无人机，2023 年 10 月 19 日（据检索摘要）",
+        "date": "2023-10-19",
+        "credit": "",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Port_side_view_of_USS_Carney_(DDG-64)_departing_Souda_Bay_161021-N-GP524-236.jpg",
+        "file_name": "Port_side_view_of_USS_Carney_(DDG-64)_departing_Souda_Bay_161021-N-GP524-236.jpg",
+        "level": "subject",
+        "desc_cn": "美国“卡尼”号（USS Carney）驶离克里特岛苏达湾的左舷视图，2016 年 10 月拍摄，非红海作战照片",
+        "date": "2016-10-21",
+        "credit": "",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:VP-4_P-8A_Poseidon_Flies_Alongside_USS_Carney_(6157213).jpg",
+        "file_name": "VP-4_P-8A_Poseidon_Flies_Alongside_USS_Carney_(6157213).jpg",
+        "level": "subject",
+        "desc_cn": "VP-4 中队 P-8A 海神反潜机与“卡尼”号（USS Carney）伴飞，非事件现场照片",
+        "date": "",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "rs_languedoc_2023_12_09": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:The_French_navy_frigate_FS_Languedoc_(D653),_front,_sails_alongside_USS_Dwight_D._Eisenhower_(CVN_69)_in_the_Mediterranean_Sea._(51080966828)_(cropped).jpg",
+        "file_name": "The_French_navy_frigate_FS_Languedoc_(D653),_front,_sails_alongside_USS_Dwight_D._Eisenhower_(CVN_69)_in_the_Mediterranean_Sea._(51080966828)_(cropped).jpg",
+        "level": "subject",
+        "desc_cn": "法国海军护卫舰“朗格多克”号（FS Languedoc，D653）与美“艾森豪威尔”号在地中海并行，2021 年 3 月",
+        "date": "2021-03",
+        "credit": "",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Languedoc_(fr%C3%A9gate),_S%C3%A8te.jpg",
+        "file_name": "Languedoc_(frégate),_Sète.jpg",
+        "level": "subject",
+        "desc_cn": "法国海军护卫舰“朗格多克”号（FS Languedoc）停靠塞特港（Sète）照片",
+        "date": "",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "rs_carney_diamond_2023_12_16": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Port_side_view_of_USS_Carney_(DDG-64)_departing_Souda_Bay_161021-N-GP524-236.jpg",
+        "file_name": "Port_side_view_of_USS_Carney_(DDG-64)_departing_Souda_Bay_161021-N-GP524-236.jpg",
+        "level": "subject",
+        "desc_cn": "美国“卡尼”号（USS Carney）驶离克里特岛苏达湾的左舷视图，2016 年 10 月拍摄，非红海作战照片",
+        "date": "2016-10-21",
+        "credit": "",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Royal_Navy_Type_45_Destroyer_HMS_Diamond_MOD_45152334.jpg",
+        "file_name": "Royal_Navy_Type_45_Destroyer_HMS_Diamond_MOD_45152334.jpg",
+        "level": "subject",
+        "desc_cn": "英国皇家海军 45 型驱逐舰“钻石”号（HMS Diamond，D34）照片，非事件现场照片",
+        "date": "",
+        "credit": "",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:VP-4_P-8A_Poseidon_Flies_Alongside_USS_Carney_(6157213).jpg",
+        "file_name": "VP-4_P-8A_Poseidon_Flies_Alongside_USS_Carney_(6157213).jpg",
+        "level": "subject",
+        "desc_cn": "VP-4 中队 P-8A 海神反潜机与“卡尼”号（USS Carney）伴飞，非事件现场照片",
+        "date": "",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "io_chem_pluto_2023_12_23": [],
+    "io_lila_norfolk_2024_01_04": [],
+    "rs_largest_mixed_attack_2024_01_09": [],
+    "rs_gravely_ciws_2024_01_30": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:US_Navy_101120-N-8273J-080_Crew_members_of_the_newest_Arleigh_Burke-class_guided-missile_destroyer_USS_Gravely_(DDG_107)_man_the_rails_during_her_c.jpg",
+        "file_name": "US_Navy_101120-N-8273J-080_Crew_members_of_the_newest_Arleigh_Burke-class_guided-missile_destroyer_USS_Gravely_(DDG_107)_man_the_rails_during_her_c.jpg",
+        "level": "subject",
+        "desc_cn": "“格雷夫利”号（USS Gravely，DDG-107）2010 年 11 月入役仪式期间舰员列队站舷，非作战照片",
+        "date": "2010-11-20",
+        "credit": "",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:US_Navy_101120-N-3737T-174_Commissioning_of_USS_Gravely_(DDG_107).jpg",
+        "file_name": "US_Navy_101120-N-3737T-174_Commissioning_of_USS_Gravely_(DDG_107).jpg",
+        "level": "subject",
+        "desc_cn": "“格雷夫利”号（USS Gravely，DDG-107）2010 年 11 月入役仪式（北卡罗来纳州威尔明顿）",
+        "date": "2010-11-20",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "bs_ivanovets_2024_02_01": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Ivanovets_corvette_2012_G1.jpg",
+        "file_name": "Ivanovets_corvette_2012_G1.jpg",
+        "level": "subject",
+        "desc_cn": "“伊万诺韦茨”号（Ivanovets）护卫舰 2012 年照片，非袭击后影像",
+        "date": "2012",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "bs_kunikov_2024_02_14": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Tsezar_Kunikov_at_anchor_in_the_Bosphorus_(2007).jpg",
+        "file_name": "Tsezar_Kunikov_at_anchor_in_the_Bosphorus_(2007).jpg",
+        "level": "subject",
+        "desc_cn": "“凯撒·库尼科夫”号（Tsezar Kunikov）在博斯普鲁斯海峡锚泊，2007 年照片",
+        "date": "2007",
+        "credit": "",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Verni_and_Tsezar'_Kunikov_in_Varna,_2009.jpg",
+        "file_name": "Verni_and_Tsezar'_Kunikov_in_Varna,_2009.jpg",
+        "level": "subject",
+        "desc_cn": "“凯撒·库尼科夫”号与 Verni 号在保加利亚瓦尔纳港，2009 年照片",
+        "date": "2009",
+        "credit": "",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Tsezar_Kunikov_in_the_Red_Sea_(2003).jpg",
+        "file_name": "Tsezar_Kunikov_in_the_Red_Sea_(2003).jpg",
+        "level": "subject",
+        "desc_cn": "“凯撒·库尼科夫”号（Tsezar Kunikov）2003 年在红海的早期部署照片，非袭击影像",
+        "date": "2003",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "rs_hessen_2024_02_26": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:F221_FGS_Hessen_(8641416122).jpg",
+        "file_name": "F221_FGS_Hessen_(8641416122).jpg",
+        "level": "subject",
+        "desc_cn": "德国海军护卫舰“黑森”号（FGS Hessen，F221）照片，拍摄时间未标注",
+        "date": "",
+        "credit": "",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Flugdeck_F_221_(Fregatte_Hessen).jpg",
+        "file_name": "Flugdeck_F_221_(Fregatte_Hessen).jpg",
+        "level": "subject",
+        "desc_cn": "德国海军护卫舰“黑森”号（FGS Hessen，F221）飞行甲板照片，拍摄时间未标注",
+        "date": "",
+        "credit": "",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:US_Navy_100614-N-6003P-535_German_navy_frigate_FGS_Hessen_(F221),_left,_holds_an_all_hands_quarters_on_the_fan_tail_as_it_cruises_alongside_the_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_(CVN_75)._Harry_S._Truman.jpg",
+        "file_name": "US_Navy_100614-N-6003P-535_German_navy_frigate_FGS_Hessen_(F221),_left,_holds_an_all_hands_quarters_on_the_fan_tail_as_it_cruises_alongside_the_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_(CVN_75)._Harry_S._Truman.jpg",
+        "level": "subject",
+        "desc_cn": "“黑森”号（FGS Hessen，F221）舰员在尾甲板列队，与美“杜鲁门”号并行航行（2010 年 6 月）",
+        "date": "2010-06-14",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "rs_duilio_2024_03_02": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Italian_destroyer_Caio_Duilio_(D_554)_undeway_in_the_Atlantic_Ocean,_on_21_May_2022_(220521-N-TC847-001).JPG",
+        "file_name": "Italian_destroyer_Caio_Duilio_(D_554)_undeway_in_the_Atlantic_Ocean,_on_21_May_2022_(220521-N-TC847-001).JPG",
+        "level": "subject",
+        "desc_cn": "意大利海军“卡约·杜伊里奥”号（Caio Duilio，D 554）驱逐舰航行于大西洋，2022 年 5 月 21 日",
+        "date": "2022-05-21",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "bs_sergey_kotov_2024_03_05": [],
+    "rs_iver_huitfeldt_2024_03_09": [],
+    "rs_hellenic_hydra_psara_2024": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:HS_Psara_F454.jpg",
+        "file_name": "HS_Psara_F454.jpg",
+        "level": "subject",
+        "desc_cn": "希腊海军护卫舰“普萨拉”号（Psara，F-454）照片，拍摄时间未标注",
+        "date": "",
+        "credit": "",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Greek_frigate_Hydra_(F-452)_underway_the_Ionian_Sea_on_17_March_2022_(220317-N-DH793-2889).JPG",
+        "file_name": "Greek_frigate_Hydra_(F-452)_underway_the_Ionian_Sea_on_17_March_2022_(220317-N-DH793-2889).JPG",
+        "level": "subject",
+        "desc_cn": "希腊海军护卫舰“九头蛇”号（Hydra，F-452）航行于爱奥尼亚海，2022 年 3 月 17 日",
+        "date": "2022-03-17",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "io_ruen_2024_03_16": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Operation_Sankalp_Joint_Operation_by_IN_and_IAF_and_rescue_crew_of_MV_Ruen.jpg",
+        "file_name": "Operation_Sankalp_Joint_Operation_by_IN_and_IAF_and_rescue_crew_of_MV_Ruen.jpg",
+        "level": "event",
+        "desc_cn": "印度海军与空军“桑卡尔普”行动中救援被劫持货船 MV Ruen 船员，2024 年 3 月（据文件说明）",
+        "date": "2024-03-17",
+        "credit": "印度海军与空军（据文件说明）",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:The_Indian_Navy_destroyer_INS_Kolkata_(D63)_and_the_British_Navy_destroyer_HMS_Defender_(D36)_steam_alongside_the_Ticonderoga-class_guided-missile_cruiser_USS_Antietam_(CG_54)_during_an_exercise.JPG",
+        "file_name": "The_Indian_Navy_destroyer_INS_Kolkata_(D63)_and_the_British_Navy_destroyer_HMS_Defender_(D36)_steam_alongside_the_Ticonderoga-class_guided-missile_cruiser_USS_Antietam_(CG_54)_during_an_exercise.JPG",
+        "level": "subject",
+        "desc_cn": "印度海军“加尔各答”号（INS Kolkata，D63）与英、美舰艇演习并行航行，非救援现场",
+        "date": "",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "rs_alsace_asbm_2024_03_21": [],
+    "rs_diamond_asbm_2024_04_24": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Royal_Navy_Type_45_Destroyer_HMS_Diamond_Fires_Sea_Viper_Missiles_for_First_Time_MOD_45153952.jpg",
+        "file_name": "Royal_Navy_Type_45_Destroyer_HMS_Diamond_Fires_Sea_Viper_Missiles_for_First_Time_MOD_45153952.jpg",
+        "level": "subject",
+        "desc_cn": "英国“钻石”号（HMS Diamond，D34）首次发射“海蝰蛇”（Sea Viper）导弹的画面（MOD 图片，拍摄时间未标注）",
+        "date": "",
+        "credit": "英国国防部（MOD，据文件名）",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Type_45_HMS_Diamond_being_loaded_with_Sea_Viper_missiles_at_HMNB_Portsmouth_MOD_45159617.jpg",
+        "file_name": "Type_45_HMS_Diamond_being_loaded_with_Sea_Viper_missiles_at_HMNB_Portsmouth_MOD_45159617.jpg",
+        "level": "subject",
+        "desc_cn": "“钻石”号在朴茨茅斯皇家海军基地（HMNB Portsmouth）装填“海蝰蛇”导弹（MOD 图片）",
+        "date": "",
+        "credit": "英国国防部（MOD，据文件名）",
+        "license": ""
+      },
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Royal_Navy_Type_45_Destroyer_HMS_Diamond_MOD_45152334.jpg",
+        "file_name": "Royal_Navy_Type_45_Destroyer_HMS_Diamond_MOD_45152334.jpg",
+        "level": "subject",
+        "desc_cn": "英国皇家海军 45 型驱逐舰“钻石”号（HMS Diamond，D34）照片，非事件现场照片",
+        "date": "",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "rs_tutor_2024_06_12": [],
+    "rs_gettysburg_friendly_fire_2024_12_22": [],
+    "bs_magura_mi8_2024_12_31": [],
+    "bs_baltic_sentry_2025_01_14": [],
+    "rs_truman_claims_ceasefire_2025": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:US_Navy_100605-N-6003P-098_The_German_navy_frigate_FGS_Hessen_(F221)_is_underway_alongside_the_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_(CVN_75)_during_interoperability_operations.jpg",
+        "file_name": "US_Navy_100605-N-6003P-098_The_German_navy_frigate_FGS_Hessen_(F221)_is_underway_alongside_the_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_(CVN_75)_during_interoperability_operations.jpg",
+        "level": "subject",
+        "desc_cn": "德国“黑森”号（FGS Hessen，F221）与美“杜鲁门”号（CVN-75）2010 年 6 月并行航行的演练照片",
+        "date": "2010-06-05",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "bs_magura_v7_su30_2025_05_02": [],
+    "sa_sindoor_vikrant_karachi_2025_05": [],
+    "bs_jaguar_su35_2025_05_13": [],
+    "rs_navies_posture_2025_07_2026_09": [],
+    "bs_simferopol_2025_08_28": [],
+    "ca_southern_spear_boats_2025_09_02": [],
+    "fg_hormuz_mine_closure_2026": [],
+    "fg_lincoln_csg_claims_2026_03": [],
+    "med_arctic_metagaz_2026_03_03": [],
+    "fg_iris_dena_sunk_2026_03_04": [],
+    "fg_hormuz_destroyers_2026_05": [],
+    "bs_izumrud_2026_07_14": [],
+    "fg_hormuz_flareup_2026_09": [],
+    "bs_sig_tanker_2023_08_04": [],
+    "rs_galaxy_leader_hijack_2023_11_19": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Car_carrier_Galaxy_Leader.jpg",
+        "file_name": "Car_carrier_Galaxy_Leader.jpg",
+        "level": "subject",
+        "desc_cn": "汽车运输船“银河领袖”号（Galaxy Leader）2007 年 11 月停靠德国不来梅港，为被劫持前的港口照片",
+        "date": "2007-11-07",
+        "credit": "",
+        "license": ""
+      }
+    ],
+    "rs_rubymar_2024_02_18": [],
+    "rs_true_confidence_2024_03_06": [],
+    "rs_huang_pu_2024_03_23": [],
+    "rs_sounion_2024_08_21": [],
+    "med_conscience_malta_2025_05_02": [],
+    "rs_magic_seas_eternity_c_2025_07": [],
+    "rs_minervagracht_2025_09_29": [],
+    "bs_kairos_virat_2025_11_28": [
+      {
+        "file_page": "https://commons.wikimedia.org/wiki/File:Sea_Baby_unmanned_surface_vehicle_undertaking_sea_trials.webm",
+        "file_name": "Sea_Baby_unmanned_surface_vehicle_undertaking_sea_trials.webm",
+        "level": "subject",
+        "desc_cn": "“海上婴儿”（Sea Baby）无人水面艇海试视频，乌克兰国家安全局（SBU）发布，2024 年 1 月拍摄",
+        "date": "2024-01",
+        "credit": "乌克兰国家安全局（SBU）（据分类页摘要）",
+        "license": ""
+      }
+    ],
+    "ca_tanker_blockade_marinera_2025_12_2026_01": [],
+    "bs_sweden_shadow_fleet_2026_03_05": [],
+    "fg_touska_blockade_2026_04_19": [],
+    "bs_tankers_off_turkey_2026_05_28": [],
+    "bs_molochka_black_sea_2026_07_15": [],
+    "rs_tihamah_2026_08_11": []
+  },
+  "equipment": [
+    {
+      "category": "近防炮",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Phalanx_CIWS_PAC_fire_USS_Rainer.jpg",
+      "file_name": "Phalanx_CIWS_PAC_fire_USS_Rainer.jpg",
+      "desc_cn": "Phalanx 近程防御武器系统（CIWS）在补给舰 USS Rainier 上射击，20 毫米转管炮",
+      "date": "",
+      "credit": "",
+      "license": ""
+    },
+    {
+      "category": "近防炮",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Phalanx_CIWS_test_fire_-_081107-N-5416W-003.jpg",
+      "file_name": "Phalanx_CIWS_test_fire_-_081107-N-5416W-003.jpg",
+      "desc_cn": "Phalanx CIWS 试射照片（2008 年 11 月 7 日，据文件名）",
+      "date": "2008-11-07",
+      "credit": "",
+      "license": ""
+    },
+    {
+      "category": "舰空导弹",
+      "file_page": "https://commons.wikimedia.org/wiki/File:010329-N-6610T-503_RAM_Missile_Launch.jpg",
+      "file_name": "010329-N-6610T-503_RAM_Missile_Launch.jpg",
+      "desc_cn": "RIM-116 滚动机身导弹（RAM）发射照片（2001 年 3 月 29 日，据文件名）",
+      "date": "2001-03-29",
+      "credit": "",
+      "license": ""
+    },
+    {
+      "category": "舰空导弹",
+      "file_page": "https://commons.wikimedia.org/wiki/File:HMS_Defender_Sea_Viper.jpg",
+      "file_name": "HMS_Defender_Sea_Viper.jpg",
+      "desc_cn": "英国皇家海军 HMS Defender 与 Sea Viper 防空系统照片",
+      "date": "",
+      "credit": "",
+      "license": ""
+    },
+    {
+      "category": "激光",
+      "file_page": "https://commons.wikimedia.org/wiki/File:USS_Preble_Firing_Helios.png",
+      "file_name": "USS_Preble_Firing_Helios.png",
+      "desc_cn": "美国海军 USS Preble（DDG-88）发射 HELIOS 激光武器（美海军试验，拍摄时间未确定）",
+      "date": "",
+      "credit": "",
+      "license": ""
+    },
+    {
+      "category": "激光",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Dragonfire_laser_system_test_firing.webp",
+      "file_name": "Dragonfire_laser_system_test_firing.webp",
+      "desc_cn": "英国 DragonFire 定向能武器测试射击，据检索摘要 2024 年 1 月在赫布里底靶场进行",
+      "date": "2024-01",
+      "credit": "",
+      "license": ""
+    },
+    {
+      "category": "无人艇",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Sea_Baby_unmanned_surface_vehicle_undertaking_sea_trials.webm",
+      "file_name": "Sea_Baby_unmanned_surface_vehicle_undertaking_sea_trials.webm",
+      "desc_cn": "“海上婴儿”（Sea Baby）无人水面艇海试视频，乌克兰国家安全局（SBU）发布，2024 年 1 月拍摄",
+      "date": "2024-01",
+      "credit": "乌克兰国家安全局（SBU）（据分类页摘要）",
+      "license": ""
+    },
+    {
+      "category": "无人艇",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Ukrainian_marine_drones.jpg",
+      "file_name": "Ukrainian_marine_drones.jpg",
+      "desc_cn": "乌克兰海上无人艇（marine drones）图片，画面细节与拍摄日期未核实",
+      "date": "",
+      "credit": "",
+      "license": ""
+    },
+    {
+      "category": "直升机",
+      "file_page": "https://commons.wikimedia.org/wiki/File:AW159_Wildcat_equipped_with_Martlet_missiles.jpg",
+      "file_name": "AW159_Wildcat_equipped_with_Martlet_missiles.jpg",
+      "desc_cn": "AW159“野猫”直升机挂载 Martlet 导弹，针对小型高速水面目标",
+      "date": "",
+      "credit": "",
+      "license": ""
+    },
+    {
+      "category": "其他",
+      "file_page": "https://commons.wikimedia.org/wiki/File:IDF_Iron_Dome_2021.jpg",
+      "file_name": "IDF_Iron_Dome_2021.jpg",
+      "desc_cn": "以色列国防军“铁穹”（Iron Dome）防空系统照片（2021 年，据文件名）",
+      "date": "2021",
+      "credit": "以色列国防军（据文件名）",
+      "license": ""
+    }
+  ]
+}

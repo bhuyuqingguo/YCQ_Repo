@@ -1,0 +1,11 @@
+本章收录海上小岛（含礁、平台、离岸设施）类案例{count:海上小岛}个，{tab:ct_海上小岛}给出全部案例一览。这一类分为三组。
+
+第一组是南海仁爱礁补给对峙。本汇编按时间顺序收录了2023年8月至2026年9月的7个节点（{case:ayungin_2023_08_05_water_cannon,ayungin_2023_10_22_collisions,ayungin_2023_12_10_water_cannon,ayungin_2024_03_water_cannon_injuries,ayungin_2024_06_17_boarding_clash,ayungin_provisional_2024_07,ayungin_2026_09_24_blockade}），可以完整看到手段从水炮、拦阻机动到登临，再到临时安排和2026年9月海警与海军联合拦截的变化过程。各节点中方与菲方的口径差异较大，均在案例中并列给出。同一方向还收录了2024年8月仙宾礁碰撞和2025年8月11日黄岩岛附近中国海警船与海军舰艇相撞事件（{case:sabina_2024_08_collisions,scarborough_2025_08_11_collision}）。
+
+第二组是黑海的离岸平台、沙嘴与小岛：乌克兰特种部队夺回博伊科塔钻井平台、突袭坦德拉与金伯恩沙嘴、登陆塔尔汉库特角，以及蛇岛的相关线索（{case:bs_boyko_towers_2023_09_11,bs_tendra_kinburn_raids_2024_08,bs_tarkhankut_raid_2023_08_24,bs_snake_island_2023_2026_leads}）。这一组的共同特点是小股力量乘快艇夜间登陆、短时占领或破坏后撤离，离岸平台上的雷达和电子设施是主要目标。
+
+第三组是海底管线与电缆：波罗的海"新新北极熊"号锚损Balticconnector管线、"鹰S"号拖锚损坏Estlink 2电缆、2025年跨年夜芬兰湾电缆受损，以及2023年2月马祖海缆中断、2025年2月澎湖海缆被"宏泰58"号损坏（{case:bs_balticconnector_2023_10_08,bs_eagle_s_estlink2_2024_12_25,bs_fitburg_2025_12_31,matsu_cables_2023_02,penghu_cable_hongtai58_2025_02}）。这些事件的意图大多仍有争议，但对离岸设施的防护和监测提出了相同的问题。此外，红海卡马兰岛遭美英空袭的案例也归入本类（{case:ye_kamaran_island_strikes_2024_06}）。
+
+{fig:f_baltic}给出了波罗的海方向的案例分布。
+
+!fig f_baltic|f_baltic.png|波罗的海—北海方向案例分布|本报告根据所收录案例坐标绘制|158

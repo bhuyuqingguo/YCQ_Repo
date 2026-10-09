@@ -1,0 +1,2523 @@
+[
+ {
+  "case_key": "rs_carney_2023_10_19",
+  "category": "远海机动编组",
+  "title_cn": "“卡尼”号九小时拦截胡塞首波远程打击",
+  "subtitle_cn": "2023年10月19日 红海北部 美国海军“卡尼”号驱逐舰拦截也门方向飞来的巡航导弹与无人机",
+  "date_start": "2023-10-19",
+  "date_end": "",
+  "location_cn": "红海北部（Northern Red Sea）",
+  "lat": 26.5,
+  "lon": 35.5,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（安萨尔拉，Ansar Allah）",
+  "defender": "美国海军阿利·伯克级导弹驱逐舰“卡尼”号（USS Carney, DDG-64），时隶属“杰拉尔德·R·福特”号航母打击群",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "异构"
+  ],
+  "attack_means_cn": "对陆攻击巡航导弹3枚、无人机约8架（五角大楼当日口径）；后续二手材料上修为巡航导弹4枚、无人机15架。航向向北，五角大楼称“可能”飞向以色列境内目标。",
+  "defense_means_cn": "“卡尼”号以“标准-2”（SM-2）舰空导弹实施拦截（美国官员口径），全部在海上空域击落。",
+  "narrative_cn": "2023年10月19日，加沙战争爆发后第12天，在红海北部活动的美国海军阿利·伯克级导弹驱逐舰“卡尼”号（USS Carney, DDG-64）对一批从也门胡塞武装控制区向北飞行的导弹和无人机实施拦截。五角大楼新闻秘书帕特·赖德（Pat Ryder）准将当日在简报中通报：该舰交战对象为3枚对陆攻击巡航导弹和约8架无人机，这些武器“可能”飞向以色列境内目标，但美方无法确定其具体目标；美方初步评估“卡尼”号本身不是攻击目标，舰上无人员受伤。据美国官员介绍，该舰使用“标准-2”舰空导弹拦截，目标均在海面上空被击落。\n\n“卡尼”号当时编入“杰拉尔德·R·福特”号（USS Gerald R. Ford）航母打击群。该打击群在10月7日之后被派往东地中海，用意是威慑伊朗和黎巴嫩真主党扩大战事。“卡尼”号交战时位于红海北部。\n\n此后的报道对交战规模做了上修。《海军时报》在2023年12月16日的报道中提及，“卡尼”号10月19日“据报用了9个小时”击落从胡塞控制区射向以色列的无人机和导弹齐射；另有二手材料称全天共击落4枚巡航导弹和15架无人机。上述数字未见五角大楼正式更正，宜作为参考口径。\n\n这次交战是加沙战争期间美国海军舰艇首次对胡塞武装发射的武器进行实战拦截。此后一个月，胡塞武装将打击重点转向红海商船（美国中央司令部后来以2023年11月19日为其攻击商船航道的起算点），美英及欧洲多国舰艇随即卷入持续两年多的红海防空作战。",
+  "defense_effect_cn": "按五角大楼口径，来袭目标全部在海上被击落，无舰艇受损、无人员伤亡。暴露的问题有三：一是目标判定困难，五角大楼当日承认无法确定导弹和无人机的确切目标，驱逐舰是在“目标不明”的情况下实施拦截；二是交战持续时间长，二手材料称前后约9小时，单舰需长时间保持高强度防空戒备与连续发射，对备弹和人员值更构成压力；三是以“标准-2”这类区域防空导弹对付低成本无人机，存在明显的成本不对称（美国海军学会新闻网在12月的报道中把射程约20英里的法制“紫菀-15”与“标准-2”作对比，即指向这一问题）。",
+  "claims_compare_cn": "五角大楼（赖德准将，10月19日）：3枚对陆攻击巡航导弹、约8架无人机，“可能”飞向以色列，不能确定目标，“卡尼”号初步评估不是目标。后续二手材料：9小时内击落4枚巡航导弹、15架无人机，数字高于官方首日口径。胡塞方面：本组未检索到其当日公开认领的记录。以色列方面：本组未检索到以方就该批目标的公开表态。",
+  "losses_cn": "美方：无舰艇受损、无人员伤亡（五角大楼口径）。胡塞方面：被拦截的3—4枚巡航导弹与8—15架无人机（按不同口径）。",
+  "analysis_cn": "胡塞远程打击的航线沿红海纵向北飞，穿越了美舰在红海北部的防空覆盖区，使原本承担威慑任务的驱逐舰临时充当了以色列的前出拦截层。对海军而言，这次交战的启示在于：远程弹药未必以舰艇为目标，但舰艇因处于航线上而必须决定是否开火，交战规则和目标判定会被迫前移；长时间、多目标的交战消耗以高价拦截弹为主，此后欧洲多国舰艇在红海改用舰炮打无人机（见“杜伊里奥”号、“黑森”号、“九头蛇”号案例），与这一成本问题直接相关。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "ABC News",
+    "title": "US Navy destroyer in Red Sea shoots down cruise missiles potentially headed toward Israel: Pentagon",
+    "title_cn": "五角大楼：美海军驱逐舰在红海击落可能飞向以色列的巡航导弹",
+    "author": "ABC News",
+    "date": "2023-10-19",
+    "url": "https://abc13.com/us-navy-destroyer-red-sea-houthis-yemen/13940798/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Voice of America（经 GlobalSecurity.org 转载）",
+    "title": "US Warship in Red Sea Shoots Down Missiles, Drones Potentially Headed to Israel",
+    "title_cn": "红海美舰击落可能飞向以色列的导弹和无人机",
+    "author": "VOA",
+    "date": "2023-10-19",
+    "url": "https://www.globalsecurity.org/military/library/news/2023/10/mil-231019-voa01.htm",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "News4JAX",
+    "title": "US Navy warship from Mayport intercepts three missiles, several drones heading north out of Yemen",
+    "title_cn": "梅波特母港美舰拦截3枚导弹和数架自也门北飞的无人机",
+    "author": "News4JAX",
+    "date": "2023-10-19",
+    "url": "https://www.news4jax.com/news/politics/2023/10/19/us-navy-warship-from-mayport-intercepts-three-missiles-several-drones-heading-north-out-of-yemen/",
+    "type": "其他"
+   },
+   {
+    "publisher": "NPR（KUOW 转载）",
+    "title": "Pentagon says it shot down Yemen missiles that may have been headed towards Israel",
+    "title_cn": "五角大楼称击落可能飞向以色列的也门导弹",
+    "author": "NPR",
+    "date": "未核",
+    "url": "https://www.kuow.org/stories/pentagon-says-it-shot-down-yemen-missiles-that-may-have-been-headed-towards-israel",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Navy Times（Military Times）",
+    "title": "USS Carney takes out drone swarm in the Red Sea",
+    "title_cn": "“卡尼”号在红海击落无人机群（含10月19日“9小时”交战回顾）",
+    "author": "Military Times",
+    "date": "2023-12-16",
+    "url": "https://www.navytimes.com/news/your-navy/2023/12/16/uss-carney-takes-out-drone-swarm-in-the-red-sea/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Interesting Engineering",
+    "title": "How US destroyer shot down Houthi missiles and drones in Red Sea",
+    "title_cn": "美驱逐舰如何在红海击落胡塞导弹和无人机",
+    "author": "Interesting Engineering",
+    "date": "未核",
+    "url": "https://interestingengineering.com/military/us-destroyer-houthi-missiles-drones",
+    "type": "其他"
+   },
+   {
+    "publisher": "CDR Salamander（Substack）",
+    "title": "USS CARNEY (DDG 64) - BZ",
+    "title_cn": "“卡尼”号部署回顾（4枚巡航导弹、15架无人机的二手口径出处）",
+    "author": "CDR Salamander",
+    "date": "未核",
+    "url": "https://cdrsalamander.substack.com/p/uss-carney-ddg-64-bz",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:USS_Carney_engages_Houthi_missiles.jpg",
+    "file_name": "USS_Carney_engages_Houthi_missiles.jpg",
+    "desc_cn": "“卡尼”号（DDG-64）2023年10月19日在红海北部发射舰空导弹，拦截胡塞巡航导弹与无人机",
+    "date": "2023-10-19",
+    "credit": "U.S. Navy / Mass Communication Specialist 2nd Class Aaron Lau",
+    "license": "Public Domain（美国政府作品）",
+    "verified": true,
+    "info_source": "协调员提供的已知文件页（第一轮任务说明），本轮沿用"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:USS_Carney_(DDG-64)",
+    "file_name": "（类别页）",
+    "desc_cn": "“卡尼”号驱逐舰图集，美国海军公开照片多为公有领域；需从中挑选2023年10月19日交战发射照片",
+    "date": "",
+    "credit": "U.S. Navy",
+    "license": "Public Domain（美国政府作品，待核）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "来袭巡航导弹": "3（五角大楼首日）/4（二手材料）",
+   "来袭无人机": "约8（五角大楼首日）/15（二手材料）",
+   "交战持续时间": "约9小时（媒体“据报”）",
+   "拦截武器": "SM-2",
+   "美方损失": "0"
+  }
+ },
+ {
+  "case_key": "rs_usn_munitions_expenditure_2023_2025",
+  "category": "远海机动编组",
+  "title_cn": "美舰红海射弹220枚，导弹费用逾5亿美元",
+  "subtitle_cn": "2023年10月—2025年1月 红海—亚丁湾 美国海军对胡塞导弹与无人机防御作战的弹药消耗与金额（综合统计条目）",
+  "date_start": "2023-10-19",
+  "date_end": "2025-01-15",
+  "location_cn": "红海—亚丁湾（Red Sea – Gulf of Aden）",
+  "lat": 15.5,
+  "lon": 41.5,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（安萨尔真主，Ansar Allah）",
+  "defender": "美国海军部署于红海—亚丁湾的驱逐舰、巡洋舰与航母打击群",
+  "outcome": "防御成功",
+  "domains": [
+   "空中",
+   "水面"
+  ],
+  "patterns": [
+   "集群",
+   "异构",
+   "饱和"
+  ],
+  "attack_means_cn": "胡塞反舰弹道导弹、反舰巡航导弹、单向攻击无人机等。美方未公布胡塞对美舰来袭武器的统一总数。",
+  "defense_means_cn": "截至2025年1月（海军官员口径）：舰艇在380次交战中发射导弹220枚，其中“标准-2”（SM-2）约120枚、“标准-6”（SM-6）约80枚、改进型“海麻雀”（ESSM）与“标准-3”（SM-3）合计约20枚；127毫米（5英寸）炮弹160发。另有舰载机空空导弹（仅“艾森豪威尔”号打击群即近60枚）。对岸打击的“战斧”导弹不在220枚之内。",
+  "narrative_cn": "2023年10月19日“卡尼”号首次在红海拦截胡塞导弹和无人机后，美国海军驱逐舰、巡洋舰长期在红海—亚丁湾承担防空和护航任务。关于弹药消耗，美方先后给出三组口径。\n\n第一组是金额。2024年4月，美国海军部长卡洛斯·德尔托罗（Carlos Del Toro）在参议院听证会上称：“我们在弹药支出上已接近10亿美元。”他以此要求国会通过补充拨款，补充在该地区消耗的弹药。报道指出，这一数字是否包含4月13—14日拦截伊朗对以色列导弹袭击所用弹药，尚不清楚（Defense One 2024年4月报道）。\n\n第二组是单个航母打击群。2024年7月“艾森豪威尔”号航母打击群返港后，第2航母打击群公布：该群各舰从垂直发射系统发射“标准”系列导弹155枚、“战斧”对陆攻击导弹135枚，舰载机发射空空导弹近60枚、投放空地弹药420件（见“艾森豪威尔”号打击群案例）。\n\n第三组是截至2025年1月的海军合计数。据Military.com 2025年1月15日报道，一名海军官员在关于红海经验教训的研讨会上称，海军舰艇在380次交战中共发射导弹220枚、5英寸炮弹160发。其中SM-2约120枚，SM-6约80枚，ESSM与SM-3合计约20枚；该数字不含攻击岸上胡塞目标的“战斧”导弹。按该报道的单价口径，SM-2每枚约200万美元，SM-6约为其两倍（约400万美元），报道据此称仅导弹费用就“远超5亿美元”，但精确总额难以计算。\n\n具体交战中，2024年11月11日“斯托克代尔”号曾以一枚SM-6拦截来袭导弹，并以5英寸舰炮击落一架无人机（布拉德·库珀中将2025年1月口述，见曼德海峡案例）。Military.com 的报道标题称官员表示“情况正在改变”，但本组仅见标题和摘要，未见具体改变的措施和比例。",
+  "defense_effect_cn": "按美方口径，上述交战中没有美国海军舰艇被胡塞武器命中。代价主要体现在弹药上：15个月内仅SM-2和SM-6就发射约200枚，单个航母打击群在一次部署中发射“标准”导弹155枚。220枚导弹对应380次交战，另有160发5英寸炮弹，说明舰炮已成为对付无人机的补充手段（另见德国、意大利、希腊舰艇以舰炮拦截的案例）。德尔托罗以补充拨款为由公开金额，说明消耗速度已对库存和预算构成压力。暴露的问题是：主要拦截手段仍是单价数百万美元的舰空导弹，而胡塞来袭武器多为低成本无人机和导弹。",
+  "claims_compare_cn": "德尔托罗（2024年4月）：弹药支出“接近10亿美元”，统计范围未说明，是否包含拦截伊朗导弹不明。Military.com（2025年1月15日）：220枚导弹、160发炮弹、380次交战，导弹费用“远超5亿美元”（按单价估算，不是官方核算）。第2航母打击群（2024年7月）：只公布本群分项数。任务线索中“约220枚、10亿美元以上”的说法，220枚已证实；“10亿美元以上”未见官方原话，德尔托罗的原话是“接近”10亿美元，且时间早于220枚的统计。胡塞方面：未检索到可核实的己方发射总数。",
+  "losses_cn": "美方：未见舰艇被命中的记录（美方口径）。弹药：导弹220枚、炮弹160发（截至2025年1月）。本组按Military.com单价粗算：SM-2约120枚×200万美元＋SM-6约80枚×400万美元≈5.6亿美元，不含ESSM、SM-3、炮弹和“战斧”。胡塞：未核。",
+  "analysis_cn": "15个月内380次交战（海军官员口径），平均每月二十余次，说明这是一场持续的消耗战，而不是几次孤立的拦截。从数据看，SM-6用量约为SM-2的三分之二，说明美舰在应对反舰弹道导弹和远距离目标时大量动用高价值拦截弹。舰炮160发对应的交战次数未公布，无法计算单次用弹。成本不对称不是单纯的价格比较：驱逐舰垂直发射单元容量有限，持续拦截意味着舰艇需轮换返港补弹，这会占用兵力。补充拨款的诉求说明，库存和产能是这类长期防御作战的实际约束。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Military.com",
+    "title": "Navy's Fight in Red Sea Used 220 Missiles, But Officials Say That's Changing",
+    "title_cn": "海军红海作战消耗220枚导弹，但官员称情况正在改变",
+    "author": "Military.com",
+    "date": "2025-01-15",
+    "url": "https://www.military.com/daily-news/2025/01/15/navys-fight-red-sea-used-220-missiles-officials-say-thats-changing.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Defense One",
+    "title": "（标题据URL：Mideast missile duels have cost US Navy nearly $1B, secretary says）",
+    "title_cn": "海军部长称中东导弹对抗已使美国海军耗资近10亿美元",
+    "author": "Defense One",
+    "date": "2024-04（日未核）",
+    "url": "https://defenseone.com/threats/2024/04/mideast-missile-duels-have-cost-us-navy-nearly-1b-secretary-says/395791",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Yahoo News（转载）",
+    "title": "The US Navy has fired off nearly $1 billion in weapons fighting threats from Iran and the Houthis",
+    "title_cn": "美国海军应对伊朗和胡塞威胁已发射近10亿美元的武器",
+    "author": "Yahoo News 转载",
+    "date": "2024-04（日未核）",
+    "url": "https://news.yahoo.com/us-navy-fired-off-nearly-191932096.html",
+    "type": "其他"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "U.S Navy Fired $1 billion In Missiles To Counter Iran & Houthis In Middle East, Says Navy Secretary",
+    "title_cn": "海军部长称美国海军在中东发射价值10亿美元导弹应对伊朗与胡塞",
+    "author": "Marine Insight",
+    "date": "2024-04（日未核）",
+    "url": "https://www.marineinsight.com/?p=1840832",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The War Zone（TWZ）",
+    "title": "770 Weapons Expended By Eisenhower Carrier Strike Group On Historic Red Sea Deployment",
+    "title_cn": "“艾森豪威尔”号航母打击群在历史性红海部署中消耗770件武器",
+    "author": "TWZ",
+    "date": "2024-07（日未核）",
+    "url": "https://www.twz.com/air/770-weapons-expended-by-eisenhower-carrier-strike-group-on-historic-red-sea-deployment",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "USNI News（美国海军学会新闻网）",
+    "title": "Crew of USS Stockdale Shot Down Houthi Drones with 5-Inch Gun, Says Admiral",
+    "title_cn": "海军将领称“斯托克代尔”号舰员以5英寸舰炮击落胡塞无人机",
+    "author": "USNI News",
+    "date": "2025-01-30",
+    "url": "https://news.usni.org/2025/01/30/crew-of-uss-stockdale-shot-down-houthi-drones-with-5-inch-gun-says-admiral",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:USS_Carney_engages_Houthi_missiles.jpg",
+    "file_name": "USS_Carney_engages_Houthi_missiles.jpg",
+    "desc_cn": "“卡尼”号2023年10月19日发射舰空导弹拦截胡塞目标（示意美舰“标准”导弹消耗，非统计期内单一事件专属）",
+    "date": "2023-10-19",
+    "credit": "U.S. Navy / Mass Communication Specialist 2nd Class Aaron Lau",
+    "license": "Public Domain（美国政府作品）",
+    "verified": true,
+    "info_source": "协调员提供的已知文件页（第一轮任务说明），本轮沿用"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Operation_Prosperity_Guardian",
+    "file_name": "（类别页）Category:Operation Prosperity Guardian",
+    "desc_cn": "“繁荣卫士”行动类别页，检索时含12个媒体文件：行动地图、2024年1月中央司令部照片与视频、2024年5月30日空袭也门时的英国皇家空军“台风”战斗机、2024年1月8日“梅森”号与“艾森豪威尔”号在红海航行照片等（具体文件名未在检索结果中出现，需进类别页挑选）",
+    "date": "",
+    "credit": "U.S. Navy / CENTCOM / UK MoD 等",
+    "license": "以各文件页为准",
+    "verified": true,
+    "info_source": "WebSearch（commons.wikimedia.org）2026-10-09，类别页真实出现"
+   }
+  ],
+  "stats": {
+   "条目性质": "综合统计条目，非单一交战事件",
+   "海军交战次数": "380（截至2025-01，海军官员口径）",
+   "发射导弹": "220（SM-2约120、SM-6约80、ESSM+SM-3约20；不含战斧）",
+   "5英寸炮弹": "160",
+   "导弹费用": "远超5亿美元（Military.com估算）；本组按单价粗算SM-2+SM-6约5.6亿美元",
+   "海军部长口径": "弹药支出接近10亿美元（2024-04，德尔托罗）",
+   "艾森豪威尔号打击群": "标准导弹155、战斧135、空空导弹近60、空地弹药420",
+   "SM-2单价": "约200万美元（Military.com）",
+   "SM-6单价": "约400万美元（Military.com）"
+  }
+ },
+ {
+  "case_key": "rs_eisenhower_csg_2023_11_2024_07",
+  "category": "远海机动编组",
+  "title_cn": "“艾森豪威尔”号群九个月耗弹约770件",
+  "subtitle_cn": "2023年11月—2024年7月 红海—亚丁湾 美国海军“德怀特·D·艾森豪威尔”号航母打击群作战部署，以及胡塞“命中航母”宣传与美方否认",
+  "date_start": "2023-11-01",
+  "date_end": "2024-07-14",
+  "location_cn": "红海—亚丁湾（Red Sea – Gulf of Aden）",
+  "lat": 17.0,
+  "lon": 40.0,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装",
+  "defender": "美国海军“德怀特·D·艾森豪威尔”号（USS Dwight D. Eisenhower, CVN-69）航母打击群（第2航母打击群）",
+  "outcome": "防御成功",
+  "domains": [
+   "空中",
+   "水面"
+  ],
+  "patterns": [
+   "集群",
+   "异构",
+   "饱和"
+  ],
+  "attack_means_cn": "胡塞对该群舰艇及过往商船的反舰弹道导弹、反舰巡航导弹和单向攻击无人机攻击（美方点名2023年12月31日、2024年1月9日及其后多次）；胡塞宣称两次以导弹打击航母本身（2024年5月底/6月初、6月22日）。",
+  "defense_means_cn": "各舰从垂直发射系统发射“标准”系列导弹155枚（自卫用途为主）；舰载机发射空空导弹近60枚；对岸打击使用“战斧”导弹135枚、空地弹药420件。",
+  "narrative_cn": "“德怀特·D·艾森豪威尔”号（USS Dwight D. Eisenhower, CVN-69，昵称“艾克”）航母打击群此次部署约九个月（美国海军口径），其中在红海—亚丁湾执行“繁荣卫士”行动护航、防空和对也门胡塞目标打击的时间，报道多记为2023年11月至2024年6月。本组前述的2024年1月9日美英挫败首次大规模混合齐射、1月30日“格雷夫利”号近防炮末端拦截，都发生在这一部署期内。\n\n2024年7月14日（周日），“艾森豪威尔”号返回诺福克海军基地。第2航母打击群公布的部署统计称：该群舰艇从垂直发射系统共发射“标准”系列导弹155枚、“战斧”对陆攻击导弹135枚，分别用于自卫和预先计划的打击；舰载机发射空空导弹近60枚，投放空地弹药420件。TWZ据此合计约770件，并指出，部分曾随该群行动的舰艇所发射的导弹是否计入这一数字并不清楚。美国海军新闻稿称，多名飞行员因在2023年12月31日、2024年1月9日及其后胡塞攻击该群舰艇时的表现获颁个人勋章。\n\n部署后期，胡塞武装两次宣称“命中”该航母。2024年5月30日美英联合空袭也门后，胡塞军事发言人叶海亚·萨雷亚（Yahya Saree）宣称以导弹对“艾森豪威尔”号实施了“准确、直接”的打击，胡塞方面还在社交媒体发布所谓受损照片。一名美国国防官员对路透社表示，不知道有任何针对该舰的攻击；美国中央司令部对美国之音称：“胡塞关于打击‘艾森豪威尔’号或任何美国海军舰艇的说法毫无根据，这是胡塞数月来一直在进行的虚假信息宣传。”《国家利益》称，中国和伊朗官方媒体曾传播一张明显经过篡改的该舰照片（单一来源）。\n\n6月22日，胡塞再次宣称在红海攻击了“艾森豪威尔”号，同时在阿拉伯海攻击商船“环球导航者”号（Transworld Navigator）。两名美国官员对路透社称该说法不实。五角大楼当天表示，该航母打击群在部署期间保护了过往红海、曼德海峡和亚丁湾的船舶，“艾森豪威尔”号当天结束在红海的部署，将短暂转往地中海。萨雷亚同期宣称，胡塞自2023年11月以来已攻击129艘船。",
+  "defense_effect_cn": "按美方口径，该群在九个月部署中没有舰艇被胡塞武器命中，并保护了大量过往商船。统计显示，对岸打击用弹（“战斧”135枚、空地弹药420件）多于防空拦截用弹（“标准”导弹155枚、空空导弹近60枚），说明航母打击群在此次部署中同时承担了防空屏障和对岸打击两项任务。暴露的问题有两方面。一是消耗：单个打击群发射155枚“标准”导弹，相当于海军截至2025年1月全部舰空导弹消耗（220枚）的大部分（两者统计口径不完全一致）。二是持久性：胡塞的攻击在该群部署全程没有停止，打击行动未能消除对航运的威胁。",
+  "claims_compare_cn": "胡塞：2024年5月底/6月初与6月22日两次宣称打击“艾森豪威尔”号，并发布所谓受损照片。美方：5月底/6月初国防官员称“不知道有任何攻击”，中央司令部称“毫无根据”“虚假信息宣传”；6月22日两名官员称“不正确”。第三方：未见任何独立影像或航运通报证实航母受损；该舰按计划结束部署并于7月14日返港。《国家利益》称伪造照片经中伊官方媒体传播，为单一来源。统计口径：海军只公布分项数，“770件”为媒体合计。",
+  "losses_cn": "美方：未见舰艇受损记录（美方口径）。弹药：“标准”导弹155枚、“战斧”135枚、空空导弹近60枚、空地弹药420件（第2航母打击群）。胡塞：未核。",
+  "analysis_cn": "胡塞对航母的“命中”宣称配合伪造图片在多国官方媒体传播，属于有组织的信息战。美方的应对是迅速、明确地否认，再以航母按计划返港和公开弹药统计作为事实反证。对情报研判来说，航母动向（转场地中海、按期返港）和美方公开的分项统计，比交战双方的即时声明更可靠。海军公布的分项数字，给出了一个航母打击群在中等强度海上冲突中九个月部署的弹药消耗量级，可作为同类部署的参照。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "DVIDS（美国国防视觉信息分发服务）/ Carrier Strike Group Two",
+    "title": "Unprecedented: Dwight D. Eisenhower Carrier Strike Group Returns from Combat Deployment",
+    "title_cn": "前所未有：“艾森豪威尔”号航母打击群结束作战部署返港",
+    "author": "Carrier Strike Group Two Public Affairs",
+    "date": "2024-07（日未核）",
+    "url": "https://www.dvidshub.net/news/printable/476140",
+    "type": "官方"
+   },
+   {
+    "publisher": "Stars and Stripes（星条旗报）",
+    "title": "（标题据URL：navy eisenhower carrier homecoming middle east houthis）",
+    "title_cn": "“艾森豪威尔”号航母从中东返港",
+    "author": "Stars and Stripes",
+    "date": "2024-07-14",
+    "url": "https://www.stripes.com/theaters/us/2024-07-14/navy-eisenhower-carrier-homecoming-middle-east-houthis-14488052.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The War Zone（TWZ）",
+    "title": "770 Weapons Expended By Eisenhower Carrier Strike Group On Historic Red Sea Deployment",
+    "title_cn": "“艾森豪威尔”号航母打击群在历史性红海部署中消耗770件武器",
+    "author": "TWZ",
+    "date": "2024-07（日未核）",
+    "url": "https://www.twz.com/air/770-weapons-expended-by-eisenhower-carrier-strike-group-on-historic-red-sea-deployment",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "UK Defence Journal（英国防务杂志）",
+    "title": "U.S. carrier group fires over 770 weapons against Houthis",
+    "title_cn": "美国航母打击群对胡塞发射770余件武器",
+    "author": "UK Defence Journal",
+    "date": "2024-07（日未核）",
+    "url": "https://ukdefencejournal.org.uk/u-s-carrier-group-fires-over-770-weapons-against-houthis/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Seapower Magazine",
+    "title": "Dwight D. Eisenhower Carrier Strike Group Returns from Combat Deployment",
+    "title_cn": "“艾森豪威尔”号航母打击群结束作战部署返港",
+    "author": "Seapower",
+    "date": "2024-07（日未核）",
+    "url": "https://seapowermagazine.org/dwight-d-eisenhower-carrier-strike-group-returns-from-combat-deployment/?print=pdf",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Voice of America（美国之音）",
+    "title": "（标题据URL：US denies Houthis struck USS Eisenhower）",
+    "title_cn": "美方否认胡塞击中“艾森豪威尔”号",
+    "author": "VOA",
+    "date": "2024-06（日未核）",
+    "url": "https://voanews.com/a/us-denies-houthis-struck-uss-eisenhower/7643392.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "GlobalSecurity.org（转载美国之音）",
+    "title": "mil-240605-voa01",
+    "title_cn": "美国之音报道转载",
+    "author": "VOA",
+    "date": "2024-06-05（转载日）",
+    "url": "https://www.globalsecurity.org/military/library/news/2024/06/mil-240605-voa01.htm",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Maritime Executive（海事执行官）",
+    "title": "Houthis Claim Targeting Aircraft Carrier Eisenhower in Retaliatory Strike",
+    "title_cn": "胡塞宣称在报复性打击中瞄准“艾森豪威尔”号航母",
+    "author": "The Maritime Executive",
+    "date": "2024-05/06（日未核）",
+    "url": "https://maritime-executive.com/article/houthis-claim-targeting-aircraft-carrier-eisenhower-in-retaliatory-strike",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Al Arabiya English（阿拉伯卫星电视台英文网）",
+    "title": "Houthi claims of attack on US aircraft carrier are false: US officials",
+    "title_cn": "美国官员：胡塞关于攻击美国航母的说法不实",
+    "author": "Al Arabiya / Reuters",
+    "date": "2024-06-22",
+    "url": "https://english.alarabiya.net/News/gulf/2024/06/22/likely-houthi-attack-targets-ship-in-gulf-of-aden-as-eisenhower-reportedly-heads-home",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "The National Interest（国家利益）",
+    "title": "Did Houthis Strike a U.S. Aircraft Carrier?",
+    "title_cn": "胡塞击中美国航母了吗？",
+    "author": "The National Interest",
+    "date": "2024-06（日未核）",
+    "url": "https://nationalinterest.org/node/211326",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Flight_deck_of_USS_Dwight_D._Eisenhower_(CVN-69)",
+    "file_name": "（类别页）Category:Flight deck of USS Dwight D. Eisenhower (CVN-69)",
+    "desc_cn": "“艾森豪威尔”号飞行甲板图集；检索摘要提到Commons另有2024年3月5日VFA-32中队F/A-18F在红海从该舰起飞的照片（文件名未在结果中出现）",
+    "date": "",
+    "credit": "U.S. Navy",
+    "license": "Public Domain（美国政府作品，以文件页为准）",
+    "verified": true,
+    "info_source": "WebSearch（commons.wikimedia.org）2026-10-09"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Operation_Prosperity_Guardian",
+    "file_name": "（类别页）Category:Operation Prosperity Guardian",
+    "desc_cn": "“繁荣卫士”行动类别页，检索时含12个媒体文件：行动地图、2024年1月中央司令部照片与视频、2024年5月30日空袭也门时的英国皇家空军“台风”战斗机、2024年1月8日“梅森”号与“艾森豪威尔”号在红海航行照片等（具体文件名未在检索结果中出现，需进类别页挑选）",
+    "date": "",
+    "credit": "U.S. Navy / CENTCOM / UK MoD 等",
+    "license": "以各文件页为准",
+    "verified": true,
+    "info_source": "WebSearch（commons.wikimedia.org）2026-10-09，类别页真实出现"
+   }
+  ],
+  "stats": {
+   "部署时长": "约9个月（海军口径），2024-07-14 返回诺福克",
+   "在红海作战期": "约2023-11 至 2024-06-22（报道口径；date_start 取2023-11-01，日未核）",
+   "标准系列导弹": "155",
+   "战斧": "135",
+   "空空导弹": "近60",
+   "空地弹药": "420",
+   "合计": "约770（TWZ合计，非官方单一数字）",
+   "胡塞宣称命中航母": "2次（2024-05底/06初、2024-06-22），美方均否认",
+   "胡塞宣称累计攻击船舶": "129艘（2023-11以来，萨雷亚2024-06口径）"
+  }
+ },
+ {
+  "case_key": "rs_languedoc_2023_12_09",
+  "category": "远海机动编组",
+  "title_cn": "“朗格多克”号首开法舰防空导弹自卫先例",
+  "subtitle_cn": "2023年12月9—11日 红海 法国海军“朗格多克”号护卫舰以“紫菀-15”导弹击落胡塞无人机",
+  "date_start": "2023-12-09",
+  "date_end": "2023-12-11",
+  "location_cn": "红海南部，也门海岸以西海域（Red Sea, off Yemen）",
+  "lat": 15.0,
+  "lon": 41.6,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装",
+  "defender": "法国海军阿基坦级（FREMM）多任务护卫舰“朗格多克”号（Languedoc, D653）",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "第一次：2架自也门海岸方向直飞该舰的无人机（法国官员称为“致命”无人机）；第二次（数日后）：1架直接威胁挪威籍油轮“斯特林达”号（Strinda）的无人机。",
+  "defense_means_cn": "“紫菀-15”（Aster 15）舰空导弹（AFP 援引匿名法军消息源；国防部长勒科尔尼在参议院确认使用了“紫菀”导弹）。美国海军学会新闻网称该弹射程略超20英里。",
+  "narrative_cn": "2023年12月9日（周六），胡塞武装宣布，除非食品和药品获准进入加沙，否则将攻击任何驶往以色列港口的船舶。当晚至次日，在红海活动的法国海军阿基坦级多任务护卫舰“朗格多克”号（Languedoc, D653）遭遇两架从也门海岸方向直飞而来的无人机。法国总参谋部于12月10日（周日）通报，该舰对两架无人机开火，将其全部摧毁。一名不愿具名的法军消息人士向法新社透露，舰上使用的是“紫菀-15”（Aster 15）短程舰空导弹。\n\n法国国防部长塞巴斯蒂安·勒科尔尼（Sébastien Lecornu）随后在参议院确认了事件细节，称无人机是在攻击这艘正在红海活动的护卫舰，舰上发射“紫菀”导弹将其摧毁。法方将此次开火定性为“正当防卫”。据报道，这是法国海军首次在自卫中实际使用舰空导弹。\n\n数日后，胡塞武装又以导弹击中红海一艘油轮（美国海军学会新闻网12月12日报道）。《海军新闻》（Naval News）报道、美国海军学会新闻网转述称，“朗格多克”号又拦截并摧毁了一架直接威胁该油轮的无人机。美国海军学会新闻网12月12日的报道标题即为“胡塞武装以导弹击中红海油轮，法国护卫舰击落无人机”。\n\n与美国驱逐舰普遍使用的“标准-2”相比，“紫菀-15”射程较短（约20余英里），定位为舰艇自身及近距护航对象的点/近区防空。“朗格多克”号的两次交战早于英国“钻石”号12月15—16日夜间的“海蝰蛇”首战，早于英舰的首次实战拦截。",
+  "defense_effect_cn": "两次交战均成功拦截，舰艇和被护船舶未因无人机受损。暴露的问题：以单价较高的“紫菀”导弹对付廉价无人机，引出了后续欧洲各舰改用舰炮（意大利“杜伊里奥”号、德国“黑森”号、希腊“九头蛇”号）的做法。",
+  "claims_compare_cn": "法国总参谋部（12月10日）：两架无人机“直接朝向”该舰飞来，全部摧毁。勒科尔尼（参议院）：无人机在攻击该舰，使用“紫菀”导弹。导弹型号“紫菀-15”来自法新社援引的匿名消息源，未见官方书面确认。胡塞方面：本组未检索到其承认以法舰为目标的记录。交战具体时刻（12月9日夜间或10日凌晨）各报道表述不一，本组未能核到法方通报原文。",
+  "losses_cn": "法方：无损失（官方口径）。胡塞方面：3架无人机被击落（两次交战合计，按法方与媒体口径）。",
+  "analysis_cn": "法舰的首战说明，胡塞在宣布“封锁”的当晚即对非美舰艇实施试探性攻击，攻击对象不限于美英。短程“紫菀-15”在此类单向攻击无人机面前够用，但面对后来出现的反舰弹道导弹则需换装射程更远的“紫菀-30”（参见2024年3月“阿尔萨斯”号案例）。对编组防空而言，护航舰与被护商船的相对距离必须压缩到短程拦截弹的保护半径内。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "USNI News（美国海军学会新闻网）",
+    "title": "Lethal Drones from Yemen Attacked French Frigate in Red Sea, Say Officials",
+    "title_cn": "官员称：来自也门的致命无人机袭击红海法国护卫舰",
+    "author": "USNI News",
+    "date": "2023-12-11",
+    "url": "https://news.usni.org/2023/12/11/lethal-drones-from-yemen-attacked-french-frigate-in-red-sea-say-officials",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "USNI News（美国海军学会新闻网）",
+    "title": "Houthis Hit Tanker with Missile in Red Sea, French Frigate Downs Drones",
+    "title_cn": "胡塞武装以导弹击中红海油轮，法国护卫舰击落无人机",
+    "author": "USNI News",
+    "date": "2023-12-12",
+    "url": "https://news.usni.org/2023/12/12/houthis-hit-tanker-with-missile-in-red-sea-french-frigate-downs-drones",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Al-Monitor（援引 AFP）",
+    "title": "French frigate downs drones over Red Sea: military",
+    "title_cn": "法军：法国护卫舰在红海上空击落无人机",
+    "author": "AFP",
+    "date": "2023-12（日未核）",
+    "url": "https://www.al-monitor.com/originals/2023/12/french-frigate-downs-drones-over-red-sea-military",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Al-Monitor（援引 AFP）",
+    "title": "France says downing drones in Red Sea 'legitimate defence'",
+    "title_cn": "法国称在红海击落无人机属“正当防卫”",
+    "author": "AFP",
+    "date": "2023-12（日未核）",
+    "url": "https://www.al-monitor.com/originals/2023/12/france-says-downing-drones-red-sea-legitimate-defence",
+    "type": "通讯社"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Languedoc_(D653)",
+    "file_name": "（类别页）",
+    "desc_cn": "“朗格多克”号护卫舰图集（类别名待核，可能为 Category:Languedoc (ship, 2016) 等）",
+    "date": "",
+    "credit": "Marine nationale / 各作者",
+    "license": "待核",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "被击落无人机": "2（12月9—10日）+1（“斯特林达”号事件）",
+   "拦截武器": "Aster 15（匿名消息源）",
+   "法方损失": "0",
+   "法国海军首次": "自卫中实际发射舰空导弹"
+  }
+ },
+ {
+  "case_key": "rs_carney_diamond_2023_12_16",
+  "category": "远海机动编组",
+  "title_cn": "美英舰艇同夜拦截胡塞无人机波次",
+  "subtitle_cn": "2023年12月15—16日 红海南部 美国“卡尼”号击落14架、英国“钻石”号以“海蝰蛇”击落1架胡塞单向攻击无人机",
+  "date_start": "2023-12-15",
+  "date_end": "2023-12-16",
+  "location_cn": "红海南部（Southern Red Sea）",
+  "lat": 14.6,
+  "lon": 42.0,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装",
+  "defender": "美国海军“卡尼”号驱逐舰（USS Carney, DDG-64）；英国皇家海军45型驱逐舰“钻石”号（HMS Diamond, D34）",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "蜂群",
+   "集群"
+  ],
+  "attack_means_cn": "以“无人机波次”（drone wave）方式发射的单向攻击无人机：美方称“卡尼”号交战14架；“钻石”号击落1架“疑似”攻击商船的无人机。前一日（12月15日）另有2枚弹道导弹击中利比里亚籍商船“帕拉蒂姆3”号（MV Palatium 3）。",
+  "defense_means_cn": "“卡尼”号：舰载防空武器（中央司令部未公布弹种）。“钻石”号：主防空导弹系统（PAAMS）发射“海蝰蛇”（Sea Viper，即“紫菀”导弹）。“梅森”号（USS Mason, DDG-87）响应“帕拉蒂姆3”号求救。",
+  "narrative_cn": "2023年12月15日，两枚胡塞弹道导弹击中利比里亚籍商船“帕拉蒂姆3”号（MV Palatium 3），美国海军“梅森”号驱逐舰（USS Mason）响应其求救。当晚至16日凌晨，胡塞武装从也门控制区以“无人机波次”方式向红海南部发射一批单向攻击无人机。\n\n美国中央司令部12月16日在社交平台X发布声明：在红海活动的“卡尼”号驱逐舰“成功交战14架”自胡塞控制区发射的无人机，评估均为单向攻击无人机，全部击落，区域内船舶无损、无人员伤亡，并已向红海地区伙伴通报威胁。《军事时报》指出，中央司令部当天没有说明“卡尼”号本身是否为攻击目标；此前“卡尼”号与“梅森”号的类似交战中，美方均称在目标不明时出于自卫开火。\n\n同一夜，英国皇家海军45型驱逐舰“钻石”号（HMS Diamond, D34）击落一架疑似以过往商船为目标的无人机。该舰12月14日刚经苏伊士运河进入红海，系针对商船遇袭增多而派出。英国国防大臣格兰特·沙普斯（Grant Shapps）宣布了此次交战：该舰从主防空导弹系统（PAAMS）发射一枚“海蝰蛇”导弹将无人机摧毁。英国国防部称，这是皇家海军数十年来首次“实战”击落空中目标；《海军瞭望》（Navy Lookout）更具体地指出，这是自1991年海湾战争以来皇家海军首次在作战中摧毁空中目标，也是皇家海军首次实战使用“紫菀”导弹（“海蝰蛇”）。在此前数日，法国“朗格多克”号已用“紫菀-15”打过同类目标。\n\n此后，“钻石”号被编入保护红海航运的多国特遣部队；2024年1月9日它与美舰一起参与挫败当时规模最大的一次胡塞无人机—导弹混合攻击（见下一案例）。",
+  "defense_effect_cn": "两舰均实现全部拦截，无损伤。问题在于：14架无人机“波次”攻击已具备饱和雏形，单舰在一夜之间连续交战十余个目标，按当时美舰主要依赖舰空导弹拦截的做法，一次波次即可消耗相当比例的垂发备弹；“钻石”号以“海蝰蛇”区域防空导弹打一架无人机，同样存在成本交换比问题（具体单价本组未检索核实，待核）。另一点是目标判定：美方承认不清楚“卡尼”号是否被瞄准，说明在航道密集区，护航舰对“无人机打谁”往往只能事后推断。",
+  "claims_compare_cn": "美国中央司令部（12月16日）：14架单向攻击无人机全部击落，无损伤。英国国防部/沙普斯：“钻石”号击落1架疑似瞄准商船的无人机，为数十年来首次实战击落空中目标。胡塞方面：本组未检索到其就本次波次发布的具体认领口径。“钻石”号交战时间有“12月15日夜”和“12月16日”两种写法，系跨夜交战所致。",
+  "losses_cn": "美英舰艇：无损失（官方口径）。商船：“帕拉蒂姆3”号前一日被2枚弹道导弹击中（损伤情况本组未核）。胡塞方面：15架无人机被击落（美14、英1）。",
+  "analysis_cn": "本案是胡塞首次以“波次”方式成批投放单向攻击无人机，美英两舰分处不同海域、各自独立拦截。它确立了此后红海防空的基本形态：低成本无人机成批来袭、驱护舰以导弹逐一拦截；英舰“首次实战”的意义在于验证45型驱逐舰PAAMS系统的实战可用性——“钻石”号此前的“海蝰蛇”发射记录是2012年在外赫布里底群岛靶场对“米拉奇”靶机的试射（英国政府2012年新闻稿）。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Navy Times（Military Times）",
+    "title": "USS Carney takes out drone swarm in the Red Sea",
+    "title_cn": "“卡尼”号在红海击落无人机群",
+    "author": "Military Times",
+    "date": "2023-12-16",
+    "url": "https://www.navytimes.com/news/your-navy/2023/12/16/uss-carney-takes-out-drone-swarm-in-the-red-sea/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Anadolu Agency（阿纳多卢通讯社）",
+    "title": "US downs 14 UAVs over Red Sea: CENTCOM",
+    "title_cn": "中央司令部：美军在红海上空击落14架无人机",
+    "author": "Şerife Çetin",
+    "date": "2023-12-16",
+    "url": "https://aa.com.tr/en/middle-east/us-downs-14-uavs-over-red-sea-centcom/3084732",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Al-Monitor（援引 AFP）",
+    "title": "US says its destroyer downs 14 drones in Red Sea launched from Yemen",
+    "title_cn": "美方称其驱逐舰在红海击落14架自也门发射的无人机",
+    "author": "AFP",
+    "date": "2023-12（日未核）",
+    "url": "https://www.al-monitor.com/originals/2023/12/us-says-its-destroyer-downs-14-drones-red-sea-launched-yemen",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Ynetnews",
+    "title": "US Navy destroyer shoots down 14 drones from Houthi-controlled Yemen, CENTCOM says",
+    "title_cn": "中央司令部：美海军驱逐舰击落14架自胡塞控制区发射的无人机",
+    "author": "Ynet",
+    "date": "未核",
+    "url": "https://www.ynetnews.com/article/hjbwmroup",
+    "type": "其他"
+   },
+   {
+    "publisher": "Navy Lookout（海军瞭望）",
+    "title": "Royal Navy destroyer HMS Diamond shoots down drone while escorting merchant ships in the Red Sea",
+    "title_cn": "皇家海军“钻石”号在红海护航时击落无人机",
+    "author": "Navy Lookout",
+    "date": "2023-12（日未核）",
+    "url": "https://www.navylookout.com/?p=51599",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Militarnyi（mil.in.ua）",
+    "title": "British destroyer HMS Diamond has shot down a drone in the Red Sea",
+    "title_cn": "英国驱逐舰“钻石”号在红海击落无人机",
+    "author": "Militarnyi",
+    "date": "2023-12（日未核）",
+    "url": "https://mil.in.ua/?p=234110",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "GOV.UK（英国国防部）",
+    "title": "HMS Diamond fires Sea Viper missile for first time",
+    "title_cn": "“钻石”号首次发射“海蝰蛇”导弹（2012年靶试）",
+    "author": "Ministry of Defence",
+    "date": "2012-05（日未核）",
+    "url": "https://www.gov.uk/government/news/hms-diamond-fires-sea-viper-missile-for-first-time",
+    "type": "官方"
+   },
+   {
+    "publisher": "Wikipedia",
+    "title": "HMS Diamond (D34)",
+    "title_cn": "“钻石”号驱逐舰条目（辅助）",
+    "author": "Wikipedia",
+    "date": "未核",
+    "url": "https://en.wikipedia.org/wiki/HMS_Diamond_(D34)",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Royal_Navy_Type_45_Destroyer_HMS_Diamond_Fires_Sea_Viper_Missiles_for_First_Time_MOD_45153952.jpg",
+    "file_name": "Royal_Navy_Type_45_Destroyer_HMS_Diamond_Fires_Sea_Viper_Missiles_for_First_Time_MOD_45153952.jpg",
+    "desc_cn": "“钻石”号在外赫布里底群岛靶场首次试射“海蝰蛇”（紫菀）导弹并击落喷气式靶机（2012年前后试射，非实战；可作“海蝰蛇”发射示意）",
+    "date": "约2012（未核）",
+    "credit": "UK Ministry of Defence（MOD 45153952）",
+    "license": "OGL（英国国防部图片，待核）",
+    "verified": true,
+    "info_source": "WebSearch（allowed_domains=commons.wikimedia.org）2026-10-09 检索结果中出现的文件页"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:HMS_Diamond_(D34).jpg",
+    "file_name": "HMS_Diamond_(D34).jpg",
+    "desc_cn": "英国皇家海军45型驱逐舰“钻石”号（D34）舰影（拍摄时间未核，非红海交战现场照片）",
+    "date": "未核",
+    "credit": "未核（见文件页）",
+    "license": "待核（见文件页）",
+    "verified": true,
+    "info_source": "WebSearch（allowed_domains=commons.wikimedia.org）2026-10-09 检索结果中出现的文件页"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:HMS_Diamond_(D34)",
+    "file_name": "（类别页）",
+    "desc_cn": "“钻石”号驱逐舰图集；英国国防部发布的红海部署照片多为 OGL 许可",
+    "date": "",
+    "credit": "UK MoD / Royal Navy",
+    "license": "OGL v3（待核）",
+    "verified": true,
+    "info_source": "WebSearch（commons.wikimedia.org）2026-10-09"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:USS_Carney_(DDG-64)",
+    "file_name": "（类别页）",
+    "desc_cn": "“卡尼”号驱逐舰图集",
+    "date": "",
+    "credit": "U.S. Navy",
+    "license": "Public Domain（待核）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "卡尼号击落无人机": "14（中央司令部）",
+   "钻石号击落无人机": "1（英国国防部）",
+   "海蝰蛇实战首用": "2023-12-15/16",
+   "英舰上次实战击落空中目标": "1991年海湾战争（Navy Lookout）"
+  }
+ },
+ {
+  "case_key": "rs_largest_mixed_attack_2024_01_09",
+  "category": "远海机动编组",
+  "title_cn": "美英舰机联合挫败首次大规模混合齐射",
+  "subtitle_cn": "2024年1月9日 红海南部 胡塞武装以18架无人机、2枚反舰巡航导弹、1枚反舰弹道导弹攻击国际航道，美英舰载机与4艘驱逐舰联合拦截",
+  "date_start": "2024-01-09",
+  "date_end": "",
+  "location_cn": "红海南部国际航道（Southern Red Sea shipping lanes）",
+  "lat": 14.8,
+  "lon": 42.0,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装",
+  "defender": "美国海军“艾森豪威尔”号航母（USS Dwight D. Eisenhower, CVN-69）舰载F/A-18、驱逐舰“格雷夫利”号（USS Gravely, DDG-107）、“拉布恩”号（USS Laboon, DDG-58）、“梅森”号（USS Mason, DDG-87）；英国皇家海军“钻石”号（HMS Diamond, D34）",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "蜂群",
+   "异构",
+   "饱和"
+  ],
+  "attack_means_cn": "伊朗设计的单向攻击无人机18架、反舰巡航导弹2枚、反舰弹道导弹1枚，共21个来袭目标，约当地时间21:15（萨那时间）从胡塞控制区发射，指向数十艘商船正在通行的航道。",
+  "defense_means_cn": "“艾森豪威尔”号舰载F/A-18战斗机空中拦截；美舰“格雷夫利”号、“拉布恩”号、“梅森”号与英舰“钻石”号舰空导弹及舰炮拦截（各舰分项战果中央司令部未公布）。",
+  "narrative_cn": "2024年1月9日约21时15分（萨那时间），胡塞武装从也门控制区向红海南部发起一次“复合攻击”，使用伊朗设计的单向攻击无人机、反舰巡航导弹和一枚反舰弹道导弹，攻击方向为数十艘商船正在通过的航道。美国中央司令部当日声明：18架单向攻击无人机、2枚反舰巡航导弹和1枚反舰弹道导弹，全部被“艾森豪威尔”号航母的F/A-18战斗机、驱逐舰“格雷夫利”号、“拉布恩”号、“梅森”号以及英国“钻石”号联合击落，无人员伤亡、无船舶受损。中央司令部将其列为自2023年11月19日以来胡塞对红海商业航道的第26次攻击。\n\n英国国防大臣沙普斯称这是胡塞迄今在红海发动的规模最大的一次攻击。胡塞方面则称，这次发射的目标是一艘“协助”以色列的美国海军舰艇，并将其定性为对美军2023年12月31日击沉胡塞小艇的“初步回应”。\n\n这次攻击是此后美英直接打击也门的导火索之一。三天后的1月12日，美英对胡塞目标实施空袭，“格雷夫利”号、“梅森”号和导弹巡洋舰“菲律宾海”号（USS Philippine Sea）向也门境内发射“战斧”巡航导弹。由此，红海危机从“护航防空”转入“护航防空+对岸打击”的双线作战。\n\n从编组看，这次拦截由一个航母打击群的舰载机与多国驱逐舰共同完成：舰载F/A-18在外层截击无人机，驱逐舰在内层对付反舰导弹，英舰与美舰共同纳入同一防空交战。",
+  "defense_effect_cn": "21个来袭目标全部被击落，无损失，是多国编组在红海首次成规模的协同防空。问题同样突出：一是来袭比例中无人机占86%，大部分拦截消耗落在舰空导弹和舰载机的空空导弹上，成本交换比不利；二是攻击发生在夜间、目标为航道而非单舰，护航编队需在大面积海域内同时保护数十艘商船，防御者天然被动；三是一枚反舰弹道导弹混入齐射，使驱逐舰必须同时保持对高速再入目标的拦截准备，压缩了对无人机的处置余量。",
+  "claims_compare_cn": "美国中央司令部（1月9日）：18+2+1共21个目标全部击落，无伤亡无损伤。英国国防部（沙普斯）：“迄今在红海最大规模的胡塞攻击”。胡塞方面（军事发言人）：目标是一艘“协助以色列”的美国军舰，为对12月31日美军击沉其小艇的“初步回应”。各方对数量和舰名无分歧，分歧在于目标：美方强调攻击指向商船航道，胡塞称以美舰为目标。“最大规模”的表述，美方未用、英方限定为“在红海”。",
+  "losses_cn": "美英：无损失。商船：无受损（中央司令部）。胡塞：21件来袭武器全部损失。",
+  "analysis_cn": "这是胡塞首次把无人机、亚声速反舰巡航导弹和反舰弹道导弹编成一次齐射，形成“多类型、多方向、多高度”的异构攻击，用意在于以数量和速度差挤占防御方的火力通道。美英能全部拦截，得益于航母舰载机提供外层截击与预警纵深；若无航母在场，4艘驱逐舰单独承担21个目标的拦截，弹药与通道压力会明显增大。此案也说明，在海上编组防空中，航母的主要价值之一是提供持续的空中预警和外层拦截。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "U.S. Central Command（美国中央司令部）",
+    "title": "U.S. CENTCOM Statement on 26th Houthi Attack on Commercial Shipping Lanes in the Red Sea",
+    "title_cn": "美国中央司令部关于胡塞第26次攻击红海商业航道的声明",
+    "author": "CENTCOM",
+    "date": "2024-01-09",
+    "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3639970/us-centcom-statement-on-26th-houthi-attack-on-commercial-shipping-lanes-in-the/",
+    "type": "官方"
+   },
+   {
+    "publisher": "Iran Watch（转载中央司令部声明）",
+    "title": "U.S. CENTCOM Statement on Houthi Attack on International Shipping",
+    "title_cn": "美国中央司令部关于胡塞攻击国际航运的声明（转载）",
+    "author": "Wisconsin Project",
+    "date": "2024-01-09",
+    "url": "https://www.iranwatch.org/library/governments/united-states/executive-branch/department-defense/us-centcom-statement-houthi-attack-international-shipping",
+    "type": "智库"
+   },
+   {
+    "publisher": "Al Jazeera（半岛电视台）",
+    "title": "US, UK forces shoot down 21 drones and missiles fired by Houthis",
+    "title_cn": "美英部队击落胡塞发射的21架无人机和导弹",
+    "author": "Al Jazeera",
+    "date": "2024-01-10",
+    "url": "https://www.aljazeera.com/amp/news/2024/1/10/us-uk-forces-shoot-down-21-drones-and-missiles-fired-by-houthis",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Seatrade Maritime",
+    "title": "Navies thwart largest Houthi Red Sea attack to date",
+    "title_cn": "多国海军挫败胡塞迄今最大规模红海攻击",
+    "author": "Seatrade Maritime",
+    "date": "2024-01（日未核）",
+    "url": "https://www.seatrade-maritime.com/middle-east-africa/navies-thwart-largest-houthi-red-sea-attack-date",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Shipping Telegraph（援引 Reuters）",
+    "title": "Yemen's Houthis launch their largest Red Sea drone and missile attack",
+    "title_cn": "也门胡塞发动其最大规模红海无人机和导弹攻击",
+    "author": "Reuters",
+    "date": "2024-01（日未核）",
+    "url": "https://shippingtelegraph.com/shipping-news/yemens-houthis-launch-their-largest-red-sea-drone-and-missile-attack/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Wikipedia",
+    "title": "USS Gravely",
+    "title_cn": "“格雷夫利”号条目（1月12日发射“战斧”的辅助出处）",
+    "author": "Wikipedia",
+    "date": "未核",
+    "url": "https://en.wikipedia.org/wiki/USS_Gravely",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:USS_Dwight_D._Eisenhower_(CVN-69)",
+    "file_name": "（类别页）",
+    "desc_cn": "“艾森豪威尔”号航母图集，含2023—2024年红海部署照片（需从中筛选）",
+    "date": "",
+    "credit": "U.S. Navy",
+    "license": "Public Domain（待核）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:USS_Gravely_(DDG-107)",
+    "file_name": "（类别页）",
+    "desc_cn": "“格雷夫利”号驱逐舰图集，含2024年1月发射“战斧”照片线索",
+    "date": "",
+    "credit": "U.S. Navy",
+    "license": "Public Domain（待核）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Operation_Prosperity_Guardian",
+    "file_name": "（类别页）Category:Operation Prosperity Guardian",
+    "desc_cn": "“繁荣卫士”行动类别页，检索时含12个媒体文件：行动地图、2024年1月中央司令部照片与视频、2024年5月30日空袭也门时的英国皇家空军“台风”战斗机、2024年1月8日“梅森”号与“艾森豪威尔”号在红海航行照片等（具体文件名未在检索结果中出现，需进类别页挑选）",
+    "date": "",
+    "credit": "U.S. Navy / CENTCOM / UK MoD 等",
+    "license": "以各文件页为准",
+    "verified": true,
+    "info_source": "WebSearch（commons.wikimedia.org）2026-10-09，类别页真实出现"
+   }
+  ],
+  "stats": {
+   "来袭单向攻击无人机": "18",
+   "来袭反舰巡航导弹": "2",
+   "来袭反舰弹道导弹": "1",
+   "拦截率": "100%（中央司令部）",
+   "参与拦截平台": "1个航母舰载机联队+4艘驱逐舰（美3英1）",
+   "中央司令部计数": "自2023-11-19起第26次攻击航道"
+  }
+ },
+ {
+  "case_key": "rs_gravely_ciws_2024_01_30",
+  "category": "远海机动编组",
+  "title_cn": "“格雷夫利”号近防炮1海里内末端拦截",
+  "subtitle_cn": "2024年1月30日 红海 胡塞反舰巡航导弹突入美国“格雷夫利”号驱逐舰约1海里内，被“密集阵”近防系统击落",
+  "date_start": "2024-01-30",
+  "date_end": "",
+  "location_cn": "红海（Red Sea）",
+  "lat": 15.0,
+  "lon": 41.9,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装",
+  "defender": "美国海军阿利·伯克级驱逐舰“格雷夫利”号（USS Gravely, DDG-107）",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "反舰巡航导弹1枚（美国官员口径）。",
+  "defense_means_cn": "MK 15“密集阵”（Phalanx）近程武器系统（CIWS），末端最后一道防线。",
+  "narrative_cn": "2024年1月30日（周二）晚，胡塞武装从也门向红海发射一枚反舰巡航导弹，目标指向美国海军驱逐舰“格雷夫利”号（USS Gravely, DDG-107）。据美国官员向媒体披露，导弹一直飞到距该舰约1英里（CNN 口径）或1海里以内（《海军时报》口径）时，才被舰上的“密集阵”近程武器系统击落；舰艇无损伤，无人员受伤。CNN 的报道标题称这枚导弹“离击中美国军舰只差几秒”，海军动用了“最后一道防线”。\n\n“密集阵”是舰艇防空体系中射程最近的一层，通常只在中远程舰空导弹未能拦截时才投入。一名美国高级国防官员拒绝解释为何此次要动用近防系统——驱逐舰本有多种武器和导弹可在更远距离处置此类目标。《海军时报》称，“格雷夫利”号为何需要动用 CIWS、其他系统为何没有提前拦截，仍有许多不清楚之处；一位分析人士对其表示，让 CIWS 来完成拦截“显然不是理想状况”。\n\n事件发生在美英对胡塞目标开展打击后的第三周。1月12日，“格雷夫利”号曾与“梅森”号、“菲律宾海”号一同向也门发射“战斧”导弹。1月26日，胡塞武装在攻击一艘英国商船的同时也瞄准了美国驱逐舰“卡尼”号（CBS 报道）。1月31日，胡塞方面又宣称对一艘美国驱逐舰发动了新的攻击（俄卫星通讯社报道，GlobalSecurity 转载）。这一阶段胡塞攻击从“打航道”逐步转向“点名打美舰”，“格雷夫利”号此次遇险是美舰在本轮危机中离被击中最近的一次公开记录。",
+  "defense_effect_cn": "拦截成功、无损伤，但属于“末端险胜”。CIWS 在约1海里处交战，对亚声速巡航导弹而言仅剩数秒反应时间，任何故障或弹药耗尽都可能导致命中。暴露的问题包括：外层与中层拦截为何未能生效（探测距离受低空掠海与海面环境影响、交战通道被占用或判定迟滞等均有可能，但官方未作解释）；近防系统在此类场景中是“兜底”而非“常态”手段；",
+  "claims_compare_cn": "美国官员（匿名，1月31日—2月1日）：导弹被 CIWS 击落，距离约1英里/1海里以内，舰艇无损。中央司令部：本组检索结果中未见其对使用 CIWS 的具体说明。胡塞方面：宣称攻击美国驱逐舰（俄卫星通讯社1月31日转述），未见其具体命中声称的可核出处。美方对“为何动用 CIWS”保持沉默，是本案最大的信息空白。“英里”与“海里”之差（约15%）系不同媒体转述单位不同。",
+  "losses_cn": "美方：无损伤、无伤亡。胡塞：1枚反舰巡航导弹。",
+  "analysis_cn": "本案是本轮红海作战中美舰面临的最接近命中的一次公开事例，说明即便是装备“宙斯盾”系统、具备多层防空能力的驱逐舰，对低空掠海反舰导弹仍可能出现外层漏拦。对远海编组的启示是：一是近防武器不能因“很少用到”而降低维护与备弹优先级；二是对低空掠海目标，宜通过前出预警机、无人机或编队间协同探测延伸预警距离；三是官方对险情的信息披露有限，后续评估只能依赖匿名官员和媒体。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Navy Times（Military Times）",
+    "title": "A Houthi missile got within a nautical mile of USS Gravely on Tuesday",
+    "title_cn": "胡塞导弹周二飞抵“格雷夫利”号1海里内",
+    "author": "Military Times",
+    "date": "2024-02-01",
+    "url": "https://www.militarytimes.com/news/your-navy/2024/02/01/a-houthi-missile-got-within-a-nautical-mile-of-uss-gravely-on-tuesday/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "CNN（KTVZ 转载）",
+    "title": "A Houthi missile was just seconds from hitting a US warship. The Navy used its last line of defense",
+    "title_cn": "胡塞导弹距击中美舰仅差几秒，海军动用最后一道防线",
+    "author": "CNN",
+    "date": "2024-02-01",
+    "url": "https://ktvz.com/news/national-world/cnn-world/2024/02/01/a-houthi-missile-was-just-seconds-from-hitting-a-us-warship-the-navy-used-its-last-line-of-defense/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "The War Zone（TWZ）",
+    "title": "Phalanx CIWS Downs Houthi Missile Dangerously Close To Destroyer: Report",
+    "title_cn": "报道：“密集阵”在危险近距上击落射向驱逐舰的胡塞导弹",
+    "author": "TWZ",
+    "date": "2024-01（日未核）",
+    "url": "https://www.twz.com/news-features/phalanx-ciws-downs-houthi-missile-dangerously-close-to-destroyer-report.md",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "CBS News",
+    "title": "Houthis target U.S. destroyer in latest round of missile attacks; strike British merchant ship",
+    "title_cn": "胡塞在新一轮导弹攻击中瞄准美驱逐舰并击中英国商船",
+    "author": "CBS News",
+    "date": "未核",
+    "url": "https://www.cbsnews.com/news/houthis-target-u-s-destroyer-carney-british-merchant-ship-missile-attacks-red-sea-gulf-of-aden/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Sputnik（经 GlobalSecurity.org 转载）",
+    "title": "Houthis Report New Attack on US Navy Destroyer in Red Sea",
+    "title_cn": "胡塞武装报告对红海美国海军驱逐舰的新攻击",
+    "author": "Sputnik",
+    "date": "2024-01-31",
+    "url": "https://www.globalsecurity.org/military/library/news/2024/01/mil-240131-sputnik04.htm",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia",
+    "title": "USS Gravely",
+    "title_cn": "“格雷夫利”号条目",
+    "author": "Wikipedia",
+    "date": "未核",
+    "url": "https://en.wikipedia.org/wiki/USS_Gravely",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:USS_Gravely_(DDG-107)",
+    "file_name": "（类别页）",
+    "desc_cn": "“格雷夫利”号驱逐舰图集（含舰艏/舰艉“密集阵”位置照片线索）",
+    "date": "",
+    "credit": "U.S. Navy",
+    "license": "Public Domain（待核）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Phalanx_CIWS",
+    "file_name": "（类别页）",
+    "desc_cn": "“密集阵”近程武器系统图集，可选美舰实射照片作示意",
+    "date": "",
+    "credit": "U.S. Navy",
+    "license": "Public Domain（待核）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "来袭反舰巡航导弹": "1",
+   "拦截距离": "约1英里（CNN）/1海里以内（Navy Times）",
+   "拦截武器": "Phalanx CIWS",
+   "美方损失": "0"
+  }
+ },
+ {
+  "case_key": "rs_houthi_uuv_first_2024_02_17",
+  "category": "远海机动编组",
+  "title_cn": "胡塞首次动用无人潜航器，美军岸上先打",
+  "subtitle_cn": "2024年2月17日 也门胡塞控制区（红海沿岸） 美国中央司令部首次发现并打击胡塞无人潜航器（UUV）及无人艇、反舰巡航导弹",
+  "date_start": "2024-02-17",
+  "date_end": "",
+  "location_cn": "也门胡塞控制区红海沿岸（具体地点中央司令部未公布；坐标为荷台达一带示意）",
+  "lat": 14.8,
+  "lon": 42.95,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（拟使用无人潜航器、无人水面艇和机动反舰巡航导弹）",
+  "defender": "美国中央司令部所属海空兵力（具体打击平台未公布）；被保护对象为美国海军舰艇和过往商船",
+  "outcome": "防御成功",
+  "domains": [
+   "水下",
+   "水面",
+   "岸基"
+  ],
+  "patterns": [
+   "异构",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "无人潜航器（UUV）1具、无人水面艇（USV）1艘、机动反舰巡航导弹3枚，均在使用前被打击（另有报道称同日另一时段还有反舰巡航导弹1枚、USV 1艘）。型号、尺寸、装药未公布。",
+  "defense_means_cn": "中央司令部所称“自卫打击”5次（萨那时间15时至20时），另报同日2次；打击平台和武器未公布。",
+  "narrative_cn": "2024年2月18日，美国中央司令部发布2月17日红海活动摘要称：2月17日萨那时间15时至20时，美军在也门胡塞控制区实施5次“自卫打击”，目标为3枚机动反舰巡航导弹、1具无人潜航器（UUV）和1艘无人水面艇（USV）。中央司令部称，这是自2023年10月23日胡塞开始攻击以来，首次观察到胡塞使用UUV。\n\n中央司令部判定，这些导弹和无人艇对该地区美国海军舰艇和商船构成迫在眉睫的威胁，打击的目的是保护航行自由，使国际水域对美国海军和商船更加安全。\n\n美联社和美国国家公共电台（NPR）2月18日报道称，UUV是红海航运面临的新威胁。Axios 2月19日报道也称，这是美军首次发现胡塞使用UUV。另有报道称，同日13时40分至18时45分，美军还进行了2次自卫打击，目标为1枚反舰巡航导弹和1艘USV。各报道对这两组打击是否重叠表述不清，本组记为“5次（另报2次）”。\n\n中央司令部没有公布这具UUV的型号、尺寸、装药，也没有说明发现手段和打击平台，只称其位于胡塞控制区。此前美方通报的胡塞海上攻击手段以导弹、无人机和水面无人艇为主，UUV的出现意味着威胁从空中、水面扩展到了水下。",
+  "defense_effect_cn": "按美方口径，UUV在下水前被摧毁，水下威胁没有在海上与美舰或商船直接交锋。这种“发射前打击”依赖对岸上准备活动的持续侦察，美方没有说明情报来源。本组判断：小型UUV一旦下水，水面舰艇通常缺少专门手段对其及时探测和处置，岸上先打是成本最低的选项，但无法保证覆盖全部发射点。截至本组检索，未见胡塞UUV在海上命中舰船的公开记录。",
+  "claims_compare_cn": "美方（中央司令部2月18日）：首次观察到胡塞使用UUV，5次自卫打击摧毁3枚反舰巡航导弹、1具UUV和1艘USV。胡塞方面：未检索到其对UUV一事的公开回应。独立核实：未见影像或第三方证实。时间段：中央司令部原文为15时至20时；另有报道称13时40分至18时45分另有2次打击，两者关系不清。",
+  "losses_cn": "胡塞：反舰巡航导弹3枚、UUV 1具、USV 1艘被毁（美方口径；另报再毁1枚导弹、1艘USV）。美方：无。",
+  "analysis_cn": "这是红海冲突中第一次公开确认的水下无人平台威胁。美军沿用打击发射车、无人艇的模式，在岸上先行摧毁UUV，没有让其进入海上。对编队防御的启示是：面对空中、水面、水下多域无人平台，反潜和反水雷能力不再只是对付潜艇和水雷的专项能力，也要能处置小型、低速、低噪声的UUV；岸上侦察与先发打击成为编队防御的外层。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "U.S. Central Command（美国中央司令部）",
+    "title": "Feb. 17 Summary of Red Sea Activities",
+    "title_cn": "2月17日红海活动摘要",
+    "author": "CENTCOM",
+    "date": "2024-02-18",
+    "url": "https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3680306/feb-17-summary-of-red-sea-activities/",
+    "type": "官方"
+   },
+   {
+    "publisher": "GlobalSecurity.org（转载中央司令部）",
+    "title": "mil-240218-centcom01",
+    "title_cn": "中央司令部声明转载",
+    "author": "CENTCOM",
+    "date": "2024-02-18",
+    "url": "https://www.globalsecurity.org/military/library/news/2024/02/mil-240218-centcom01.htm",
+    "type": "其他"
+   },
+   {
+    "publisher": "NPR（经 KUNC 转载）",
+    "title": "The U.S. military says it struck a Houthi underwater vessel in the Red Sea",
+    "title_cn": "美军称在红海打击了一具胡塞水下航行器",
+    "author": "NPR/AP",
+    "date": "2024-02-18",
+    "url": "https://www.kunc.org/npr-news/2024-02-18/the-u-s-military-says-it-struck-a-houthi-underwater-vessel-in-the-red-sea",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Axios",
+    "title": "U.S. military says it struck a Houthi underwater drone for first time",
+    "title_cn": "美军称首次打击胡塞水下无人机",
+    "author": "Axios",
+    "date": "2024-02-19",
+    "url": "https://www.axios.com/2024/02/19/us-houthi-strike-underwater-drone-red-sea",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "European Security & Defence（欧洲安全与防务）",
+    "title": "CENTCOM targets Houthis",
+    "title_cn": "中央司令部打击胡塞目标",
+    "author": "ESD",
+    "date": "2024-02（日未核）",
+    "url": "https://euro-sd.com/2024/02/major-news/36659/centcom-targets-houthis/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Ahram Online（金字塔在线）",
+    "title": "US launches five new strikes on Houthi weapons systems: Pentagon",
+    "title_cn": "五角大楼：美国对胡塞武器系统发动五次新打击",
+    "author": "AFP/Ahram Online",
+    "date": "2024-02（日未核）",
+    "url": "https://english.ahram.org.eg/News/517966.aspx",
+    "type": "通讯社"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Operation_Prosperity_Guardian",
+    "file_name": "（类别页）Category:Operation Prosperity Guardian",
+    "desc_cn": "“繁荣卫士”行动类别页，检索时含12个媒体文件：行动地图、2024年1月中央司令部照片与视频、2024年5月30日空袭也门时的英国皇家空军“台风”战斗机、2024年1月8日“梅森”号与“艾森豪威尔”号在红海航行照片等（具体文件名未在检索结果中出现，需进类别页挑选）",
+    "date": "",
+    "credit": "U.S. Navy / CENTCOM / UK MoD 等",
+    "license": "以各文件页为准",
+    "verified": true,
+    "info_source": "WebSearch（commons.wikimedia.org）2026-10-09，类别页真实出现"
+   }
+  ],
+  "stats": {
+   "首次观察到胡塞UUV": "2024-02-17（中央司令部）",
+   "当日自卫打击": "5次（15:00—20:00，萨那时间）；另报2次（13:40—18:45）",
+   "被毁目标": "反舰巡航导弹3、UUV 1、USV 1（美方口径）",
+   "UUV型号/尺寸": "未公布"
+  }
+ },
+ {
+  "case_key": "rs_hessen_2024_02_26",
+  "category": "远海机动编组",
+  "title_cn": "“黑森”号误射美MQ-9后炮弹击落两机",
+  "subtitle_cn": "2024年2月26—27日 红海 德国海军“黑森”号护卫舰两枚SM-2误射美军MQ-9未中，次日以76毫米炮和RAM导弹击落两架胡塞无人机",
+  "date_start": "2024-02-26",
+  "date_end": "2024-02-27",
+  "location_cn": "红海（Red Sea），欧盟“阿斯皮德斯”行动（EUNAVFOR ASPIDES）作战海域",
+  "lat": 15.2,
+  "lon": 41.5,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（2月27日两架无人机）；误射事件中目标为美军MQ-9“死神”无人机（友军）",
+  "defender": "德国海军124型（萨克森级）防空护卫舰“黑森”号（FGS Hessen, F221），隶属欧盟“阿斯皮德斯”行动",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "2月27日：2架胡塞无人机先后来袭（型号未公布）。",
+  "defense_means_cn": "误射：2枚“标准-2”（SM-2）舰空导弹，均未命中（技术故障）。实战拦截：1架由76毫米舰炮击落，1架由“拉姆”（RAM，Rolling Airframe Missile）近程防空导弹击落。",
+  "narrative_cn": "“黑森”号当时参加欧盟“阿斯皮德斯”护航行动（德新社口径）。据德国媒体与美方官员的说法，事件分两天：\n\n第一天（据报为2月26日），“黑森”号发现一架无法识别的无人机，起初判断为胡塞无人机。舰方曾向本地区盟军询问是否有未通报的无人机在红海上空活动，在未获得否定答复的情况下决定开火，先后发射2枚“标准-2”舰空导弹，两枚均未命中。据《明镜》周刊报道，原因是导弹出现技术故障。事后查明，目标是一架美军MQ-9“死神”无人机，执行的是另一项反恐任务，机上敌我识别（IFF）应答机处于关闭状态，“黑森”号事先未获通报该机在场。一名美国国防官员表示，该无人机未受损伤，继续执行任务。有德语媒体推测，MQ-9 飞行高度约1.2万米，处于SM-2作战高度（约2万米）以内，因此未命中不能归因于高度；但该高度数据未获官方证实，失效原因仍不明。\n\n第二天（2月27日），“黑森”号连续遭遇两架胡塞无人机来袭，一架被76毫米舰炮击落，另一架被“拉姆”近程防空导弹击落。德国国防部在通报这两次成功拦截时，也不得不承认该舰前一天曾误射一架盟国无人机。\n\n这是本轮红海危机中公开报道的一起盟军之间险些发生的“友军误击”事件。",
+  "defense_effect_cn": "实战拦截两架无人机全部成功，且一架用的是舰炮，成本远低于导弹。暴露的问题更为突出：一是多国、多任务（反恐与护航）在同一空域并行，空情信息未共享，导致舰方在询问后仍无法确认“不明无人机”属性；二是友机关闭IFF，舰方无技术手段识别；三是两枚SM-2均出现技术故障，对一艘以区域防空为主要任务的护卫舰而言，主战武器的可靠性受到质疑。若导弹正常工作，结果将是一起友军击落事件。",
+  "claims_compare_cn": "德国国防部：确认2月27日击落两架胡塞无人机，并承认前一天误射盟国无人机。美国国防官员：MQ-9未受损伤，继续执行任务。《明镜》周刊：两枚SM-2均因技术故障未命中。日期：多数德方报道把误射记为击落无人机的“前一天”，部分报道直接写作2月27日，本组按前者记为2月26日。MQ-9执行何种任务、为何未开启IFF，美方未进一步说明。",
+  "losses_cn": "德方：2枚SM-2导弹（误射，未命中）；无人员与舰体损失。美方：MQ-9未受损（美方口径）。胡塞：2架无人机被击落。",
+  "analysis_cn": "本案把红海联盟作战中的“空情融合”问题暴露得最直接：美国主导的“繁荣卫士”、欧盟“阿斯皮德斯”和美军单独的反恐行动在同一空域交叠，统一的识别与通报机制并不健全。对远海编组的启示：在多国、多指挥链条并存的海域，交战规则需要包含“未获否定即开火”之外的识别程序；无人机进入多国舰艇防空区时，应强制开启识别信号或纳入共同空情图。同时，用舰炮和近程导弹对付单向攻击无人机，是欧洲舰艇压低交换成本的普遍做法。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "The War Zone（TWZ）",
+    "title": "German Frigate Mistakenly Fires On MQ-9, Downs Two Houthi Drones",
+    "title_cn": "德国护卫舰误射MQ-9，击落两架胡塞无人机",
+    "author": "TWZ",
+    "date": "2024-02（日未核）",
+    "url": "https://www.twz.com/news-features/german-frigate-mistakenly-fires-on-mq-9-downs-two-houthi-drones.md",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Overt Defense",
+    "title": "German Frigate Hessen Shoots Down Two Houthi Drones In Red Sea After Friendly Fire Near Miss",
+    "title_cn": "“黑森”号险误击友机后在红海击落两架胡塞无人机",
+    "author": "Overt Defense",
+    "date": "2024-02-28",
+    "url": "https://www.overtdefense.com/2024/02/28/german-frigate-hessen-shoots-down-two-houthi-drones-in-red-sea-after-friendly-fire-near-miss",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Task & Purpose",
+    "title": "German frigate fires on US drone",
+    "title_cn": "德国护卫舰向美国无人机开火",
+    "author": "Task & Purpose",
+    "date": "2024-02（日未核）",
+    "url": "https://taskandpurpose.com/news/german-frigate-us-drone.md",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "futurezone.at",
+    "title": "Fregatte Hessen: Bundeswehr schießt auf US-Drohne im Roten Meer（据URL推定）",
+    "title_cn": "“黑森”号护卫舰向美军无人机射击（SM-2失效原因与高度推测）",
+    "author": "futurezone",
+    "date": "2024-02（日未核）",
+    "url": "https://futurezone.at/digital-life/bundeswehr-fregatte-hessen-marine-us-drohne-rotes-meer-mq-9-reaper-huthi-sm-2-unfall-missgeschick/402800518",
+    "type": "其他"
+   },
+   {
+    "publisher": "inFranken.de（转载 dpa）",
+    "title": "Fregatte «Hessen» schießt Huthi-Drohnen im Roten Meer ab",
+    "title_cn": "“黑森”号在红海击落胡塞无人机（德新社）",
+    "author": "dpa",
+    "date": "2024-02（日未核）",
+    "url": "https://www.infranken.de/welt/fregatte-hessen-wehrt-huthi-angriff-im-roten-meer-ab-art-5837262,PRINT",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "ESUT（Europäische Sicherheit & Technik）",
+    "title": "Rotes Meer: Drei Monate nach Entführung der „Galaxy Leader“",
+    "title_cn": "红海：“银河领袖”号遭劫持三个月后",
+    "author": "ESUT",
+    "date": "2024-02（日未核）",
+    "url": "https://esut.de/2024/02/meldungen/47623/rotes-meer-drei-monate-nach-entfuehrung-der-galaxy-leader/",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Hessen_(F_221)",
+    "file_name": "（类别页）",
+    "desc_cn": "“黑森”号护卫舰图集（类别名待核）；德国联邦国防军曾发布该舰出航红海的照片",
+    "date": "",
+    "credit": "Bundeswehr / 各作者",
+    "license": "待核",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "误射SM-2": "2枚，均未命中（技术故障，《明镜》）",
+   "被误射友机": "美军MQ-9×1，未受损",
+   "击落胡塞无人机": "2（76毫米炮1、RAM 1）"
+  }
+ },
+ {
+  "case_key": "rs_duilio_2024_03_02",
+  "category": "远海机动编组",
+  "title_cn": "“杜伊里奥”号以76毫米炮替代导弹拦截",
+  "subtitle_cn": "2024年3月2日、12日 红海 意大利海军“卡约·杜伊里奥”号驱逐舰以76毫米舰炮制导弹药击落胡塞无人机",
+  "date_start": "2024-03-02",
+  "date_end": "2024-03-12",
+  "location_cn": "红海（Red Sea）",
+  "lat": 15.3,
+  "lon": 41.4,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装",
+  "defender": "意大利海军地平线级防空驱逐舰“卡约·杜伊里奥”号（ITS Caio Duilio, D554），参加欧盟“阿斯皮德斯”行动",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "3月2日：1架与此前攻击所用同类特征的无人机，距该舰约6公里、朝向该舰飞行。3月12日前后：又击落2架无人机（The Aviationist 报道）。",
+  "defense_means_cn": "奥托·梅莱拉（OTO）76毫米舰炮（舰上共3门之一），使用为防空优化的DART制导炮弹；3月2日射弹数6发（The Aviationist）或7—8发（意媒，经TWZ转述）。",
+  "narrative_cn": "2024年3月2日，在红海参加欧盟“阿斯皮德斯”行动的意大利海军地平线级驱逐舰“卡约·杜伊里奥”号（ITS Caio Duilio, D554）击落一架胡塞无人机。意大利国防部称，该舰出于自卫开火，目标是一架距舰约6公里、朝向本舰飞来的无人机，其特征与此前攻击中使用的无人机相似。\n\n该舰没有使用舰空导弹，而是动用舰上3门奥托·梅莱拉76毫米舰炮中的一门，发射为防空优化的DART制导炮弹将目标击落。《海军新闻》称这是该舰76毫米炮在红海首次对胡塞无人机实战使用。关于射弹数，The Aviationist 称共射击6发，TWZ 援引意大利媒体称7至8发；交战距离多数报道为约6公里，TWZ 写作“约4英里”，另有意大利网站称约4公里。意大利媒体报道称，舰员是有意避开昂贵的舰空导弹而改用舰炮，但TWZ指出这一说法并未得到官方证实。\n\n“杜伊里奥”号接替的是此前在红海执行海上监视任务的意大利护卫舰“费德里科·马丁嫩戈”号（Federico Martinengo）。意大利国防部长圭多·克罗塞托（Guido Crosetto）称胡塞袭击是对国际法的严重违反。\n\n约十天后，The Aviationist 于3月12日报道，“杜伊里奥”号又在红海击落两架无人机。",
+  "defense_effect_cn": "以炮代弹拦截成功，体现了把舰炮制导弹药作为对付单向攻击无人机主手段的做法：单发炮弹成本远低于舰空导弹，也保留了导弹应对反舰导弹。代价与局限在于：舰炮有效射程有限，6公里左右的交战距离对一艘防空驱逐舰而言已属近距，若来袭目标为高速导弹则反应时间不足；对成批来袭的无人机，单门舰炮的目标通道有限。",
+  "claims_compare_cn": "意大利国防部：自卫击落1架距舰约6公里的无人机。射弹数：6发（The Aviationist）与7—8发（意媒，经TWZ）不一致。距离：约6公里（多数）/约4英里（TWZ）/约4公里（意大利网站）。“有意不用导弹”：意媒称，官方未证实。胡塞方面：本组未检索到其就本事件的声明。",
+  "losses_cn": "意方：无损失。胡塞：3月2日1架、3月12日前后2架无人机被击落。",
+  "analysis_cn": "“杜伊里奥”号是本轮红海作战中最早被广泛报道“用炮不用弹”的欧洲防空舰之一。它说明76毫米级舰炮配合制导/近炸弹药，可以在数公里距离上可靠处置亚声速单向攻击无人机，适合承担编组防空的内层任务，把舰空导弹留给反舰巡航导弹和弹道导弹。对远海编组而言，舰炮弹药基数、制导炮弹储备和火控对小目标的跟踪能力，应与导弹备弹同等纳入出航前的弹药规划。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Naval News",
+    "title": "Italian Navy Destroyer Caio Duilio Shoots Down Drone In Red Sea",
+    "title_cn": "意大利海军“杜伊里奥”号驱逐舰在红海击落无人机",
+    "author": "Naval News",
+    "date": "2024-03（日未核）",
+    "url": "https://www.navalnews.com/naval-news/2024/03/italian-navy-destroyer-caio-duilio-shoots-down-drone-in-red-sea/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Aviationist",
+    "title": "Italian Anti-Air Warfare Destroyer Shoots Down Houthi Drone In Red Sea",
+    "title_cn": "意大利防空驱逐舰在红海击落胡塞无人机",
+    "author": "The Aviationist",
+    "date": "2024-03-02",
+    "url": "https://theaviationist.com/2024/03/02/italian-anti-air-warfare-destroyer-shoots-down-houthi-drone-in-red-sea/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Aviationist",
+    "title": "Italian Navy Destroyer Caio Duilio Shoots Down Two More Drones In Red Sea",
+    "title_cn": "“杜伊里奥”号在红海再击落两架无人机",
+    "author": "The Aviationist",
+    "date": "2024-03-12",
+    "url": "https://theaviationist.com/2024/03/12/italian-navy-destroyer-caio-duilio-shoots-down-two-more-drones-in-red-sea",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The War Zone（TWZ）",
+    "title": "Italian Destroyer Guns Down Houthi Drone With 76mm 'Super Rapid' Cannon",
+    "title_cn": "意大利驱逐舰以76毫米“超快速”炮击落胡塞无人机",
+    "author": "TWZ",
+    "date": "2024-03（日未核）",
+    "url": "https://www.twz.com/sea/italian-destroyer-guns-down-houthi-drone-with-76mm-super-rapid-cannon",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Scenari Economici（英文版）",
+    "title": "（标题未核）",
+    "title_cn": "意大利网站关于交战距离约4公里的报道",
+    "author": "Scenari Economici",
+    "date": "未核",
+    "url": "https://english.scenarieconomici.it/?p=1077",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Caio_Duilio_(D_554)",
+    "file_name": "（类别页）",
+    "desc_cn": "“卡约·杜伊里奥”号驱逐舰图集（类别名待核）",
+    "date": "",
+    "credit": "Marina Militare / 各作者",
+    "license": "待核",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "3月2日击落": "1架（约6公里）",
+   "3月12日前后击落": "2架",
+   "射弹数（3月2日）": "6发（The Aviationist）/7—8发（意媒）",
+   "弹种": "76毫米 DART 制导炮弹"
+  }
+ },
+ {
+  "case_key": "rs_iver_huitfeldt_2024_03_09",
+  "category": "远海机动编组",
+  "title_cn": "丹麦护卫舰雷达失效30分钟引发撤换防长",
+  "subtitle_cn": "2024年3月9日 红海南部 丹麦“伊弗·惠特菲尔德特”号护卫舰在胡塞无人机攻击中出现雷达—作战系统故障与炮弹早炸",
+  "date_start": "2024-03-09",
+  "date_end": "",
+  "location_cn": "红海南部（Southern Red Sea）",
+  "lat": 14.2,
+  "lon": 42.4,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装",
+  "defender": "丹麦海军“伊弗·惠特菲尔德特”号防空护卫舰（HDMS Iver Huitfeldt, F361），参加美国主导的“繁荣卫士”行动",
+  "outcome": "部分拦截",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "蜂群",
+   "集群"
+  ],
+  "attack_means_cn": "胡塞武装当日向红海南部舰船发射15架“自杀式”无人机（媒体援引报道口径）。",
+  "defense_means_cn": "APAR 有源相控阵火控雷达+C-FLEX 作战管理系统，RIM-162 ESSM“改进型海麻雀”导弹；双联76毫米舰炮；故障后改用备份雷达。该舰击落4架无人机（丹麦国防部口径）。",
+  "narrative_cn": "2024年3月9日，胡塞武装向红海南部过往舰船发射15架“自杀式”无人机。参加“繁荣卫士”行动的丹麦海军“伊弗·惠特菲尔德特”号（HDMS Iver Huitfeldt, F361）防空护卫舰参与拦截，丹麦国防部称该舰击落了4架无人机。\n\n交战中该舰出现严重技术问题。丹麦媒体 Olfi 披露了一份日期为3月13日的北约内部报告（舰长报告），称该舰 APAR 火控雷达与 C-FLEX 作战管理系统之间的接口发生故障，导致约30分钟内无法发射 ESSM 导弹拦截来袭无人机。据《海事执行官》（Maritime Executive）报道，故障似为两系统接口的软件问题；荷兰海事媒体称，舰员改用备份雷达绕过故障，但性能最强的主雷达半小时内无法使用。舰长在报告中写道，这一问题“多年来一直为人所知，却没有必要的紧迫感去解决”。\n\n弹药方面同样出现问题：报告称，76毫米舰炮发射的炮弹中“多达一半”过早起爆，且起爆点离本舰较近；舰长称这批炮弹“不适合实战”。\n\n事件经媒体曝光后，丹麦国防大臣在媒体询问前并未获知相关情况。2024年4月3日前后，丹麦政府以未上报该舰雷达与导弹系统在胡塞无人机攻击中失效半小时为由，撤换国防参谋长弗莱明·伦特费尔（Flemming Lentfer）将军（《金融时报》等报道）。该舰提前结束在“繁荣卫士”行动中的部署返回丹麦。",
+  "defense_effect_cn": "该舰击落4架无人机，自身未被击中，但30分钟主火控雷达失效和半数炮弹早炸，说明其在实战条件下的防空可靠性存在明显缺口。根源有二：一是已知的软件接口缺陷长期未修复；二是弹药批次质量未经实战检验。若当日来袭目标中有反舰导弹，30分钟的导弹拦截空窗可能直接导致舰艇受损。事件还暴露了指挥链的信息上报问题——部长在媒体问询前并不知情，最终以撤换最高军事长官收场。",
+  "claims_compare_cn": "丹麦国防部：该舰击落4架胡塞无人机。泄露的北约/舰长报告（Olfi，3月13日文件）：APAR—C-FLEX 故障致 ESSM 30分钟无法发射，76毫米炮弹多达半数早炸。丹麦政府：以未上报为由撤换国防参谋长。报告内容来自泄露文件，本组检索结果中未见丹麦国防部逐项否认或确认技术细节的公开文本。舰名有“Iver”“Ivar”两种拼法，以 Iver 为准。补充（第二轮）：美国中央司令部称3月9日4时至6时30分首轮击落15架、至8时20分美军与联军共击落至少28架，舰船均未受损；胡塞称以37架无人机攻击货船和美国驱逐舰。案例中“15架”对应中央司令部的首轮数字，不是全天总数。同日英国“里士满”号首次实战发射“海拦截者”（另列案例）。",
+  "losses_cn": "丹方：无舰体损伤、无人员伤亡（公开报道）；国防参谋长被撤换；该舰提前撤回。胡塞：4架无人机被该舰击落（其余由他舰拦截或去向未披露）。",
+  "analysis_cn": "本案是本轮红海作战中最典型的“系统在实战中掉链子”案例。对远海编组的启示：其一，舰艇在平时演习中可容忍的软件缺陷，在连续高强度交战中会变成致命空窗，部署前需对传感器—作战系统—武器的整条杀伤链做实弹联调；其二，主雷达失效后要有可用的降级模式和备份火控；其三，弹药批次需有实战前抽检；其四，舰艇故障信息应能迅速上达政治决策层，否则问题会以政治危机的形式爆发。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Defense News",
+    "title": "Sensor, weapon hiccups reportedly plagued Danish frigate in Red Sea",
+    "title_cn": "报道：传感器与武器故障困扰红海丹麦护卫舰",
+    "author": "Defense News",
+    "date": "2024-04-03",
+    "url": "https://www.defensenews.com/global/europe/2024/04/03/sensor-weapon-hiccups-reportedly-plagued-danish-frigate-in-red-sea/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "USNI News（美国海军学会新闻网）",
+    "title": "Danish Defense Chief Removed After Warship Malfunction in Red Sea",
+    "title_cn": "红海军舰故障后丹麦国防参谋长被撤换",
+    "author": "USNI News",
+    "date": "2024-04-04",
+    "url": "https://news.usni.org/2024/04/04/danish-defense-chief-removed-after-warship-malfunction-in-red-sea",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "Report: Danish Frigate's Weapons Malfunctioned During Houthi Drone Attack",
+    "title_cn": "报道：丹麦护卫舰武器在胡塞无人机攻击中失灵",
+    "author": "Maritime Executive",
+    "date": "2024-04（日未核）",
+    "url": "https://maritime-executive.com/article/report-danish-frigate-s-weapons-malfunctioned-during-houthi-drone-attack",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Naval News",
+    "title": "Danish Frigate Cuts Red Sea Mission Short After Technical Issues",
+    "title_cn": "丹麦护卫舰因技术问题提前结束红海任务",
+    "author": "Naval News",
+    "date": "2024-04（日未核）",
+    "url": "https://www.navalnews.com/naval-news/2024/04/danish-frigate-cuts-red-sea-mission-short-after-technical-issues/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The War Zone（TWZ）",
+    "title": "Danish Frigate Suffered Radar, Combat System, Gun Problems During Red Sea Ops: Reports",
+    "title_cn": "报道：丹麦护卫舰红海行动中雷达、作战系统和舰炮出现问题",
+    "author": "TWZ",
+    "date": "2024-04（日未核）",
+    "url": "https://www.twz.com/sea/danish-frigate-suffered-radar-combat-system-gun-problems-during-red-sea-ops-reports.md",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Courthouse News Service",
+    "title": "Malfunctioning frigate at center of political storm anchors in Denmark",
+    "title_cn": "处于政治风暴中心的故障护卫舰返抵丹麦",
+    "author": "Courthouse News",
+    "date": "2024-04（日未核）",
+    "url": "https://www.courthousenews.com/malfunctioning-frigate-at-center-of-political-storm-anchors-in-denmark/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "CNBC（援引 Reuters）",
+    "title": "US, UK, French military shoot down Houthi drones after attack on bulk carrier, destroyers",
+    "title_cn": "美英法军队在胡塞袭击散货船和驱逐舰后击落其无人机",
+    "author": "Reuters/CNBC",
+    "date": "2024-03-10",
+    "url": "https://www.cnbc.com/2024/03/10/us-uk-french-military-shoot-down-houthi-drones-after-attack-on-bulk-carrier-destroyers.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Seapower Magazine（美国海军联盟《海权》杂志）",
+    "title": "UPDATE: US and Coalition Defeat Houthi Attack in Red Sea Area",
+    "title_cn": "更新：美国与联军挫败胡塞在红海地区的攻击",
+    "author": "Seapower",
+    "date": "2024-03（日未核）",
+    "url": "https://seapowermagazine.org/update-us-and-coalition-defeat-houthi-attack-in-red-sea-area/?print=pdf",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:HDMS_Iver_Huitfeldt_(F361)",
+    "file_name": "（类别页）",
+    "desc_cn": "“伊弗·惠特菲尔德特”号护卫舰图集（类别名待核）",
+    "date": "",
+    "credit": "Forsvaret / 各作者",
+    "license": "待核",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "当日胡塞发射无人机": "15（报道口径）",
+   "该舰击落": "4（丹麦国防部）",
+   "ESSM不可用时长": "约30分钟（泄露报告）",
+   "76毫米炮弹早炸比例": "多达一半（泄露报告）",
+   "政治后果": "国防参谋长伦特费尔被撤换（2024-04-03前后）",
+   "中央司令部当日计数": "04:00—06:30 首轮击落15架；至08:20 美军与联军共击落至少28架（萨那时间）",
+   "胡塞自称动用无人机": "37架（胡塞军事发言人）"
+  }
+ },
+ {
+  "case_key": "rs_richmond_sea_ceptor_2024_03_09",
+  "category": "远海机动编组",
+  "title_cn": "“里士满”号“海拦截者”首战击落两机",
+  "subtitle_cn": "2024年3月9日 红海南部—亚丁湾 英国皇家海军“里士满”号护卫舰在多国拦截胡塞至少28架无人机的行动中首次实战发射“海拦截者”导弹",
+  "date_start": "2024-03-09",
+  "date_end": "",
+  "location_cn": "红海南部—亚丁湾（Southern Red Sea / Gulf of Aden），曼德海峡（Bab el-Mandeb）附近",
+  "lat": 13.8,
+  "lon": 43.0,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装",
+  "defender": "英国皇家海军23型护卫舰“里士满”号（HMS Richmond, F239）；同时参战：美国海军舰机、法国海军舰艇与战斗机、丹麦“伊弗·惠特菲尔德特”号等",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "蜂群",
+   "集群"
+  ],
+  "attack_means_cn": "单向攻击无人机：中央司令部计至少28架（萨那时间4时至8时20分）；胡塞自称37架。胡塞称同时攻击一艘货船和“多艘美国驱逐舰”。",
+  "defense_means_cn": "“里士满”号发射“海拦截者”（Sea Ceptor，即CAMM通用模块化防空导弹）击落2架（英国国防部）；法国军舰和战斗机击落4架（法方）；丹麦护卫舰击落4架（丹麦国防部）；美军舰艇与飞机击落其余（中央司令部合计≥28架）。英方未公布发射弹数。",
+  "narrative_cn": "2024年3月9日凌晨，胡塞武装向红海南部和亚丁湾发动大规模无人机攻击。美国中央司令部称，萨那时间4时至6时30分，美国海军舰机与多国海军舰机首先击落15架单向攻击无人机；至8时20分，美军与联军共击落至少28架。中央司令部称美国及联军舰艇均未受损，商船也未报告受损。\n\n英国国防大臣格兰特·沙普斯（Grant Shapps）当天宣布，皇家海军23型护卫舰“里士满”号（HMS Richmond）夜间发射“海拦截者”（Sea Ceptor）导弹，击落2架胡塞无人机。英国国防部称，该舰与盟友“完全击退”了攻击，无人员伤亡和舰艇损伤。英国军事媒体“部队新闻”（Forces News）称，这是23型护卫舰首次进行水面对空交战、首次使用“海拦截者”导弹；该舰返回普利茅斯后的报道进一步称，这是“海拦截者”服役近10年来首次在实战中发射。\n\n同一波攻击中，法国军方称一艘法国军舰和战斗机击落4架向欧盟“阿斯皮德斯”行动舰艇逼近的作战无人机；丹麦“伊弗·惠特菲尔德特”号也参加了拦截，并在交战中出现防空导弹约30分钟无法发射的故障（见丹麦护卫舰案例）。胡塞军事发言人称，他们以37架无人机攻击了一艘货船和“多艘美国驱逐舰”。前一天（3月8日），中央司令部通报胡塞向亚丁湾的新加坡籍散货船“推进财富”号（Propel Fortune）发射2枚反舰弹道导弹，均未命中。\n\n“里士满”号在“繁荣卫士”行动框架下，在曼德海峡和亚丁湾附近活动近六周，其间舰员还协助过一艘被胡塞导弹击中的集装箱船。该舰搭载“野猫”（Wildcat）直升机，可挂“马特雷特”（Martlet）轻型导弹打击水面目标。本组未检索到“马特雷特”在红海实战使用的公开记录。",
+  "defense_effect_cn": "多国舰机在约4小时内拦截至少28架无人机，各方均称无舰船受损，“海拦截者”首次完成实战验证。这次拦截也暴露了多国混编防空的问题：同一天丹麦护卫舰因雷达与作战系统接口故障，约30分钟无法发射导弹，说明联合防空的整体效果取决于各舰系统的可靠性。英方没有公布“海拦截者”的发射数量，无法评估单机消耗。胡塞自称动用37架，中央司令部计至少28架，差额可能是胡塞夸大，也可能有部分无人机坠毁或未被计入，目前没有独立核实。",
+  "claims_compare_cn": "英国国防部/沙普斯：“里士满”号击落2架，攻击被“完全击退”。美国中央司令部：4时至6时30分首轮击落15架，至8时20分共击落至少28架，无舰船受损。法方：军舰和战斗机击落4架。丹麦国防部：“伊弗·惠特菲尔德特”号击落4架。胡塞：以37架无人机攻击货船和美国驱逐舰。“首次”的表述：Forces News 首报称是23型护卫舰首次水面对空交战、首次使用“海拦截者”，返港报道称是该导弹首次实战发射，两者不矛盾。",
+  "losses_cn": "盟军：无（各方口径）。商船：当日未报告受损（中央司令部）。胡塞：至少28架无人机被击落（中央司令部）。",
+  "analysis_cn": "这是英国皇家海军继“钻石”号“海蝰蛇”首战（2023年12月）之后，第二型舰空导弹在红海完成实战首用。3月9日的拦截由美、英、法、丹等多国舰机在同一时段分区完成，没有统一的多国防空指挥平台，各国按本国口径分别发布战果，导致总数难以逐项对账。以单价较高的舰空导弹对付低成本无人机，仍是这次拦截的成本问题。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Forces News（英国部队新闻）",
+    "title": "HMS Richmond shoots down two Houthi drones – Sea Ceptor first",
+    "title_cn": "“里士满”号击落两架胡塞无人机——“海拦截者”首次实战",
+    "author": "Forces News",
+    "date": "2024-03-09（据事件日，日未核）",
+    "url": "https://www.forcesnews.com/middle-east/hms-richmond-shoots-down-two-houthi-drones-sea-ceptor-first",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Guernsey Press（经 PA 通讯社）",
+    "title": "Royal Navy warship shoots down Houthi drones in Red Sea",
+    "title_cn": "皇家海军军舰在红海击落胡塞无人机",
+    "author": "PA",
+    "date": "2024-03-09",
+    "url": "https://guernseypress.com/news/uk-news/2024/03/09/royal-navy-warship-shoots-down-houthi-drones-in-red-sea",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Deccan Herald（援引 Reuters）",
+    "title": "Britain's defence minister says warship shot down two Houthi drones",
+    "title_cn": "英国国防大臣称军舰击落两架胡塞无人机",
+    "author": "Reuters",
+    "date": "2024-03（日未核）",
+    "url": "https://www.deccanherald.com/world/britains-defence-minister-says-warship-shot-down-two-houthi-drones-2929793",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "UK Defence Journal（英国防务杂志）",
+    "title": "British frigate opens fire with missiles in Red Sea combat",
+    "title_cn": "英国护卫舰在红海实战中发射导弹",
+    "author": "UK Defence Journal",
+    "date": "2024-03（日未核）",
+    "url": "https://ukdefencejournal.org.uk/british-frigate-opens-fire-with-missiles-in-red-sea-combat/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Forces News（英国部队新闻）",
+    "title": "HMS Richmond sailing back into Plymouth after deployment to the Red Sea",
+    "title_cn": "“里士满”号结束红海部署返回普利茅斯",
+    "author": "Forces News",
+    "date": "2024（日未核）",
+    "url": "https://www.forcesnews.com/services/navy/hms-richmond-back-safe-plymouth-after-shooting-down-drones-red-sea",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "CNBC（援引 Reuters）",
+    "title": "US, UK, French military shoot down Houthi drones after attack on bulk carrier, destroyers",
+    "title_cn": "美英法军队在胡塞袭击散货船和驱逐舰后击落其无人机",
+    "author": "Reuters/CNBC",
+    "date": "2024-03-10",
+    "url": "https://www.cnbc.com/2024/03/10/us-uk-french-military-shoot-down-houthi-drones-after-attack-on-bulk-carrier-destroyers.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Seapower Magazine",
+    "title": "UPDATE: US and Coalition Defeat Houthi Attack in Red Sea Area",
+    "title_cn": "更新：美国与联军挫败胡塞在红海地区的攻击",
+    "author": "Seapower",
+    "date": "2024-03（日未核）",
+    "url": "https://seapowermagazine.org/update-us-and-coalition-defeat-houthi-attack-in-red-sea-area/?print=pdf",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Operation_Prosperity_Guardian",
+    "file_name": "（类别页）Category:Operation Prosperity Guardian",
+    "desc_cn": "“繁荣卫士”行动类别页，检索时含12个媒体文件：行动地图、2024年1月中央司令部照片与视频、2024年5月30日空袭也门时的英国皇家空军“台风”战斗机、2024年1月8日“梅森”号与“艾森豪威尔”号在红海航行照片等（具体文件名未在检索结果中出现，需进类别页挑选）",
+    "date": "",
+    "credit": "U.S. Navy / CENTCOM / UK MoD 等",
+    "license": "以各文件页为准",
+    "verified": true,
+    "info_source": "WebSearch（commons.wikimedia.org）2026-10-09，类别页真实出现"
+   }
+  ],
+  "stats": {
+   "中央司令部计击落": "≥28架（04:00—08:20，萨那时间）",
+   "首轮击落": "15架（04:00—06:30）",
+   "里士满号击落": "2架（英国国防部）",
+   "法方击落": "4架（舰艇+战斗机）",
+   "丹麦舰击落": "4架（丹麦国防部，见案例“伊弗·惠特菲尔德特”号）",
+   "胡塞自称动用": "37架",
+   "里士满号用弹数": "未公布",
+   "里士满号在曼德海峡—亚丁湾活动": "近6周",
+   "马特雷特实战使用": "未检索到公开记录"
+  }
+ },
+ {
+  "case_key": "rs_hellenic_hydra_psara_2024",
+  "category": "远海机动编组",
+  "title_cn": "希腊护卫舰以舰炮三度击退胡塞无人机",
+  "subtitle_cn": "2024年3—7月 红海—亚丁湾 希腊海军“九头蛇”号、“普萨拉”号护卫舰在欧盟“阿斯皮德斯”行动中炮击胡塞无人机",
+  "date_start": "2024-03-13",
+  "date_end": "2024-07-07",
+  "location_cn": "红海及亚丁湾（Red Sea / Gulf of Aden）；7月事件另有“索马里外海”说法",
+  "lat": 12.6,
+  "lon": 45.5,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装",
+  "defender": "希腊海军MEKO 200HN型护卫舰“九头蛇”号（Hydra, F452）、“普萨拉”号（Psara, F454），欧盟“阿斯皮德斯”行动",
+  "outcome": "防御成功",
+  "domains": [
+   "空中",
+   "电磁"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "3月13日：2架无人机（“九头蛇”号）；4月25日：2架无人机（“九头蛇”号护航商船时）；7月7日：4架无人机射向“普萨拉”号及其护航商船。",
+  "defense_means_cn": "127毫米舰炮（“九头蛇”号3月击落2架）；舰炮（“普萨拉”号）；部署前加装的电子战/反无人机系统，有匿名消息称7月有1架可能被非动能手段击落。",
+  "narrative_cn": "希腊海军参加欧盟“阿斯皮德斯”护航行动，先后派出MEKO 200HN型护卫舰“九头蛇”号（Hydra, F452）和“普萨拉”号（Psara, F454）。\n\n“九头蛇”号为此次任务加装了新的电子战和反无人机系统。2024年3月13日，该舰发现两架胡塞无人机，以127毫米舰炮将其击落（维基百科条目口径，本组未核到希腊官方原文）。\n\n4月25日，“九头蛇”号在亚丁湾为一艘商船护航时拦截两架无人机。希腊国防总参谋部通报，其中一架被摧毁、另一架被驱离；希腊国防部发言人对路透社表示，该舰向两架无人机开火，摧毁一架，另一架飞离，此后该舰继续正常执行任务。TWZ 随后刊发了希腊方面公布的舰炮射击无人机视频。\n\n接替部署的“普萨拉”号在出发前被定为新型反无人机系统的实战试验平台（《希腊城市时报》2024年5月1日报道）。7月7日夜间，有4架无人机射向“普萨拉”号及其护航的商船，舰炮击落其中2架，另2架据报退出交战区域；有未具名消息称其中一架可能被非动能反无人机系统击落。关于事发地点，有报道称在亚丁湾，也有报道称在索马里外海；另有个别网站把此次行动归入欧盟“伊里尼”（IRINI）行动，与多数报道称“阿斯皮德斯”不符。",
+  "defense_effect_cn": "三次交战均未造成希腊舰艇或被护商船受损，且均以舰炮为主要拦截手段，弹药成本低。问题在于：舰炮对成批来袭的无人机只能逐一处理，4月和7月两次都有无人机“飞离”或“退出”而非被击毁，说明舰炮拦截概率有限，可能依赖驱离效果；电子战/反无人机系统的实际作用缺乏官方说明，难以评估。",
+  "claims_compare_cn": "希腊国防总参谋部（4月25日）：击毁1架、驱离1架。希腊国防部发言人（路透社）：同上。3月13日击落2架的说法见于维基百科条目，本组未核到官方通报原文。7月7日：4架来袭、2架被击落、2架退出，为媒体口径；地点（亚丁湾/索马里外海）与所属行动（阿斯皮德斯/伊里尼）存在不一致。胡塞方面：本组未检索到相应声明。任务线索中“普萨拉”号2024年4月击落无人机的说法经核实有误，其交战发生在2024年7月。",
+  "losses_cn": "希方及被护商船：无损失。胡塞：无人机被击落约5架（3月2、4月1、7月2），另有3架被驱离/退出（按各方口径累加，待核）。",
+  "analysis_cn": "希腊护卫舰属于较老的MEKO 200型，区域防空能力有限，因而在红海任务中更依赖舰炮和加装的电子战/反无人机系统，承担对无人机的近程防护，而非对弹道导弹的拦截。这种“老舰+加装反无人机套件+舰炮”的配置，适合低强度护航，但面对反舰导弹和弹道导弹需依赖编队中的防空舰。“驱离”在战报中出现两次，说明对单向攻击无人机的电子干扰或火力威慑可能改变其航迹，但效果需有更多数据支撑。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "ANA-MPA（雅典—马其顿通讯社）",
+    "title": "Frigate Hydra intercepts two Houthi drones in the Red Sea",
+    "title_cn": "“九头蛇”号护卫舰在红海拦截两架胡塞无人机",
+    "author": "AMNA",
+    "date": "2024-04（日未核）",
+    "url": "https://www.amna.gr/en/article/814660/Frigate-Hydra-intercepts-two-Houthi-drones-in-the-Red-Sea",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "To Vima（Το Βήμα）",
+    "title": "Greek navy frigate downs Houthi drones in Red Sea",
+    "title_cn": "希腊海军护卫舰在红海击落胡塞无人机",
+    "author": "To Vima",
+    "date": "2024-04（日未核）",
+    "url": "https://tovima.com/politics/greek-navy-frigate-downs-houthi-drones-in-red-sea",
+    "type": "其他"
+   },
+   {
+    "publisher": "The War Zone（TWZ）",
+    "title": "Greek Warship Guns Down Houthi Drone In New Video",
+    "title_cn": "新视频：希腊军舰以舰炮击落胡塞无人机",
+    "author": "TWZ",
+    "date": "2024（日未核）",
+    "url": "https://www.twz.com/news-features/greek-warship-guns-down-houthi-drone-in-new-video",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Greek City Times",
+    "title": "Enhanced anti-drone system set to boost Greece's Psara frigate in Red Sea deployment",
+    "title_cn": "新型反无人机系统将增强“普萨拉”号红海部署能力",
+    "author": "Greek City Times",
+    "date": "2024-05-01",
+    "url": "https://greekcitytimes.com/2024/05/01/enhanced-anti-drone-system-set-to-boost-greeces-psara-frigate-in-red-sea-deployment/amp",
+    "type": "其他"
+   },
+   {
+    "publisher": "Militarnyi",
+    "title": "Greek Frigate Shoots Down Houthi UAV in Red Sea",
+    "title_cn": "希腊护卫舰在红海击落胡塞无人机",
+    "author": "Militarnyi",
+    "date": "未核",
+    "url": "https://militarnyi.com/en/news/greek-frigate-shoots-down-houthi-uav-in-red-sea/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Wikipedia",
+    "title": "Greek frigate Hydra",
+    "title_cn": "“九头蛇”号护卫舰条目（3月13日事件出处，辅助）",
+    "author": "Wikipedia",
+    "date": "未核",
+    "url": "https://en.wikipedia.org/wiki/Greek_frigate_Hydra",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://www.twz.com/news-features/greek-warship-guns-down-houthi-drone-in-new-video",
+    "file_name": "（视频报道页，非 Commons）",
+    "desc_cn": "希腊方面公布的护卫舰舰炮射击胡塞无人机视频，TWZ 转载",
+    "date": "2024",
+    "credit": "Hellenic Navy / HNDGS（经TWZ）",
+    "license": "版权归原发布方，引用需注明",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Hydra_(F452)",
+    "file_name": "（类别页）",
+    "desc_cn": "“九头蛇”号护卫舰图集（类别名待核）",
+    "date": "",
+    "credit": "各作者",
+    "license": "待核",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "交战次数": "3（2024-03-13、04-25、07-07）",
+   "来袭无人机合计": "8（2+2+4，媒体口径）",
+   "击落": "约5",
+   "驱离/退出": "3",
+   "主要拦截手段": "127毫米/舰炮、电子战（未证实）"
+  }
+ },
+ {
+  "case_key": "rs_alsace_asbm_2024_03_21",
+  "category": "远海机动编组",
+  "title_cn": "“阿尔萨斯”号“紫菀”导弹首拦反舰弹道导弹",
+  "subtitle_cn": "2024年3月21日 红海南部 法国“阿尔萨斯”号防空护卫舰拦截3枚胡塞反舰弹道导弹",
+  "date_start": "2024-03-21",
+  "date_end": "",
+  "location_cn": "红海南部（Southern Red Sea），欧盟“阿斯皮德斯”行动护航海域",
+  "lat": 13.9,
+  "lon": 42.7,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装",
+  "defender": "法国海军 FREMM-DA 防空型护卫舰“阿尔萨斯”号（Alsace, D656），执行欧盟“阿斯皮德斯”护航任务",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "反舰弹道导弹3枚，自也门发射，指向该舰及其护航的集装箱船所在位置。",
+  "defense_means_cn": "“紫菀-30”（Aster 30）远程舰空导弹（法军通报与多数报道口径；《海军新闻》称“很可能”），“海拉克勒斯”（Herakles）多功能雷达跟踪。",
+  "narrative_cn": "2024年3月21日上午，在红海南部执行欧盟“阿斯皮德斯”行动护航任务的法国海军 FREMM-DA 防空型护卫舰“阿尔萨斯”号（Alsace, D656）探测到3枚从也门发射的弹道导弹，飞向该舰及其护航的集装箱船所在位置。该舰以正当防卫名义交战，将3枚导弹全部摧毁。\n\n来袭目标为反舰弹道导弹。这是一类在本轮红海危机之前从未在实战中使用过的武器。据报道，“阿尔萨斯”号使用的是“紫菀-30”远程舰空导弹，目标由舰上“海拉克勒斯”多功能雷达跟踪；《海军新闻》的表述较为谨慎，称“很可能”使用了“紫菀-30”。\n\n据报道，这是法国海军首次在作战中拦截弹道导弹，也是欧洲导弹集团（MBDA）“紫菀”系列导弹首次在实战中击毁弹道导弹。\n\n此后，“阿尔萨斯”号舰长在接受 TWZ 采访时描述了红海交战的紧张节奏，并回应了外界对成本的批评：一枚“紫菀-30”约200万美元，而一架胡塞无人机可能只值数万美元；舰长表示，“紫菀”导弹对弹道导弹同样有效。",
+  "defense_effect_cn": "3枚反舰弹道导弹全部拦截，护航的集装箱船与本舰均未受损，验证了“紫菀-30”对短程弹道目标的末段拦截能力。局限在于：每枚来袭弹道导弹至少消耗一枚高价远程拦截弹，一艘护卫舰的垂发备弹有限，在红海无法就地补弹，持续多轮齐射将很快耗尽；成本方面，舰长本人也承认外界对“200万美元对数万美元”的质疑存在。",
+  "claims_compare_cn": "法国军方：3枚弹道导弹指向本舰及所护集装箱船，正当防卫摧毁。拦截弹型号：法军通报与多家媒体称“紫菀-30”，《海军新闻》仅称“很可能”。“首次”：法国海军首次作战拦截弹道导弹、“紫菀”首次实战击毁弹道导弹，均为媒体口径。胡塞方面：本组未检索到其就本次发射的具体声明。",
+  "losses_cn": "法方及被护商船：无损失。胡塞：3枚反舰弹道导弹。法方消耗：至少3枚“紫菀”导弹（具体发射数未公布，待核）。",
+  "analysis_cn": "反舰弹道导弹是胡塞对海上编组构成的最大新威胁：速度快、再入角大，舰炮和近防系统基本无能为力，只能由具备反导能力的区域防空舰在中高空拦截。“阿尔萨斯”号的成功说明欧洲防空舰在“紫菀-30”加多功能雷达的配置下具备有限的反弹道能力，但这种能力集中在少数舰艇上。对护航编组而言，至少需要一艘具备反导能力的舰艇随行，并靠近被护船舶部署；同时需要解决远海补弹问题。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Naval News",
+    "title": "French Navy Air Defense FREMM Intercepts 3 Ballistic Missiles",
+    "title_cn": "法国海军防空型FREMM拦截3枚弹道导弹",
+    "author": "Naval News",
+    "date": "2024-03（日未核）",
+    "url": "https://www.navalnews.com/?p=55406",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Militarnyi（mil.in.ua）",
+    "title": "French Alsace frigate intercepts three ballistic missiles in the Red Sea",
+    "title_cn": "法国“阿尔萨斯”号护卫舰在红海拦截三枚弹道导弹",
+    "author": "Militarnyi",
+    "date": "2024-03（日未核）",
+    "url": "https://mil.in.ua/en/news/french-alsace-frigate-intercepts-three-ballistic-missiles-in-the-red-sea/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Army Recognition",
+    "title": "French Navy destroys 3 ballistic missiles launched by Houthis",
+    "title_cn": "法国海军摧毁3枚胡塞发射的弹道导弹",
+    "author": "Army Recognition",
+    "date": "2024-03（日未核）",
+    "url": "https://www.armyrecognition.com/archives/archives-naval-defense/2024/french-navy-destroys-3-ballistic-missiles-launched-by-houthis",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The War Zone（TWZ）",
+    "title": "French Frigate Captain Describes Frenetic Red Sea Combat",
+    "title_cn": "法国护卫舰舰长讲述红海紧张交战",
+    "author": "TWZ",
+    "date": "未核",
+    "url": "https://www.twz.com/sea/french-frigate-captain-describes-frenetic-red-sea-combat",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Alsace_(D656)",
+    "file_name": "（类别页）",
+    "desc_cn": "“阿尔萨斯”号防空护卫舰图集（类别名待核）",
+    "date": "",
+    "credit": "Marine nationale / 各作者",
+    "license": "待核",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "来袭反舰弹道导弹": "3",
+   "拦截": "3/3",
+   "拦截弹": "Aster 30（法军/多数媒体；Naval News称“很可能”）",
+   "单价参考": "约200万美元/枚（TWZ报道引述）"
+  }
+ },
+ {
+  "case_key": "rs_diamond_asbm_2024_04_24",
+  "category": "远海机动编组",
+  "title_cn": "“钻石”号33年来首次实战拦截导弹",
+  "subtitle_cn": "2024年4月24日 红海—亚丁湾 英国“钻石”号驱逐舰以“海蝰蛇”击落射向美籍商船“约克镇”号的胡塞反舰弹道导弹",
+  "date_start": "2024-04-24",
+  "date_end": "",
+  "location_cn": "红海—亚丁湾（Red Sea / Gulf of Aden，具体海域待核）",
+  "lat": 12.8,
+  "lon": 44.8,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装",
+  "defender": "英国皇家海军45型驱逐舰“钻石”号（HMS Diamond, D34），“繁荣卫士”行动；被保护对象为美籍商船“约克镇”号（MV Yorktown）",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "反舰弹道导弹1枚（英方、美方口径），美国中央司令部称“很可能”以美国籍、美国船东和运营的商船“约克镇”号为目标，船上有美国和希腊籍船员。",
+  "defense_means_cn": "“海蝰蛇”（Sea Viper，PAAMS 主防空导弹系统，“紫菀”导弹）。",
+  "narrative_cn": "2024年4月24日约11时51分（萨那时间），胡塞武装从也门发射一枚反舰弹道导弹。英国皇家海军45型驱逐舰“钻石”号（HMS Diamond, D34）以“海蝰蛇”防空导弹系统将其击落。据美国中央司令部声明，这枚导弹很可能瞄准美国籍、美国船东和运营的商船“约克镇”号（MV Yorktown），船上有美国和希腊籍船员。\n\n皇家海军于4月25日确认了此次交战（《简氏》口径），英国国防部于4月26日正式对外宣布（《欧洲安全与防务》口径）。英国国防大臣沙普斯称，这是自海湾战争以来皇家海军首次在作战中实施此类拦截；《简氏》表述为自1991年以来皇家海军舰艇首次在作战中拦截导弹。此前“钻石”号曾在2023年12月击落一架无人机，英国国防部当时称那是皇家海军数十年来首次实战击落空中目标——两次“首次”的区别在于目标类别：前者为无人机，本次为导弹。\n\n“钻石”号自2024年3月起在红海和亚丁湾部署，参加美国主导的“繁荣卫士”行动。该舰舰长称，舰员能够“在一瞬间作出反应”击败威胁。英国LBC电台报道标题称，皇家海军“首次在作战中击落弹道导弹，挫败了胡塞对集装箱船的攻击”。",
+  "defense_effect_cn": "一次拦截、一枚导弹，被保护商船未受损。本案验证了45型驱逐舰PAAMS系统对短程弹道目标的实战拦截能力（与法国“阿尔萨斯”号3月的拦截同属“紫菀”系列对弹道目标的实战记录）。局限：英方只公布了一枚导弹和一次交战，未公布发射拦截弹数量、交战距离；反舰弹道导弹以商船为目标，说明护航舰必须与被护船保持在本舰反导覆盖半径内，护航编组的队形与间距直接决定能否实施拦截。",
+  "claims_compare_cn": "英国国防部/沙普斯：“钻石”号击落一枚胡塞弹道导弹，系海湾战争以来首次实战拦截。美国中央司令部：导弹很可能以“约克镇”号为目标。公布日期：《简氏》称4月25日确认，《欧洲安全与防务》称4月26日宣布。胡塞方面：本组未检索到其就该枚导弹的声明。英方“首次”指导弹拦截，与2023年12月“首次击落空中目标”不矛盾。",
+  "losses_cn": "英方及“约克镇”号：无损失。胡塞：1枚反舰弹道导弹。",
+  "analysis_cn": "本案的价值在于“护航舰替商船挡弹道导弹”：反舰弹道导弹以商船为目标，护航舰是唯一可用的拦截手段。它说明在胡塞威胁环境下，护航编组的核心能力是具备反导能力的防空舰，而且该舰的位置必须服从被护船的位置。对远海编组的启示：护航方案应以防空舰的反导覆盖范围倒推商船航线与编组间距；具备反导能力的舰艇数量有限，是联合护航能力的真正瓶颈。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "Janes（简氏）",
+    "title": "HMS Diamond shoots down Houthi missile in Red Sea",
+    "title_cn": "“钻石”号在红海击落胡塞导弹",
+    "author": "Janes",
+    "date": "2024-04-26",
+    "url": "https://www.janes.com/defence-news/news-detail/hms-diamond-shoots-down-houthi-missile-in-red-sea",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "European Security & Defence（Euro-SD）",
+    "title": "HMS Diamond downs missile",
+    "title_cn": "“钻石”号击落导弹",
+    "author": "Euro-SD",
+    "date": "2024-04（日未核）",
+    "url": "https://euro-sd.com/2024/04/major-news/37823/hms-diamond-downs-missile/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "LBC",
+    "title": "Royal Navy thwarts Houthi attack on container ship by shooting down ballistic missile in combat for first time",
+    "title_cn": "皇家海军首次在作战中击落弹道导弹，挫败胡塞对集装箱船的攻击",
+    "author": "LBC",
+    "date": "2024-04（日未核）",
+    "url": "https://amp.lbc.co.uk/news/royal-navy-thwarts-houthi-attack-by-shooting-down-ballistic-missile/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "（标题未核）",
+    "title_cn": "Marine Insight 关于“钻石”号拦截的报道",
+    "author": "Marine Insight",
+    "date": "未核",
+    "url": "https://www.marineinsight.com/?p=1842508",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Royal_Navy_Type_45_Destroyer_HMS_Diamond_Fires_Sea_Viper_Missiles_for_First_Time_MOD_45153952.jpg",
+    "file_name": "Royal_Navy_Type_45_Destroyer_HMS_Diamond_Fires_Sea_Viper_Missiles_for_First_Time_MOD_45153952.jpg",
+    "desc_cn": "“钻石”号在外赫布里底群岛靶场首次试射“海蝰蛇”（紫菀）导弹并击落喷气式靶机（2012年前后试射，非实战；可作“海蝰蛇”发射示意）",
+    "date": "约2012（未核）",
+    "credit": "UK Ministry of Defence（MOD 45153952）",
+    "license": "OGL（英国国防部图片，待核）",
+    "verified": true,
+    "info_source": "WebSearch（allowed_domains=commons.wikimedia.org）2026-10-09 检索结果中出现的文件页"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:HMS_Diamond_D34_(1).jpg",
+    "file_name": "HMS_Diamond_D34_(1).jpg",
+    "desc_cn": "“钻石”号（D34）驱逐舰另一张舰影照片（拍摄时间未核，非交战现场）",
+    "date": "未核",
+    "credit": "未核（见文件页）",
+    "license": "待核（见文件页）",
+    "verified": true,
+    "info_source": "WebSearch（allowed_domains=commons.wikimedia.org）2026-10-09 检索结果中出现的文件页"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:HMS_Diamond_(D34)",
+    "file_name": "（类别页）",
+    "desc_cn": "“钻石”号驱逐舰图集；英国国防部曾发布该舰红海部署照片",
+    "date": "",
+    "credit": "UK MoD / Royal Navy",
+    "license": "OGL v3（待核）",
+    "verified": true,
+    "info_source": "WebSearch（commons.wikimedia.org）2026-10-09"
+   }
+  ],
+  "stats": {
+   "来袭反舰弹道导弹": "1",
+   "拦截时间": "约11:51（萨那时间）",
+   "被保护对象": "MV Yorktown（美籍）",
+   "皇家海军上次实战拦截导弹": "1991年（Janes）"
+  }
+ },
+ {
+  "case_key": "rs_stockdale_spruance_babelmandeb_2024",
+  "category": "远海机动编组",
+  "title_cn": "美舰两过曼德海峡遭混合齐射，全数拦截",
+  "subtitle_cn": "2024年9月27日、11月11日 曼德海峡（Bab el-Mandeb） 美国海军“斯托克代尔”号、“斯普鲁恩斯”号驱逐舰（9月另有“印第安纳波利斯”号濒海战斗舰）过峡时两度遭胡塞导弹与无人机攻击",
+  "date_start": "2024-09-27",
+  "date_end": "2024-11-11",
+  "location_cn": "曼德海峡（Bab el-Mandeb / Bab al-Mandab）",
+  "lat": 12.6,
+  "lon": 43.4,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装",
+  "defender": "美国海军“斯托克代尔”号（USS Stockdale, DDG-106）、“斯普鲁恩斯”号（USS Spruance, DDG-111）驱逐舰；9月27日另有濒海战斗舰“印第安纳波利斯”号（USS Indianapolis, LCS-17）",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "异构",
+   "集群",
+   "饱和"
+  ],
+  "attack_means_cn": "9月27日：导弹和无人机“近两打”（CNN口径，类型构成未见）。11月11日：单向攻击无人机至少8架、反舰弹道导弹5枚、反舰巡航导弹3枚（五角大楼）。",
+  "defense_means_cn": "舰空导弹与舰炮。据库珀中将事后口述，11月11日“斯托克代尔”号以一枚“标准-6”（SM-6）拦截来袭导弹，并以127毫米（5英寸）舰炮击落一架无人机。其余拦截武器与数量未公布。",
+  "narrative_cn": "2024年9月27日（周五），美国海军濒海战斗舰“印第安纳波利斯”号（USS Indianapolis, LCS-17）与驱逐舰“斯普鲁恩斯”号、“斯托克代尔”号通过曼德海峡时，遭胡塞武装导弹和无人机攻击。据CNN报道（经杰克逊维尔当地媒体Jax Today转述），三舰拦截了“近两打”导弹和无人机。五角大楼副新闻秘书萨布丽娜·辛格（Sabrina Singh）称，无人员受伤，舰艇未受损。本组未检索到此次来袭武器的类型构成。\n\n2024年11月11日（周一），“斯普鲁恩斯”号和“斯托克代尔”号在驶离红海、通过曼德海峡时再次遭攻击。五角大楼新闻秘书帕特·赖德（Pat Ryder）少将称，胡塞发射了至少8架单向攻击无人机、5枚反舰弹道导弹和3枚反舰巡航导弹，两舰对全部来袭目标实施了交战，攻击被“成功交战并挫败”，舰艇未受损，人员无伤亡。《星条旗报》报道为“至少8架无人机和8枚导弹”，与五角大楼口径一致。USNI称，两舰此前作为独立驱逐舰参加“繁荣卫士”行动，此时已编入“亚伯拉罕·林肯”号航母打击群。胡塞军事发言人叶海亚·萨雷亚称攻击取得成功，并称同时攻击了“林肯”号航母；赖德称不知道有针对该航母的攻击。\n\n2025年1月，时任中央司令部副司令布拉德·库珀（Brad Cooper）中将在“斯托克代尔”号上讲述了这次交战：该舰发射一枚SM-6拦截了一枚导弹，舰员还用5英寸舰炮击落了一架胡塞无人机（USNI 2025年1月30日）。",
+  "defense_effect_cn": "两次过峡遭袭，美舰均全数拦截，未受损（美方口径）。11月11日的攻击在一次齐射中混合了弹道导弹、巡航导弹和无人机，属于典型的异构饱和攻击，两艘驱逐舰完成了拦截。暴露的问题：一是曼德海峡狭窄、紧邻胡塞控制的也门海岸，舰艇过峡时预警时间被压缩，胡塞两次都选择在过峡时发动攻击；二是拦截仍主要依赖高价值舰空导弹（SM-6），5英寸舰炮击落无人机是降低成本的尝试，但具体比例未公布。",
+  "claims_compare_cn": "美方（11月11日，赖德）：至少8架无人机、5枚反舰弹道导弹、3枚反舰巡航导弹，全部被挫败，无损伤；不知道有针对“林肯”号的攻击。胡塞（萨雷亚）：称对两艘驱逐舰的攻击“成功”，并称攻击了“林肯”号。9月27日：美方称约两打来袭、无损伤；胡塞口径本组未检索到原文。来袭武器构成只有11月有官方分项数，9月和11月的数字不能合并。",
+  "losses_cn": "美方：无（美方口径）。胡塞：来袭弹药全部被拦截（美方口径）。",
+  "analysis_cn": "胡塞两次都在美舰通过曼德海峡时攻击，说明其利用海峡地形压缩防御方反应时间。11月的齐射配比为无人机8架、弹道导弹5枚、巡航导弹3枚，不同速度、弹道的武器混编，迫使舰艇同时应对高、低空目标。两舰在编入航母打击群后仍单独过峡，说明航母打击群的防空屏障并不总能覆盖狭窄水道。库珀以舰炮击落无人机作为正面事例，反映出美海军在成本压力下推动以舰炮应对低速目标。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "USNI News（美国海军学会新闻网）",
+    "title": "Houthis Attack Two U.S. Destroyers Leaving the Red Sea, Pentagon Says",
+    "title_cn": "五角大楼称胡塞攻击两艘驶离红海的美国驱逐舰",
+    "author": "USNI News",
+    "date": "2024-11-12",
+    "url": "https://news.usni.org/2024/11/12/houthis-attack-two-u-s-destroyers-leaving-the-red-sea-pentagon-says",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Stars and Stripes（星条旗报）",
+    "title": "（标题据URL：navy destroyers attack houthis red sea）",
+    "title_cn": "海军驱逐舰在红海遭胡塞攻击",
+    "author": "Stars and Stripes",
+    "date": "2024-11-12",
+    "url": "https://www.stripes.com/branches/navy/2024-11-12/navy-destroyers-attack-houthis-red-sea-15827680.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "gCaptain",
+    "title": "（标题据URL：U.S. Navy destroyers repel Houthi missile and drone barrage in Bab el-Mandeb Strait）",
+    "title_cn": "美国海军驱逐舰在曼德海峡击退胡塞导弹与无人机齐射",
+    "author": "gCaptain",
+    "date": "2024-11（日未核）",
+    "url": "https://gcaptain.com/u-s-navy-destroyers-repel-houthi-missile-and-drone-barrage-in-bab-el-mandeb-strait/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Business Insider（荷兰版）",
+    "title": "（标题据URL：US Navy destroyers unscathed after fighting off a complex attack of cruise and ballistic missiles and exploding drones）",
+    "title_cn": "美国海军驱逐舰击退巡航导弹、弹道导弹与自杀无人机的复杂攻击后毫发无损",
+    "author": "Business Insider",
+    "date": "2024-11（日未核）",
+    "url": "https://businessinsider.nl/us-navy-destroyers-unscathed-after-fighting-off-a-complex-attack-of-cruise-and-ballistic-missiles-and-exploding-drones",
+    "type": "其他"
+   },
+   {
+    "publisher": "Jax Today（杰克逊维尔当地媒体，援引 CNN）",
+    "title": "（标题据URL：mayport mideast missiles）",
+    "title_cn": "梅波特基地军舰在中东拦截导弹",
+    "author": "Jax Today",
+    "date": "2024-09-27",
+    "url": "https://jaxtoday.org/2024/09/27/mayport-mideast-missiles/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "U.S. Navy Destroyers Shoot Down Houthi-Launched Drone & Anti-Ship Missiles In Bal al-Mandab Strait",
+    "title_cn": "美国海军驱逐舰在曼德海峡击落胡塞发射的无人机与反舰导弹",
+    "author": "Marine Insight",
+    "date": "2024-09/10（日未核）",
+    "url": "https://www.marineinsight.com/?p=1859173",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "USNI News（美国海军学会新闻网）",
+    "title": "Crew of USS Stockdale Shot Down Houthi Drones with 5-Inch Gun, Says Admiral",
+    "title_cn": "海军将领称“斯托克代尔”号舰员以5英寸舰炮击落胡塞无人机",
+    "author": "USNI News",
+    "date": "2025-01-30",
+    "url": "https://news.usni.org/2025/01/30/crew-of-uss-stockdale-shot-down-houthi-drones-with-5-inch-gun-says-admiral",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The National Interest（国家利益）",
+    "title": "The Houthis Won't Stop Firing Missiles at U.S. Navy Destroyers",
+    "title_cn": "胡塞不停向美国海军驱逐舰发射导弹",
+    "author": "The National Interest",
+    "date": "2024（日未核）",
+    "url": "https://nationalinterest.org/node/213738",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Operation_Prosperity_Guardian",
+    "file_name": "（类别页）Category:Operation Prosperity Guardian",
+    "desc_cn": "“繁荣卫士”行动类别页，检索时含12个媒体文件：行动地图、2024年1月中央司令部照片与视频、2024年5月30日空袭也门时的英国皇家空军“台风”战斗机、2024年1月8日“梅森”号与“艾森豪威尔”号在红海航行照片等（具体文件名未在检索结果中出现，需进类别页挑选）",
+    "date": "",
+    "credit": "U.S. Navy / CENTCOM / UK MoD 等",
+    "license": "以各文件页为准",
+    "verified": true,
+    "info_source": "WebSearch（commons.wikimedia.org）2026-10-09，类别页真实出现"
+   }
+  ],
+  "stats": {
+   "9-27来袭": "导弹与无人机近两打（CNN口径，构成未见）",
+   "9-27参战舰": "3（印第安纳波利斯号、斯普鲁恩斯号、斯托克代尔号）",
+   "11-11来袭": "无人机≥8、反舰弹道导弹5、反舰巡航导弹3（五角大楼）",
+   "舰艇受损": "无（美方口径，两次均同）",
+   "斯托克代尔号11-11用弹举例": "SM-6拦截导弹1枚；5英寸炮击落无人机1架（库珀中将）",
+   "胡塞同时宣称攻击林肯号": "是；美方称不知情"
+  }
+ },
+ {
+  "case_key": "rs_gettysburg_friendly_fire_2024_12_22",
+  "category": "远海机动编组",
+  "title_cn": "“葛底斯堡”号SM-2误击本编队F/A-18F",
+  "subtitle_cn": "2024年12月22日 红海 美国“杜鲁门”号航母打击群巡洋舰“葛底斯堡”号以“标准-2”误击返航的F/A-18F舰载机",
+  "date_start": "2024-12-22",
+  "date_end": "",
+  "location_cn": "红海（Red Sea）",
+  "lat": 16.0,
+  "lon": 40.8,
+  "region": "红海-亚丁湾",
+  "attacker": "无（友军误击）；背景为胡塞武装对“杜鲁门”号打击群的持续袭扰",
+  "defender": "美国海军“哈里·S·杜鲁门”号航母打击群（Harry S. Truman CSG）：提康德罗加级巡洋舰“葛底斯堡”号（USS Gettysburg, CG-64）、舰载F/A-18F“超级大黄蜂”",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "“葛底斯堡”号发射“标准-2”（SM-2）舰空导弹，命中本方F/A-18F；另有一架友机险遭误击（调查结论）。",
+  "defense_means_cn": "不适用（友军误击）。两名飞行员弹射逃生。",
+  "narrative_cn": "2024年12月22日约凌晨3时（当地时间，美东时间21日约19时），在红海活动的美国海军“哈里·S·杜鲁门”号航母打击群发生友军误击：打击群中的提康德罗加级巡洋舰“葛底斯堡”号（USS Gettysburg, CG-64）将一架返航的F/A-18F“超级大黄蜂”误判为敌方目标，发射“标准-2”导弹将其击落。\n\n这架双座F/A-18F当时刚完成一次“伙伴加油”（buddy tanker）任务，为一次防御性制空（DCA）任务提供空中加油，正在返回航母途中。两名飞行员均弹射逃生，美国中央司令部称两人安全，初步评估其中一人轻伤。事发时，“杜鲁门”号打击群正在红海执行“繁荣卫士”行动并处于胡塞武装的攻击威胁之下。\n\n美国海军于2025年12月4日一并公布了“杜鲁门”号打击群为期8个月部署中多起事故的调查结果。关于本次误击，调查认定：飞行员弹射决定正确；同一时段还有第二架飞机险些被误击；造成误识别并随后实施交战的原因包括“葛底斯堡”号与航母打击群之间缺乏一体化训练机会、巡洋舰上缺乏有力的交叉复核（forceful backup）、整个打击群缺乏协同凝聚力。海军称已采取“相应的问责措施”，但未公布被处分人员姓名。\n\n同次公布的调查还涉及该打击群部署期间的其他事故（媒体标题称“多起事故”“充满波折的部署”），具体涉及哪几起、各自原因，本组未检索核实，列为待核。",
+  "defense_effect_cn": "这是本轮红海作战中美军公开确认的舰空导弹击落本方有人机事件。它暴露的问题与德国“黑森”号误射MQ-9同源：在高威胁、高节奏的防空作战中，舰艇对己方返航飞机的识别依赖程序与协同，而巡洋舰与航母打击群缺乏一体化训练、舰上缺乏交叉复核机制；“第二架飞机险些被误击”说明问题不是偶然单点失误。",
+  "claims_compare_cn": "美国中央司令部（12月22日）：F/A-18F被美舰“误击”，两名飞行员安全、一人轻伤。美国海军调查（2025年12月4日公布）：确认SM-2误击、第二架飞机险遭误击、原因为训练与协同缺陷。时间：美国海军官员对USNI称当地时间周日约凌晨3时，部分报道按美东时间记为12月21日。胡塞方面：本组未检索到其就本事件的声称（是否宣称击落该机，待核）。",
+  "losses_cn": "美方：F/A-18F战斗机1架（全损）；飞行员1人轻伤；SM-2导弹至少1枚。",
+  "analysis_cn": "友军误击是远海编组在持续高强度防空中最难防的“内部风险”。本案的调查结论把责任落在训练与编组协同上，而非单一操作员失误：巡洋舰临时编入打击群、与航空联队缺乏合练，在胡塞威胁持续存在、交战规则偏向“先打”的情况下，识别链条的薄弱处被放大。对远海编组的启示：防空舰与舰载机联队的合练应先于部署；返航航线、敌我识别、空情通报需有冗余；“第二架飞机险遭误击”这类近失事件应纳入常态化复盘。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "USNI News（美国海军学会新闻网）",
+    "title": "U.S. Super Hornet Shot Down Over Red Sea in Friendly Fire Incident; Aviators Safe",
+    "title_cn": "美军“超级大黄蜂”在红海上空遭友军误击，飞行员安全",
+    "author": "USNI News",
+    "date": "2024-12-21",
+    "url": "https://news.usni.org/2024/12/21/u-s-super-hornet-shot-down-over-red-sea-in-friendly-fire-incident-aviators-safe",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "U.S. Fleet Forces Command（美国舰队司令部）",
+    "title": "Navy releases Harry S. Truman Carrier Strike Group investigations",
+    "title_cn": "海军公布“哈里·S·杜鲁门”号航母打击群事故调查",
+    "author": "U.S. Navy",
+    "date": "2025-12-04",
+    "url": "https://www.usff.navy.mil/Press-Room/Press-Releases/Article/4353957/navy-releases-harry-s-truman-carrier-strike-group-investigations/",
+    "type": "官方"
+   },
+   {
+    "publisher": "GlobalSecurity.org（转载美国海军新闻稿）",
+    "title": "Navy releases Harry S. Truman Carrier Strike Group investigations",
+    "title_cn": "海军公布“杜鲁门”号打击群调查（转载）",
+    "author": "U.S. Navy",
+    "date": "2025-12-04",
+    "url": "https://www.globalsecurity.org/military/library/news/2025/12/mil-251204-usnpr01.htm",
+    "type": "官方"
+   },
+   {
+    "publisher": "The War Zone（TWZ）",
+    "title": "F/A-18 Super Hornet Shot Down By Navy Cruiser Investigation Findings Released (Updated)",
+    "title_cn": "海军巡洋舰击落F/A-18调查结果公布",
+    "author": "TWZ",
+    "date": "2025-12（日未核）",
+    "url": "https://www.twz.com/sea/f-a-18-super-hornet-shot-down-by-navy-cruiser-investigation-findings-released",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Aviationist",
+    "title": "U.S. Navy Releases Findings of Investigation on USS Truman's Eventful Deployment",
+    "title_cn": "美海军公布“杜鲁门”号波折部署调查结果",
+    "author": "The Aviationist",
+    "date": "2025-12-05",
+    "url": "https://theaviationist.com/2025/12/05/us-navy-truman-investigation/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Janes（简氏）",
+    "title": "Investigations highlight mishaps of USS Harry S Truman deployment in Red Sea region",
+    "title_cn": "调查揭示“杜鲁门”号红海部署期间的多起事故",
+    "author": "Janes",
+    "date": "2025-12（日未核）",
+    "url": "https://www.janes.com/osint-insights/defence-news/sea/investigations-highlight-mishaps-of-uss-harry-s-truman-deployment-in-red-sea-region",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "WAVY-TV",
+    "title": "Navy releases investigation on Harry S. Truman carrier strike group after incidents during 8-month deployment",
+    "title_cn": "海军公布“杜鲁门”号打击群8个月部署期间事故调查",
+    "author": "WAVY",
+    "date": "2025-12（日未核）",
+    "url": "https://www.wavy.com/news/military/navy/navy-releases-investigation-on-harry-s-truman-carrier-strike-group-after-incidents-during-8-month-deployment/amp/",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:USS_Gettysburg_(CG-64)",
+    "file_name": "（类别页）",
+    "desc_cn": "“葛底斯堡”号巡洋舰图集",
+    "date": "",
+    "credit": "U.S. Navy",
+    "license": "Public Domain（待核）",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:USS_Harry_S._Truman_(CVN-75)",
+    "file_name": "（类别页）",
+    "desc_cn": "“杜鲁门”号航母图集，含2024—2025年部署照片线索",
+    "date": "",
+    "credit": "U.S. Navy",
+    "license": "Public Domain（待核）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "误击武器": "SM-2",
+   "损失": "F/A-18F×1",
+   "人员": "2人弹射，1人轻伤",
+   "险遭误击友机": "1架（调查结论）",
+   "调查公布": "2025-12-04"
+  }
+ },
+ {
+  "case_key": "rs_truman_claims_ceasefire_2025",
+  "category": "远海机动编组",
+  "title_cn": "胡塞称打“杜鲁门”号，美方称偏离百英里",
+  "subtitle_cn": "2025年3月15日—5月6日 红海 “粗骑手”行动期间胡塞多次宣称攻击“杜鲁门”号航母打击群，美方否认；5月6日美胡经阿曼斡旋停火",
+  "date_start": "2025-03-15",
+  "date_end": "2025-05-06",
+  "location_cn": "红海（Red Sea），“杜鲁门”号航母打击群活动海域",
+  "lat": 18.5,
+  "lon": 39.5,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装",
+  "defender": "美国海军“哈里·S·杜鲁门”号航母打击群（USS Harry S. Truman, CVN-75）",
+  "outcome": "防御成功",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "异构"
+  ],
+  "attack_means_cn": "胡塞宣称以弹道导弹、巡航导弹和无人机多次攻击“杜鲁门”号（具体型号、数量为胡塞单方口径，待核）。",
+  "defense_means_cn": "美方未逐次公布拦截细节；美方称胡塞导弹偏离目标“超过100英里”。",
+  "narrative_cn": "2025年3月15日，美国对也门胡塞武装发起新一轮近乎每日的空袭，行动代号“粗骑手”（Operation Rough Rider）。美国中央司令部4月27日称，自行动开始以来已打击800多个目标，胡塞弹道导弹发射量下降69%，单向攻击无人机攻击下降55%（The Defense Post 4月28日等报道）。此后胡塞武装多次宣称对在红海活动的“哈里·S·杜鲁门”号航母打击群发动攻击。以色列《以色列时报》报道，胡塞宣称攻击美国军舰后，美方嘲讽其导弹“偏离超过100英里”；中东媒体“媒体线”（The Media Line）2025年4月2日报道，胡塞再次宣称对红海美国军舰发动新攻击，声称已对“杜鲁门”号实施三次攻击。\n\n这一阶段的口径对立延续了2024年以来的模式：胡塞方面频繁宣称“命中”或“攻击”美国航母、驱逐舰（例如2024年6月宣称攻击美国驱逐舰及阿拉伯海两艘船，俄卫星通讯社转述），美方或否认、或称来袭武器被拦截、或称未构成威胁。\n\n2025年5月6日，美国总统特朗普宣布停止对胡塞的轰炸行动。USNI当日报道称，美军根据总统命令停止了对胡塞的打击。据阿拉伯海湾国家研究中心（Arab Center Washington DC）分析，这一安排由阿曼斡旋：胡塞同意停止攻击美国船只，美国同意停止空袭；胡塞方面强调停火“无论如何”不适用于以色列。美国国会研究服务处2026年2月20日的报告称，美国官员描述伊朗持续向胡塞提供武器、目标信息和军事建议。\n\n此轮行动中美军的装备与经费代价（至少7架MQ-9被击落、“杜鲁门”号4月28日和5月6日两架F/A-18落海、F-35险被地空导弹击中、首月作战费用约10亿美元的报道）另列“粗骑手”行动代价案例。",
+  "defense_effect_cn": "按美方口径，胡塞对“杜鲁门”号的攻击均未构成实际威胁，航母打击群未被击中。然而该打击群在同一部署期内出现巡洋舰误击本方F/A-18F（2024年12月）等事故（见前一案例），说明长期处于胡塞威胁下的高强度部署本身会侵蚀编队安全。停火后，胡塞对美国舰船的攻击停止，但对其他国家关联船舶的攻击并未停止（见2026年态势案例）。",
+  "claims_compare_cn": "胡塞方面（2025年3—4月）：多次宣称攻击“杜鲁门”号，4月初称已实施三次攻击。美方：称导弹偏离“超过100英里”（《以色列时报》报道），未见美方承认舰艇受损。停火（5月6日）：据阿拉伯中心分析，胡塞同意停止攻击美国船只、美方停止空袭；胡塞称停火不适用于以色列（美方宣布时的具体措辞本组未核）。行动代号：中央司令部2025年4月27日声明使用“粗骑手”（Operation Rough Rider）。美军损失与成本：见“粗骑手”行动代价案例。本案双方口径冲突为本组最严重的一处，胡塞关于“攻击航母”的声称在整个2023—2025年未见任何独立证据支持命中。",
+  "losses_cn": "美方：未见舰艇受损的公开记录（美方口径）；装备损失见“粗骑手”行动代价案例（至少7架MQ-9被击落、2架F/A-18落海）。胡塞：中央司令部称数百人被打死（含领导层）。",
+  "analysis_cn": "胡塞对航母的“宣称攻击”主要服务于宣传与心理战，美方以“偏离100英里”的方式公开反驳，属于信息战层面的对抗。对情报研判而言，此类声称需以美方、第三方航运通报（UKMTO/JMIC）和卫星影像交叉核对，单方声称不应作为“航母遇袭”的依据。5月6日停火说明，胡塞对海上目标的选择具有明显的政治可调性：可以对美国船舶停火而继续打击其他目标。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "The Times of Israel",
+    "title": "Houthis claim attack on American warships; US scoffs they missed by 'over 100 miles'",
+    "title_cn": "胡塞宣称攻击美国军舰，美方嘲讽其偏离“超过100英里”",
+    "author": "Times of Israel",
+    "date": "2025（日未核）",
+    "url": "https://www.timesofisrael.com/houthis-claim-attack-on-american-warships-us-scoffs-they-missed-by-over-100-miles/",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Media Line",
+    "title": "Houthis Claim New Attacks on US Warships in the Red Sea",
+    "title_cn": "胡塞宣称对红海美国军舰发动新攻击",
+    "author": "The Media Line",
+    "date": "2025-04-02",
+    "url": "https://themedialine.org/headlines/houthis-claim-new-attacks-on-us-warships-in-the-red-sea/",
+    "type": "其他"
+   },
+   {
+    "publisher": "USNI News（美国海军学会新闻网）",
+    "title": "U.S. Stops Houthi Bombing Campaign on Presidential Orders",
+    "title_cn": "美军根据总统命令停止对胡塞的轰炸行动",
+    "author": "USNI News",
+    "date": "2025-05-06",
+    "url": "https://news.usni.org/2025/05/06/u-s-stops-houthi-bombing-campaign-on-presidential-orders",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Arab Center Washington DC（阿拉伯中心）",
+    "title": "Implications of the US-Houthi Ceasefire Deal",
+    "title_cn": "美胡停火协议的影响",
+    "author": "Arab Center Washington DC",
+    "date": "2025（日未核）",
+    "url": "https://arabcenterdc.org/resource/implications-of-the-us-houthi-ceasefire-deal/",
+    "type": "智库"
+   },
+   {
+    "publisher": "Congressional Research Service（美国国会研究服务处）",
+    "title": "IF12581（Houthi 相关简报，2026年2月20日更新版）",
+    "title_cn": "国会研究服务处胡塞问题简报",
+    "author": "CRS",
+    "date": "2026-02-20",
+    "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12581/IF12581.17.pdf",
+    "type": "官方"
+   },
+   {
+    "publisher": "Sputnik（经 GlobalSecurity.org 转载）",
+    "title": "Houthis Say Attacked US Destroyer, 2 Ships in Red, Arabian Seas",
+    "title_cn": "胡塞称攻击了红海和阿拉伯海的美国驱逐舰及两艘船",
+    "author": "Sputnik",
+    "date": "2024-06-17",
+    "url": "https://www.globalsecurity.org/military/library/news/2024/06/mil-240617-sputnik02.htm",
+    "type": "其他"
+   },
+   {
+    "publisher": "USNI News（美国海军学会新闻网）",
+    "title": "Top Stories 2025: Operations in the Middle East, U.S. Southern Command",
+    "title_cn": "2025年度要闻：中东与南方司令部行动",
+    "author": "USNI News",
+    "date": "2026-01-02",
+    "url": "https://news.usni.org/2026/01/02/top-stories-2025-operations-in-the-middle-east-u-s-southern-command",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Defense Post",
+    "title": "US Says It Struck 800 Targets in Yemen, Killed 100s of Houthis Since March 15",
+    "title_cn": "美方称自3月15日以来打击也门800个目标、打死数百名胡塞武装人员",
+    "author": "AFP/The Defense Post",
+    "date": "2025-04-28",
+    "url": "https://thedefensepost.com/2025/04/28/us-struck-houthis-march-15/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Al-Monitor",
+    "title": "US says it struck 800 targets in Yemen, killed 100s of Huthis since March 15",
+    "title_cn": "美方称自3月15日以来打击也门800个目标",
+    "author": "AFP/Al-Monitor",
+    "date": "2025-04（日未核）",
+    "url": "https://www.al-monitor.com/originals/2025/04/us-says-it-struck-800-targets-yemen-killed-100s-huthis-march-15",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:US_striking_Houthi_positions_in_Yemen.webm",
+    "file_name": "US_striking_Houthi_positions_in_Yemen.webm",
+    "desc_cn": "美国中央司令部发布的打击也门胡塞目标视频，文件页日期为2025年3月15日（“粗骑手”行动首日），被维基百科“粗骑手行动”等条目引用",
+    "date": "2025-03-15",
+    "credit": "U.S. Central Command",
+    "license": "Public Domain（美国政府作品，待核）",
+    "verified": true,
+    "info_source": "WebSearch（allowed_domains=commons.wikimedia.org）2026-10-09 检索结果中出现的文件页"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:USS_Harry_S._Truman_(CVN-75)",
+    "file_name": "（类别页）",
+    "desc_cn": "“杜鲁门”号航母图集，需筛选2025年红海部署照片",
+    "date": "",
+    "credit": "U.S. Navy",
+    "license": "Public Domain（待核）",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "起始日期": "2025-03-15（“粗骑手”行动开始，The Defense Post、TWZ 等报道）",
+   "胡塞宣称攻击杜鲁门号": "多次（4月初称3次）",
+   "美方口径": "偏离超过100英里、未受损",
+   "美胡停火": "2025-05-06（阿曼斡旋）",
+   "MQ-9损失/行动成本": "至少7架MQ-9（头30天）；首月作战费用约10亿美元（报道口径），详见“粗骑手”行动代价案例",
+   "行动代号": "粗骑手（Operation Rough Rider），中央司令部2025-04-27声明使用",
+   "中央司令部称打击目标": "800+（截至2025-04-27）"
+  }
+ },
+ {
+  "case_key": "rs_rough_rider_costs_2025",
+  "category": "远海机动编组",
+  "title_cn": "“粗骑手”代价：MQ-9连损，两机落海",
+  "subtitle_cn": "2025年3月15日—5月6日 红海及也门上空 美军对胡塞“粗骑手”空袭行动期间的无人机损失、有人机险情与“杜鲁门”号两架F/A-18落海事故",
+  "date_start": "2025-03-15",
+  "date_end": "2025-05-06",
+  "location_cn": "红海（Red Sea）“杜鲁门”号航母打击群活动海域及也门上空",
+  "lat": 17.5,
+  "lon": 40.5,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装防空力量（地空导弹，型号未公布）；胡塞对航母的导弹、无人机攻击宣称见案例“胡塞称打‘杜鲁门’号”",
+  "defender": "美国中央司令部空中与海上力量：“哈里·S·杜鲁门”号（USS Harry S. Truman, CVN-75）航母打击群及其舰载机联队（含第136、第11攻击战斗机中队），MQ-9“死神”无人机，F-35、F-16战斗机",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "胡塞地空导弹击落MQ-9无人机、逼近F-35和F-16；对“杜鲁门”号航母打击群的导弹与无人机攻击宣称（美方称偏离目标）。",
+  "defense_means_cn": "F-35机动规避来袭地空导弹；航母打击群持续出动舰载机实施打击。两架F/A-18损失均为舰上事故，不是被敌火直接击落。",
+  "narrative_cn": "2025年3月15日，美军开始对也门胡塞武装实施近乎每日的空袭，行动代号“粗骑手”（Operation Rough Rider）。美国中央司令部4月27日称，自行动开始以来已打击800多个目标，摧毁多处指挥控制设施、防空系统、先进武器制造和储存设施，打死数以百计的胡塞武装人员，其中包括领导层成员；胡塞弹道导弹发射量下降69%，单向攻击无人机攻击下降55%。5月6日，美胡经阿曼斡旋停火，行动结束（见案例“胡塞称打‘杜鲁门’号”）。\n\n行动期间美军的代价主要有三类。\n\n一是无人机。《纽约时报》援引多名美国官员报道（The Aviationist 5月13日转述），行动头30天内胡塞击落至少7架MQ-9“死神”无人机，每架约3000万美元。\n\n二是有人机险情。同一报道称，多架F-16和1架F-35险些被胡塞防空火力击中。一名美国官员对TWZ说，导弹“靠得足够近，以致（F-35）不得不机动规避”。该官员无法证实F-16曾遭射击，也没有说明日期，以及这架F-35属于空军还是海军、海军陆战队。\n\n三是航母舰载机。4月28日，“杜鲁门”号上第136攻击战斗机中队（VFA-136）的一架F/A-18E在机库内被牵引时，调运人员失去控制，飞机连同牵引车一起落海。人员及时避开，全部当即清点在位，1名水兵轻伤。美国海军称，该打击群和舰载机联队“完全具备执行任务能力”。检索所见报道中有一则援引初步现场报告称，航母为规避胡塞火力而突然机动可能是诱因，但未获证实，调查期间海军未公布原因。5月6日，第11攻击战斗机中队（VFA-11）的一架F/A-18F在夜间着舰时未能钩住拦阻索，冲出甲板落海，两名飞行员弹射后由直升机救起，仅受轻伤；是拦阻索故障还是尾钩未能正常挂索，仍在调查。两起事故相隔不到10天。连同2024年12月22日被“葛底斯堡”号误击的F/A-18F，“杜鲁门”号此次部署共损失3架“超级大黄蜂”。有报道称每架价值逾6500万美元。\n\n成本方面，The Aviationist援引的报道称，行动头一个月的作战费用约10亿美元，不含两架F/A-18。五角大楼未公布正式核算。",
+  "defense_effect_cn": "按中央司令部的数字，空袭压低了胡塞导弹和无人机的发射量，但胡塞防空对MQ-9造成了持续损失，并一度威胁到F-35和F-16。航母方面，“杜鲁门”号在不到10天内因舰上事故损失两架F/A-18，加上此前的友军误击，单次部署共损失3架。截至本组检索，未见两起事故的最终调查结论，事故与胡塞威胁下高强度、长时间作战之间的关系没有定论。行动以停火结束，美方对外表述为达成目标，但胡塞对以色列及其他目标的攻击仍在继续（见2026年态势案例）。",
+  "claims_compare_cn": "中央司令部（4月27日）：打击800多个目标，胡塞弹道导弹发射下降69%、无人机攻击下降55%。损失：美方未正式公布MQ-9损失总数，“至少7架”来自《纽约时报》援引的官员说法；F-35险情有美国官员向TWZ证实，F-16险情未获证实。F/A-18E事故：海军称原因在调查；“规避胡塞火力急转”是初步报告说法，未证实。另有一则“舰载机在地中海被吹落海中”的报道（Marine Industry News），经比对应为另一事件，本组未采用。成本：“首月约10亿美元”为媒体报道，未见官方核算。胡塞方面关于击落MQ-9的宣称本轮未检索。",
+  "losses_cn": "美方：MQ-9至少7架（头30天，按每架约3000万美元计约2.1亿美元，本组估算）；F/A-18E 1架（4月28日，连同牵引车）、F/A-18F 1架（5月6日），报道称每架逾6500万美元；1名水兵、2名飞行员轻伤。部署期内该舰共损失3架F/A-18（含2024-12-22误击）。胡塞：中央司令部称数百人被打死（含领导层），设施损失见上。",
+  "analysis_cn": "“粗骑手”行动说明，对拥有一定地空导弹能力的非国家武装实施持续空袭，中空长航时无人机的损耗会很快累积：头30天至少7架MQ-9，约每4天1架。F-35需要机动规避，说明胡塞防空对第五代战机也构成实际威胁。航母方面，两起舰上事故都发生在高强度出动期间，是否与威胁环境下的机动、疲劳有关，需等调查结论。行动成本（首月约10亿美元）与胡塞来袭武器的低成本对比，是这类远海长期作战的突出问题。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "The Aviationist",
+    "title": "Houthi Air Defenses Nearly Hit U.S. F-35s and F-16s",
+    "title_cn": "胡塞防空火力险些击中美军F-35和F-16",
+    "author": "The Aviationist",
+    "date": "2025-05-13",
+    "url": "https://theaviationist.com/2025/05/13/houthi-air-defenses-u-s-f-35s-and-f-16s/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The War Zone（TWZ）",
+    "title": "F-35 Had To Maneuver To Evade Houthi Surface-To-Air Missile: U.S. Official",
+    "title_cn": "美国官员：F-35不得不机动规避胡塞地空导弹",
+    "author": "TWZ",
+    "date": "2025-05（日未核）",
+    "url": "https://www.twz.com/air/f-35-had-to-maneuver-to-evade-houthi-surface-to-air-missile-u-s-official",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The New Arab（新阿拉伯人）",
+    "title": "（标题据URL：Yemen's Houthis nearly shot down advanced US F-35 jet: report）",
+    "title_cn": "报道称也门胡塞险些击落美国F-35",
+    "author": "The New Arab",
+    "date": "2025-05（日未核）",
+    "url": "https://www.newarab.com/news/yemens-houthis-nearly-shot-down-advanced-us-f-35-jet-report?amp",
+    "type": "其他"
+   },
+   {
+    "publisher": "The Defense Post",
+    "title": "US Says It Struck 800 Targets in Yemen, Killed 100s of Houthis Since March 15",
+    "title_cn": "美方称自3月15日以来打击也门800个目标、打死数百名胡塞武装人员",
+    "author": "AFP/The Defense Post",
+    "date": "2025-04-28",
+    "url": "https://thedefensepost.com/2025/04/28/us-struck-houthis-march-15/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "US Forces Strike Over 800 Houthi Targets In Yemen, Attacks Drop By 69%",
+    "title_cn": "美军打击也门800余个胡塞目标，攻击下降69%",
+    "author": "Marine Insight",
+    "date": "2025-04（日未核）",
+    "url": "https://www.marineinsight.com/us-forces-strike-over-800-houthi-targets-in-yemen-attacks-drop-by-69/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "ClearanceJobs News",
+    "title": "（标题据URL：U.S. Navy loses F/A-18 Super Hornet overboard in USS Truman mishap）",
+    "title_cn": "美国海军在“杜鲁门”号事故中损失一架F/A-18“超级大黄蜂”",
+    "author": "ClearanceJobs",
+    "date": "2025-04-28",
+    "url": "https://news.clearancejobs.com/2025/04/28/u-s-navy-loses-f-a-18-super-hornet-overboard-in-uss-truman-mishap/",
+    "type": "其他"
+   },
+   {
+    "publisher": "Baird Maritime",
+    "title": "（标题据URL：F/A-18E jet falls overboard from US Navy aircraft carrier in Red Sea）",
+    "title_cn": "一架F/A-18E从美国海军航母落入红海",
+    "author": "Baird Maritime",
+    "date": "2025-04（日未核）",
+    "url": "https://www.bairdmaritime.com/amp/story/security/incidents/accidents/fa-18e-jet-falls-overboard-from-us-navy-aircraft-carrier-in-red-sea",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Aviacionline",
+    "title": "An F/A-18E Falls Overboard from USS Harry S. Truman in the Red Sea",
+    "title_cn": "一架F/A-18E从“杜鲁门”号落入红海",
+    "author": "Aviacionline",
+    "date": "2025-04（日未核）",
+    "url": "https://aviacionline.com/an-fa-18e-falls-overboard-from-uss-harry-s-truman-in-the-red-sea",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "UK Defence Journal（英国防务杂志）",
+    "title": "（标题据URL：Another jet goes overboard off American carrier）",
+    "title_cn": "美国航母又一架战机落海",
+    "author": "UK Defence Journal",
+    "date": "2025-05（日未核）",
+    "url": "https://ukdefencejournal.org.uk/another-jet-goes-overboard-off-american-carrier/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Good Morning America（ABC News）",
+    "title": "（标题据URL：US fighter jet rolls off aircraft carrier, sinks into ocean, Navy says）",
+    "title_cn": "海军称一架美国战机从航母滑落沉入海中",
+    "author": "ABC News",
+    "date": "2025-04（日未核）",
+    "url": "https://www.goodmorningamerica.com/news/story/us-fighter-jet-rolls-off-aircraft-carrier-sinks-into-ocean-navy-says-121245662",
+    "type": "其他"
+   },
+   {
+    "publisher": "The EurAsian Times（欧亚时报）",
+    "title": "（标题据URL：U.S. claims victory over Houthis after losing 7 MQ-9s, 3 F/A-18s, near miss for F-35s, F-16s — 评论）",
+    "title_cn": "美国在损失7架MQ-9、3架F/A-18并险失F-35和F-16后宣称胜利（评论）",
+    "author": "EurAsian Times",
+    "date": "2025-05（日未核）",
+    "url": "https://www.eurasiantimes.com/just-like-pakistan-u-s-claims-victory-over-houthis-after-losing-7-mq-9s-3-f-a-18s-near-miss-for-f-35s-f-16s-oped/",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:US_striking_Houthi_positions_in_Yemen.webm",
+    "file_name": "US_striking_Houthi_positions_in_Yemen.webm",
+    "desc_cn": "美国中央司令部发布的打击也门胡塞目标视频，文件页日期为2025年3月15日（“粗骑手”行动首日），被维基百科“粗骑手行动”等条目引用",
+    "date": "2025-03-15",
+    "credit": "U.S. Central Command",
+    "license": "Public Domain（美国政府作品，待核）",
+    "verified": true,
+    "info_source": "WebSearch（allowed_domains=commons.wikimedia.org）2026-10-09 检索结果中出现的文件页"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:F/A-18E/F_Super_Hornet",
+    "file_name": "（类别页）Category:F/A-18E/F Super Hornet",
+    "desc_cn": "F/A-18E/F“超级大黄蜂”类别页，可选机型示意图",
+    "date": "",
+    "credit": "U.S. Navy 等",
+    "license": "以各文件页为准",
+    "verified": true,
+    "info_source": "WebSearch（commons.wikimedia.org）2026-10-09"
+   }
+  ],
+  "stats": {
+   "行动起止": "2025-03-15 — 2025-05-06",
+   "中央司令部称打击目标": "800+（截至2025-04-27）",
+   "胡塞弹道导弹发射降幅": "69%（中央司令部）",
+   "单向攻击无人机攻击降幅": "55%（中央司令部）",
+   "MQ-9损失": "至少7架（头30天，《纽约时报》援引官员）；单价约3000万美元",
+   "F/A-18损失": "2架（2025-04-28 F/A-18E/VFA-136；2025-05-06 F/A-18F/VFA-11）；本次部署合计3架（含2024-12-22误击）",
+   "F/A-18单价": "逾6500万美元（报道口径）",
+   "首月作战费用": "约10亿美元（报道口径，不含F/A-18，未见官方核算）",
+   "F-35险情": "1架被迫机动规避地空导弹（美国官员对TWZ）",
+   "事故调查结论": "截至检索未见公开"
+  }
+ },
+ {
+  "case_key": "rs_navies_posture_2025_07_2026_09",
+  "category": "远海机动编组",
+  "title_cn": "伊朗战争期间胡塞未对海军舰艇开火",
+  "subtitle_cn": "2025年7月—2026年9月 红海—曼德海峡 美胡停火后胡塞对海军舰艇未见公开攻击记录，转打沙特关联商船；美方以“油轮换军舰”威慑",
+  "date_start": "2025-07-01",
+  "date_end": "2026-09-30",
+  "location_cn": "红海、曼德海峡、亚丁湾（Red Sea / Bab el-Mandeb / Gulf of Aden）",
+  "lat": 12.6,
+  "lon": 43.3,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（对商船、对以色列与沙特本土）；伊朗（据USNI，企图打击美舰，地点不在本组范围）",
+  "defender": "在红海—亚丁湾活动的美国及欧盟“阿斯皮德斯”舰艇；沙特关联航运",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "空中",
+   "水面"
+  ],
+  "patterns": [
+   "异构"
+  ],
+  "attack_means_cn": "对海军舰艇：本组未检索到2025年7月至2026年9月间胡塞攻击海军舰艇的公开记录。对商船（供参考，详见C2组）：导弹、无人机、无人艇；2026年7月联合海事信息中心（JMIC）称胡塞已在曼德海峡附近部署导弹和无人机。",
+  "defense_means_cn": "美方声明威慑：任何美国军舰遭攻击，美方将打击一艘伊朗油轮（USNI 2026年9月11日）。欧盟海军任务建议与以色列、美国、沙特有关联的船舶避开红海和亚丁湾。",
+  "narrative_cn": "2025年5月6日美胡停火后，本组未检索到胡塞对美国或其他国家海军舰艇实施攻击的公开记录。其间态势按时间如下：\n\n2026年1月26日，美国军事网站（Military.com）和伊朗国际（Iran International）报道，随着一艘美国航母驶向伊朗方向，胡塞威胁在红海发动新攻击。2026年美以对伊朗的战争爆发后，《国民报》3月17日报道称，战争进入第三周，胡塞仍未攻击红海船舶，分析人士对此“并不确定原因”。据维基百科汇总，胡塞于2026年3月28日恢复对以色列的打击，在伊朗战争停火（“伊斯兰堡备忘录”）后暂停。\n\n2026年7月13日，胡塞恢复对沙特的攻击，7月20日宣布对沙特港口和船舶实施“海上封锁”。美国主导的联合海事信息中心（JMIC）称胡塞已完成攻击航运的准备，包括在曼德海峡附近部署导弹和无人机（CNBC 7月22日）。《长期战争杂志》8月报道，胡塞宣称攻击了8艘沙特关联船舶。8月11日至12日，一艘货轮在曼德海峡遇袭，半岛电视台援引也门政府称6人遇难，CNBC称这是伊朗战争开始以来红海首次出现死亡，USNI则报道胡塞宣称攻击坦桑尼亚籍货轮“提哈马”号（MV Tihamah）致3名船员死亡。\n\nUSNI 9月11日报道：美国已表明，任何美国军舰遭攻击，美方将打击一艘伊朗油轮；美国中央司令部近期宣布伊朗曾企图打击多艘美国军舰；胡塞尚未恢复全面海上作战，而是于7月20日宣布对沙特实施海上封锁。同期胡塞夺取丕林岛（见前一案例）。",
+  "defense_effect_cn": "在本组时间窗内，胡塞对海军舰艇保持克制，美舰与欧洲舰艇未见遇袭记录。这一结果更多来自政治安排（2025年5月美胡停火）和美方威慑（“油轮换军舰”），而非防御手段本身。风险依然存在：JMIC 通报胡塞在曼德海峡附近部署导弹与无人机，胡塞控制丕林岛后对海峡的近距离威胁上升；伊朗被指企图打击美舰，若战事外溢，红海美舰可能重新成为目标。",
+  "claims_compare_cn": "胡塞：宣布仅封锁沙特关联船舶。美方：以打击伊朗油轮相威慑；中央司令部称伊朗曾企图打击多艘美舰。8月货轮遇袭死亡人数：也门政府/半岛电视台称6人，USNI 称胡塞宣称致3名船员死亡，存在冲突（是否同一事件待核）。USNI 文中“特朗普政府在2026年与胡塞达成停火”的表述（检索摘要转述）与2025年5月6日停火可能混淆，待核原文。",
+  "losses_cn": "海军舰艇：本组未检索到损失记录。商船（参考）：8月货轮遇袭致3—6人死亡（口径不一）。",
+  "analysis_cn": "胡塞在2026年伊朗战争中的选择说明其海上行动具有明显的对象选择性：打以色列本土、打沙特关联商船，但对美国海军舰艇保持克制。对远海编组的启示：停火与威慑能暂时降低舰艇遇袭概率，但不能消除能力；胡塞在曼德海峡附近前置部署导弹、无人机并夺取海峡岛屿后，一旦政治条件变化，舰艇通过海峡时的反应时间将比2024年更短。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "USNI News（美国海军学会新闻网）",
+    "title": "Houthis Make Moves On Red Sea, U.S., Iran Go Tanker for Warship",
+    "title_cn": "胡塞在红海动作频频，美伊“以油轮换军舰”",
+    "author": "USNI News",
+    "date": "2026-09-11",
+    "url": "https://news.usni.org/2026/09/11/houthis-make-moves-on-red-sea-u-s-iran-go-tanker-for-warship",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Military.com",
+    "title": "Yemen Rebels Threaten New Red Sea Attack as US Aircraft Carrier Heads Toward Iran",
+    "title_cn": "美航母驶向伊朗之际也门叛军威胁在红海发动新攻击",
+    "author": "Military.com",
+    "date": "2026-01-26",
+    "url": "https://www.military.com/daily-news/2026/01/26/yemen-rebels-threaten-new-red-sea-attack-us-aircraft-carrier-heads-toward-iran.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Iran International（伊朗国际）",
+    "title": "Houthis threaten new Red Sea attacks as US carrier moves toward region",
+    "title_cn": "美航母驶向地区之际胡塞威胁新的红海攻击",
+    "author": "Iran International",
+    "date": "2026-01-26",
+    "url": "https://www.iranintl.com/en/202601264581",
+    "type": "其他"
+   },
+   {
+    "publisher": "The National（国民报）",
+    "title": "Mystery of no Houthi attacks on Red Sea ships three weeks into Iran war",
+    "title_cn": "伊朗战争三周胡塞未攻击红海船舶之谜",
+    "author": "The National",
+    "date": "2026-03-17",
+    "url": "https://www.thenationalnews.com/news/mena/2026/03/17/mystery-of-no-houthi-attacks-on-red-sea-ships-three-weeks-into-iran-war/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "CNBC",
+    "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says",
+    "title_cn": "海军组织称胡塞部署导弹和无人机准备攻击红海南部船舶",
+    "author": "CNBC",
+    "date": "2026-07-22",
+    "url": "https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "FDD's Long War Journal（长期战争杂志）",
+    "title": "Houthis escalate attacks in Red Sea and on Saudi Arabia, Riyadh evaluates options",
+    "title_cn": "胡塞升级红海及对沙特攻击，利雅得评估选项",
+    "author": "FDD",
+    "date": "2026-08（日未核）",
+    "url": "https://www.longwarjournal.org/archives/2026/08/houthis-escalate-attacks-in-red-sea-and-on-saudi-arabia-riyadh-evaluates-options.php",
+    "type": "智库"
+   },
+   {
+    "publisher": "Al Jazeera（半岛电视台）",
+    "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen's government says",
+    "title_cn": "也门政府称胡塞袭击曼德海峡船舶致6人死亡",
+    "author": "Al Jazeera",
+    "date": "2026-08-12",
+    "url": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "CNBC",
+    "title": "Houthi attack kills six in first death in Red Sea since Iran war began",
+    "title_cn": "胡塞袭击致6死，伊朗战争以来红海首次出现死亡",
+    "author": "CNBC",
+    "date": "2026-08-12",
+    "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Wikipedia",
+    "title": "Red Sea crisis",
+    "title_cn": "红海危机条目（2026年时间线汇总，辅助）",
+    "author": "Wikipedia",
+    "date": "未核",
+    "url": "https://en.wikipedia.org/wiki/Red_Sea_crisis",
+    "type": "其他"
+   },
+   {
+    "publisher": "Wikipedia",
+    "title": "2026 Houthi strikes on Israel",
+    "title_cn": "2026年胡塞打击以色列条目（辅助）",
+    "author": "Wikipedia",
+    "date": "未核",
+    "url": "https://en.wikipedia.org/wiki/2026_Houthi_strikes_on_Israel",
+    "type": "其他"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Bab-el-Mandeb",
+    "file_name": "（类别页）",
+    "desc_cn": "曼德海峡地图/卫星图图集（类别名待核）",
+    "date": "",
+    "credit": "各作者",
+    "license": "待核",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Ships_attacked_by_Houthis",
+    "file_name": "（类别页）Category:Ships attacked by Houthis",
+    "desc_cn": "“遭胡塞攻击船舶”类别页，可用于商船受袭配图",
+    "date": "",
+    "credit": "各作者",
+    "license": "以各文件页为准",
+    "verified": true,
+    "info_source": "WebSearch（commons.wikimedia.org）2026-10-09"
+   }
+  ],
+  "stats": {
+   "本时段胡塞攻击海军舰艇": "未检索到公开记录",
+   "胡塞恢复打击以色列": "2026-03-28",
+   "对沙特海上封锁宣布": "2026-07-20",
+   "美方威慑表态": "军舰遇袭即打击伊朗油轮（USNI 2026-09-11）"
+  }
+ },
+ {
+  "case_key": "rs_perim_island_seized_2026_09",
+  "category": "岛屿防卫",
+  "title_cn": "政府军连夜撤离，胡塞夺取丕林岛",
+  "subtitle_cn": "2026年9月10—11日 曼德海峡 胡塞武装以小艇登陆夺取丕林岛（Perim / 马云岛 Mayun），控制海峡要冲",
+  "date_start": "2026-09-11",
+  "date_end": "",
+  "location_cn": "丕林岛（Perim Island，阿拉伯语马云岛 Mayun），曼德海峡（Bab el-Mandeb）",
+  "lat": 12.66,
+  "lon": 43.42,
+  "region": "红海-亚丁湾",
+  "attacker": "也门胡塞武装（小艇登陆部队）",
+  "defender": "也门政府（总统领导委员会）部队；沙特阿拉伯为首联军为其后方支持方",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水面",
+   "岸基"
+  ],
+  "patterns": [
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "小艇登陆（政府官员称胡塞船只登岛时未遇抵抗）；登岛前胡塞已攻占红海沿岸的穆哈（Mocha/Mokha）。",
+  "defense_means_cn": "守岛政府军连夜撤离，未组织抵抗（政府官员对新华社口径）。沙特请求美国军事协助，美方仅提供情报与目标定位支持（CGTN 报道）。",
+  "narrative_cn": "2026年9月，也门胡塞武装在曼德海峡方向发起地面与海上攻势。USNI 9月11日报道，胡塞此前已攻占红海沿岸的穆哈（Mocha），随后又以两栖方式夺取了丕林岛（Perim Island），从而在曼德海峡获得战略立足点。半岛电视台9月12日报道称，胡塞部队于周五（9月11日）抵达该岛（阿拉伯语称马云岛 Mayun），借此收紧对这一关键航道的控制；一名也门政府官员对新华社表示，政府军连夜撤离，胡塞船只登岛时未遇抵抗（CGTN 转述）。\n\n胡塞方面称其“封锁”只针对沙特关联船舶。USNI 称，海峡航运仍在通行，但通行量下降。分析人士对胡塞能否长期守住该岛表示怀疑（半岛电视台）。据CGTN报道，沙特曾请求美国军事协助，但华盛顿迄今将其角色限定在情报与目标定位支持。美国福克斯新闻援引一名前五角大楼官员称，胡塞此举等于进入了美军的“杀伤区”（kill box）。美国全国广播公司（NBC）报道题为“伊朗支持的胡塞控制了也门曼德海峡红海沿岸”。\n\n10月5日，《国民报》（The National）报道，也门政府军宣称在对胡塞的大规模攻势中控制了曼德海峡和穆哈，沙特为首联军称有100架战机参与。该说法为政府方单方声称，截至本组检索时未见独立核实，丕林岛当前控制状况不明。\n\n说明：本案属岛屿失守事件，严格说不在C1“海军编组”范围内，因与曼德海峡海上安全直接相关而收录，供主编决定归类。",
+  "defense_effect_cn": "守方未经战斗即放弃岛屿，岛屿防御完全失效。原因从公开信息看：一是政府军在胡塞攻占穆哈、沿岸态势恶化后选择撤离，海岛失去大陆依托；二是外部支援有限，美国只提供情报与目标支持，未直接参战；三是该岛面积小、紧邻海峡，易被小艇快速登陆。失岛后，胡塞可从岛上直接监视、威胁通过曼德海峡的船舶与舰艇。",
+  "claims_compare_cn": "胡塞方面：控制该岛，封锁仅针对沙特关联船舶。也门政府官员（新华社）：政府军连夜撤离，胡塞登岛未遇抵抗。也门政府（10月5日）：宣称已控制曼德海峡与穆哈，未见独立核实。美方：限于情报与目标定位支持（CGTN 报道）。分析人士：怀疑胡塞能否长期守住。日期：USNI 9月11日已报道占领，半岛电视台称“周五”抵达，政府官员称“连夜”撤离，本组记为9月10日夜至11日。",
+  "losses_cn": "政府军：丕林岛失守（伤亡情况未公开，待核）。胡塞：未公开。",
+  "analysis_cn": "丕林岛位于曼德海峡最窄处，谁控制该岛，谁就能以岸基导弹、无人机、雷达和小艇对整个海峡形成近距离威胁。本案说明，海峡要冲上的小岛若失去大陆依托与外部支援，守军可能不战而退；对远海机动编组而言，这意味着通过曼德海峡时将面对来自岛上与两岸的更近距离威胁，预警时间进一步压缩。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "USNI News（美国海军学会新闻网）",
+    "title": "Houthis Make Moves On Red Sea, U.S., Iran Go Tanker for Warship",
+    "title_cn": "胡塞在红海动作频频，美伊“以油轮换军舰”",
+    "author": "USNI News",
+    "date": "2026-09-11",
+    "url": "https://news.usni.org/2026/09/11/houthis-make-moves-on-red-sea-u-s-iran-go-tanker-for-warship",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Al Jazeera（半岛电视台）",
+    "title": "Iran-backed Houthis seize strategic Mayun Island: Can they hold it?",
+    "title_cn": "伊朗支持的胡塞夺取战略要地马云岛：能守住吗？",
+    "author": "Al Jazeera",
+    "date": "2026-09-12",
+    "url": "https://www.aljazeera.com/news/2026/9/12/iran-backed-houthis-seize-strategic-mayun-island-can-they-hold-it",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "CGTN（中国国际电视台，援引新华社）",
+    "title": "Houthis seize Perim Island, tightening grip on Bab al-Mandab Strait",
+    "title_cn": "胡塞夺取丕林岛，收紧对曼德海峡控制",
+    "author": "CGTN/Xinhua",
+    "date": "2026-09-12",
+    "url": "https://news.cgtn.com/news/2026-09-12/Houthis-seize-Perim-Island-tightening-grip-on-Bab-al-Mandab-Strait-1Qn4p1IIpyw/p.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Fox News",
+    "title": "Houthi rebels seize Perim Island in Red Sea 'kill box,' official warns",
+    "title_cn": "前官员警告：胡塞夺取红海丕林岛等于进入“杀伤区”",
+    "author": "Fox News",
+    "date": "2026-09（日未核）",
+    "url": "https://www.foxnews.com/world/houthis-enter-us-kill-box-after-seizing-red-sea-cork-former-pentagon-official-warns",
+    "type": "其他"
+   },
+   {
+    "publisher": "NBC News",
+    "title": "Iran-backed Houthis capture Yemen's Red Sea coastline on Bab-el-Mandeb Strait",
+    "title_cn": "伊朗支持的胡塞控制也门曼德海峡红海沿岸",
+    "author": "NBC News",
+    "date": "2026-09（日未核）",
+    "url": "https://www.nbcnews.com/world/middle-east/houthis-control-bab-el-mandeb-yemen-red-sea-saudi-iran-war-oil-rcna597186",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "The National（国民报）",
+    "title": "Yemeni forces claim control of Bab Al Mandeb strait and Mokha in major offensive against Houthis",
+    "title_cn": "也门政府军宣称在对胡塞大规模攻势中控制曼德海峡与穆哈",
+    "author": "The National",
+    "date": "2026-10-05",
+    "url": "https://www.thenationalnews.com/news/gulf/2026/10/05/yemen-government-forces-claim-bab-al-mandeb-gains-as-saudi-coalition-says-100-jets-join-houthi-offensive/",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Perim",
+    "file_name": "（类别页）",
+    "desc_cn": "丕林岛地理图集（类别名待核），可选卫星图或地图示意曼德海峡位置",
+    "date": "",
+    "credit": "各作者",
+    "license": "待核",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "守方抵抗": "无（政府官员口径）",
+   "登陆方式": "小艇",
+   "前序行动": "攻占穆哈",
+   "政府军反攻声称": "2026-10-05 宣称控制曼德海峡与穆哈（未核实）"
+  }
+ }
+]

@@ -1,0 +1,2802 @@
+[
+ {
+  "case_key": "bs_balticconnector_2023_10_08",
+  "category": "海上小岛",
+  "title_cn": "锚损切断芬爱海底管线，意图至今未判",
+  "subtitle_cn": "2023年10月8日前后，芬兰湾，“新新北极熊”号（Newnew Polar Bear）拖锚损坏Balticconnector天然气管道与邻近通信电缆（归类说明：离岸/海底基础设施，作点状离岸目标收录）",
+  "date_start": "2023-10-08",
+  "date_end": "",
+  "location_cn": "芬兰湾芬兰—爱沙尼亚之间海域（Gulf of Finland，Balticconnector管线走廊；坐标为近似值）",
+  "lat": 59.75,
+  "lon": 24.05,
+  "region": "波罗的海-北海",
+  "attacker": "香港注册集装箱船“新新北极熊”号（Newnew Polar Bear）（船东/管理方：待核）；意图（故意、疏忽或意外）未定",
+  "defender": "芬兰国家调查局（NBI）、芬兰海军/边防部门；管线运营方；爱沙尼亚检方（另案调查）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水面",
+   "水下"
+  ],
+  "patterns": [
+   "单平台",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "拖曳船锚划过海床。芬兰警方起出的船锚重约6吨、缺一爪，与该船缺失的船首锚比对相符；海床拖痕宽约1.5—4米，一直通到管道破裂点。",
+  "defense_means_cn": "事发时无实时防护手段，属事后取证：芬兰海军用起重机从破裂点附近捞起船锚，国家调查局勘验海床拖痕并比对船锚，随后通过国际司法协助向中国方面移交调查。",
+  "narrative_cn": "2023年10月8日前后，横跨芬兰湾、连接芬兰与爱沙尼亚的Balticconnector天然气管道及邻近通信电缆受损（具体日期取自任务线索，已检索到的摘要未直接给出，须以芬兰官方通报复核）。芬兰国家调查局（NBI）随后指认香港注册集装箱船“新新北极熊”号：调查人员在海床上发现一条宽约1.5—4米、通向管道破裂点的拖痕，并在破裂点附近用海军起重机起出一枚约6吨、缺一爪的船锚；该锚后来被比对为该船缺失的船首锚。调查人员多次联系该船，据称对方不愿配合，芬兰遂转向中国寻求调查与起诉协助。芬兰警方称，下一阶段重点是判断损伤属故意、疏忽还是“操船不良”，公开信息显示起初无法确定。2024年，中方承认该船很可能是肇事者，但称锚击发生在严重风暴中，属意外；2025年5月，中方扣押该船船长。船长万文国（Wan Wenguo）在香港东区法院对一项刑事损毁罪（涉及管道被损段及邻近通信电缆）及两项违反航行安全规定的简易罪名不认罪，控方称将传召18名证人（含3名专家）。该船事发时挂香港旗，后改挂巴拿马旗。爱沙尼亚检方曾通过司法协助请求向中国调取数据，据所检索到的最新报道（约2026年2月）中方尚未回应。管线停输时长、修复费用及对芬兰、波罗的海国家气源的影响，本次检索未取得可靠数字。",
+  "defense_effect_cn": "该事件暴露的是海底基础设施无实时监视、事后才能取证的问题：船锚拖行数十公里才切断管线，期间未见任何拦截或预警记录（本次检索未发现相反说明）。芬兰凭拖痕加船锚比对完成了溯源，但调查与起诉须借助中国方面（据报道芬兰转向中国寻求协助），管辖与取证依赖中国配合；爱沙尼亚的司法协助请求截至所检索到的最新报道悬而未决。事件之后北约与沿岸国的应对重心转向事前监视与登临扣押（见“波罗的海哨兵”与“鹰S”号案例）。",
+  "claims_compare_cn": "芬兰调查方：证据（拖痕、船锚比对）指向该船，意图尚待判定，船方不配合。中方：2024年承认该船很可能为肇事船，称为严重风暴下的意外锚击；2025年5月扣押船长并在香港起诉，罪名为刑事损毁及违反航行安全规定，而非蓄意破坏。被告在法庭上不认罪。“风暴”与“拖锚经过多处航段”之间的矛盾尚无公开的独立气象或航迹裁断（未检索到公开记录）。",
+  "losses_cn": "管道及一条邻近通信电缆被切断；停输时长与修复费用本次未检索到可靠数字。无人员伤亡报道。",
+  "analysis_cn": "同一手法（拖锚）在2023年与2024年先后出现在芬兰湾，涉事船舶的旗帜不同（香港、库克群岛），导致“是意外还是蓄意”长期无法在法律上定性。海底设施没有守军、没有预警圈，防御只能靠航迹异常识别（慢速、偏航、锚位异常）与事后追溯。该案也说明取证窗口很窄：肇事船离开沿岸国专属经济区后，调查要靠旗国与船东所在国配合。对岛礁与近岸能源设施的借鉴意义在于，水下线路属于最难设防、最易被“模糊动机”利用的一类目标。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Quartz (qz.com)",
+    "title": "Anchor of Chinese container vessel caused damage to Balticconnector gas pipeline, Finnish police say",
+    "title_cn": "芬兰警方称中国集装箱船船锚造成Balticconnector天然气管道损坏",
+    "author": "",
+    "date": "",
+    "url": "https://qz.com/anchor-of-chinese-container-vessel-caused-damage-to-bal-1850954961",
+    "type": "专业媒体",
+    "date_note": "发布于2023年10月下旬（检索结果未显示具体日期）"
+   },
+   {
+    "publisher": "Offshore Magazine",
+    "title": "Chinese ship’s anchor caused damage to Baltic Sea gas pipeline, Finland suggests",
+    "title_cn": "芬兰称中国船舶船锚损坏波罗的海天然气管道",
+    "author": "",
+    "date": "",
+    "url": "https://www.offshore-mag.com/regional-reports/north-sea-europe/article/14300839/chinese-ships-anchor-caused-damage-to-baltic-gas-pipeline-finland-suggests",
+    "type": "专业媒体",
+    "date_note": "发布日期未显示，约2023年10月"
+   },
+   {
+    "publisher": "Estonian Public Broadcasting (ERR News)",
+    "title": "Newnew Polar Bear captain arrested in Hong Kong over Baltic Sea cable break",
+    "title_cn": "新新北极熊号船长因波罗的海电缆损坏在香港被捕",
+    "author": "",
+    "date": "",
+    "url": "https://news.err.ee/1609689143/newnew-polar-bear-captain-arrested-in-hong-kong-over-baltic-sea-cable-break",
+    "type": "专业媒体",
+    "date_note": "约2025年5月（检索摘要：中方2025年5月扣押船长）"
+   },
+   {
+    "publisher": "Maritime Executive",
+    "title": "Captain pleads not guilty as China prosecutes for Baltic cable damage",
+    "title_cn": "中国就波罗的海电缆损坏起诉，船长不认罪",
+    "author": "",
+    "date": "",
+    "url": "https://maritime-executive.com/article/captain-pleads-not-guilty-as-china-prosecutes-for-baltic-cable-damage",
+    "type": "专业媒体",
+    "date_note": "日期未显示，约2026年初"
+   },
+   {
+    "publisher": "Baird Maritime",
+    "title": "Hong Kong court to call 18 witnesses over Baltic Sea undersea cable damage case",
+    "title_cn": "香港法院将传召18名证人审理波罗的海海底电缆损坏案",
+    "author": "",
+    "date": "",
+    "url": "https://www.bairdmaritime.com/amp/story/security/incidents/hong-kong-court-to-call-18-witnesses-over-baltic-sea-undersea-cable-damage-case",
+    "type": "专业媒体",
+    "date_note": "检索摘要称最新报道为2026年2月"
+   },
+   {
+    "publisher": "South China Morning Post",
+    "title": "Captain pleads not guilty to damaging Baltic Sea gas pipeline in Hong Kong court",
+    "title_cn": "船长在香港法庭就损坏波罗的海天然气管道不认罪",
+    "author": "",
+    "date": "",
+    "url": "https://www.scmp.com/news/article/3343169/captain-pleads-not-guilty-damaging-baltic-sea-gas-pipeline-hong-kong-court",
+    "type": "专业媒体",
+    "date_note": "日期未显示"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://www.bairdmaritime.com/amp/story/security/incidents/hong-kong-court-to-call-18-witnesses-over-baltic-sea-undersea-cable-damage-case",
+    "file_name": "",
+    "desc_cn": "“新新北极熊”号2023年10月29日在喀拉海航行（页面图注：NewNew Polar Bear underway in the Kara Sea, October 29, 2023）",
+    "date": "2023-10-29",
+    "credit": "MarineTraffic.com / D. Lobusov（据页面图注）",
+    "license": "未核实，非自由许可，使用须另行授权",
+    "verified": false,
+    "note": "仅见于检索结果中的页面标题/图注，未能打开页面核实"
+   }
+  ],
+  "stats": {
+   "船锚重量": "约6吨（芬兰警方）",
+   "海床拖痕宽度": "约1.5—4米（芬兰警方）",
+   "控方证人": "18人，含3名专家（香港庭审报道）",
+   "船长罪名": "1项刑事损毁罪+2项违反航行安全规定（香港）"
+  },
+  "round": 1
+ },
+ {
+  "case_key": "bs_eagle_s_estlink2_2024_12_25",
+  "category": "海上小岛",
+  "title_cn": "拖锚近百公里切断Estlink 2，芬兰次日扣船",
+  "subtitle_cn": "2024年12月25日，芬兰湾，库克群岛籍油轮“鹰S”号（Eagle S）损坏Estlink 2海底输电线与4条通信电缆；芬兰扣押该船并起诉，2025年10月案件被驳回、2026年9月上诉法院重启（归类说明：离岸/海底基础设施）",
+  "date_start": "2024-12-25",
+  "date_end": "2026-09-30",
+  "location_cn": "芬兰湾（Gulf of Finland），芬兰—爱沙尼亚之间Estlink 2线路走廊，位于芬兰专属经济区内、领海之外（坐标为近似值）",
+  "lat": 59.65,
+  "lon": 25.0,
+  "region": "波罗的海-北海",
+  "attacker": "库克群岛籍油轮“鹰S”号（Eagle S），芬兰海关认为属俄罗斯影子船队；船员涉嫌破坏与毁损财物（意图仍有争议）",
+  "defender": "芬兰警方、国家调查局（NBI）、边防、海关；法院；Fingrid（芬兰）、Elering（爱沙尼亚）两家输电运营商",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水面",
+   "水下"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "拖曳船锚。警方称海床拖痕长达数十公里，粗估接近100公里，认为这暗示行为可能是故意的；船上照片显示该船缺左舷锚（检索摘要作“port side anchor”）。",
+  "defense_means_cn": "事后处置：芬兰于12月26日扣押该船（登临细节未检索到），法院驳回船东放行请求，船员被限制出境；2025年1月初警方在航线上、拖痕西端附近起出遗失船锚；芬兰海关扣押货物。2025年1月北约启动“波罗的海哨兵”以加强监视（另案）。",
+  "narrative_cn": "2024年12月25日，芬兰输电运营商Fingrid向当局报告Estlink 2海底输电线可能发生故障；另有4条通信电缆受损。次日（12月26日），芬兰当局扣押了航经该海域的库克群岛籍油轮“鹰S”号，初步报道称该船可能有一个未固定的船锚。调查人员在海床上追踪到长达数十公里的拖痕，警方后来称其“接近100公里”（粗略估计）；照片显示该船缺一只左舷锚。2025年1月初，警方宣布在航线上、拖痕西端附近找到遗失的船锚。芬兰海关认为该船属于规避制裁的俄罗斯影子船队，并扣押了货物。船东律师辩称损坏发生在芬兰领海之外，芬兰无权干预；法院拒绝放行该船，船员被限制出境，被怀疑涉嫌破坏及毁损财物。Estlink 2的修复预计耗时约7个月（Fingrid与Elering）。2025年10月3日，赫尔辛基地方法院以缺乏管辖权为由驳回对船长及两名高级船员的起诉：法院认为被指行为发生在芬兰专属经济区内但在领海之外，刑事管辖应归船旗国或被告国籍国；检方曾请求对船长判处至少2.5年监禁（据Yle），国家还被判承担船员律师费。检方上诉，据海事行政类媒体（Maritime Executive，2026年9月）报道，赫尔辛基上诉法院推翻了驳回裁定并将案件发回地方法院重审；至检索截止日是否再上诉至最高法院，未检索到公开记录。",
+  "defense_effect_cn": "芬兰的快速反应体现在“发现故障到扣船”仅隔一天，且用拖痕、船锚三项物证形成闭环，这是该类事件中少见的完整取证。但管辖权成为瓶颈：地方法院认为专属经济区内的行为不适用芬兰刑法，上诉法院的反向裁定如果得到最高法院维持，将影响沿岸国在专属经济区内处置海底设施损坏案的权限。事件暴露的另一个问题是，在拖锚近百公里的过程中并无实时干预：设施监视、AIS异常识别均未能在切断前阻止该船。",
+  "claims_compare_cn": "芬兰警方/检方：行为涉嫌故意（拖痕近百公里），船员涉嫌破坏。船东律师：损坏发生在领海之外，芬兰无管辖权。赫尔辛基地方法院（2025-10-03）采纳了管辖权抗辩；赫尔辛基上诉法院（2026年）推翻之，认为芬兰对此类案件有刑事管辖权，并认为《联合国海洋法公约》第97条第1款例外不适用于这种情形（后一点仅来自一篇LinkedIn转述，属二手，需以裁决书复核）。是否故意，法院尚未审理实体。",
+  "losses_cn": "Estlink 2输电线与4条通信电缆受损，修复预计约7个月（Fingrid、Elering口径）；具体修复费用与电价影响本次未检索到。无人员伤亡。",
+  "analysis_cn": "该案的战术特点是“慢速拖锚+法理模糊”：嫌疑船没有任何爆炸或攻击行为，仅表现为速度、航线异常，攻击者可借“事故”抗辩。芬兰的做法是在故障报告次日即扣船，再以刑事程序固定证据（扣押的具体执行力量与方式未检索到）。启示在于：对岛屿、近岸能源设施，防御重点不是拦截锚本身，而是缩短“异常—处置”时间与明确专属经济区内的执法权限；若管辖权争议在最高法院落定，沿岸国的行动空间将随之改变。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Baird Maritime",
+    "title": "Missing Eagle S anchor recovered in Baltic Sea cables investigation",
+    "title_cn": "芬兰在波罗的海电缆调查中找回“鹰S”号遗失船锚",
+    "author": "",
+    "date": "",
+    "url": "https://www.bairdmaritime.com/security/incidents/missing-eagle-s-anchor-recovered-in-baltic-sea-cables-investigation",
+    "type": "专业媒体",
+    "date_note": "约2025年1月初"
+   },
+   {
+    "publisher": "Offshore Energy",
+    "title": "Investigation into damage of Finland-Estonia link finds dragging marks on seabed",
+    "title_cn": "芬兰—爱沙尼亚线路损坏调查发现海床拖痕",
+    "author": "",
+    "date": "",
+    "url": "https://offshore-energy.biz/investigation-into-damage-of-finland-estonia-link-finds-dragging-marks-on-seabed",
+    "type": "专业媒体",
+    "date_note": "约2024年12月下旬"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "Russian Tanker Detained For Dragging Anchor & Damaging Power Cable Connecting Finland & Estonia",
+    "title_cn": "俄罗斯油轮因拖锚损坏芬爱输电线被扣",
+    "author": "",
+    "date": "",
+    "url": "https://www.marineinsight.com/russian-tanker-detained-for-dragging-anchor-damaging-power-cable-connecting-finland-estonia/",
+    "type": "专业媒体",
+    "date_note": "约2024年12月26—27日"
+   },
+   {
+    "publisher": "Estonian Public Broadcasting (ERR News)",
+    "title": "Finnish prosecutor to appeal Eagle S case dismissal",
+    "title_cn": "芬兰检方将就“鹰S”号案驳回裁定上诉",
+    "author": "",
+    "date": "",
+    "url": "https://news.err.ee/1609824789/finnish-prosecutor-to-appeal-eagle-s-case-dismissal",
+    "type": "专业媒体",
+    "date_note": "约2025年10月"
+   },
+   {
+    "publisher": "Yle (Finnish Broadcasting Company)",
+    "title": "（页面标题未在检索结果中显示）",
+    "title_cn": "Yle关于赫尔辛基地方法院驳回“鹰S”号案的报道",
+    "author": "",
+    "date": "",
+    "url": "https://yle.fi/a/74-20186824",
+    "type": "专业媒体",
+    "date_note": "约2025年10月3日；检索摘要称检方曾请求对船长判至少2.5年"
+   },
+   {
+    "publisher": "Maritime Executive",
+    "title": "Tanker anchor dragging case reopened by Helsinki appeals court",
+    "title_cn": "赫尔辛基上诉法院重启油轮拖锚案",
+    "author": "",
+    "date": "",
+    "url": "https://maritime-executive.com/index.php/article/tanker-anchor-dragging-case-reopened-by-helsinki-appeals-court",
+    "type": "专业媒体",
+    "date_note": "检索摘要称为2026年9月报道"
+   },
+   {
+    "publisher": "Baird Maritime",
+    "title": "Suspects in Baltic Sea cable breaches on trial for sabotage in Finland",
+    "title_cn": "波罗的海电缆损坏案嫌疑人在芬兰受审",
+    "author": "",
+    "date": "",
+    "url": "https://www.bairdmaritime.com/security/incidents/piracy/suspects-in-baltic-sea-cable-breaches-on-trial-for-sabotage-in-finland",
+    "type": "专业媒体",
+    "date_note": "约2025年8—9月开庭时"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Crude_oil_tanker_Eagle_S_at_Porvoo_2024-12-31_a.jpg",
+    "file_name": "Crude oil tanker Eagle S at Porvoo 2024-12-31 a.jpg",
+    "desc_cn": "被扣押的原油轮“鹰S”号（Eagle S）2024年12月31日锚泊于波尔沃（Porvoo）外斯瓦特贝克（Svartbäck）锚地（据检索摘要对该文件的说明）",
+    "date": "2024-12-31",
+    "credit": "待核（检索结果未显示作者）",
+    "license": "待核（Commons文件页，检索结果未显示许可条款）",
+    "verified": true,
+    "note": "日期取自文件名；内容描述据检索摘要，未打开页面核对作者与许可",
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Eagle_S_on_the_map_of_MarineTraffic,_in_relation_to_the_Estlink_2_incident.png",
+    "file_name": "Eagle S on the map of MarineTraffic, in relation to the Estlink 2 incident.png",
+    "desc_cn": "MarineTraffic地图截图：“鹰S”号相对Estlink 2受损事件位置的示意",
+    "date": "",
+    "credit": "待核（检索结果未显示作者）",
+    "license": "待核（Commons文件页，检索结果未显示许可条款）",
+    "verified": true,
+    "note": "来源为MarineTraffic截图性质，版权状态须核对后方可使用",
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Estlink_map.png",
+    "file_name": "Estlink map.png",
+    "desc_cn": "芬兰—爱沙尼亚Estlink海底输电线路示意图（内容据文件名，具体指Estlink 1/2待核）",
+    "date": "",
+    "credit": "待核（检索结果未显示作者）",
+    "license": "待核（Commons文件页，检索结果未显示许可条款）",
+    "verified": true,
+    "note": "内容据文件名推断，待核",
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   }
+  ],
+  "stats": {
+   "拖痕长度": "数十公里，警方粗估接近100公里",
+   "受损设施": "Estlink 2输电线+4条通信电缆",
+   "修复预计": "约7个月（Fingrid/Elering）",
+   "扣押至起诉驳回": "2024-12-26扣船→2025-10-03地方法院驳回→2026-09上诉法院重启",
+   "船舶后续": "Commons船舶分类页（据检索摘要）称该船2025年在阿利亚加（Aliağa）拆船厂拆解；与诉讼进度及扣押解除时间的关系待核"
+  },
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:Estlink_2_incident",
+    "desc_cn": "Commons“Estlink 2事件”分类页（据检索摘要：事件日期2024-12-25；含波尔沃“鹰S”号照片与MarineTraffic地图）",
+    "verified": true,
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   },
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:IMO_9329760",
+    "desc_cn": "Commons“鹰S”号船舶分类页（IMO 9329760；检索摘要称该船2006年建造、2025年拆解）",
+    "verified": true,
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   }
+  ],
+  "round": 1
+ },
+ {
+  "case_key": "bs_baltic_sentry_2025_01_14",
+  "category": "远海机动编组",
+  "title_cn": "北约以护卫舰、巡逻机与无人艇补海底防护缺口",
+  "subtitle_cn": "2025年1月14日，北约在赫尔辛基峰会宣布启动“波罗的海哨兵”（Baltic Sentry）行动，应对2024年12月Estlink 2受损等事件",
+  "date_start": "2025-01-14",
+  "date_end": "",
+  "location_cn": "波罗的海（Baltic Sea），宣布地为赫尔辛基（Helsinki）；坐标取波罗的海中部近似值",
+  "lat": 58.0,
+  "lon": 20.0,
+  "region": "波罗的海-北海",
+  "attacker": "（无直接攻击方）针对对象为海底电缆/管线损坏事件及影子船队异常航行；西方官员与专家称之为俄罗斯“混合战”的一部分，但归因未获证实",
+  "defender": "北约（秘书长吕特Mark Rutte宣布；海上司令部MARCOM指挥）；芬兰、爱沙尼亚、瑞典、德国等沿岸国",
+  "outcome": "防御成功",
+  "domains": [
+   "水面",
+   "空中",
+   "水下"
+  ],
+  "patterns": [
+   "异构",
+   "集群"
+  ],
+  "attack_means_cn": "（防御态势案例，无直接攻击）背景威胁为拖锚等对海底电缆/管线的损坏，以及影子船队船舶异常航行。",
+  "defense_means_cn": "既有兵力与新装备混编：护卫舰与海上巡逻机为既有兵力；新增一批小型海军无人艇（“海上无人机”），数周内划归北约海上司令部（MARCOM），对重点电缆区实行全天候监视，北约称这是首次以这种方式使用无人艇（海军上将皮埃尔·旺迪埃Pierre Vandier语）。瑞典表示最多派三艘军舰，德国总理称将参与，具体贡献视可行性而定。北约未公布参与资产数量，称出于战略优势考虑。",
+  "narrative_cn": "2024年12月25日Estlink 2受损后，北约于2025年1月14日在赫尔辛基召开波罗的海盟国峰会，由秘书长吕特与芬兰总统斯图布（Alexander Stubb）、爱沙尼亚总理米哈尔（Kristen Michal）共同主持，宣布启动“波罗的海哨兵”行动，以保护海底基础设施。行动由既有兵力与新技术混合构成：护卫舰和海上巡逻机是现有力量，另新增一支小型海军无人艇队，计划在随后数周内交由北约海上司令部（MARCOM）统一调度，对电缆附近重点区域提供“昼夜不间断”监视。旺迪埃称这是北约首次这样使用无人艇。吕特称无人艇提供“更强的监视与威慑”。北约还将与关键海底基础设施网络（含产业界）协作，改进水下资产的防护与韧性，并推动各盟国整合国家监视资产。官方未披露资产数量，称行动将持续“未公开的一段时间”。瑞典首相提醒不要过早归因，称破坏不能排除，但证据须确凿。截至检索，行动展开后的实际效果评估、监视发现的事件数、无人艇型号与数量，均未检索到公开记录；另有一份单一追踪页面（grosswald.org，未核实）称爱沙尼亚2026年4月起因俄方在芬兰湾的常态化海军巡逻而停止在其专属经济区内登检影子船队油轮，此说待独立证实。补检所得：2026年2月行动仍在运行——检索摘要称法国航母“戴高乐”号访瑞时参加与“波罗的海哨兵”相关的北约演练（USNI，2026年2月27日；该航母附近的无人机处置见bs_charles_de_gaulle_drone_2026_02_25），Commons一份图注线索显示2026年2月19日有北约舰艇编队演练（文件页URL未取得）。",
+  "defense_effect_cn": "在所检索到的信息范围内，行动的“效果”无法量化：北约未公布资产规模，也未见发布拦截数或威慑成效数据。可以确认的是，它把原先由各国分散执行的海底设施监视，纳入MARCOM指挥，并首次引入无人艇作常态化监视；但无人艇仅能观察、不能阻止拖锚，拦截仍依赖沿岸国海警与边防（见“鹰S”“Fitburg”案例中的芬兰处置）。2026年另有多起影子船队油轮被瑞典扣押（见相应案例），表明执法端有所加强，但与该北约行动的因果关系未检索到可靠说法。",
+  "claims_compare_cn": "北约/沿岸国：电缆损坏事件构成对关键基础设施的威胁，需常态化监视；部分官员与专家将其归为俄罗斯混合战手段。瑞典首相：不能排除破坏，但需要确凿证据，避免过早归因。俄方对“波罗的海哨兵”本身的正式表态：未检索到公开记录。",
+  "losses_cn": "无（防御态势案例）。",
+  "analysis_cn": "该行动的特点是用低成本无人平台承担“看”的任务，用有限的水面舰艇保留“拦”的能力，把水下设施防护从事后追责转为事前监视。局限同样明显：公开信息中没有受监视区域范围、无人艇续航与探测手段的细节，也没有任何由哨兵行动直接发现并阻止的事件。对岛礁与离岸设施而言，可借鉴的是传感器网络加快速处置力量的分层，而不是单纯增加舰艇数量。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Al Jazeera",
+    "title": "NATO launches new Baltic Sea mission to protect undersea cables",
+    "title_cn": "北约启动新的波罗的海任务保护海底电缆",
+    "author": "",
+    "date": "2025-01-14",
+    "url": "https://www.aljazeera.com/news/2025/1/14/nato-launches-new-baltic-sea-mission-to-protect-undersea-cables",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "ABC News / Associated Press",
+    "title": "NATO announces a new mission to protect undersea cables in the Baltic Sea region",
+    "title_cn": "北约宣布保护波罗的海地区海底电缆的新任务",
+    "author": "",
+    "date": "2025-01-14",
+    "url": "https://abcnews.go.com/International/wireStory/nato-announces-new-mission-protect-undersea-cables-baltic-117650774",
+    "type": "通讯社",
+    "date_note": "日期据同稿在其他站点的URL（2025/01/14）推定"
+   },
+   {
+    "publisher": "Estonian Public Broadcasting (ERR News)",
+    "title": "NATO to launch new infrastructure monitoring mission in Baltic Sea",
+    "title_cn": "北约将在波罗的海启动新的基础设施监视任务",
+    "author": "",
+    "date": "",
+    "url": "https://news.err.ee/1609575916/nato-to-launch-new-infrastructure-monitoring-mission-in-baltic-sea",
+    "type": "专业媒体",
+    "date_note": "约2025年1月14日"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "NATO Launches “Baltic Sentry” Mission to Safeguard Critical Infrastructure in the Baltic Sea",
+    "title_cn": "北约启动“波罗的海哨兵”任务保护关键基础设施",
+    "author": "",
+    "date": "",
+    "url": "https://www.marineinsight.com/nato-launches-mission-baltic-sentry-to-safeguard-critical-infrastructure-in-baltic-sea/",
+    "type": "专业媒体",
+    "date_note": "约2025年1月14—15日"
+   },
+   {
+    "publisher": "Overt Defense",
+    "title": "NATO Launches “Baltic Sentry” Mission to Safeguard Critical Infrastructure in the Baltic Sea",
+    "title_cn": "北约启动“波罗的海哨兵”任务",
+    "author": "",
+    "date": "2025-01-21",
+    "url": "https://overtdefense.com/2025/01/21/nato-launches-baltic-sentry-mission-to-safeguard-critical-infrastructure-in-the-baltic-sea",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Grosswald.org（追踪页，未核实）",
+    "title": "Baltic Sea Security: Shadow Fleet, Seabed Cables, GPS Spoofing and Interdiction Rules",
+    "title_cn": "波罗的海安全追踪：影子船队、海底电缆、GPS欺骗与拦截规则",
+    "author": "",
+    "date": "",
+    "url": "https://www.grosswald.org/baltic-sea-security-tracker/",
+    "type": "其他",
+    "date_note": "检索摘要称最后更新于8月18日（年份应为2026）；仅作线索，不作单独依据"
+   },
+   {
+    "publisher": "USNI News",
+    "title": "Swedish Forces Jam Suspected Russian Drone Near French Carrier Charles De Gaulle",
+    "title_cn": "瑞典部队在法国航母“戴高乐”号附近干扰疑似俄罗斯无人机",
+    "author": "",
+    "date": "2026-02-27",
+    "url": "https://news.usni.org/2026/02/27/swedish-forces-jam-suspected-russian-drone-near-french-carrier-charles-de-gaulle",
+    "type": "专业媒体",
+    "date_note": "日期据URL；用于说明2026年2月行动仍在运行"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:U_S_Marines_support_Finland_in_NATO's_Baltic_Sea_surveillance_(8883866).jpg",
+    "file_name": "U S Marines support Finland in NATO's Baltic Sea surveillance (8883866).jpg",
+    "desc_cn": "美国海军陆战队以小型无人机系统等远征式能力支援芬兰参与北约波罗的海监视、保护关键基础设施（据检索摘要对该文件的说明）",
+    "date": "",
+    "credit": "待核（检索结果未显示作者）",
+    "license": "待核（Commons文件页，检索结果未显示许可条款）",
+    "verified": true,
+    "note": "拍摄日期与是否属“波罗的海哨兵”框架下行动，检索结果未显示",
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:NATO_ships_take_part_in_BALTOPS_20_MOD_45167293.jpg",
+    "file_name": "NATO ships take part in BALTOPS 20 MOD 45167293.jpg",
+    "desc_cn": "北约舰艇参加“波罗的海-2020”（BALTOPS 20）演习的编队照片（背景图，非“波罗的海哨兵”现场）",
+    "date": "2020",
+    "credit": "待核（检索结果未显示作者）",
+    "license": "待核（Commons文件页，检索结果未显示许可条款）",
+    "verified": true,
+    "note": "背景图；年份取自文件名",
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   }
+  ],
+  "stats": {
+   "启动日期": "2025-01-14（赫尔辛基峰会）",
+   "瑞典承诺": "最多三艘军舰",
+   "资产数量": "北约未公布"
+  },
+  "round": 1
+ },
+ {
+  "case_key": "bs_jaguar_su35_2025_05_13",
+  "category": "远海机动编组",
+  "title_cn": "爱沙尼亚拦检影子油轮，俄Su-35短暂闯入领空",
+  "subtitle_cn": "2025年5月13日（部分报道称14日），芬兰湾，爱沙尼亚海军试图截停受制裁油轮“美洲豹”号（Jaguar），俄罗斯Su-35战机进入爱沙尼亚领空约1分钟（灰色地带对峙）",
+  "date_start": "2025-05-13",
+  "date_end": "2025-05-14",
+  "location_cn": "芬兰湾（Gulf of Finland）爱沙尼亚专属经济区；Su-35入侵点在尤明达（Juminda）附近（坐标为近似值）",
+  "lat": 59.7,
+  "lon": 25.5,
+  "region": "波罗的海-北海",
+  "attacker": "（灰色地带，对峙双方）俄方：影子船队油轮“美洲豹”号（Jaguar）及其俄空军Su-35战机；爱沙尼亚方为执法/登检一方",
+  "defender": "爱沙尼亚海军/海上执法力量；爱沙尼亚国防军空中监视；北约空中警戒",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "非攻击。俄方手段：油轮拒不应答、拒不改变航向；Su-35无飞行计划、关闭应答机、不理会无线电呼叫，进入爱沙尼亚领空。",
+  "defense_means_cn": "爱沙尼亚海军试图对油轮实施检查；事发后外长向美国国务卿通报；爱沙尼亚国防军确认领空侵犯，并称其与此前海军行动是否有关“应问俄国防部”。",
+  "narrative_cn": "据爱沙尼亚方面，受制裁的“美洲豹”号（Jaguar）油轮穿越爱沙尼亚专属经济区时，对联系呼叫不作应答，被视为俄罗斯规避制裁石油网络的一部分。2025年5月13日（另有报道称14日，各报道日期不一致），爱沙尼亚海军试图对其实施检查（报道称该船当时离俄方港口普里莫尔斯克不远，位置信息仅有一处来源，待核实），船方拒绝服从改变航向的指令。其后，一架俄罗斯Su-35战机于5月13日在尤明达附近进入北约领空，持续不到一分钟；爱沙尼亚国防军确认该机没有飞行计划，应答机关闭，且不回应无线电联络。爱沙尼亚外长察赫克纳（Margus Tsahkna）向美国国务卿通报了此次事件，称俄战机为保护影子船队船舶而侵入领空；爱沙尼亚国防军的表述更谨慎，称是否与此前海军行动有关，应由俄罗斯国防部回答。立陶宛总理则称这是俄军事力量在保护此类油轮的明确信号。《新报》（Novaya Gazeta Europe）5月15日以“爱沙尼亚海军试图扣押影子船队船舶，俄Su-35前来相助”为题报道。该船最终是否被检查、其后去向，本次检索未取得可靠信息。",
+  "defense_effect_cn": "爱沙尼亚的检查尝试未能完成（据所检索到的报道，油轮拒绝改向，俄战机随后出现），说明沿岸国在专属经济区内对影子船队油轮实施检查时，一旦对方有军机伴随，执法行动即转为危机管控（法律权限与力量储备方面的结论，本次检索未取得官方说明）。2026年4月起爱沙尼亚停止在其专属经济区内登检（追踪页单一来源，未核实），若属实，说明该案之后的实际处置走向收缩。",
+  "claims_compare_cn": "爱沙尼亚外长：俄战机侵入领空是为保护影子船队船舶。爱沙尼亚国防军：确认领空侵犯，但不就其动机下结论，请俄国防部回答。立陶宛总理：这表明俄军事力量正在保护此类油轮。俄方（由一份分析引用的俄罗斯来源）：Su-35S的出现“化解”了事态，并对油轮伴随护航。俄国防部/外交部正式表态：未检索到公开记录。时间：5月13日与14日两种说法并存。",
+  "losses_cn": "无人员与装备损失报道。",
+  "analysis_cn": "对峙的重点不是火力，而是“伴随护航”：单架战机短暂越界，足以让一次海上执法中止或降级（据所检索到的报道，油轮拒绝改向，未见登检完成）。对沿岸国而言，登检影子船队船舶需同时准备空中监视与外交通道；对影子船队而言，军机伴随构成低成本的威慑。法理方面（分析判断，非检索所得）：沿岸国在专属经济区内强制登检的权限有限，2026年瑞典的做法以伪旗、旗帜异常为抓手（见相应案例）。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Estonian Public Broadcasting (ERR News)",
+    "title": "FM: Russian fighter jet violated Estonia's airspace to protect shadow fleet vessel",
+    "title_cn": "外长：俄战机侵犯爱沙尼亚领空是为保护影子船队船舶",
+    "author": "",
+    "date": "",
+    "url": "https://news.err.ee/1609694862/fm-russian-fighter-jet-violated-estonia-s-airspace-to-protect-shadow-fleet-vessel",
+    "type": "专业媒体",
+    "date_note": "约2025年5月14—15日"
+   },
+   {
+    "publisher": "Polskie Radio (English Section)",
+    "title": "Russian fighter jet briefly violates NATO airspace, Estonian defence forces confirm",
+    "title_cn": "爱沙尼亚国防军确认俄战机短暂侵犯北约领空",
+    "author": "",
+    "date": "",
+    "url": "https://www.polskieradio.pl/395/9766/Artykul/3523996,russian-fighter-jet-briefly-violates-nato-airspace-estonian-defence-forces-confirm",
+    "type": "通讯社",
+    "date_note": "约2025年5月13—14日"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "Russian Fighter Jet Violates Estonian Airspace After Navy Attempts To Stop Sanctioned Tanker",
+    "title_cn": "爱沙尼亚海军试图拦截受制裁油轮后俄战机侵犯领空",
+    "author": "",
+    "date": "",
+    "url": "https://www.marineinsight.com/russian-fighter-jet-violates-estonian-airspace-after-navy-attempts-to-stop-sanctioned-tanker/",
+    "type": "专业媒体",
+    "date_note": "约2025年5月"
+   },
+   {
+    "publisher": "Maritime Executive",
+    "title": "Video: Estonia’s Effort to Stop Shadow Tanker Causes International Incident",
+    "title_cn": "视频：爱沙尼亚拦截影子油轮引发国际事件",
+    "author": "",
+    "date": "",
+    "url": "https://maritime-executive.com/article/video-estonia-s-effort-to-stop-shadow-tanker-causes-international-incident",
+    "type": "专业媒体",
+    "date_note": "约2025年5月"
+   },
+   {
+    "publisher": "Novaya Gazeta Europe",
+    "title": "ВМС Эстонии попытались задержать судно теневого флота РФ в Финском заливе. На помощь ему прилетел российский истребитель Су-35",
+    "title_cn": "爱沙尼亚海军试图扣押俄影子船队船舶，俄Су-35赶来相助",
+    "author": "",
+    "date": "2025-05-15",
+    "url": "https://novayagazeta.eu/articles/2025/05/15/vms-estonii-popytalis-zaderzhat-sudno-tenevogo-flota-rf-v-finskom-zalive-na-pomoshch-emu-priletel-rossiiskii-istrebitel-su-35-news",
+    "type": "专业媒体",
+    "date_note": "日期来自URL；标题为按URL slug还原，待核实"
+   },
+   {
+    "publisher": "The Baltic Times",
+    "title": "Latest incidents in Estonia signal growing risk of escalation -- Lithuanian PM",
+    "title_cn": "立陶宛总理：爱沙尼亚近期事件显示升级风险上升",
+    "author": "",
+    "date": "",
+    "url": "https://www.baltictimes.com/latest_incidents_in_estonia_signal_growing_risk_of_escalation_--_lithuanian_pm",
+    "type": "专业媒体",
+    "date_note": "约2025年5月"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "Su-35入侵时长": "不足1分钟（爱沙尼亚国防军）",
+   "油轮应答": "无应答、拒改向",
+   "事件日期": "5月13日与14日两说并存"
+  },
+  "round": 1
+ },
+ {
+  "case_key": "bs_fitburg_2025_12_31",
+  "category": "海上小岛",
+  "title_cn": "跨年夜芬兰湾电缆受损，芬兰扣船拘押14人",
+  "subtitle_cn": "2025年12月31日，芬兰湾，圣文森特和格林纳丁斯籍货船“Fitburg”号拖锚损坏赫尔辛基—塔林Elisa通信电缆；芬兰边防截获并扣押，船员全部被拘（归类说明：离岸/海底基础设施）",
+  "date_start": "2025-12-31",
+  "date_end": "2026-01-07",
+  "location_cn": "芬兰湾爱沙尼亚专属经济区内电缆受损；船舶于芬兰专属经济区被截获后引入领海，停靠于基尔科努米（Kirkkonummi）坎特维克（Kantvik）港（坐标为近似值）",
+  "lat": 59.85,
+  "lon": 24.8,
+  "region": "波罗的海-北海",
+  "attacker": "“Fitburg”号货船（132米，圣文森特和格林纳丁斯籍，由圣彼得堡驶往以色列），14名船员（俄罗斯、格鲁吉亚、哈萨克斯坦、阿塞拜疆籍）；船长称为意外",
+  "defender": "芬兰边防（Border Guard）、芬兰警方与海关、爱沙尼亚警方；Elisa公司",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水面",
+   "水下"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "拖锚（被发现锚链垂入海中）损坏通信电缆。",
+  "defense_means_cn": "边防在芬兰专属经济区发现该船锚链落水，将其引导进入芬兰领海后扣押；2026年1月1日凌晨被置于芬兰控制之下，停泊坎特维克港；14名船员全部被拘留；一份报道标题称有特种部队登船（仅见标题，待核实）。",
+  "narrative_cn": "2025年12月31日凌晨，芬兰电信公司Elisa发现连接赫尔辛基与塔林的一条数据电缆故障，位置在爱沙尼亚专属经济区内，并通知芬兰当局；服务通过其他线路改道，未中断。芬兰边防随后在芬兰专属经济区内找到嫌疑船“Fitburg”号（132米，圣文森特和格林纳丁斯旗，自圣彼得堡驶往以色列），发现其锚链放入海中；边防将其引导进入芬兰领海并实施扣押。该船于2026年1月1日凌晨被置于芬兰控制下，停靠坎特维克港。14名船员（俄罗斯、格鲁吉亚、哈萨克斯坦、阿塞拜疆籍）均被拘留。警方以“严重刑事毁损”“严重刑事毁损未遂”“严重干扰电信”立案；船长称事件属意外。芬兰海关随后认定船上货物为受欧盟制裁的俄罗斯钢材，并就涉嫌违反制裁规定立案初查。1月上旬，芬兰与爱沙尼亚警方宣布完成船上工作，扣押解除，该船在边防监督下离开坎特维克港；此时仍有1名船员被羁押、3人被限制出境。警方对是否有他国介入不作推测。",
+  "defense_effect_cn": "该案的处置速度较快：从发现故障到船舶被置于芬兰控制之下约一昼夜；船舶先在芬兰专属经济区内被找到，再被引导进入领海后扣押。与“鹰S”案（地方法院认为专属经济区内的行为芬兰无刑事管辖权）形成对照，但芬兰选择先引入领海是否出于管辖权考虑，未检索到官方说明。但扣押仅持续约一周，船舶很快被放行，说明证据固定和起诉门槛仍高。电缆服务通过改道保持不中断，体现了冗余设计的价值。",
+  "claims_compare_cn": "芬兰警方：立案罪名为严重毁损、毁损未遂、严重干扰电信；不推测他国介入。船长：称为意外。关于该船货物：芬兰海关认定为受欧盟制裁的俄罗斯钢材（欧洲新闻Euronews 2026-01-01报道）。关于路线：多数报道称驶往以色列海法，个别报道仅写以色列。一篇URL带有2026年8月6日日期的Moscow Times文章，其内容与此案相同；检索未发现另有2026年8月的新事件，疑为日期标注异常，待核。",
+  "losses_cn": "一条Elisa数据电缆受损，服务改道未中断；修复费用未检索到。无人员伤亡。",
+  "analysis_cn": "与2023、2024年的拖锚案相比，此案的差别在于：芬兰在发现故障当日即找到并控制嫌疑船，且在自身领海内完成扣押。该案货物涉及制裁，使这起事件在法律上多出一条“规避制裁”线索，能支撑扣押理由，但也使“意外”与“蓄意”的区分更难。对岛屿国家和海岛通信线路，重点在于预置执法船艇与法律授权，而不是事发后的追认。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Al Jazeera",
+    "title": "Finland seizes ship sailing from Russia after suspected cable sabotage",
+    "title_cn": "芬兰扣押自俄罗斯启航、涉嫌破坏电缆的船舶",
+    "author": "",
+    "date": "2025-12-31",
+    "url": "https://www.aljazeera.com/news/2025/12/31/police-investigating-damage-to-undersea-telecom-cable-in-gulf-of-finland",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "NBC News",
+    "title": "Finland seizes ship sailing from Russia after suspected cable sabotage",
+    "title_cn": "芬兰扣押自俄罗斯启航、涉嫌破坏电缆的船舶",
+    "author": "",
+    "date": "",
+    "url": "https://www.nbcnews.com/world/europe/finland-seizes-ship-sailing-russia-suspected-cable-sabotage-rcna251698",
+    "type": "通讯社",
+    "date_note": "约2025年12月31日—2026年1月1日"
+   },
+   {
+    "publisher": "Euronews",
+    "title": "Ship seized in Finland suspected of cable damage was carrying sanctioned Russian steel",
+    "title_cn": "芬兰扣押的涉嫌损坏电缆船舶载有受制裁俄罗斯钢材",
+    "author": "",
+    "date": "2026-01-01",
+    "url": "https://euronews.com/2026/01/01/ship-seized-in-finland-suspected-of-cable-damage-was-carrying-sanctioned-russian-steel",
+    "type": "通讯社",
+    "date_note": "标题按URL slug还原"
+   },
+   {
+    "publisher": "Hellenic Shipping News",
+    "title": "Cargo vessel suspected of damaging undersea cable allowed to leave Finland",
+    "title_cn": "涉嫌损坏海底电缆的货船获准离开芬兰",
+    "author": "",
+    "date": "",
+    "url": "https://www.hellenicshippingnews.com/cargo-vessel-suspected-of-damaging-undersea-cable-allowed-to-leave-finland/",
+    "type": "专业媒体",
+    "date_note": "约2026年1月上旬"
+   },
+   {
+    "publisher": "Jurist",
+    "title": "Finland authorities investigate underwater cable damage in the country’s Gulf",
+    "title_cn": "芬兰当局调查本国海湾水下电缆损坏",
+    "author": "",
+    "date": "",
+    "url": "https://www.jurist.org/news/2026/01/finland-authorities-investigate-underwater-cable-damage-in-the-countrys-gulf",
+    "type": "其他",
+    "date_note": "2026年1月"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "Finland seizes cargo ship, arrests 14 crew after undersea cable damage in Gulf of Finland",
+    "title_cn": "芬兰扣押货船并拘捕14名船员",
+    "author": "",
+    "date": "",
+    "url": "https://www.marineinsight.com/finland-seizes-cargo-ship-arrests-14-crew-after-undersea-cable-damage-in-gulf-of-finland/",
+    "type": "专业媒体",
+    "date_note": "约2026年1月1日"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "船长": "132米",
+   "被拘船员": "14人（俄、格、哈、阿塞拜疆籍）",
+   "扣押时长": "2026-01-01至1月上旬（约一周）",
+   "服务影响": "无中断，改道"
+  },
+  "round": 1
+ },
+ {
+  "case_key": "bs_sweden_shadow_fleet_2026_03_05",
+  "category": "远海机动编组",
+  "title_cn": "瑞典以伪旗为由连扣影子船队油轮，已达五起",
+  "subtitle_cn": "2026年3月—5月，波罗的海南部，瑞典海岸警卫队先后控制“卡法”号（Caffa）、“海鸮”号（Sea Owl I）、“金辉”号（Jin Hui）等疑似影子船队油轮（灰色地带执法）",
+  "date_start": "2026-03-01",
+  "date_end": "2026-05-03",
+  "date_note": "3月两起的具体日期未检索到，仅确认“3月”；5月3日“金辉”号为确切日期",
+  "location_cn": "瑞典南部特雷勒堡（Trelleborg）以南波罗的海海域（“金辉”号）；其余地点待核",
+  "lat": 55.2,
+  "lon": 13.2,
+  "region": "波罗的海-北海",
+  "attacker": "（执法一方）瑞典海岸警卫队（Kustbevakningen）与警方；被查对象为疑似俄罗斯影子船队油轮",
+  "defender": "被登检的油轮及其船东；俄方事后表态（待核）",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "非攻击：被查船舶涉嫌伪旗（旗帜状态异常、不符适航要求），其中“海鸮”号（Sea Owl I，科摩罗旗）未在瑞典船舶登记册登记，自2025年10月24日起列入欧盟制裁清单。",
+  "defense_means_cn": "瑞典海岸警卫队联合警方登船并控制船舶；“金辉”号船长被捕，检察官阿德里安·孔比耶-霍格（Adrien Combier-Hogg）主办，并已与其他当局和国家联系。具体登船力量、装备与过程，本次检索未取得。",
+  "narrative_cn": "据检索到的报道，2026年3月瑞典海岸警卫队控制了“卡法”号（Caffa）和“海鸮”号（Sea Owl I）两艘疑似影子船队油轮；其中“海鸮”号挂科摩罗旗，未在瑞典船舶登记册登记，被认为使用伪旗，并自2025年10月24日起列入欧盟制裁清单。5月3日，瑞典当局在特雷勒堡（Trelleborg）以南登船并控制油轮“金辉”号（Jin Hui）：海岸警卫队联合警方称，该船旗帜状态存在异常，似属伪旗，不符合适航要求。首相克里斯特松（Ulf Kristersson）称这是“短时间内的第五次介入”，即2026年瑞典已第五次对疑似影子船队船舶采取行动。“金辉”号船长被捕（据Jurist报道为中国籍船长），检察官阿德里安·孔比耶-霍格负责调查，称已与其他当局和国家联系。另有报道称，2025年影子船队油轮几乎每天都出现在丹麦水域。一份单一追踪页面（grosswald.org，未核实）还称：2026年4月起爱沙尼亚因俄方在芬兰湾的常态化海军巡逻而停止在其专属经济区内登检影子船队油轮；欧洲拦截行动重心已转向英吉利海峡与地中海；普京8月12日在“瓦良格”号（Varyag）护卫舰上称欧洲登检为“海盗行径与盗窃”，并表示将“对等回应”，截至8月18日无欧洲船只被俄方拦截。上述追踪页内容均未经独立证实。所获资料中未见被查油轮的吨位、载货与最终处置，也未见俄方军舰伴随或干扰的记录。",
+  "defense_effect_cn": "瑞典的做法以旗帜状态异常（伪旗）和适航要求为法律抓手，而非借助制裁本身，使其登检在国际法上较易站得住脚；连续五起登检在短时间内完成，说明瑞典海岸警卫队具备在专属经济区内持续执法的能力。但检索未见被扣油轮的后续处置、是否有船被长期扣留或释放，船长被捕后的起诉进展也未检索到公开记录；对俄方“对等回应”的威胁，也只有单一追踪页的转述。",
+  "claims_compare_cn": "瑞典方面：“金辉”号旗帜状态异常，不符适航要求，船长被捕；首相称这是2026年第五次介入。俄方：未检索到官方原文；追踪页转述普京8月12日称登检为“海盗行径与盗窃”（未核实）。爱沙尼亚是否停止登检：仅一个追踪页的说法，未获独立证实。",
+  "losses_cn": "无人员伤亡或装备损失报道；被查油轮的货值与滞留损失未检索到。",
+  "analysis_cn": "2025年5月“美洲豹”号事件之后，登检影子船队船舶的风险在于军机伴随；2026年瑞典的路线是选择旗帜存疑、可依适航与国内法处理的船舶，把对抗降到执法层面。该做法的限度是只覆盖伪旗船，对有真实旗国保护的船舶效力有限（分析判断）。短时间内的连续登检也使俄方“对等回应”的威胁具有现实性：俄方“对等回应”的表态（单一来源转述）能否兑现，是后续观察点。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "MarineLink",
+    "title": "Swedish Coast Guard seizes shadow tanker",
+    "title_cn": "瑞典海岸警卫队扣押影子船队油轮",
+    "author": "",
+    "date": "",
+    "url": "https://www.marinelink.com/news/swedish-coast-guard-seizes-shadow-tanker-538724",
+    "type": "专业媒体",
+    "date_note": "日期未显示，约2026年5月3日"
+   },
+   {
+    "publisher": "Jurist",
+    "title": "Sweden arrests Chinese captain of suspected Russia shadow fleet tanker",
+    "title_cn": "瑞典逮捕疑似俄影子船队油轮的中国籍船长",
+    "author": "",
+    "date": "",
+    "url": "https://www.jurist.org/news/2026/05/sweden-arrests-chinese-captain-of-suspected-russia-shadow-fleet-tanker",
+    "type": "其他",
+    "date_note": "2026年5月"
+   },
+   {
+    "publisher": "The Public (thepublic.info)",
+    "title": "Sweden has detained a second tanker from Russia’s shadow fleet in the Baltic Sea",
+    "title_cn": "瑞典在波罗的海扣押第二艘俄影子船队油轮",
+    "author": "",
+    "date": "",
+    "url": "https://thepublic.info/en/news/sveciia_zatrimala_u_baltiiskomu_mori_drugii_tanker_iz_rosiiskogo_tinyovogo_flotu",
+    "type": "其他",
+    "date_note": "日期未显示；标题按检索结果还原"
+   },
+   {
+    "publisher": "Euronews",
+    "title": "Russia's shadow fleet of tankers reported in Danish waters almost daily in 2025, Denmark says",
+    "title_cn": "丹麦称2025年俄影子船队油轮几乎每天出现在丹麦水域",
+    "author": "",
+    "date": "2026-02-11",
+    "url": "https://euronews.com/2026/02/11/russias-shadow-fleet-of-tankers-reported-in-danish-waters-almost-daily-in-2025-denmark-say",
+    "type": "通讯社",
+    "date_note": "标题按URL slug还原"
+   },
+   {
+    "publisher": "Grosswald.org（追踪页，未核实）",
+    "title": "Baltic Sea Security: Shadow Fleet, Seabed Cables, GPS Spoofing and Interdiction Rules",
+    "title_cn": "波罗的海安全追踪",
+    "author": "",
+    "date": "",
+    "url": "https://www.grosswald.org/baltic-sea-security-tracker/",
+    "type": "其他",
+    "date_note": "检索摘要称最后更新8月18日；单一未核实来源，仅作线索"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "2026年瑞典介入次数": "5起（首相口径，截至5月3日）",
+   "已知被查船舶": "卡法号、海鸮号（3月）、金辉号（5月3日）",
+   "影子船队过丹麦水域": "2025年几乎每天（丹麦口径）"
+  },
+  "round": 1
+ },
+ {
+  "case_key": "bs_denmark_drones_2025_09_22",
+  "category": "岛屿防卫",
+  "title_cn": "丹麦两周内机场军地设施连遭无人机滋扰",
+  "subtitle_cn": "2025年9月22日—25日，哥本哈根机场关闭约4小时，奥尔堡机场（兼军事基地）关闭约3小时，埃斯比约、森讷堡、斯吕斯楚普等地报告无人机（丹麦政府称“混合攻击”）（归类说明：岛国重要设施防御；检索所获为机场与军事设施，港口未检索到）",
+  "date_start": "2025-09-22",
+  "date_end": "2025-09-25",
+  "location_cn": "丹麦哥本哈根（København）、奥尔堡（Aalborg）、埃斯比约（Esbjerg）、森讷堡（Sønderborg）、斯吕斯楚普（Skrydstrup）",
+  "lat": 55.62,
+  "lon": 12.65,
+  "region": "波罗的海-北海",
+  "attacker": "不明无人机操控方；丹麦首相称哥本哈根事件“很可能”是俄罗斯所为，克里姆林宫否认；警方称现阶段无法判断目的与操控者",
+  "defender": "丹麦警方、国防部、武装力量；机场运营方",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "多架大型不明无人机：哥本哈根报告“数架”大型无人机；奥尔堡、埃斯比约、森讷堡、斯吕斯楚普及霍尔斯特布罗（Holstebro）某军事设施另有目击。具体机型、数量与续航，本次检索未取得。",
+  "defense_means_cn": "机场停航；武装力量协助警方调查；司法部长宣布增加反无人机能力并修改法律以允许机场击落无人机；丹麦曾考虑首次援引北约第4条（未作决定）。检索结果未见击落或抓获操控者的记录。",
+  "narrative_cn": "2025年9月22日（周一），数架大型不明无人机出现在哥本哈根机场附近，机场关闭约4小时。9月24日夜至25日，奥尔堡机场从约22时前停航至次日约1时；奥尔堡机场既有民航，也是陆军特种作战司令部、海上特种作战部队与海军狗拉雪橇巡逻队的驻地，警方称停航影响到军队。埃斯比约（Esbjerg）、森讷堡（Sønderborg）、斯吕斯楚普（Skrydstrup，F-16与F-35的驻地）也有无人机报告，霍尔斯特布罗的一处军事设施上空亦有观察。国防部长特勒尔斯·伦德·保尔森（Troels Lund Poulsen）称飞行具有系统性，称之为“混合攻击”，同时称丹麦面临的不是直接军事威胁。司法部长彼得·胡梅尔高（Peter Hummelgaard）称这是“专业行为体”所为，目的是制造恐惧与分裂，宣布将增加反无人机能力，并修法允许机场击落无人机。首相称俄罗斯很可能对哥本哈根事件负责，克里姆林宫否认。警方称现阶段无法说明无人机目的或幕后。丹麦当时考虑援引北约第4条，但尚无决定。所获资料未包含丹麦国防部原始通报、军方具体拦截手段及无人机来源（发射点）的信息。",
+  "defense_effect_cn": "防御效果有限：多处停航，而检索所获报道中未见击落、缴获或确认操控者的记录。暴露的问题是：机场和军地混用设施缺少成建制的反无人机能力，法律也不允许民用机场击落无人机，事件之后才启动立法与采购。对丹麦这样的岛屿—半岛国家，关键设施分散、海岸线长，难以靠固定点防御覆盖。",
+  "claims_compare_cn": "国防部长：系统性飞行，“混合攻击”，无直接军事威胁。司法部长：“专业行为体”，意在制造恐惧与分裂。首相：俄罗斯很可能是哥本哈根事件的责任方。克里姆林宫：否认。警方：尚不能判断目的或幕后。归因证据：未检索到公开的技术取证结论。",
+  "losses_cn": "哥本哈根机场停航约4小时，奥尔堡停航约3小时；经济损失、延误航班数未检索到；无人员伤亡报道。",
+  "analysis_cn": "该案无攻击行为，价值在于“低成本制造高成本响应”：几架无人机即可迫使机场关闭、军方介入、立法修改。对沿海岛屿与港口防御的启示是，探测与识别环节（雷达、射频、光电）与法律授权（谁有权击落）同样关键，且需军警民联动。因为没有任何公开的取证结论，归因在法律上仍停留在政治表述层面。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Al Jazeera",
+    "title": "Denmark reports ‘hybrid attack’ as drones shutter major airport",
+    "title_cn": "丹麦称遭“混合攻击”，无人机致主要机场关闭",
+    "author": "",
+    "date": "2025-09-25",
+    "url": "https://www.aljazeera.com/news/2025/9/25/denmark-shuts-second-airport-in-a-week-more-unidentified-drones-spotted",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Yahoo News",
+    "title": "Airport drone attacks in Denmark are work of ‘professional actor’, says justice minister",
+    "title_cn": "司法部长称丹麦机场无人机事件为“专业行为体”所为",
+    "author": "",
+    "date": "",
+    "url": "https://www.yahoo.com/news/articles/second-danish-airport-closes-due-230413771.html",
+    "type": "其他",
+    "date_note": "约2025年9月25日；转载稿，原发布机构待核"
+   },
+   {
+    "publisher": "This Is The Coast",
+    "title": "Denmark's Aalborg airport closes after drones spotted, as minister says professional actor trying to cause fear",
+    "title_cn": "奥尔堡机场发现无人机后关闭，部长称“专业行为体”意在制造恐惧",
+    "author": "",
+    "date": "",
+    "url": "https://www.thisisthecoast.co.uk/news/top-stories/denmarks-aalborg-airport-closes-after-drones-spotted-as-minister-says-professional-actor-trying-to-cause-fear",
+    "type": "其他",
+    "date_note": "约2025年9月25日；转载稿"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Holmen_Naval_Base,_Copenhagen,_20220618_1503_7220.jpg",
+    "file_name": "Holmen Naval Base, Copenhagen, 20220618 1503 7220.jpg",
+    "desc_cn": "哥本哈根霍尔门海军基地（Holmen）航拍/岸拍照片（背景图，非2025年无人机事件现场）",
+    "date": "2022-06-18",
+    "credit": "待核（检索结果未显示作者）",
+    "license": "待核（Commons文件页，检索结果未显示许可条款）",
+    "verified": true,
+    "note": "日期取自文件名；背景图",
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   }
+  ],
+  "stats": {
+   "哥本哈根停航": "约4小时（9月22日）",
+   "奥尔堡停航": "约3小时（9月24日22时前至25日1时）",
+   "击落/抓获": "所检索资料未见"
+  },
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:Absalon-class_(Denmark)",
+    "desc_cn": "丹麦海军阿布萨隆级舰船分类页（背景；本案所获报道未提及具体舰艇参与）",
+    "verified": true,
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   }
+  ],
+  "round": 1
+ },
+ {
+  "case_key": "bs_belgium_drones_2025_11_06",
+  "category": "周边港口",
+  "title_cn": "比利时核电站、机场与安特卫普港上空无人机不明",
+  "subtitle_cn": "2025年11月初，比利时布鲁塞尔与列日机场停摆，11月9日多架无人机飞越杜尔（Doel）核电站，安特卫普港与军事基地亦有目击（泽布吕赫未检索到可靠记录）",
+  "date_start": "2025-11-06",
+  "date_end": "2025-11-09",
+  "location_cn": "比利时杜尔（Doel）核电站、安特卫普（Antwerp）港、布鲁塞尔与列日机场",
+  "lat": 51.32,
+  "lon": 4.26,
+  "region": "波罗的海-北海",
+  "attacker": "不明无人机操控方；怀疑为俄罗斯所为，但未获证实",
+  "defender": "比利时政府与警方、国家空中安全中心（NASC）；英、法、德三国派出的反无人机分队；核电站运营商Engie",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "不明无人机：11月9日晚杜尔核电站上空观察到3架（个别报道称最多5架）；11月6日夜间的机场无人机数量与型号未检索到。",
+  "defense_means_cn": "11月5日比利时政府召开紧急国家安全委员会，决定加强国家空中安全中心（NASC）并考虑更多反无人机措施；英国、法国、德国武装力量向比利时派出反无人机分队与装备。检索结果未见击落记录。",
+  "narrative_cn": "2025年11月5日，比利时政府召开紧急国家安全委员会会议，决定强化国家空中安全中心（NASC）并研究增加反无人机手段。11月6日夜间，一系列无人机侵扰一度迫使布鲁塞尔与列日机场暂停运行。英国、法国、德国武装力量随后向比利时派出反无人机分队与装备。11月9日（周日）晚，核电站运营商Engie证实，杜尔（Doel）核电站（安特卫普附近）上空出现3架无人机（个别报道称3至5架）；Engie称对电站运行无影响，已通知当局，警方不愿评论。另有报道称，军事基地与安特卫普港上空也有无人机目击，但本次检索结果中没有泽布吕赫（Zeebrugge）的无人机记录；安特卫普港事件的日期、数量与处置细节同样未取得。怀疑为俄罗斯所为，但尚无证据。",
+  "defense_effect_cn": "防御效果有限：比利时未能阻止无人机连续飞越关键设施，需要英法德分队驰援；所获资料中没有击落或抓获的记录。机场停摆说明，无人机的探测与处置授权问题在民用/军用关键设施上都存在缺口；港口与核电站这类大面积设施更难以布设覆盖全部区域的探测手段。",
+  "claims_compare_cn": "Engie：杜尔上空3架无人机，对运行无影响。个别报道：最多5架。CBC等媒体：未能独立确认报道。归因：怀疑俄罗斯，未获证实；比利时当局公开归因结论未检索到。",
+  "losses_cn": "机场暂停运行；核电站运行未受影响（Engie）；经济损失与航班取消数量未检索到。",
+  "analysis_cn": "与丹麦案相同，该案以无人机目击为表现形式，却使多国反无人机力量赶赴部署，说明关键设施密集的港口—核电—机场走廊在探测与法律授权上同样脆弱。对于港口防御，需要明确“谁探测、谁处置、谁授权”，并预置可跨国协同的反无人机分队。本案归因与细节资料较少，应谨慎使用。",
+  "confidence": "C",
+  "sources": [
+   {
+    "publisher": "DroneLife",
+    "title": "Unidentified Drone Incursions at Belgium Nuclear Plant Highlight Growing Critical Infrastructure Threat",
+    "title_cn": "不明无人机入侵比利时核电站凸显关键基础设施威胁",
+    "author": "",
+    "date": "2025-11-10",
+    "url": "https://dronelife.com/2025/11/10/unidentified-drone-incursions-at-belgium-nuclear-plant-highlight-growing-critical-infrastructure-threat/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "European Security & Defence",
+    "title": "Belgium becomes latest European country to suffer drone incursions",
+    "title_cn": "比利时成为最新遭无人机入侵的欧洲国家",
+    "author": "",
+    "date": "",
+    "url": "https://euro-sd.com/2025/11/major-news/47591/belgium-hit-by-drone-incursion/",
+    "type": "专业媒体",
+    "date_note": "2025年11月（URL显示年月）"
+   },
+   {
+    "publisher": "Kyiv Post",
+    "title": "New Mystery Drones Over Belgium’s Doel Nuclear Plant Spark Security Fears",
+    "title_cn": "不明无人机再现比利时杜尔核电站上空",
+    "author": "",
+    "date": "",
+    "url": "https://www.kyivpost.com/post/63946",
+    "type": "专业媒体",
+    "date_note": "约2025年11月10日"
+   },
+   {
+    "publisher": "CBC News",
+    "title": "Mysterious drones keep buzzing key sites in Europe. So what's the defence strategy?",
+    "title_cn": "不明无人机持续骚扰欧洲关键设施，防御策略是什么？",
+    "author": "",
+    "date": "",
+    "url": "https://www.cbc.ca/9.6973910",
+    "type": "通讯社",
+    "date_note": "约2025年11月"
+   },
+   {
+    "publisher": "blue News",
+    "title": "Once again Drones spotted over nuclear power plant and airport in Belgium",
+    "title_cn": "比利时核电站与机场上空再现无人机",
+    "author": "",
+    "date": "",
+    "url": "https://www.bluewin.ch/en/news/international/drones-spotted-over-nuclear-power-plant-and-airport-in-belgium-li.2955001",
+    "type": "其他",
+    "date_note": "约2025年11月"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "杜尔上空无人机数": "3架（多数报道），个别称至多5架",
+   "支援国": "英国、法国、德国反无人机分队",
+   "泽布吕赫": "未检索到可靠记录"
+  },
+  "round": 1
+ },
+ {
+  "case_key": "io_chem_pluto_2023_12_23",
+  "category": "远海机动编组",
+  "title_cn": "印度近海化学品船遭无人机击中，美称自伊朗发射",
+  "subtitle_cn": "2023年12月23日，印度古吉拉特邦韦拉瓦尔（Veraval）西南约200海里，利比里亚旗化学品船“化学冥王星”号（Chem Pluto）遭无人机袭击起火，印度海军与海岸警卫队介入",
+  "date_start": "2023-12-23",
+  "date_end": "2023-12-25",
+  "date_note": "结束日期为护航抵孟买前后的大致时间，未核对",
+  "location_cn": "阿拉伯海，韦拉瓦尔（Veraval）西南约200海里（亦有报道称距博尔本德Porbandar约217海里；坐标为近似值）",
+  "lat": 20.0,
+  "lon": 67.5,
+  "region": "阿拉伯海-印度洋",
+  "attacker": "不明（美国国防部称无人机自伊朗发射；印度官员未指认责任方）",
+  "defender": "印度海军（派出“前线战舰”与P-8I海上巡逻机）、印度海岸警卫队（“维克拉姆”号ICGS Vikram为主力）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "疑似一架无人机（印度海军称UAV），命中后引发爆炸与火灾，并造成该船供电中断（发电系统受损）。机型、射程未检索到。",
+  "defense_means_cn": "船公司求助后，印度海军派出P-8I海上巡逻机空中勘察，并调派一艘前线战舰；海岸警卫队“维克拉姆”号（ICGS Vikram）为主力，其后护送该船驶往孟买；印方下令高层调查。",
+  "narrative_cn": "2023年12月23日，利比里亚旗化学品船“化学冥王星”号（Chem Pluto）在韦拉瓦尔西南约200海里（另有报道称距博尔本德约217海里）遭疑似无人机袭击，发生爆炸与火灾，供电中断；该船载有化学品，驶往新门格洛尔（New Mangalore），英国海上贸易行动办公室（UKMTO）发布了通报，无人员伤亡报道。多家印度媒体称船上有约20至21名印度船员，该船被描述为与以色列有关联（关联方式各报道不一）。印度海军在船公司请求后派出P-8I海上巡逻机空中勘察并调派一艘前线战舰，海岸警卫队“维克拉姆”号为主力，海军居于空中与海上支援；该船此后在损坏评估和发电系统修复后重新具备航行能力，并在“维克拉姆”号护送下驶向孟买。美国国防部称，击中该船的无人机自伊朗发射；印度官员未指认责任方，并下令高层调查。该袭击发生在红海胡塞武装攻击商船、加沙冲突背景之下。伊朗方面的表态、无人机残骸分析，本次检索未取得。",
+  "defense_effect_cn": "印度海军与海岸警卫队的响应以空中勘察、护送为主，未见拦截无人机的记录；说明印度西海岸近海商船在无人机面前基本处于无防护状态。据Wikipedia对“桑卡尔普行动”（Operation Sankalp）的转述，该行动已于2023年12月14日因红海危机与海盗骚扰上升而重启，即在本案之前；本案发生时是否有预警可用，未检索到。",
+  "claims_compare_cn": "美国国防部：无人机自伊朗发射。印度官员：未指认责任方，印方下令高层调查。位置：多数报道称距韦拉瓦尔约200海里，一处报道称距博尔本德约217海里。该船与以色列的关联：各报道表述不一。船员人数：约20或21名印度籍，或总数21人，口径不一致。伊朗表态：未检索到。",
+  "losses_cn": "船体起火与发电系统受损，船舶后获修复并继续航行；无人员伤亡报道；经济损失未检索到。",
+  "analysis_cn": "该案把无人机袭击商船的地理范围从红海—亚丁湾扩到印度西海岸约200海里，使印度成为被动卷入的一方。对远海单舰而言，近端防御缺位是共性问题；本案中印方的做法是“快速响应+护送”，而非拦截（分析判断）。归因停留在美方单方口径，印度官方保持克制。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Business Today",
+    "title": "Israel-linked ship carrying 20 Indians hit by drone off Gujarat's coast, crew safe",
+    "title_cn": "载有20名印度人的以色列关联船舶在古吉拉特邦海岸遭无人机击中，船员平安",
+    "author": "",
+    "date": "2023-12-23",
+    "url": "https://www.businesstoday.in/amp/latest/world/story/israel-affiliated-merchant-vessel-carrying-20-indians-hit-by-aerial-vehicle-off-indias-coast-report-410627-2023-12-23",
+    "type": "专业媒体",
+    "date_note": "日期来自URL"
+   },
+   {
+    "publisher": "Onmanorama",
+    "title": "Drone strike: coast guard Gujarat 20 Indians",
+    "title_cn": "无人机袭击：海岸警卫队、古吉拉特、20名印度人",
+    "author": "",
+    "date": "2023-12-24",
+    "url": "https://www.onmanorama.com/news/india/2023/12/24/drone-strike-coast-guard-gujarat-20-indians.html",
+    "type": "专业媒体",
+    "date_note": "日期来自URL；标题按URL slug还原"
+   },
+   {
+    "publisher": "Deccan Herald",
+    "title": "Drone attack on merchant ship off India's coast",
+    "title_cn": "印度近海商船遭无人机袭击",
+    "author": "",
+    "date": "",
+    "url": "https://deccanherald.com/india/drone-attack-on-merchant-ship-off-indias-coast-2823326",
+    "type": "专业媒体",
+    "date_note": "约2023年12月23日；标题按URL slug还原"
+   },
+   {
+    "publisher": "Yahoo News Malaysia",
+    "title": "Drone that hit chemical tanker launched from Iran, says US",
+    "title_cn": "美称击中化学品船的无人机自伊朗发射",
+    "author": "",
+    "date": "",
+    "url": "https://malaysia.news.yahoo.com/india-bound-chemical-tanker-hit-093826293.html",
+    "type": "通讯社",
+    "date_note": "日期未显示；转载稿，原通讯社待核"
+   },
+   {
+    "publisher": "Free Press Journal",
+    "title": "'Israel-Affiliated' Vessel With 21 Indians Comes Under Suspected Drone Attack Off Porbandar Coast; First Visuals Surface",
+    "title_cn": "载有21名印度人的“以色列关联”船舶在博尔本德海岸遭疑似无人机袭击",
+    "author": "",
+    "date": "",
+    "url": "https://www.freepressjournal.in/amp/india/israel-affiliated-vessel-comes-under-drone-attack-off-porbandar-coast-indian-navy-coast-guard-move-towards-merchant-ship",
+    "type": "专业媒体",
+    "date_note": "约2023年12月23日"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "距岸距离": "约200海里（距韦拉瓦尔），一处报道称约217海里（距博尔本德）",
+   "船员": "报道为约20—21名印度籍（口径不一）",
+   "伤亡": "无（报道）"
+  },
+  "round": 1
+ },
+ {
+  "case_key": "io_lila_norfolk_2024_01_04",
+  "category": "远海机动编组",
+  "title_cn": "印度海军驱逐舰与海军陆战队特战队夜间解救被劫散货船",
+  "subtitle_cn": "2024年1月4日—5日，索马里东部海域，利比里亚旗散货船“利拉·诺福克”号（MV Lila Norfolk）遭5—6名武装人员登船，印度海军“金奈”号（INS Chennai）驱逐舰拦截并派海军陆战队（MARCOS）特战队清理",
+  "date_start": "2024-01-04",
+  "date_end": "2024-01-05",
+  "location_cn": "索马里东部沿海阿拉伯海（Arabian Sea，off Somalia；坐标为近似值，原报道未给出）",
+  "lat": 8.0,
+  "lon": 51.5,
+  "region": "阿拉伯海-印度洋",
+  "attacker": "5—6名武装人员（索马里海盗，印度海军称之为劫持者）",
+  "defender": "船上21名船员（含15名印度人，躲入“安全屋”citadel）；印度海军“金奈”号（INS Chennai）驱逐舰、P-8I、MQ-9B、海军陆战队特战队MARCOS",
+  "outcome": "防御成功",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "单平台",
+   "集群"
+  ],
+  "attack_means_cn": "5—6名武装人员登船并开火（据船员转述），船员躲入安全屋；具体武器、小艇数量未检索到。",
+  "defense_means_cn": "UKMTO通报后，印度海军反海盗巡逻中的“金奈”号改航，于1月5日15时15分拦截，放飞直升机、警告劫持者撤离；P-8I海上巡逻机与MQ-9B（“捕食者”）无人机持续监视；MARCOS特战队登船搜索，船上未见劫持者，21名船员（含15名印度人）全部从安全屋疏散；“金奈”号协助恢复船舶发电与推进。",
+  "narrative_cn": "2024年1月4日（周四）晚，利比里亚旗散货船“利拉·诺福克”号（MV Lila Norfolk）在索马里沿海通过UKMTO入口报告，被5—6名不明武装人员登船。据报道，该船由Dubai的Kyra Global Marine Services运营（一处来源），自巴西“Port Du Aco”（原文拼写，应为阿苏港Açu，待核）驶往巴林哈利法·本·萨勒曼港（Ambrey口径；另有报道称目的港不同）。印度海军驱逐舰“金奈”号（INS Chennai）正在反海盗巡逻，改道前往；1月5日15时15分拦截该船，放飞舰载直升机，向劫持者发出警告，要求其弃船。P-8I海上巡逻机与MQ-9B“捕食者”无人机提供持续监视。船员据称在劫持者开火后躲入船上的防护安全屋。印度海军海军陆战队特战队MARCOS登船后，船上未发现劫持者，全部船员从安全屋疏散：21人，其中15名印度人。印度海军发言人维韦克·马德瓦尔（Vivek Madhwal）说明了情况；海军称劫持者可能在目睹印度海军大规模响应后于夜间逃离，此说为印度海军新闻稿口径，未经独立核实。获救后“金奈”号留在附近，协助恢复发电与推进，使船舶继续航行。个别报道称1月6日，应属误差。USNI News 2024年1月7日以“印度海军从武装劫持者手中夺回商船”为题报道此事。",
+  "defense_effect_cn": "防御效果取决于早期预警和近距响应：UKMTO通报至拦截约一个昼夜，且为同一海域反海盗巡逻舰；武装登船时船员及时躲入安全屋，避免人员被劫持。劫持者在海军到来前后撤离，说明威慑本身起了作用，但也意味着没有抓获任何嫌疑人，无法起诉。暴露的问题：武装人员何时离船、乘何种小艇离开，所获资料均无记录；船上缺乏自卫手段，主要靠安全屋拖延时间（分析判断）。",
+  "claims_compare_cn": "印度海军：劫持者因印度海军大规模响应而逃离，船上无劫持者，船员全部获救。船员（媒体转述）：劫持者开火，船员躲入安全屋，说法未经独立核实。日期：多数报道为1月4日劫持、1月5日解救；一处报道称1月6日，应为误差。目的港与船籍细节各报道有出入。",
+  "losses_cn": "无人员伤亡报道；船舶动力一度受损，获海军协助恢复；经济损失未检索到。",
+  "analysis_cn": "该案是“远程监视+舰载直升机+特战队”的典型反海盗响应。要点在于：印度海军在阿拉伯海保持常态化巡逻舰（反海盗/反无人机任务），把响应时间压在一天内，并让P-8I与MQ-9B提供持续态势。特战队登船时没有遭遇抵抗，使其无法检验近战能力；与3月“鲁恩”号相比，本案对手撤离，缺少对抗强度。对阿拉伯海岛礁与近海商船保护而言，船员安全屋加外部快速介入是成本最低的组合。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "USNI News",
+    "title": "Indian Navy Retakes Merchant Ship From Armed Hijackers in the Arabian Sea",
+    "title_cn": "印度海军在阿拉伯海从武装劫持者手中夺回商船",
+    "author": "",
+    "date": "2024-01-07",
+    "url": "https://news.usni.org/2024/01/07/indian-navy-retakes-merchant-ship-from-armed-hijackers-in-the-arabian-sea",
+    "type": "专业媒体",
+    "date_note": "日期来自URL"
+   },
+   {
+    "publisher": "Onmanorama",
+    "title": "Indian Navy intercepts merchant vessel after attempted hijacking; rescues 21 crew members",
+    "title_cn": "印度海军在劫持未遂后拦截商船并救出21名船员",
+    "author": "",
+    "date": "2024-01-05",
+    "url": "https://www.onmanorama.com/news/world/2024/01/05/liberia-ship-hijack-somalia-indian-navy.amp.html",
+    "type": "专业媒体",
+    "date_note": "日期来自URL"
+   },
+   {
+    "publisher": "Marine Log",
+    "title": "VIDEO: Indian Navy rescues crew of hijacked bulker",
+    "title_cn": "视频：印度海军解救被劫散货船船员",
+    "author": "",
+    "date": "",
+    "url": "https://www.marinelog.com/legal/safety-and-security/video-indian-navy-rescues-crew-of-hijacked-bulker/",
+    "type": "专业媒体",
+    "date_note": "约2024年1月5—8日"
+   },
+   {
+    "publisher": "The Quint",
+    "title": "All 21 Crew, Including 15 Indians, Rescued From Vessel Hijacked in Arabian Sea",
+    "title_cn": "被劫持船舶21名船员（含15名印度人）全部获救",
+    "author": "",
+    "date": "",
+    "url": "https://www.thequint.com/amp/story/news/india/indian-navy-ins-chennai-deployed-to-assist-ship-with-15-indians-hijacking-attempt-arabian-sea",
+    "type": "专业媒体",
+    "date_note": "约2024年1月5日"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "船员": "21人（含15名印度人）",
+   "拦截时间": "2024-01-05 15:15（印度海军）",
+   "劫持者": "5—6人（UKMTO报告）；船上未发现"
+  },
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:INS_Chennai_(D65)",
+    "desc_cn": "印度海军“金奈”号（INS Chennai，D65）驱逐舰分类页（该舰参与“利拉·诺福克”号解救，据本案正文）",
+    "verified": true,
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   }
+  ],
+  "round": 1
+ },
+ {
+  "case_key": "io_ruen_2024_03_16",
+  "category": "远海机动编组",
+  "title_cn": "印度海军千海里外夺回“鲁恩”号，35名海盗投降",
+  "subtitle_cn": "2024年3月14日—17日，索马里以东阿拉伯海，印度海军“加尔各答”号（INS Kolkata）驱逐舰以40小时行动夺回2023年12月被劫的“鲁恩”号（MV Ruen），35名海盗投降、17名船员获救",
+  "date_start": "2024-03-14",
+  "date_end": "2024-03-17",
+  "date_note": "各报道日期不一：拦截约3月14—16日，船员疏散声明为3月16日，特战队登船有报道称3月17日",
+  "location_cn": "索马里以东约260海里（印度海军口径；另有报道称距印度海岸近1,400海里）；坐标为近似值",
+  "lat": 9.0,
+  "lon": 53.5,
+  "region": "阿拉伯海-印度洋",
+  "attacker": "索马里海盗（35人），以被劫的“鲁恩”号为母船，对印度军舰开火",
+  "defender": "印度海军“加尔各答”号（INS Kolkata）、“苏巴德拉”号（INS Subhadra）、P-8I、HALE无人机、MARCOS特战队、印度空军C-17",
+  "outcome": "防御成功",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "集群",
+   "异构"
+  ],
+  "attack_means_cn": "海盗以被劫船舶为“母船”，接近印度军舰时开火；海盗人数35人；武器与小艇数量未检索到。",
+  "defense_means_cn": "“加尔各答”号拦截；“苏巴德拉”号、HALE无人机和P-8I提供监视；印度空军C-17空投2艘战斗小艇并投送MARCOS特战队（据Wikipedia等对桑卡尔普行动的转述，待核）；40小时胁迫后35名海盗投降。",
+  "narrative_cn": "“鲁恩”号（MV Ruen）于2023年12月在也门索科特拉岛（Socotra）附近被索马里海盗劫持，据称是2017年以来索马里海盗首次成功登上一艘货船。2024年3月中旬，印度海军通过监视追踪该船动向，派“加尔各答”号驱逐舰在索马里以东约260海里（另有说法距印度海岸近1,400海里）拦截。印度海军称，海盗在军舰接近时开火。印度海军在新闻稿中称，经40小时行动，35名海盗被迫投降，17名船员获救，无人受伤；上船后搜查武器与违禁品。支援力量包括“苏巴德拉”号（INS Subhadra）、HALE无人机、P-8I，MARCOS特战队由C-17空投到场。3月16日海军发布了疏散17名船员的声明，另有报道称特战队登船接管发生在3月17日。35名嫌疑人被带到孟买，3月下旬抵达；孟买法院判处10天警方羁押（报道措辞为“10天监禁”，实指警方羁押），印方称将依《海上反海盗法》与《武器法》起诉。该船旗帜存在分歧：有报道称挂马耳他旗，印度官员称其为无国籍船，应视为“前‘鲁恩’号海盗船”。船员国籍报道为保加利亚、安哥拉、缅甸。“阿卜杜拉”号（MV Abdullah）3月12日被劫、4月14日付赎金获释一案，已在补检中另立案例（io_abdullah_2024_03_12）。",
+  "defense_effect_cn": "防御效果显著：海军以“加尔各答”号、“苏巴德拉”号两艘舰艇，加无人机、巡逻机与空投特战队，在距印度海岸遥远的海域完成夺船，且无人员受伤（印方口径）。关键要素是持续监视与对海盗的耗尽式压迫，而非强攻。代价与暴露问题：行动持续40小时，占用多型平台；该案的预先预警来自对母船航迹的跟踪，劫持后约三个月才被夺回，其间船员被扣留；对海盗的法律处理（孟买审判）成为后续争点。",
+  "claims_compare_cn": "印度海军：40小时行动，35名海盗投降，17名船员获救，无人受伤，海盗先开火。船旗：有报道称马耳他旗，印度称无国籍。海盗与船员的说法：本次未检索到。拦截位置：约260海里（索马里以东）与近1,400海里（距印度海岸）两种口径，参照点不同。日期：3月14—17日各报道不一。",
+  "losses_cn": "海盗方：35人被俘；印方：无人员受伤（印度海军口径）；经济损失未检索到。",
+  "analysis_cn": "该案是印度海军把反海盗、监视与特战投送整合成远海编组行动的样本：舰、机、无人机与空投特战队跨平台协同，对象却是装备原始的海盗。其价值在于展示“在1,000海里外夺船”的能力，局限在于对手以商船为盾，使火力使用受约束。对岛礁补给线与远海商船保护，启示是预警（母船航迹）比临场强攻更关键。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "All India Radio (newsonair.gov.in)",
+    "title": "Indian Navy rescues 17 crew members of hijacked cargo vessel MV Ruen, captures 35 pirates after 40-hour operation",
+    "title_cn": "印度海军经40小时行动救出被劫货船“鲁恩”号17名船员并俘获35名海盗",
+    "author": "",
+    "date": "2024-03-17",
+    "url": "https://www.newsonair.gov.in/indian-navy-rescues-17-crew-members-of-hijacked-cargo-vessel-mv-ruen-captures-35-pirates-after-40-hour-operation",
+    "type": "官方",
+    "date_note": "页面标注March 17, 2024"
+   },
+   {
+    "publisher": "Business Standard",
+    "title": "Indian Navy ship, commandos force pirates to surrender, rescue MV Ruen crew",
+    "title_cn": "印度海军舰艇与特战队迫使海盗投降并救出“鲁恩”号船员",
+    "author": "",
+    "date": "2024-03-16",
+    "url": "https://www.business-standard.com/external-affairs-defence-security/news/indian-navy-commandos-launch-op-to-rescue-mv-ruen-crew-from-pirates-report-124031600700_1.html",
+    "type": "专业媒体",
+    "date_note": "日期据URL中的124031600700推定"
+   },
+   {
+    "publisher": "Al Jazeera",
+    "title": "Captured Somali pirates arrive in India to face trial over ship hijacking",
+    "title_cn": "被俘索马里海盗抵达印度受审",
+    "author": "",
+    "date": "2024-03-23",
+    "url": "https://www.aljazeera.com/news/2024/3/23/captured-somali-pirates-arrive-in-india-to-face-trial-over-ship-hijacking",
+    "type": "通讯社",
+    "date_note": "日期来自URL"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "Indian Court Sentences 35 Somali Pirates Captured Off Somalia To 10 Days Imprisonment",
+    "title_cn": "印度法院判处35名索马里海盗10天羁押",
+    "author": "",
+    "date": "",
+    "url": "https://www.marineinsight.com/?p=1838937",
+    "type": "专业媒体",
+    "date_note": "约2024年3月24日"
+   },
+   {
+    "publisher": "Wikipedia（背景，仅作线索）",
+    "title": "Operation Sankalp",
+    "title_cn": "桑卡尔普行动",
+    "author": "",
+    "date": "",
+    "url": "https://en.wikipedia.org/wiki/Operation_Sankalp",
+    "type": "其他",
+    "date_note": "用于C-17空投小艇与2023—24年部署规模的线索，需以印度海军/国防部公报复核"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:The_Indian_Navy_destroyer_INS_Kolkata_(D63)_and_the_British_Navy_destroyer_HMS_Defender_(D36)_steam_alongside_the_Ticonderoga-class_guided-missile_cruiser_USS_Antietam_(CG_54)_during_an_exercise.JPG",
+    "file_name": "The Indian Navy destroyer INS Kolkata (D63) and the British Navy destroyer HMS Defender (D36) steam alongside the Ticonderoga-class guided-missile cruiser USS Antietam (CG 54) during an exercise.JPG",
+    "desc_cn": "印度海军“加尔各答”号（INS Kolkata，D63）与英国海军“卫士”号（HMS Defender）、美国海军“安蒂坦”号（USS Antietam）并航演练（舰艇通用照，非“鲁恩”号行动现场）",
+    "date": "",
+    "credit": "待核（检索结果未显示作者）",
+    "license": "待核（Commons文件页，检索结果未显示许可条款）",
+    "verified": true,
+    "note": "通用舰艇照；拍摄日期检索结果未显示",
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:IAC1_Vikrant_(R11)_with_INS_Kolkata_(D63)_during_sea_trial.jpg",
+    "file_name": "IAC1 Vikrant (R11) with INS Kolkata (D63) during sea trial.jpg",
+    "desc_cn": "“维克兰特”号航母（IAC1/R11）海试期间与“加尔各答”号并航（舰艇通用照，非本案现场）",
+    "date": "",
+    "credit": "待核（检索结果未显示作者）",
+    "license": "待核（Commons文件页，检索结果未显示许可条款）",
+    "verified": true,
+    "note": "通用舰艇照；拍摄日期检索结果未显示；Commons另有同名无“(R11)”的重复文件",
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   },
+   {
+    "file_page": "",
+    "file_name": "Indian Navy MARCOS rescuing hijacked Bulgaria-owned vessel MV Ruen.jpg",
+    "desc_cn": "印度海军特战队（MARCOS）解救被劫保加利亚船东“鲁恩”号（MV Ruen）的图片（检索摘要称其在Commons“Category:Indian Navy”分类下）",
+    "date": "",
+    "credit": "待核",
+    "license": "待核（Commons文件页，检索结果未显示许可条款）",
+    "verified": false,
+    "note": "仅在检索摘要中见到文件名，未见该文件页URL；使用前须到Commons核对文件名、作者与许可",
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   }
+  ],
+  "stats": {
+   "海盗": "35人投降",
+   "获救船员": "17人（保加利亚、安哥拉、缅甸籍等）",
+   "行动时长": "约40小时",
+   "拦截距离": "索马里以东约260海里 / 距印度海岸近1,400海里（口径不同）",
+   "2023-12至2024-03桑卡尔普行动": "约5,000人、450余舰日、21艘以上舰艇（据Wikipedia转述，待官方核实）"
+  },
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:INS_Kolkata_(D63)",
+    "desc_cn": "印度海军“加尔各答”号驱逐舰（D63）分类页",
+    "verified": true,
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   },
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:Kolkata_class_destroyers",
+    "desc_cn": "加尔各答级驱逐舰分类页",
+    "verified": true,
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   },
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:Indian_Navy",
+    "desc_cn": "印度海军总分类页（据检索摘要含“鲁恩”号解救相关文件）",
+    "verified": true,
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   }
+  ],
+  "round": 1
+ },
+ {
+  "case_key": "sa_sindoor_vikrant_karachi_2025_05",
+  "category": "远海机动编组",
+  "title_cn": "印度航母编组前出威慑卡拉奇，实际有无打击各执一词",
+  "subtitle_cn": "2025年5月，“朱砂行动”（Operation Sindoor）期间，“维克兰特”号（INS Vikrant）航母编组前出阿拉伯海，印方称随时可打击卡拉奇，巴方称已将其困住（灰色地带/威慑，未见经证实的海上交火）",
+  "date_start": "2025-05-08",
+  "date_end": "",
+  "date_note": "5月8日为印媒报道“海军袭击卡拉奇”的日期；行动起止日未在检索结果中直接取得，待核",
+  "location_cn": "阿拉伯海北部，卡拉奇（Karachi）近海；编组确切位置未公开（坐标为近似值）",
+  "lat": 23.5,
+  "lon": 66.0,
+  "region": "阿拉伯海-印度洋",
+  "attacker": "印度海军“维克兰特”号航母战斗群（印方口径：约36艘各类舰船，8—10艘战舰前出；来源为印度媒体引述的匿名消息）",
+  "defender": "巴基斯坦海军（巴方称以海空力量将印度航母编组“困住”）",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面",
+   "空中",
+   "水下"
+  ],
+  "patterns": [
+   "异构",
+   "集群"
+  ],
+  "attack_means_cn": "印方称编组含“布拉莫斯”（BrahMos）导弹舰艇与潜艇（Business Today引述India Today消息，未经官方证实）；未检索到经证实的实际发射记录。",
+  "defense_means_cn": "印方：“维克兰特”编组维持约300公里的防空“气泡”（国防部长拉杰纳特·辛格语），使巴方无法从卡拉奇近海发起攻击。巴方：海空力量部署于马克兰（Makran）沿岸，“随时准备击沉印度航母”（海军参谋长纳维德·阿什拉夫Naveed Ashraf语）。",
+  "narrative_cn": "2025年5月8日，印度媒体报道印度海军可能对卡拉奇海军港口发动攻击，印巴政府均未证实，多个巴基斯坦社交媒体账号予以否认；事发初期，印度海军参谋长办公室也未表态。一篇事实核查文章称，“维克兰特”号攻击卡拉奇的传言系被错配的影像和未经证实的报道所致。5月14日，Business Today引述India Today消息称，“维克兰特”号编组前出，约36艘舰船（8—10艘战舰前出阿拉伯海），配有搭载“布拉莫斯”导弹的舰艇与潜艇，已处于可打击卡拉奇港的位置；该数字为匿名来源，非官方发布。事后，印度官方多次强调海军的威慑作用：海军参谋长迪内什·特里帕蒂（Dinesh K. Tripathi）称，航母编组距离发起对包括卡拉奇在内的巴基斯坦目标的海上打击仅差数分钟，巴方请求停止动武；国防部长辛格在“维克兰特”号上表示，海军使巴基斯坦军队被牵制，并称编组维持约300公里的防空“气泡”；总理莫迪在排灯节期间视察“维克兰特”号（IANS 2025年10月20日），称其“威力迫使巴基斯坦就范”；A.N.普拉莫德（A.N. Pramod）中将称海军在恐袭后96小时内已做好打击准备；特里帕蒂2025年12月称巴基斯坦海军在行动中“缺席”，留在马克兰海岸。巴方海军参谋长阿什拉夫在卡拉奇举行的“开伯尔”号（PNS Khaibar，MILGEM级）入列仪式上称，巴海军“已做好击沉印度航母的准备”，迫使印海军“留在其认为安全的海域”，并称印度航母编组被巴方海空力量“困住”。5月8日夜卡拉奇有爆炸报道，但来源不明。至检索截止，未检索到任何独立核实的海上交火或对卡拉奇的海军打击。",
+  "defense_effect_cn": "所获资料中，海上未发生经证实的交战，防御效果无法用拦截数衡量：印方强调航母编组的前出威慑牵制了巴军，巴方强调自身海空力量使印航母“留在安全海域”。两方均无卫星影像或官方交战数据支持自己的说法。可以确认的是，大型航母编组在窄水域边缘的前出是常态化威慑手段，且两国均公开以此作政治叙事；对巴方卡拉奇港的实际打击能力与防空反应，未检索到公开记录。",
+  "claims_compare_cn": "印方：编组已就位，距打击仅数分钟，巴方请求停火；防空“气泡”约300公里；编组规模约36艘（匿名来源）。巴方：巴海军海空力量已将印航母“困住”，印海军留在安全海域；多个巴方账号否认卡拉奇遭海军袭击。事实核查：印度航母攻击卡拉奇港的传言属误导，影像被错配。5月8日夜卡拉奇爆炸来源：未查明。独立证据：未检索到。",
+  "losses_cn": "未检索到经证实的海上损失；无舰艇受损记录。",
+  "analysis_cn": "这是一个“只展示不开火”的远海编组案例：印度以航母编组前出换取政治叙事与谈判筹码，巴基斯坦以岸基海空力量与潜艇“拒止”，各自宣称对方被困。可资借鉴的是，编组在对方近岸水域外徘徊就足以牵制对方兵力，成本不对称；风险是叙事战与事实之间缺乏第三方核验，2025年5月的传言和反传言反复出现，说明灰色地带中误传本身也是作战效果的一部分。本案的数字（36艘、300公里）均为单方口径。",
+  "confidence": "C",
+  "sources": [
+   {
+    "publisher": "Business Today",
+    "title": "Operation Sindoor: INS Vikrant-led 36-ship fleet was in position to hit Karachi port; BrahMos-equipped warships, submarines also used",
+    "title_cn": "“朱砂行动”：“维克兰特”号率领36艘舰船已就位可打击卡拉奇港",
+    "author": "",
+    "date": "2025-05-14",
+    "url": "https://www.businesstoday.in/amp/india/story/operation-sindoor-ins-vikrant-led-36-ship-fleet-was-in-position-to-hit-karachi-port-brahmos-equipped-warships-submarines-also-used-476196-2025-05-14",
+    "type": "专业媒体",
+    "date_note": "日期来自URL；标题按URL slug还原"
+   },
+   {
+    "publisher": "The Week",
+    "title": "Who attacked Karachi? Will brief today, says Indian Navy. Meet the key officers who guard India’s western waters",
+    "title_cn": "谁袭击了卡拉奇？印度海军称今日通报",
+    "author": "",
+    "date": "2025-05-09",
+    "url": "https://www.theweek.in/news/defence/2025/05/09/who-attacked-karachi-will-brief-today-says-indian-navy-meet-the-key-officers-who-guard-india-western-waters.amp.html",
+    "type": "专业媒体",
+    "date_note": "日期来自URL"
+   },
+   {
+    "publisher": "The Week",
+    "title": "Operation Sindoor: Why was the Pakistan Navy missing from action? Admiral Dinesh K Tripathi says India's carrier battle group...",
+    "title_cn": "“朱砂行动”：巴基斯坦海军为何缺席？特里帕蒂称印度航母战斗群……",
+    "author": "",
+    "date": "2025-12-03",
+    "url": "https://www.theweek.in/news/defence/2025/12/03/operation-sindoor-why-was-the-pakistan-navy-missing-from-action-admiral-dinesh-k-tripathi-says-india-s-carrier-battle-group.amp.html",
+    "type": "专业媒体",
+    "date_note": "日期来自URL；标题后半截断，按URL还原"
+   },
+   {
+    "publisher": "IANS",
+    "title": "INS Vikrant, prowess of Navy compelled Pakistan to yield: PM Modi",
+    "title_cn": "莫迪：“维克兰特”号与海军威力迫使巴基斯坦就范",
+    "author": "",
+    "date": "2025-10-20",
+    "url": "https://ianslive.in/ins-vikrant-prowess-of-navy-compelled-pakistan-to-yield-pm-modi--20251020114952",
+    "type": "通讯社",
+    "date_note": "日期来自URL"
+   },
+   {
+    "publisher": "The Tribune (India)",
+    "title": "Rajnath: Indian Navy's deployment kept Pakistani forces bottled up during Op Sindoor",
+    "title_cn": "拉杰纳特：“朱砂行动”期间印度海军部署牵制了巴基斯坦军队",
+    "author": "",
+    "date": "",
+    "url": "https://www.tribuneindia.com/news/india/rajnath-indian-navys-deployment-kept-pakistani-forces-bottled-up-during-op-sindoor/amp",
+    "type": "专业媒体",
+    "date_note": "日期未显示；标题按URL slug还原"
+   },
+   {
+    "publisher": "The Logical Indian",
+    "title": "Did India’s INS Vikrant Attack on Karachi Port? Here’s What Really Happened",
+    "title_cn": "印度“维克兰特”号袭击了卡拉奇港吗？事实核查",
+    "author": "",
+    "date": "",
+    "url": "https://thelogicalindian.com/did-indias-ins-vikrant-attack-on-karachi-port-heres-what-really-happened/",
+    "type": "其他",
+    "date_note": "日期未显示，约2025年5月；事实核查类"
+   },
+   {
+    "publisher": "Maritime Executive",
+    "title": "Indian Navy attacks Pakistani naval base at Karachi",
+    "title_cn": "印度海军袭击卡拉奇巴基斯坦海军基地",
+    "author": "",
+    "date": "",
+    "url": "https://maritime-executive.com/article/indian-navy-attacks-pakistani-naval-base-at-karachi",
+    "type": "专业媒体",
+    "date_note": "仅见标题，内容与其他报道口径不一，未能核实，勿单独采信"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:IAC1_Vikrant_(R11)_with_INS_Kolkata_(D63)_during_sea_trial.jpg",
+    "file_name": "IAC1 Vikrant (R11) with INS Kolkata (D63) during sea trial.jpg",
+    "desc_cn": "“维克兰特”号航母（IAC1/R11）海试期间与“加尔各答”号并航（舰艇通用照，非2025年5月现场）",
+    "date": "",
+    "credit": "待核（检索结果未显示作者）",
+    "license": "待核（Commons文件页，检索结果未显示许可条款）",
+    "verified": true,
+    "note": "通用舰艇照；拍摄日期检索结果未显示",
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   }
+  ],
+  "stats": {
+   "印方称编组规模": "约36艘舰船（匿名来源），8—10艘战舰前出",
+   "印方称防空范围": "约300公里（国防部长口径）",
+   "印方称准备时间": "恐袭后96小时（A.N. Pramod中将）"
+  },
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:INS_Vikrant_(ship,_2013)",
+    "desc_cn": "“维克兰特”号航母（2013年下水）分类页",
+    "verified": true,
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   }
+  ],
+  "round": 1
+ },
+ {
+  "case_key": "ca_southern_spear_boats_2025_09_02",
+  "category": "远海机动编组",
+  "title_cn": "美军以航母加两栖编组压境，对加勒比小艇累计打击70次、致死235人",
+  "subtitle_cn": "2025年9月2日起，“南方之矛”（Operation Southern Spear）行动在加勒比与东太平洋击沉被指贩毒的小艇；2025年11月16日“福特”号（USS Gerald R. Ford）航母打击群进入加勒比（攻方视角案例）",
+  "date_start": "2025-09-02",
+  "date_end": "2026-10-04",
+  "location_cn": "加勒比海（Caribbean Sea）与东太平洋；“福特”号经安圭拉水道（Anegada Passage）入加勒比",
+  "lat": 15.0,
+  "lon": -66.0,
+  "region": "加勒比",
+  "attacker": "美军（美国南方司令部SOUTHCOM，“南方之矛”联合特遣部队；“福特”号航母打击群、“硫磺岛”号两栖戒备群）",
+  "defender": "被指控贩毒的小艇（身份未经证实）；委内瑞拉政府（间接）",
+  "outcome": "被击沉/摧毁",
+  "domains": [
+   "空中",
+   "水面"
+  ],
+  "patterns": [
+   "异构",
+   "饱和"
+  ],
+  "attack_means_cn": "对小艇的空中/海上打击（具体弹药、平台在所检索资料中多未公布）。编组规模：“福特”号航母打击群载4,000余名水兵与数十架战机，会同“硫磺岛”号两栖戒备群及随编的海军陆战队远征队；AP口径显示该海域共有近十几艘美军舰船、约12,000名水兵与陆战队员（经NPR转引）。",
+  "defense_means_cn": "被打击小艇无有效防御手段。委内瑞拉方面的防御与表态：所检索资料中未见详细记录。",
+  "narrative_cn": "美国国防部长皮特·赫格塞思（Pete Hegseth）宣布启动“南方之矛”行动，由南方司令部与“南方之矛”联合特遣部队牵头，打击西半球的贩毒组织。据CBS报道，2025年9月2日加勒比一次对小艇的打击造成11人死亡（引述《华盛顿邮报》报道，因该次打击的细节引发国会审查；本次检索未能确认其中与特定组织的关联，也未取得美方对该次打击的官方叙述）。2025年11月16日，美国海军与USNI News报道，“福特”号航母打击群及第8舰载机联队（CVW-8）经安圭拉水道进入加勒比，加入“硫磺岛”号两栖戒备群及其随编陆战队远征队，作为“南方之矛”的一部分；分析人士将该部署与对委内瑞拉总统马杜罗（Nicolás Maduro）的施压联系在一起。打击次数与死亡人数不断累积：CBS在2025年底称自9月初以来至少22次打击、至少87人死亡；《星条旗报》2026年2月23日称累计至少44次、至少150人死亡；USNI 2026年4月20日称至少179人；5月5日至少189人；8月26日共68次打击、227人死亡；10月4日一次加勒比打击致4人死亡后，《星条旗报》称自2025年9月起累计至少70次、至少235人死亡。另有AP口径：早期至少36次打击中116人当场死亡，另有10人因搜救未发现而推定死亡。USNI指出，打击曾停顿约两个月，8月下旬恢复，原因不明。行动法律依据存争议：总统称美国与贩毒集团处于“武装冲突”，但政府未提供这些小艇从事贩毒的确凿证据，人权团体与联合国专家称其为法外处决，可能违反国际法。补检（2026年后续）：2月13日，美国南方司令部称在委内瑞拉附近打击一艘船只，3人死亡（Euronews，2月14日）；4月19日又一次打击造成3人死亡（USNI，4月20日）；5月4日一次打击造成2人死亡（《星条旗报》，5月5日）。大型舰艇方面，《星条旗报》1月7日一篇标题显示美军在委内瑞拉行动后削减并轮换加勒比军舰；检索摘要称“福特”号2月中旬离开加勒比转往中东（具体篇目与去向待核），“硫磺岛”号两栖戒备群（含“劳德代尔堡”号USS Fort Lauderdale与“圣安东尼奥”号USS San Antonio）3月仍在加勒比，USNI 2026年5月27日报道该两栖戒备群及第22海军陆战远征队在约10个月部署后返航。",
+  "defense_effect_cn": "以击沉小艇的数量与死亡人数衡量，美军“打击”基本得手，被打击一方无任何有效防御；但该行动的“效果”缺乏可核验指标：美方未公开被击沉小艇所载货物的数量，未提供确凿证据，死亡人数的统计口径各媒体不一（当场死亡、推定死亡）。暴露的问题是情报判定与法律授权的合法性争议，以及打击频率2026年6—8月出现约两个月停顿的原因不明。",
+  "claims_compare_cn": "美方：行动打击“毒品恐怖分子”，总统称处于“武装冲突”；未公开确凿证据。人权团体、联合国专家：法外处决，可能违反国际法。统计口径：CBS/《星条旗报》/USNI的累计数略有不同，AP另有“当场死亡+推定死亡”口径。9月2日打击死亡人数：11人（《华盛顿邮报》，经CBS二手转述），美方原始通报未取得。",
+  "losses_cn": "被打击方：截至2026年10月4日，至少70次打击、至少235人死亡（《星条旗报》口径）；小艇被击沉数、所载货物未检索到。美方：所检索资料中未见损失。",
+  "analysis_cn": "该案是航母加两栖编组对“非对称对象”的使用：编组提供持续监视、指挥节点与打击平台，对象是小艇而非海军，故“防御”几乎不构成问题，争议集中于法律与证据。对岛屿防卫的启示在于，海上执法式打击可以把大型编组长期留在近岸（本案编组停留长达数月），并为对岸上目标的后续行动（见委内瑞拉港口打击案例）提供预置兵力。本案是攻方视角，不适合作为“防御成功”的样板，仅作态势背景收录。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "USNI News",
+    "title": "USS Gerald R. Ford Enters Caribbean Sea",
+    "title_cn": "“福特”号进入加勒比海",
+    "author": "",
+    "date": "2025-11-16",
+    "url": "https://news.usni.org/2025/11/16/uss-gerald-r-ford-enters-caribbean-sea",
+    "type": "专业媒体",
+    "date_note": "日期来自URL"
+   },
+   {
+    "publisher": "Sea Power Magazine",
+    "title": "Gerald R. Ford Carrier Strike Group Enters Caribbean Sea",
+    "title_cn": "“福特”号航母打击群进入加勒比海",
+    "author": "",
+    "date": "2025-11-16",
+    "url": "https://seapowermagazine.org/gerald-r-ford-carrier-strike-group-enters-caribbean-sea/",
+    "type": "专业媒体",
+    "date_note": "日期据同事件USNI报道推定，待核"
+   },
+   {
+    "publisher": "CBS News",
+    "title": "4 killed in latest alleged drug boat strike in Latin America, Pentagon says",
+    "title_cn": "五角大楼称最新一次被指贩毒小艇打击致4人死亡",
+    "author": "",
+    "date": "",
+    "url": "https://www.cbsnews.com/news/4-killed-latest-alleged-drug-boat-strike-latin-america-eastern-pacific",
+    "type": "通讯社",
+    "date_note": "日期未显示"
+   },
+   {
+    "publisher": "KMPH / Scripps National",
+    "title": "Hegseth announces military operation targeting narco-terrorists amid strikes in Caribbean",
+    "title_cn": "赫格塞思宣布针对“毒品恐怖分子”的军事行动",
+    "author": "",
+    "date": "",
+    "url": "https://kmph.com/news/nation-world/hegseth-announces-military-operation-southern-spear-targeting-narco-terrorists-strikes-caribbean-eastern-pacific-southcomm-hemisphere-venezuela-trump",
+    "type": "通讯社",
+    "date_note": "日期未显示"
+   },
+   {
+    "publisher": "Stars and Stripes",
+    "title": "US strike in Caribbean kills 4",
+    "title_cn": "美军加勒比打击致4人死亡",
+    "author": "",
+    "date": "2026-10-05",
+    "url": "https://www.stripes.com/theaters/americas/2026-10-05/us-strike-caribbean-kills-4-23061506.html",
+    "type": "专业媒体",
+    "date_note": "日期来自URL；标题按URL slug还原"
+   },
+   {
+    "publisher": "Stars and Stripes",
+    "title": "US military strike on drug boat in Caribbean",
+    "title_cn": "美军打击加勒比被指贩毒小艇",
+    "author": "",
+    "date": "2026-02-23",
+    "url": "https://www.stripes.com/theaters/americas/2026-02-23/us-military-strike-drug-boat-caribbean-20854533.html",
+    "type": "专业媒体",
+    "date_note": "日期来自URL；标题按URL slug还原"
+   },
+   {
+    "publisher": "USNI News",
+    "title": "U.S. Forces Strike Suspected Narco Boat, 3 Killed",
+    "title_cn": "美军打击疑似贩毒小艇，3人死亡",
+    "author": "",
+    "date": "2026-04-20",
+    "url": "https://news.usni.org/2026/04/20/u-s-forces-strike-suspected-narco-boat-3-killed",
+    "type": "专业媒体",
+    "date_note": "日期来自URL"
+   },
+   {
+    "publisher": "Euronews",
+    "title": "US Southern Command sinks new boat, kills 3 near Venezuela",
+    "title_cn": "美国南方司令部再击沉一艘船，在委内瑞拉附近致3人死亡",
+    "author": "",
+    "date": "2026-02-14",
+    "url": "https://www.euronews.com/2026/02/14/us-southern-command-sinks-new-boat-kills-3-near-venezuela",
+    "type": "专业媒体",
+    "date_note": "标题据URL还原，日期据URL"
+   },
+   {
+    "publisher": "Stars and Stripes",
+    "title": "US strike on drug boat in Caribbean kills 2",
+    "title_cn": "美军加勒比打击贩毒船致2人死亡",
+    "author": "",
+    "date": "2026-05-05",
+    "url": "https://www.stripes.com/theaters/americas/2026-05-05/us-strike-drug-boat-caribbean-2-killed-21582732.html",
+    "type": "专业媒体",
+    "date_note": "标题据URL还原，日期据URL"
+   },
+   {
+    "publisher": "USNI News",
+    "title": "Iwo Jima, 22nd MEU are Heading Home After 10 Months",
+    "title_cn": "“硫磺岛”号与第22海军陆战远征队结束10个月部署返航",
+    "author": "",
+    "date": "2026-05-27",
+    "url": "https://news.usni.org/2026/05/27/iwo-jima-arg-22nd-meu-are-heading-home-after-10-months",
+    "type": "专业媒体",
+    "date_note": "日期据URL"
+   },
+   {
+    "publisher": "Stars and Stripes",
+    "title": "US to reduce warships near Venezuela, rotate",
+    "title_cn": "美国将削减并轮换委内瑞拉附近的军舰",
+    "author": "",
+    "date": "2026-01-07",
+    "url": "https://www.stripes.com/theaters/americas/2026-01-07/us-reduce-warships-near-venezuela-rotate-20331714.html",
+    "type": "专业媒体",
+    "date_note": "标题据URL还原，日期据URL"
+   },
+   {
+    "publisher": "USNI News",
+    "title": "USS Gerald R. Ford Leaves Mediterranean Bound for U.S. Southern Command",
+    "title_cn": "“福特”号离开地中海驶往美国南方司令部辖区",
+    "author": "",
+    "date": "",
+    "url": "https://news.usni.org/?p=118959",
+    "type": "专业媒体",
+    "date_note": "日期未显示，约2025年10月下旬，待核"
+   },
+   {
+    "publisher": "Wikipedia（背景，仅作线索）",
+    "title": "United States strikes on alleged drug traffickers during Operation Southern Spear",
+    "title_cn": "“南方之矛”行动期间美国对被指贩毒者的打击",
+    "author": "",
+    "date": "",
+    "url": "https://en.wikipedia.org/wiki/United_States_strikes_on_alleged_drug_traffickers_during_Operation_Southern_Spear",
+    "type": "其他",
+    "date_note": "背景条目，非一手来源"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:USS_Gerald_R_Ford_Conducts_Sea_and_Anchor_(8917661).jpg",
+    "file_name": "USS Gerald R Ford Conducts Sea and Anchor (8917661).jpg",
+    "desc_cn": "“福特”号（USS Gerald R. Ford，CVN-78）航母出入港“海锚部署”（Sea and Anchor）照片（舰艇通用照，非加勒比部署期间）",
+    "date": "",
+    "credit": "待核（检索结果未显示作者）",
+    "license": "待核（Commons文件页，检索结果未显示许可条款）",
+    "verified": true,
+    "note": "通用舰艇照；拍摄日期检索结果未显示",
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:USS_Gerald_R_Ford_Conducts_Sea_and_Anchor_(8917662).jpg",
+    "file_name": "USS Gerald R Ford Conducts Sea and Anchor (8917662).jpg",
+    "desc_cn": "同上系列另一张（舰艇通用照）",
+    "date": "",
+    "credit": "待核（检索结果未显示作者）",
+    "license": "待核（Commons文件页，检索结果未显示许可条款）",
+    "verified": true,
+    "note": "通用舰艇照；拍摄日期检索结果未显示",
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   }
+  ],
+  "stats": {
+   "累计打击": "至少70次（《星条旗报》，截至2026-10-04）",
+   "累计死亡": "至少235人（同上）",
+   "分段累计": "2026-02-23：≥44次/≥150人；2026-04-20：≥179人；2026-05-05：≥189人；2026-08-26：68次/227人",
+   "福特号编组": "4,000余名水兵、数十架战机，2025-11-16入加勒比",
+   "2026-02-13/14单次": "3人死亡（Euronews）",
+   "2026-04-19/20单次": "3人死亡（USNI）",
+   "2026-05-04单次": "2人死亡（《星条旗报》）",
+   "硫磺岛ARG": "约10个月部署，2026-05-27报道返航（USNI）",
+   "福特号": "检索摘要称2026年2月中旬离开加勒比，转往中东（待核）"
+  },
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:USS_Iwo_Jima_(LHD-7)",
+    "desc_cn": "“硫磺岛”号两栖攻击舰（LHD-7）分类页（据检索摘要含2025年第22海军陆战远征队相关文件）",
+    "verified": true,
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   },
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:General_views_of_USS_Iwo_Jima_(LHD-7)",
+    "desc_cn": "“硫磺岛”号舰体外观分类页",
+    "verified": true,
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   }
+  ],
+  "round": 1
+ },
+ {
+  "case_key": "ca_venezuela_port_strikes_2026_01_03",
+  "category": "周边港口",
+  "title_cn": "美军先炸码头后打拉瓜伊拉港，两栖舰成为抓捕平台",
+  "subtitle_cn": "2025年12月下旬CIA无人机袭击委内瑞拉沿岸码头；2026年1月3日“绝对决心行动”（Operation Absolute Resolve）中拉瓜伊拉港（La Guaira）、希格罗特机场等遭美军打击，马杜罗被带上“硫磺岛”号（USS Iwo Jima）",
+  "date_start": "2025-12-29",
+  "date_end": "2026-01-03",
+  "date_note": "12月29日为特朗普公开披露日（称“两晚前”打击了码头设施，CNN称发生在12月内、AP称“上周”），实施日未检索到；1月3日为大规模行动日",
+  "location_cn": "委内瑞拉：拉瓜伊拉港（La Guaira）、希格罗特（Higuerote）机场、加拉加斯（Caracas）堡垒区Fuerte Tiuna、拉卡洛塔（La Carlota）空军基地、阿拉瓜州马拉凯（Maracay）空军基地（一处来源）；12月码头具体位置未公开",
+  "lat": 10.6,
+  "lon": -66.93,
+  "region": "加勒比",
+  "attacker": "美军（“南方之矛”联合特遣部队、美军特种部队“三角洲”等；12月码头打击据称为CIA无人机）",
+  "defender": "委内瑞拉武装力量（防空与海岸防御）；委内瑞拉政府",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中",
+   "岸基",
+   "水面"
+  ],
+  "patterns": [
+   "异构",
+   "偷袭/突防",
+   "集群"
+  ],
+  "attack_means_cn": "12月：CIA无人机打击一处偏僻码头（CNN、AP匿名消息）。1月3日：约150架以上飞机从西半球20个基地起飞（美军参联会主席丹·凯恩Dan Caine口径），打击持续约半小时；直升机低空飞行规避雷达；传言加拉加斯断电（未经证实）。",
+  "defense_means_cn": "委内瑞拉方面：防空与地面部队反应的细节本次检索未取得；副总统德尔西·罗德里格斯（Delcy Rodríguez）称遭“残暴袭击”，造成军人与平民伤亡（具体数字未检索到）。",
+  "narrative_cn": "2025年12月29日，美国总统特朗普称美国已打击委内瑞拉一处用于装载贩毒船的设施，是美国对委内瑞拉施压以来首次陆上行动，并称码头区发生“大爆炸”；他在此前一档电台节目中称“两晚前我们把它端掉了”。CNN与AP的匿名消息称，是CIA在12月于一处偏僻码头实施无人机打击，美方认为该码头被“阿拉瓜火车”（Tren de Aragua）用于存放毒品并转运至船上，打击时无人在场，无伤亡；CNN称特种作战部队提供了情报，美军特种作战司令部发言人否认。美方（CIA、白宫、五角大楼）均未公开确认，委内瑞拉政府未评论，亦无来自委方的独立报道。2026年1月3日凌晨约2时（当地时间），委内瑞拉北部多处发生爆炸。据报道，拉瓜伊拉港（委内瑞拉主要海港）、希格罗特机场、堡垒区Fuerte Tiuna、拉卡洛塔空军基地与El Volcán通信信号站等遭袭，CNN核实了希格罗特机场的大火画面，社交媒体视频显示拉瓜伊拉港遭轰炸；另有一处来源称阿拉瓜州马拉凯的自由者空军基地也遭袭。袭击持续约半小时，两小时后特朗普宣布马杜罗及其妻西莉亚·弗洛雷斯（Cilia Flores）被捕。参联会主席凯恩称行动动用150架以上飞机，自20个基地起飞，特朗普于美东时间周五22时46分最终批准，部队于当地时间周六凌晨2时稍过抵达加拉加斯市中心的住所。马杜罗夫妇其后乘直升机被送上停在近海的“硫磺岛”号（LHD-7）两栖攻击舰（USNI 1月5日舰队追踪与Maritime Executive），再被送往纽约受审，指控为“毒品恐怖主义合谋”与可卡因进口合谋。特朗普称美方无人阵亡；罗德里格斯称遭受“残暴袭击”，委军人与平民有伤亡。1月7日《星条旗报》称，行动前聚集在加勒比的舰队开始“瘦身”，“硫磺岛”号与“圣安东尼奥”号（USS San Antonio）移往古巴以北大西洋海域。委方伤亡数字、港口损失与防空反应，本次检索均未取得可靠资料。",
+  "defense_effect_cn": "从公开信息看，委内瑞拉的防空与海岸防御未能阻止美军突入：打击持续约30分钟，美方称无人阵亡。港口设施损伤程度、委方防空系统是否开火，未检索到可靠资料。美军方面的暴露点是：行动初期的CIA码头打击未获官方确认、特种作战司令部与CNN说法冲突；“断电”等细节均为单一来源。对港口防御的启示是：港口与近岸机场被列为前期压制目标，既是突防通道，也是舰载与两栖舰平台“后接”的一部分。",
+  "claims_compare_cn": "特朗普（12月29日）：已打击装载贩毒船的设施，“两晚前”。CNN、AP匿名消息：CIA于12月实施无人机打击，无人在场。特种作战司令部发言人：否认提供情报（驳CNN）。CIA/白宫/五角大楼：未公开确认。委内瑞拉政府：12月事件未评论；对1月3日行动，副总统称“残暴袭击”，有军人与平民伤亡。美方：无人阵亡。各来源对打击目标清单不尽一致（部分来源提及马拉凯基地）。伤亡与损失数字：双方均无可核实的数字。",
+  "losses_cn": "委内瑞拉：军人与平民伤亡（委方口径，数字未检索到）；港口、机场、通信站损伤程度未检索到。美方：无人阵亡（特朗普口径）。",
+  "analysis_cn": "该案把“海上执法”延伸为对港口与近岸设施的打击，海上编组（两栖攻击舰、护卫舰）在其中承担起降与接应平台的作用，而不是单纯的火力支援。特点是先有CIA无人机打击沿岸码头（据匿名消息），其后以大批飞机在短时间内压制防空与通信，地面特种部队随后一次性完成抓捕。对海岛和港口的防御来说，核心问题不在于能否拦下单架飞机，而在于能否在约30分钟的窗口内维持指挥链和防空网。委方的反应与损失数据缺失，限制了对防御有效性的判断。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Associated Press / WBHM (NPR)",
+    "title": "CIA behind strike at Venezuelan dock that Trump claims was used by drug smugglers, AP sources say",
+    "title_cn": "AP消息人士称CIA是委内瑞拉码头打击背后力量",
+    "author": "",
+    "date": "",
+    "url": "https://wbhm.org/npr-story/cia-behind-strike-at-venezuelan-dock-that-trump-claims-was-used-by-drug-smugglers-ap-sources-say",
+    "type": "通讯社",
+    "date_note": "约2025年12月29—30日；日期未显示"
+   },
+   {
+    "publisher": "ITV News",
+    "title": "US carries out drone strikes on Venezuelan port",
+    "title_cn": "美国对委内瑞拉港口实施无人机袭击",
+    "author": "",
+    "date": "2025-12-30",
+    "url": "https://www.itv.com/news/2025-12-30/us-carries-out-drone-strikes-on-venezuelan-port",
+    "type": "通讯社",
+    "date_note": "日期来自URL"
+   },
+   {
+    "publisher": "FDD's Long War Journal",
+    "title": "January 3, 2026: United States strikes Venezuela, captures President Maduro",
+    "title_cn": "2026年1月3日：美国打击委内瑞拉并抓捕总统马杜罗",
+    "author": "",
+    "date": "2026-01-03",
+    "url": "https://www.fdd.org/analysis/2026/01/03/united-states-strikes-venezuela-captures-president-maduro/",
+    "type": "智库",
+    "date_note": "日期来自URL；标题按URL slug还原"
+   },
+   {
+    "publisher": "CBS News",
+    "title": "How the U.S. captured Venezuela's Nicolás Maduro (Dan Caine, Trump)",
+    "title_cn": "美国如何抓捕马杜罗",
+    "author": "",
+    "date": "",
+    "url": "https://www.cbsnews.com/news/how-us-captured-venezuela-nicolas-maduro-dan-caine-trump",
+    "type": "通讯社",
+    "date_note": "约2026年1月3—4日；标题按URL slug还原"
+   },
+   {
+    "publisher": "USNI News",
+    "title": "USNI News Fleet and Marine Tracker: Jan. 5, 2026",
+    "title_cn": "USNI舰队与海军陆战队追踪：2026年1月5日",
+    "author": "",
+    "date": "2026-01-05",
+    "url": "https://news.usni.org/2026/01/05/usni-news-fleet-and-marine-tracker",
+    "type": "专业媒体",
+    "date_note": "日期来自URL"
+   },
+   {
+    "publisher": "Maritime Executive",
+    "title": "Amphib USS Iwo Jima plays key role in extraction of Nicolás Maduro",
+    "title_cn": "“硫磺岛”号在提取马杜罗中发挥关键作用",
+    "author": "",
+    "date": "",
+    "url": "https://maritime-executive.com/article/amphib-uss-iwo-jima-plays-key-role-in-extraction-of-nicolas-maduro",
+    "type": "专业媒体",
+    "date_note": "约2026年1月3—4日；标题按URL slug还原"
+   },
+   {
+    "publisher": "Stars and Stripes",
+    "title": "US to reduce warships near Venezuela, rotate",
+    "title_cn": "美国将削减委内瑞拉附近军舰并轮换",
+    "author": "",
+    "date": "2026-01-07",
+    "url": "https://www.stripes.com/theaters/americas/2026-01-07/us-reduce-warships-near-venezuela-rotate-20331714.html",
+    "type": "专业媒体",
+    "date_note": "日期来自URL；标题按URL slug还原"
+   },
+   {
+    "publisher": "UK Defence Journal",
+    "title": "An update on U.S. strikes in Venezuela",
+    "title_cn": "美军对委内瑞拉打击的最新情况",
+    "author": "",
+    "date": "",
+    "url": "https://ukdefencejournal.org.uk/an-update-on-u-s-strikes-in-venezuela",
+    "type": "专业媒体",
+    "date_note": "约2026年1月3日；日期未显示"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "1月3日打击时长": "约30分钟（一处报道）",
+   "参战飞机": "150架以上，自20个基地起飞（凯恩口径）",
+   "最终批准": "美东时间周五22:46；当地周六凌晨2时稍过抵达住所",
+   "美方伤亡": "无人阵亡（特朗普口径）",
+   "委方伤亡": "未检索到数字"
+  },
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:USS_Iwo_Jima_(LHD-7)",
+    "desc_cn": "“硫磺岛”号两栖攻击舰（LHD-7）分类页（马杜罗被送上该舰，见本案正文）",
+    "verified": true,
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   }
+  ],
+  "round": 1
+ },
+ {
+  "case_key": "ca_tanker_blockade_marinera_2025_12_2026_01",
+  "category": "远海机动编组",
+  "title_cn": "美国海岸警卫队跨洋追扣更名改旗的“玛丽内拉”号油轮",
+  "subtitle_cn": "2025年12月—2026年1月，美军对委内瑞拉实施石油封锁：“斯基珀”号（Skipper）被扣；“贝拉1”号（Bella 1）改挂俄旗、更名“玛丽内拉”号（Marinera）后被美军在冰岛与英伦诸岛之间海域登临（灰色地带）",
+  "date_start": "2025-12-01",
+  "date_end": "2026-01-07",
+  "date_note": "“斯基珀”号被扣在12月，具体日期未检索到；“贝拉1”号改旗追逐自12月30日起，1月7日被扣",
+  "location_cn": "委内瑞拉近海（“斯基珀”号）；北大西洋冰岛与英伦诸岛之间（“玛丽内拉”号，位置近似）；加勒比（M Sophia）",
+  "lat": 60.0,
+  "lon": -15.0,
+  "region": "加勒比",
+  "attacker": "美国海岸警卫队（含“门罗”号USCGC Munro）、美国欧洲司令部（EUCOM）、美国南方司令部",
+  "defender": "被拦截油轮及其船东；俄罗斯（外交照会与军舰机动，据Meduza）；委内瑞拉政府（称为“国际海盗行径”）",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "单平台",
+   "集群"
+  ],
+  "attack_means_cn": "非动能：海岸警卫队登船队与跟踪舰艇；以联邦法院扣押令为依据（EUCOM口径）。",
+  "defense_means_cn": "“贝拉1”号以改旗（巴拿马改俄）与改名规避登临；俄方向美方递交外交照会要求停止追逐，据Meduza报道俄军舰机动阻挡美方路径（单一来源，待核）。",
+  "narrative_cn": "据Anadolu、Wikipedia等报道，美国自2025年底起对委内瑞拉实施石油封锁，截至2026年10月初，维基百科条目列出共10艘油轮被美方拦截（该条目页面状态为约10月初，非一手来源，待核）。12月，美国海岸警卫队登上受制裁油轮“斯基珀”号（Skipper）：该船2022年因涉嫌与伊朗革命卫队和真主党有关联的影子船队网络而被美国制裁，委内瑞拉政府称此举为“国际海盗行径”。“贝拉1”号（Bella 1）转向躲避美方在委内瑞拉附近的登临，12月30日追逐期间改挂俄罗斯旗并更名“玛丽内拉”号（Marinera）；俄方向美方发出外交照会，要求停止追逐，据Meduza报道，俄方军舰曾机动阻挡美方路径。2026年1月7日，美军在冰岛与英伦诸岛之间海域登上该船；美国欧洲司令部称，依据联邦法院扣押令，在海岸警卫队“门罗”号（USCGC Munro）跟踪下完成扣押。同一天，美军在加勒比拦截了巴拿马旗油轮M Sophia（Anadolu）。UPI引述官员称，美方依据的是该船此前涉及伊朗石油贸易，而非委内瑞拉关联。Anadolu称一个月内美国已扣押4艘船舶。后续被扣船只的处置、俄方是否有进一步反制，本次检索未取得。补检：2026年1月15日，据墨西哥adn40的标题，美方在“南方之矛”行动框架下扣押“Verónica”号油轮，称其为在加勒比被扣的第六艘油轮（仅见标题，细节待核）。",
+  "defense_effect_cn": "封锁与追扣获得成功：“玛丽内拉”号尽管改旗改名、有俄方外交与军舰机动支持，仍被美军在远离委内瑞拉的北大西洋登船扣押；追逐自12月30日持续至1月7日（约8天），从加勒比一直延伸到北大西洋。暴露问题：改旗是否生效取决于旗国承认，美方以联邦法院令绕开；俄方的“军舰机动阻挡”只有单一来源，且结果是未能阻止扣押。",
+  "claims_compare_cn": "美方（EUCOM）：依联邦法院扣押令，在“门罗”号跟踪下扣押，与该船此前的伊朗石油贸易有关。委内瑞拉政府：称扣押“斯基珀”号为国际海盗行径。俄方：递交外交照会要求停止追逐（Meduza）；军舰机动阻挡（Meduza单一来源）。船舶身份：“贝拉1”号→“玛丽内拉”号，旗帜由巴拿马改为俄罗斯（Meduza）。 被扣油轮累计数口径不一：adn40（2026-01-15）称“Verónica”号为第6艘；维基百科条目称累计10艘；Anadolu称一个月内4艘船舶。",
+  "losses_cn": "无人员伤亡报道；被扣油轮货值与滞留成本未检索到。",
+  "analysis_cn": "该案是灰色地带执法的跨洋版本：用法院令和海岸警卫队而非海军完成扣押，把风险限定在“执法”框架内，即便对方是俄旗船。对影子船队的保护手段（改旗、改名、外交照会、军舰伴随）在本案均未奏效，但本次检索未见该案有俄军机介入的记录。对岛屿与港口封锁而言，封锁线不必靠近目标，可以前出到数千海里外。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "gCaptain",
+    "title": "Dual tanker seizures mark U.S. escalation against Venezuela's shadow fleet",
+    "title_cn": "双油轮扣押标志着美国对委内瑞拉影子船队升级",
+    "author": "",
+    "date": "2026-01-07",
+    "url": "https://gcaptain.com/dual-tanker-seizures-mark-u-s-escalation-against-venezuelas-shadow-fleet/",
+    "type": "专业媒体",
+    "date_note": "日期据图注“January 7, 2026”推定"
+   },
+   {
+    "publisher": "Meduza",
+    "title": "O Bella ciao",
+    "title_cn": "“贝拉1”号追逐记",
+    "author": "",
+    "date": "2026-01-07",
+    "url": "https://meduza.io/en/feature/2026/01/07/o-bella-ciao",
+    "type": "专业媒体",
+    "date_note": "日期来自URL"
+   },
+   {
+    "publisher": "Anadolu Agency",
+    "title": "US seizes 4 vessels in 1 month as Venezuela blockade intensifies",
+    "title_cn": "委内瑞拉封锁升级，美国一个月内扣押4艘船舶",
+    "author": "",
+    "date": "",
+    "url": "https://aa.com.tr/en/americas/us-seizes-4-vessels-in-1-month-as-venezuela-blockade-intensifies/3792834",
+    "type": "通讯社",
+    "date_note": "约2026年1月7—8日；日期未显示"
+   },
+   {
+    "publisher": "Maritime Executive",
+    "title": "Report: U.S. still plans to seize fleeing Russian-flagged tanker",
+    "title_cn": "报道：美国仍计划扣押逃跑的俄旗油轮",
+    "author": "",
+    "date": "",
+    "url": "https://maritime-executive.com/article/report-u-s-still-plans-to-seize-fleeing-russian-flagged-tanker",
+    "type": "专业媒体",
+    "date_note": "约2026年1月2—6日；标题按URL slug还原"
+   },
+   {
+    "publisher": "UPI / Yahoo News",
+    "title": "US Coast Guard pursuing third oil tanker in the Caribbean",
+    "title_cn": "美海岸警卫队追逐加勒比第三艘油轮",
+    "author": "",
+    "date": "",
+    "url": "https://www.yahoo.com/news/articles/us-coast-guard-pursuing-third-210652094.html",
+    "type": "通讯社",
+    "date_note": "约2025年12月；日期未显示"
+   },
+   {
+    "publisher": "Wikipedia（背景，仅作线索）",
+    "title": "2025–2026 United States oil blockade of Venezuela",
+    "title_cn": "2025—2026年美国对委内瑞拉石油封锁",
+    "author": "",
+    "date": "",
+    "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_United_States_oil_blockade_of_Venezuela",
+    "type": "其他",
+    "date_note": "仅用于“共10艘油轮被拦截”的线索，需以一手来源复核"
+   },
+   {
+    "publisher": "ADN40",
+    "title": "EUA incauta buque Verónica, sexto petrolero en el Caribe, en la Operación Southern Spear",
+    "title_cn": "美国扣押“Verónica”号，第六艘加勒比油轮，“南方之矛”行动",
+    "author": "",
+    "date": "2026-01-15",
+    "url": "https://www.adn40.mx/internacional/2026-01-15/eua-incauta-buque-veronica-sexto-petrolero-caribe-operacion-southern-spear/",
+    "type": "专业媒体",
+    "date_note": "标题据URL还原，日期据URL，正文未取得"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://gcaptain.com/dual-tanker-seizures-mark-u-s-escalation-against-venezuelas-shadow-fleet/",
+    "file_name": "",
+    "desc_cn": "美国海岸警卫队“门罗”号在北大西洋跟踪“玛丽内拉”号（原贝拉1号）（页面图注：USCGC Munro shadows MT Marinera (ex Bella 1) in the North Atlantic, January 7, 2026）",
+    "date": "2026-01-07",
+    "credit": "图注未见署名",
+    "license": "未核实（可能为美国政府图像，待核）",
+    "verified": false,
+    "note": "仅见于检索结果中的页面标题/图注，未能打开页面核实"
+   }
+  ],
+  "stats": {
+   "被拦截油轮": "共10艘（维基百科口径，截至2026年10月初，待核）",
+   "一个月内扣押船舶": "4艘（Anadolu，约2026年1月）",
+   "“Verónica”号": "第6艘被扣油轮（adn40标题，2026-01-15，待核）"
+  },
+  "round": 1
+ },
+ {
+  "case_key": "med_conscience_malta_2025_05_02",
+  "category": "远海机动编组",
+  "title_cn": "马耳他外海援助船遭无人机击中起火，攻击方未证实",
+  "subtitle_cn": "2025年5月2日凌晨，马耳他东南约16海里国际水域，“自由船队联盟”（Freedom Flotilla Coalition）的“良知”号（Conscience）遭两次无人机打击，船首起火、船体破口",
+  "date_start": "2025-05-02",
+  "date_end": "2025-05-04",
+  "location_cn": "地中海中部，马耳他（Malta）外海约16海里国际水域（坐标为近似值）",
+  "lat": 35.85,
+  "lon": 14.65,
+  "region": "其他",
+  "attacker": "不明（“自由船队联盟”指控以色列；以方未置评，无人声称负责）",
+  "defender": "“良知”号船上12名船员与4名乘客；马耳他武装部队（AFM）巡逻艇与一艘附近拖船",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "武装无人机，“自由船队联盟”称对船首打击两次，并针对发电机，致船舶失去动力。无人机型号与数量未检索到。",
+  "defense_means_cn": "马耳他船舶交通服务（VTS）接到求救并协调：距船约1海里的拖船参与灭火；马耳他武装部队巡逻艇赶往支援；约一小时后火势受控。拖船提出撤离船上人员，被拒绝。",
+  "narrative_cn": "据“自由船队联盟”，2025年5月2日00时23分（马耳他时间），“良知”号在马耳他东南约16海里的国际水域遭武装无人机攻击两次，船首起火并出现较大破口；联盟称发电机被针对，船舶失去动力，有沉没风险，并称无人机在其最后一次通讯时仍在盘旋。马耳他政府声明确认了灭火：马耳他VTS接到求救，报告船上有12名船员与4名乘客；距船约1海里的拖船协助灭火，马耳他武装部队派出巡逻艇；约一小时后火势受控。拖船提出撤离人员，船方拒绝。无人受伤。马耳他政府称船舶位于领海外。联盟指控以色列，以色列未评论，无人声称负责，联盟当时也未提供证据。5月4日，联盟称马耳他政府表示将提供后勤支持与可能的修理，但要求保证其前往加沙的航行不受阻碍。欧洲广播联盟（EBU）下属的Spotlight发布了含时间线与地理定位的核查；图像与视频的独立鉴定、残骸取证，本次检索未取得。",
+  "defense_effect_cn": "防御为零：该船为非武装民用船舶，没有任何探测与拦截手段，依赖马耳他VTS、拖船与武装部队的救援，防止了沉没与伤亡。所检索资料未见无人机被探测或拦截的记录；遭袭地点在马耳他领海之外，马耳他的执法与调查权限是否因此受限，属分析判断，未检索到官方说明。",
+  "claims_compare_cn": "“自由船队联盟”：武装无人机两次打击船首，针对发电机，攻击者为以色列。马耳他政府：确认灭火与救援，船位于领海外，无人受伤。以色列：未评论。其他：无人声称负责；联盟未提供证据；独立核查（EBU Spotlight）结论本次未取得。",
+  "losses_cn": "船首起火与船体破口、失去动力；无人受伤（马耳他政府口径）。修复费用未检索到。",
+  "analysis_cn": "该案的特点是对非军事小型船舶使用无人机，造成火灾和动力丧失，而不致命，兼具信息战效果。对中部地中海航路（马耳他—利比亚—突尼斯沿线）而言，沿岸国救援能力足以防止灾难，却没有溯源手段：无人机来自何处、由谁操控，均无公开证据。这类事件因攻击方不明，难以进入国家间交涉渠道。",
+  "confidence": "C",
+  "sources": [
+   {
+    "publisher": "Maritime Executive",
+    "title": "Activist Group Claims Drones Attacked Aid Boat for Gaza Off Malta",
+    "title_cn": "活动人士称无人机袭击马耳他外海加沙援助船",
+    "author": "",
+    "date": "2025-05-02",
+    "url": "https://maritime-executive.com/article/activist-group-claims-drones-attacked-aid-boat-for-gaza-off-malta",
+    "type": "专业媒体",
+    "date_note": "日期据事件日推定，待核"
+   },
+   {
+    "publisher": "gCaptain",
+    "title": "Activist aid ship hit by drones on way to Gaza",
+    "title_cn": "活动人士援助船在前往加沙途中被无人机击中",
+    "author": "",
+    "date": "2025-05-02",
+    "url": "https://gcaptain.com/activist-aid-ship-hit-by-drones-on-way-to-gaza/",
+    "type": "专业媒体",
+    "date_note": "日期据事件日推定，待核"
+   },
+   {
+    "publisher": "EBU Spotlight",
+    "title": "Freedom Flotilla vessel Conscience hit by drone strikes off Malta coast; NGO accuses Israel (timeline and geolocation)",
+    "title_cn": "“良知”号遭无人机打击：时间线与地理定位核查",
+    "author": "",
+    "date": "",
+    "url": "https://spotlight.ebu.ch/p/timeline-and-geolocation-reveal-details",
+    "type": "OSINT",
+    "date_note": "日期未显示；标题据检索结果还原"
+   },
+   {
+    "publisher": "Green Left",
+    "title": "Freedom Flotilla attacked off the coast of Malta",
+    "title_cn": "自由船队在马耳他海岸外遭袭",
+    "author": "",
+    "date": "",
+    "url": "https://greenleft.org.au/content/freedom-flotilla-attacked-coast-malta",
+    "type": "其他",
+    "date_note": "立场性媒体，仅作联盟口径的转述来源"
+   },
+   {
+    "publisher": "Italpress",
+    "title": "Drone Attack hits Gaza bound Aid Ship in International Waters near Malta",
+    "title_cn": "无人机袭击马耳他附近国际水域的加沙援助船",
+    "author": "",
+    "date": "",
+    "url": "https://www.italpress.com/?p=529228",
+    "type": "通讯社",
+    "date_note": "日期未显示"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://gcaptain.com/activist-aid-ship-hit-by-drones-on-way-to-gaza/",
+    "file_name": "",
+    "desc_cn": "拖船在马耳他领海外为“良知”号灭火（页面图注：A tug puts out a fire on the Gaza Freedom Flotilla vessel Conscience outside Maltese territorial waters）",
+    "date": "2025-05-02",
+    "credit": "图注未见署名",
+    "license": "未核实（非自由许可，使用须另行授权）",
+    "verified": false,
+    "note": "仅见于检索结果中的页面标题/图注，未能打开页面核实"
+   }
+  ],
+  "stats": {
+   "事发时间": "2025-05-02 00:23（马耳他时间）",
+   "距马耳他": "约16海里（联盟口径）",
+   "船上人员": "12名船员+4名乘客（马耳他VTS）",
+   "灭火时长": "约1小时"
+  },
+  "round": 1
+ },
+ {
+  "case_key": "med_sumud_sidi_bou_said_2025_09_09",
+  "category": "周边港口",
+  "title_cn": "突尼斯港内两度“无人机袭击”，当局否认第一起",
+  "subtitle_cn": "2025年9月9日—10日，突尼斯西迪布赛义德港（Sidi Bou Said），“全球坚韧船队”（Global Sumud Flotilla）称“家庭号”（Family）与英国旗“阿尔玛”号（Alma）相继遭无人机袭击",
+  "date_start": "2025-09-09",
+  "date_end": "2025-09-10",
+  "location_cn": "突尼斯西迪布赛义德港（Sidi Bou Said, Tunisia）",
+  "lat": 36.87,
+  "lon": 10.35,
+  "region": "其他",
+  "attacker": "不明（船队未指认；突尼斯当局称未探测到无人机；以色列称船队为支持哈马斯的宣传噱头）",
+  "defender": "突尼斯海岸警察与当局；船队船上人员",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "据船队：无人机投放物引燃“阿尔玛”号上层甲板；船队发布了一件熔融塑料包裹的烧焦物体照片，称为无人机所投。机型与数量未检索到。",
+  "defense_means_cn": "火势迅速被扑灭；突尼斯沿岸警察在船队船舶附近；当局称已展开调查。",
+  "narrative_cn": "据“全球坚韧船队”，9月9日（周二）清晨，“家庭号”（Family）在西迪布赛义德港遭无人机引发火灾；突尼斯当局随即否认，称未探测到任何无人机，有媒体援引称起火也可能是烟头所致，美联社称当局已展开调查。第二起：9月9日至10日之间（各报道时间不一，有称周二宣布、有称周三午夜前），船队称挂英国旗的“阿尔玛”号（Alma）在泊港期间被无人机击中，上层甲板起火，火势很快扑灭，无人受伤，无结构性损坏；船队发布了船上人员喊“着火”并指向天空的闭路电视画面，以及一张据称为无人机所投的烧焦物体照片。突尼斯当局对第二起事件未置评。船队称这些攻击是“有组织的企图，以分散并破坏我们的任务”，但未指认责任方；以色列称该援助船是支持哈马斯的宣传噱头。路透社称无法立即核实录像。突尼斯沿岸警察被看到在船队船舶附近，当地部门称船队出发推迟因天气所致。独立技术核查、残骸或无人机证据，本次检索未取得。",
+  "defense_effect_cn": "所检索资料未见港内有探测或反无人机措施；当局对首起的反应是否认，削弱了对事件的调查可信度；两起事件均没有人员受伤，损失轻微。暴露的问题：民用港口与泊船缺乏探测与取证手段，事发后只靠船员录像与目击；当局对无人机的否认与船队的说法相互冲突，没有第三方核实。",
+  "claims_compare_cn": "船队：“家庭号”与“阿尔玛”号相继遭无人机攻击，引发火灾。突尼斯当局：未探测到无人机；有媒体援引称第一起起火可能源自烟头；对第二起未置评。以色列：称船队是宣传噱头。路透社：无法核实录像。AP/路透对“阿尔玛”号起火的时间描述不一：有称周三夜间，有称周二宣布。",
+  "losses_cn": "“阿尔玛”号上层甲板火灾，无人受伤，无结构性损坏（船队口径）；“家庭号”损失未检索到。",
+  "analysis_cn": "与“良知”号案相比，本案发生在港内，却同样没有可核验的无人机残骸或雷达记录。争议的焦点从“谁攻击了”转为“有没有发生攻击”：当局否认、船队出示闭路电视与烧焦物，各方都缺乏技术证据。港口防御的启示是：对停泊船舶的无人机袭击，需要港口方具备探测与记录能力，否则任何指控与否认都无法裁决。",
+  "confidence": "C",
+  "sources": [
+   {
+    "publisher": "MaltaToday",
+    "title": "Drone strike hits ‘Alma’ in second Flotilla attack this week",
+    "title_cn": "无人机袭击“阿尔玛”号，本周船队第二次遇袭",
+    "author": "",
+    "date": "2025-09-10",
+    "url": "https://www.maltatoday.com.mt/news/world/136932/drone_strike_hits_alma_in_second_flotilla_attack_this_week_",
+    "type": "专业媒体",
+    "date_note": "日期据事件推定，待核"
+   },
+   {
+    "publisher": "Al-Monitor",
+    "title": "Flotilla for Gaza reports second drone attack on boat in Tunisian waters",
+    "title_cn": "加沙船队称在突尼斯水域再遭无人机袭击",
+    "author": "",
+    "date": "2025-09-10",
+    "url": "https://www.al-monitor.com/originals/2025/09/flotilla-gaza-reports-second-drone-attack-boat-tunisian-waters",
+    "type": "通讯社",
+    "date_note": "日期据URL年月与事件推定，待核"
+   },
+   {
+    "publisher": "Associated Press (via News4JAX)",
+    "title": "An activist flotilla on a mission to Gaza says it was attacked again in Tunisia",
+    "title_cn": "前往加沙的活动人士船队称在突尼斯再次遇袭",
+    "author": "",
+    "date": "2025-09-10",
+    "url": "https://www.news4jax.com/news/world/2025/09/10/an-activist-flotilla-on-a-mission-to-gaza-says-it-was-attacked-again-in-tunisia/",
+    "type": "通讯社",
+    "date_note": "日期来自URL"
+   },
+   {
+    "publisher": "Ara.cat",
+    "title": "The Gaza flotilla reports second drone attack in Tunisian port",
+    "title_cn": "加沙船队称在突尼斯港遭第二次无人机袭击",
+    "author": "",
+    "date": "",
+    "url": "https://en.ara.cat/international/the-gaza-flotilla-reports-second-drone-attack-tunisian-port_1_5492108.html",
+    "type": "其他",
+    "date_note": "日期未显示"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "事件数": "2起（“家庭号”9月9日；“阿尔玛”号9月9日夜至10日）",
+   "伤亡": "无（船队口径）",
+   "当局口径": "未探测到无人机（针对第一起）"
+  },
+  "round": 1
+ },
+ {
+  "case_key": "med_arctic_metagaz_2026_03_03",
+  "category": "远海机动编组",
+  "title_cn": "乌克兰无人机远程袭击中地中海俄LNG船，沉没说与漂流说并存",
+  "subtitle_cn": "2026年3月3日，马耳他以东，俄罗斯受制裁LNG运输船“北极甲烷气”号（Arctic Metagaz）遭疑似无人艇袭击；此前2025年12月19日乌克兰保安局（SBU）称空中无人机击伤油轮“肯迪尔”号（Qendil）（归类说明：中部/东部地中海，与乌克兰组案例可能重叠）",
+  "date_start": "2026-03-03",
+  "date_end": "2026-03-04",
+  "date_note": "主案“北极甲烷气”号为2026年3月3日；关联前案“肯迪尔”号（Qendil）为2025年12月19日（Euronews/路透系报道），Wikipedia作12月18日",
+  "location_cn": "地中海中部：“北极甲烷气”号位于马耳他以东、利诺萨岛（Linosa）约30海里处漂流；“肯迪尔”号最后已知位置在克里特岛（Crete）附近、与利比亚海岸平行（坐标为近似值）",
+  "lat": 35.7,
+  "lon": 13.2,
+  "region": "其他",
+  "attacker": "俄方称为乌克兰海军无人艇（自利比亚海岸发射，俄交通部口径）；乌克兰未声称“北极甲烷气”号案；“肯迪尔”号案乌克兰保安局（SBU）称由其阿尔法（Alpha）部队以空中无人机击伤",
+  "defender": "“北极甲烷气”号（30名俄籍船员）；意大利海军（监视漂流船）；利比亚海上搜救机构",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "单平台",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "“北极甲烷气”号：俄方称乌克兰海军无人艇从利比亚海岸发射（乌方未确认）；船体左舷现一个大洞，船尾吃水较深。“肯迪尔”号：SBU称使用空中无人机（TWZ称“轰炸机无人机”），视频显示甲板数次爆炸，距乌克兰逾2,000公里。",
+  "defense_means_cn": "被袭船舶无自卫手段。“北极甲烷气”号事后由意大利海军监视，意方不愿其靠港（称其为“定时炸弹”），倾向由管理方SMP Techmanagement聘请专业公司拖带至安全地点。",
+  "narrative_cn": "2025年12月19日（Wikipedia作18日），乌克兰保安局（SBU）称以空中无人机在地中海国际水域击伤悬阿曼旗的油轮“肯迪尔”号（Qendil），距乌克兰逾2,000公里；SBU称该船空载，已受重创、无法再使用，行动由其阿尔法部队实施，并称这是乌克兰首次在黑海以外打击影子船队船舶。路透社根据起重机、甲板和桥楼外观确认了船舶身份，但无法独立核实视频的拍摄时间与地点。船舶追踪数据显示该船最后位置在克里特附近，与利比亚海岸平行；法新社核查的卫星影像显示该船夜间在距希腊与利比亚海岸约250公里处掉头；该船自印度驶往俄罗斯乌斯季卢加港，出发港有两种说法（贾姆讷格尔Jamnagar或锡卡Sikka）。2026年3月3日凌晨，277米长的LNG运输船“北极甲烷气”号（Arctic Metagaz）在马耳他以东航行时遭疑似无人机/无人艇袭击；该船在科拉半岛乌拉湾（Ura Bay）装载LNG，驶往埃及塞得港。俄交通部称乌克兰海军无人艇自利比亚海岸发射，并称此事为“国际恐怖主义与海盗行径”；俄方发现爆炸与火灾。船上30名俄籍船员，据报有2人受伤。利比亚海上搜救机构最初称该船已沉没，但意大利海军后来称该船仍在漂浮，在距意大利利诺萨岛约30海里处于意大利与马耳他之间漂流。照片显示左舷有大洞，船尾下沉；俄调查人员称发现火灾痕迹、“控制系统完全损毁”、两个LNG储罐受损。乌克兰未声称负责，SBU未回复路透社查询；利比亚国家石油公司称与该船无关，船舶为前往塞得港。该船属利比里亚注册的Lathyrus Shipping Company，被视作影子船队，受制裁；路透社称这是首次对LNG运输船的袭击（如属实）。",
+  "defense_effect_cn": "所检索资料未见两艘船上有自卫手段或军事护航；两起袭击均发生在远离乌克兰的地中海，使“影子船队”面临的风险不再局限于黑海。防御问题：船方的AIS与航迹公开，使其易被远程追踪；意大利不愿接收漂流的LNG船，暴露沿岸国在处置受损危险货物船舶时的政治与安全顾虑。所检索资料未显示有任何军事护航或预警。",
+  "claims_compare_cn": "俄交通部：乌克兰海军无人艇从利比亚海岸发射袭击“北极甲烷气”号，称为国际恐怖主义与海盗行径。乌克兰：未声称负责，SBU未置评；但SBU明确声称“肯迪尔”号为其所击。沉没与否：利比亚搜救机构称已沉；意大利海军称仍在漂流。地点：“肯迪尔”号被称“东地中海”（SBU/路透）与“与利比亚海岸平行、克里特附近”（航迹）；出发港两说并存。独立核实：路透社无法核实“肯迪尔”号视频；对“北极甲烷气”号，乌方说法缺失，俄方说法未经独立核实。",
+  "losses_cn": "“北极甲烷气”号：船体破洞、控制系统损毁、两个LNG储罐受损、2名船员受伤（据报）；船舶是否损失，各方说法不一。“肯迪尔”号：SBU称“已受重创”，该船空载，无环境威胁。",
+  "analysis_cn": "该系列把对影子船队的攻击从黑海延伸到地中海中部，距离、时间窗与攻击方式（空中无人机/无人艇）均说明乌方已具备远程投送能力，或在第三国水域获得了出发条件（后者仅为俄方说法）。对沿岸国与岛屿而言，受损LNG船在海上漂流，是新的次生风险：马耳他、利诺萨岛、意大利均面临处置压力。事件的归因争议大，俄乌双方口径极端对立，是后续汇编中最需要谨慎使用的一类。",
+  "confidence": "C",
+  "sources": [
+   {
+    "publisher": "Al Jazeera",
+    "title": "Russia accuses Ukraine of drone attack as gas tanker sinks in Mediterranean",
+    "title_cn": "俄指责乌克兰无人机袭击，LNG船在地中海沉没",
+    "author": "",
+    "date": "2026-03-04",
+    "url": "https://www.aljazeera.com/news/2026/3/4/russia-accuses-ukraine-of-drone-attack-as-gas-tanker-sinks-in-mediterranean",
+    "type": "通讯社",
+    "date_note": "日期来自URL"
+   },
+   {
+    "publisher": "Baird Maritime",
+    "title": "Russian LNG tanker sinks in Mediterranean, Moscow blames Ukrainian drones",
+    "title_cn": "俄LNG船在地中海沉没，莫斯科指责乌克兰无人机",
+    "author": "",
+    "date": "",
+    "url": "https://www.bairdmaritime.com/shipping/tankers/russian-lng-tanker-sinks-in-mediterranean-moscow-blames-ukrainian-drones",
+    "type": "专业媒体",
+    "date_note": "约2026年3月4日"
+   },
+   {
+    "publisher": "Baird Maritime",
+    "title": "Ticking timebomb: Italy weighs options as damaged Russian LNG tanker drifts in the Mediterranean",
+    "title_cn": "定时炸弹：意大利权衡受损俄LNG船漂流",
+    "author": "",
+    "date": "",
+    "url": "https://www.bairdmaritime.com/amp/story/shipping/tankers/gas/ticking-timebomb-italy-weighs-options-as-damaged-russian-lng-tanker-drifts-in-the-mediterranean",
+    "type": "专业媒体",
+    "date_note": "约2026年3月5日起；日期未显示"
+   },
+   {
+    "publisher": "Euromaidan Press",
+    "title": "Russia claims Ukrainian drones attacked its gas tanker in the Mediterranean Sea",
+    "title_cn": "俄称乌克兰无人机袭击其天然气运输船",
+    "author": "",
+    "date": "2026-03-04",
+    "url": "https://euromaidanpress.com/2026/03/04/russia-claims-ukrainian-drones-attacked-its-gas-tanker-in-the-mediterranean-sea/",
+    "type": "专业媒体",
+    "date_note": "日期来自URL"
+   },
+   {
+    "publisher": "The Barents Observer",
+    "title": "Tanker attacked in Mediterranean carried sanctioned gas from the Arctic",
+    "title_cn": "地中海遇袭油轮载有来自北极的受制裁天然气",
+    "author": "",
+    "date": "",
+    "url": "https://www.thebarentsobserver.com/news/tanker-attacked-in-mediterranean-carried-sanctioned-gas-from-the-arctic/446187",
+    "type": "专业媒体",
+    "date_note": "日期未显示，约2026年3月"
+   },
+   {
+    "publisher": "Euronews",
+    "title": "Ukraine strikes Russian shadow fleet tanker in Mediterranean",
+    "title_cn": "乌克兰打击地中海俄影子船队油轮",
+    "author": "",
+    "date": "2025-12-19",
+    "url": "https://www.euronews.com/2025/12/19/ukraine-strikes-russian-shadow-fleet-tanker-in-mediterranean",
+    "type": "通讯社",
+    "date_note": "日期来自URL"
+   },
+   {
+    "publisher": "The War Zone (TWZ)",
+    "title": "Ukraine Strikes Russia-Linked Tanker In The Mediterranean With ‘Bomber Drone’",
+    "title_cn": "乌克兰以“轰炸机无人机”打击地中海俄关联油轮",
+    "author": "",
+    "date": "",
+    "url": "https://www.twz.com/news-features/ukraine-strikes-russia-linked-tanker-in-the-mediterranean-with-bomber-drone",
+    "type": "专业媒体",
+    "date_note": "约2025年12月19—20日"
+   },
+   {
+    "publisher": "The Defense Post",
+    "title": "Kyiv: Russian shadow fleet tanker hit in Mediterranean",
+    "title_cn": "基辅：俄影子船队油轮在地中海被击中",
+    "author": "",
+    "date": "2025-12-20",
+    "url": "https://thedefensepost.com/2025/12/20/kyiv-russian-shadow-fleet-mediterranean/amp/",
+    "type": "专业媒体",
+    "date_note": "日期来自URL；标题按URL slug还原"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://www.bairdmaritime.com/amp/story/shipping/tankers/russian-lng-tanker-sinks-in-mediterranean-moscow-blames-ukrainian-drones",
+    "file_name": "",
+    "desc_cn": "“北极甲烷气”号在地中海起火（页面图注：Arctic Metagaz on fire in the Mediterranean, X.com）",
+    "date": "2026-03-03",
+    "credit": "来自X（Twitter）平台用户（页面图注署名“X.com”，具体账号未取得）",
+    "license": "未核实（社交媒体来源，使用须另行授权）",
+    "verified": false,
+    "note": "仅见于检索结果中的页面标题/图注，未能打开页面核实"
+   },
+   {
+    "file_page": "https://www.kyivpost.com/amp/post/76817",
+    "file_name": "",
+    "desc_cn": "俄方公布的“北极甲烷气”号受损照片（页面标题：Russia Releases Photos of ‘Arctic Metagaz’ Tanker Hit by Kyiv’s Mediterranean Drones in March）",
+    "date": "",
+    "credit": "俄方（具体机构待核）",
+    "license": "未核实",
+    "verified": false,
+    "note": "仅见于检索结果标题，具体图片与发布日期待核"
+   }
+  ],
+  "stats": {
+   "北极甲烷气号": "277米；船员30人（2人伤）；距利诺萨岛约30海里漂流（意大利海军）",
+   "肯迪尔号": "SBU称距乌克兰逾2,000公里，空载；卫星影像显示在距希腊与利比亚海岸约250公里处掉头（法新社）",
+   "前后相距": "约2.5个月"
+  },
+  "round": 1
+ },
+ {
+  "case_key": "bs_kiel_drones_2025_09_25",
+  "category": "周边港口",
+  "title_cn": "基尔造船厂与峡湾连夜遭无人机编队飞越",
+  "subtitle_cn": "2025年9月25日—26日，德国基尔（Kiel）：TKMS潜艇造船厂、基尔峡湾、基尔运河上空出现多组无人机，次日罗斯托克海军司令部附近再现（检索报道未提及基尔海军基地本身）",
+  "date_start": "2025-09-25",
+  "date_end": "2025-09-26",
+  "location_cn": "德国石勒苏益格-荷尔斯泰因州基尔（Kiel）及基尔峡湾、基尔运河（Nord-Ostsee-Kanal）；罗斯托克（Rostock）；坐标取基尔市中心，为近似值",
+  "lat": 54.32,
+  "lon": 10.14,
+  "region": "波罗的海-北海",
+  "attacker": "不明无人机操控方（来源、归属未公开；报道称有一说为飞行可能来自波罗的海上的船只，未证实）",
+  "defender": "德国石勒苏益格-荷尔斯泰因州警方与检察机关；TKMS（蒂森克虏伯海洋系统，Thyssenkrupp Marine Systems）；联邦国防军（检索结果未见其原始通报）",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "空中"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "多组不明无人机，规模与型号未公开。警方描述的形态是：基尔峡湾上空一组由一架较大无人机带领的编队；TKMS潜艇造船厂上空两架较小的无人机；各组沿平行航线飞行。检索结果未提供无人机总数、机型、飞行高度与滞空时间。",
+  "defense_means_cn": "检索所获报道仅见警方勘察、航线研判和检察机关立案调查；未见击落、干扰、捕获或确认操控者的记录。TKMS表示与当局保持密切联系。联邦国防军在基尔的反无人机措施未检索到公开记录。",
+  "narrative_cn": "2025年9月25日至26日前后，德国北部多地报告出现不明无人机。据Meduza、Marine Insight、World Ports及转载通讯社稿的美国电视台网站（2025年10月1日）综合，基尔一带被目击的目标包括电厂、大学医院、政府楼宇、军事场所，以及海德（Heide）炼油厂。其中涉及海军工业的是两架较小的无人机飞越TKMS基尔潜艇造船厂；TKMS发言人向《西德意志汇报》（WAZ）证实了飞越，称公司对无人机来源没有掌握情况，并与当局保持密切联系。基尔峡湾（Kiel Fjord）上空另有一组由较大无人机领飞的编队，航迹涉及基尔运河和州议会所在区域。警方研判，各组无人机沿平行航线飞行，目的很可能是对地面目标进行侦察或收集信息。石勒苏益格-荷尔斯泰因州内政部长确认当局正在调查是否存在间谍行动，首席检察官斯特凡妮·格罗普（Stephanie Gropp）称调查已启动。次日（9月26日），德国海军司令部所在的罗斯托克（Rostock）附近也出现无人机，梅克伦堡-前波莫瑞州桑尼茨（Sanitz）的一处军事基地上空同样被目击。有报道称，基尔的飞行可能来自波罗的海上的船只，此说未经证实；联邦内政部长亚历山大·多布林特（Alexander Dobrindt）表示，并非每一架受外国势力操控的无人机都自动构成威胁。需要说明的边界：所获报道均未提到基尔海军基地（Marinestützpunkt Kiel）本身，也没有德国国防部或海军的原始通报，因此本案按“基尔港区与造船厂”收录，不应表述为海军基地受到攻击。",
+  "defense_effect_cn": "从检索所得内容看，防御一方没有形成拦截或溯源：未见击落、干扰或抓获操控者的记录，TKMS坦承对来源没有掌握，警方只能依据航迹推断为侦察性质。被覆盖的目标跨度大，既有潜艇造船厂和基尔运河，也有电厂、医院、炼油厂和议会，说明飞行并非只针对单一军事点位，而是对港口工业与城市基础设施的成片覆盖。次日罗斯托克的海军司令部和桑尼茨军事基地的目击，意味着类似飞行不局限于基尔。暴露的问题是：民用与军工设施混杂的港城缺少统一的探测—处置链条，调查停留在“可能的间谍行动”这一层级。联邦国防军有无针对基尔海军基地的专门处置、是否有后续通报，未检索到公开记录。",
+  "claims_compare_cn": "TKMS：确认有无人机飞越造船厂，对来源无信息。警方：几组无人机沿平行航线飞行，推测为对地面目标的侦察。州内政部长：正在调查可能的间谍行动。联邦内政部长多布林特：并非每架外国势力操控的无人机都构成威胁。来源：有报道称可能来自波罗的海上的船只，未证实；所获资料中没有任何官方点名俄罗斯的表述。基尔海军基地是否被覆盖：报道均未提及（未检索到公开记录）。",
+  "losses_cn": "无人员伤亡与设施损坏报道。TKMS造船厂及其他被覆盖场所是否中断作业、经济损失：未检索到公开记录。",
+  "analysis_cn": "该案的特点不在“攻击”，而在“摸底”：多组无人机用平行航线、大机带小机的编队，在同一夜覆盖造船厂、运河、电厂、医院、议会和炼油厂；按警方研判，这是对地面目标的侦察，本文倾向认为也构成对地方警力反应能力的测试，但无证据显示操控者意图。港口与造船厂的防御难点是目标沿岸线分散、空域与民用设施交织，传统的海军基地围栏式防空覆盖不到。对潜艇建造、维修和停靠点这类高价值目标，探测端应与民用空管、警务系统并网，处置端需要法律授权明确的反无人机手段，而本案所获资料显示这两项都停留在调查层面。归因证据为零时，取证链条（频谱记录、残骸、回传位置）比事后推断更有价值。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Meduza",
+    "title": "Germany reports multiple drone groups spotted in northern regions, likely spying on infrastructure",
+    "title_cn": "德国报告北部多地发现无人机群，疑为侦察基础设施",
+    "author": "",
+    "date": "2025-10-01",
+    "url": "https://meduza.io/en/news/2025/10/01/germany-reports-multiple-drone-groups-spotted-in-northern-regions-likely-spying-on-infrastructure",
+    "type": "专业媒体",
+    "date_note": "标题据URL还原；日期据URL"
+   },
+   {
+    "publisher": "ClickOnDetroit (WDIV Local 4)",
+    "title": "Mystery drone sightings reported over critical infrastructure in northern Germany",
+    "title_cn": "德国北部关键基础设施上空出现神秘无人机",
+    "author": "",
+    "date": "2025-10-01",
+    "url": "https://www.clickondetroit.com/tech/2025/10/01/mystery-drone-sightings-reported-over-critical-infrastructure-in-northern-germany/",
+    "type": "其他",
+    "date_note": "转载通讯社稿，原通讯社名称检索结果未显示；标题据URL还原"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "Unusual Drone Activity Sighted Over Germany’s Critical Maritime Infrastructure",
+    "title_cn": "德国关键海事基础设施上空发现异常无人机活动",
+    "author": "",
+    "date": "",
+    "url": "https://www.marineinsight.com/unusual-drone-activity-sighted-over-germanys-critical-maritime-infrastructure/",
+    "type": "专业媒体",
+    "date_note": "发布日期未显示，约2025年10月初"
+   },
+   {
+    "publisher": "World Ports",
+    "title": "Mysterious Drone Sightings Raise Concerns Over Germany’s Key Maritime Assets",
+    "title_cn": "神秘无人机目击引发对德国关键海事资产的担忧",
+    "author": "",
+    "date": "",
+    "url": "https://www.worldports.org/?p=630559",
+    "type": "其他",
+    "date_note": "发布日期未显示，约2025年10月初"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "时间": "2025-09-25至26日前后（基尔）；次日（9月26日）罗斯托克海军司令部附近",
+   "基尔被目击场所": "电厂、大学医院、政府楼宇、军事场所、海德炼油厂、TKMS潜艇造船厂（两架较小无人机）、基尔峡湾与运河（一组大机领飞编队）",
+   "无人机数量": "未检索到公开记录",
+   "击落/抓获": "所检索资料未见",
+   "基尔海军基地": "报道未提及基尔海军基地本身"
+  },
+  "round": 2,
+  "image_categories": []
+ },
+ {
+  "case_key": "bs_gotland_bornholm_2024_2026",
+  "category": "岛屿防卫",
+  "title_cn": "哥特兰强化驻防，博恩霍尔姆GNSS干扰年年翻番",
+  "subtitle_cn": "2024年6月—2026年8月，波罗的海中部瑞典哥特兰岛（Gotland）与丹麦博恩霍尔姆岛（Bornholm）：GNSS干扰记录、“极光26”演习与岛屿防务投入（态势案例，非单一攻击事件）",
+  "date_start": "2024-06-13",
+  "date_end": "2026-08-10",
+  "location_cn": "瑞典哥特兰岛（Gotland，首府维斯比Visby）；丹麦博恩霍尔姆岛（Bornholm）；格但斯克—哥特兰之间海域；坐标取哥特兰岛，为近似值",
+  "lat": 57.47,
+  "lon": 18.49,
+  "region": "波罗的海-北海",
+  "attacker": "GNSS干扰源未能识别；专家与丹麦媒体怀疑来自俄罗斯，俄方否认",
+  "defender": "瑞典武装部队（哥特兰防务）；丹麦博恩霍尔姆测量站及丹麦当局；北约“极光26”（Aurora 26）参演部队",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "电磁",
+   "岸基"
+  ],
+  "patterns": [
+   "电磁/GNSS干扰",
+   "集群"
+  ],
+  "attack_means_cn": "GNSS（全球导航卫星系统）干扰与欺骗：博恩霍尔姆测量站记录到的干扰/欺骗事件，2024年11次、2025年16次、2026年截至8月10日的报道时已达30次；此前多数干扰不超过20分钟，7月29日格但斯克与哥特兰之间区域曾整日没有可用信号。干扰源位置、发射设备未公开。",
+  "defense_means_cn": "岛屿防御方面：瑞典举行“极光26”演习，自4月底起约18,000名军人（12个北约国家和乌克兰）在陆、海、空展开，想定含哥特兰因破坏而断电、缺粮。导航方面：船舶转用雷达、纸海图与目视航行，民航依靠惯性导航。另有聚合站转引Politico称瑞典已向哥特兰防务投入逾2亿欧元、重启防空并部署CV90步兵战车与豹2坦克，2028年起接收IRIS-T中程防空系统（原文未取得，待核）。",
+  "narrative_cn": "本条是岛屿防御态势案例，所获公开资料以哥特兰岛和博恩霍尔姆岛周边的电磁环境与大规模演习为主，没有检索到针对这两座岛屿的动能攻击或经证实的无人机闯入。电磁方面：丹麦媒体ing.dk在2024年6月13日刊出《博恩霍尔姆上空GPS信号遭强力干扰》一文（仅取得标题与时间戳）。《乌克兰真理报》和《欧洲真理报》2026年8月10日援引丹麦方面消息称，博恩霍尔姆测量站2026年已记录30次干扰与欺骗事件，对比2025年全年16次、2024年11次；干扰持续时间在变长，此前多数不超过20分钟，而7月29日格但斯克与哥特兰之间区域整日没有足够的信号。该测量站无法判定干扰源，专家倾向认为来自俄罗斯；据法国媒体La Nouvelle Tribune转述，普京称有关指控毫无根据。防御态势方面：瑞士bluewin网站报道，“极光26”演习自4月底起在瑞典展开，来自12个北约国家和乌克兰的约18,000名军人参加，想定包括哥特兰因破坏而出现停电与缺粮，乌克兰方面为参演部队讲授无人机战术；瑞典武装部队司令米夏埃尔·克拉松（Michael Claesson）称，控制哥特兰就控制了波罗的海中部。瑞典议会2025/26年度会期另有一份议员个人动议（第2475号）要求政府研究进一步加强哥特兰军事与民防，并列举俄方对波罗的海地区领空、领海的侵犯。聚合页另有德国与瑞典部队演练保卫哥特兰、向岛上转运防空系统的说法，日期与细节待核。博恩霍尔姆的丹麦驻军规模、该岛无人机闯入记录、奥兰群岛相关事件，本次检索均未取得公开记录。",
+  "defense_effect_cn": "电磁一侧，防御方只有“监测并记录”的能力：测量站能统计次数和时长，却无法定位干扰源，干扰次数逐年上升、时长拉长且覆盖格但斯克至哥特兰整片海域，说明现有手段对威慑没有显示出效果。对民用航行影响有限，船舶与民航有替代手段；对依赖GNSS的无人机、精确制导弹药和舰艇导航则是实质性脆弱点，岛屿防御中的反无人机与防空链条同样受影响。兵力一侧，“极光26”以大规模演练验证岛屿增援与基础设施受破坏想定，但属于演习，不是实战检验；瑞典对哥特兰防务投入、IRIS-T于2028年才交付等信息来自二手转述，不能据此判断当前防空覆盖水平。",
+  "claims_compare_cn": "丹麦测量站数据（经乌克兰媒体转述）：2026年30次，2025年16次，2024年11次；干扰源无法识别，专家怀疑俄罗斯。俄方：否认（据法国媒体转述，普京称指控毫无根据）。瑞典：司令克拉松强调哥特兰的战略地位；“逾2亿欧元”等投入数字仅见于聚合站转引Politico，未取得原文。三类来源均为二手转述，尚无丹麦或瑞典官方机构的原始统计表。",
+  "losses_cn": "无人员伤亡与设施损坏报道。GNSS干扰造成的航运延误、航班调整的量化损失未检索到公开记录。",
+  "analysis_cn": "哥特兰和博恩霍尔姆是波罗的海中部的“航母式”岛屿：谁能在岛上部署防空和反舰火力，谁就能覆盖进出波罗的海东部的航道。对这类岛屿的压力首先出现在电磁域——成本低、可否认、不过线——干扰次数逐年翻番即是例证。防御侧的启示有两条：一是监测要从“数次数”走向“测向定位”，多站交叉定位才能把灰色地带行为变成可追责证据；二是岛屿防空、反无人机和导航必须按GNSS拒止的条件设计，演习想定也应包含断电、通信和导航同时失效。至于增兵与新防空系统的实际到位时间，现有公开信息不足以下判断。",
+  "confidence": "C",
+  "sources": [
+   {
+    "publisher": "Ukrainska Pravda（乌克兰真理报）",
+    "title": "Denmark records GPS disruptions at record levels: Russia suspected",
+    "title_cn": "丹麦记录到创纪录的GPS干扰，怀疑俄罗斯所为",
+    "author": "",
+    "date": "2026-08-10",
+    "url": "https://pravda.com.ua/eng/news/2026/08/10/8048052",
+    "type": "专业媒体",
+    "date_note": "日期据URL；标题据检索结果"
+   },
+   {
+    "publisher": "Evropeiska Pravda（欧洲真理报）",
+    "title": "Denmark records GPS disruptions at record levels near island of Bornholm",
+    "title_cn": "丹麦在博恩霍尔姆岛附近记录到创纪录的GPS干扰",
+    "author": "",
+    "date": "2026-08-10",
+    "url": "https://www.eurointegration.com.ua/eng/news/2026/08/10/7243248/",
+    "type": "专业媒体",
+    "date_note": "日期据URL；标题据检索结果"
+   },
+   {
+    "publisher": "Ingeniøren (ing.dk)",
+    "title": "GPS-signaler over Bornholm udsat for kraftig jamming",
+    "title_cn": "博恩霍尔姆上空GPS信号遭强力干扰",
+    "author": "",
+    "date": "2024-06-13",
+    "url": "https://ing.dk/note/gps-signaler-over-bornholm-udsat-kraftig-jamming",
+    "type": "专业媒体",
+    "date_note": "检索结果显示页面时间戳为“13. juni 2024 kl. 09:19”；标题据URL还原，正文未取得"
+   },
+   {
+    "publisher": "bluewin.ch",
+    "title": "Aurora 26: Major NATO maneuvers on the Baltic Sea - and the Ukrainians are giving drone lessons",
+    "title_cn": "“极光26”：北约在波罗的海举行大规模演习，乌克兰人传授无人机战术",
+    "author": "",
+    "date": "",
+    "url": "https://www.bluewin.ch/en/news/international/large-scale-nato-maneuvers-on-the-baltic-sea-and-the-ukrainians-give-drone-lessons-3233168.html",
+    "type": "专业媒体",
+    "date_note": "发布日期未显示，检索摘要称演习自4月底起，约2026年5月；标题据检索结果"
+   },
+   {
+    "publisher": "La Nouvelle Tribune",
+    "title": "GPS : la Russie soupçonnée de multiplier les brouillages au Danemark",
+    "title_cn": "GPS：俄罗斯被怀疑在丹麦增加干扰",
+    "author": "",
+    "date": "2026-08",
+    "url": "https://lanouvelletribune.info/2026/08/gps-la-russie-soupconnee-de-multiplier-les-brouillages-pres-de-bornholm/",
+    "type": "其他",
+    "date_note": "仅月份据URL；“普京称指控毫无根据”仅据检索摘要转述，待核"
+   },
+   {
+    "publisher": "Sveriges riksdag（瑞典议会）",
+    "title": "Motion till riksdagen（2025/26年度会期，第2475号，议员个人动议）",
+    "title_cn": "致议会的动议",
+    "author": "",
+    "date": "",
+    "url": "https://data.riksdagen.se/dokument/HD022475.html",
+    "type": "官方",
+    "date_note": "议员个人动议，不是政府决定；发布日期未显示"
+   },
+   {
+    "publisher": "Ground News（聚合站，仅作线索）",
+    "title": "German units reinforce Gotland in NATO operation",
+    "title_cn": "德国部队在北约行动中增援哥特兰",
+    "author": "",
+    "date": "",
+    "url": "https://ground.news/article/german-units-reinforce-gotland-in-nato-operation",
+    "type": "其他",
+    "date_note": "聚合页，日期未显示，仅作线索，待核"
+   },
+   {
+    "publisher": "Telegram聚合页（仅作线索）",
+    "title": "Source-attributed Telegram item",
+    "title_cn": "带来源标注的Telegram条目（据称转引Politico的哥特兰投入数字）",
+    "author": "",
+    "date": "",
+    "url": "https://news.jeremywhittaker.com/item/tabzlive-86048/",
+    "type": "其他",
+    "date_note": "聚合站，不得单独作为依据；逾2亿欧元、IRIS-T等数字待核"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "博恩霍尔姆测量站GNSS干扰/欺骗次数": "2024年11次；2025年16次；2026年30次（截至2026-08-10报道）",
+   "最长干扰": "2026-07-29格但斯克—哥特兰之间区域整日无足够信号",
+   "极光26": "约18,000人，12个北约国家+乌克兰，4月底起（bluewin）",
+   "哥特兰防务投入": "逾2亿欧元（聚合站转引Politico，待核）",
+   "IRIS-T": "2028年起交付（同上，待核）",
+   "博恩霍尔姆驻军规模": "未检索到公开记录"
+  },
+  "round": 2,
+  "image_categories": [
+   {
+    "category_page": "https://commons.wikimedia.org/wiki/Category:2026_drone_incursions_into_the_Baltic_states_and_Finland",
+    "desc_cn": "Commons“2026年无人机闯入波罗的海三国与芬兰”分类页（区域相关背景，非哥特兰/博恩霍尔姆现场）",
+    "verified": true,
+    "info_source": "Wikimedia Commons检索结果（2026-10-09，WebSearch限定commons.wikimedia.org）"
+   }
+  ]
+ },
+ {
+  "case_key": "io_abdullah_2024_03_12",
+  "category": "远海机动编组",
+  "title_cn": "孟加拉煤船远洋被劫33天，付赎金后获释",
+  "subtitle_cn": "2024年3月12日—4月14日，索马里以东印度洋：孟加拉国籍散货船“阿卜杜拉”号（MV Abdullah）被索马里海盗劫持，约500万美元赎金后获释",
+  "date_start": "2024-03-12",
+  "date_end": "2024-04-14",
+  "location_cn": "莫加迪沙（Mogadishu）以东约550—600海里印度洋海域；坐标据“莫加迪沙以东约600海里”粗略推算，非官方坐标",
+  "lat": 2.0,
+  "lon": 55.3,
+  "region": "阿拉伯海-印度洋",
+  "attacker": "索马里海盗（约15—20名武装人员）",
+  "defender": "“阿卜杜拉”号（孟加拉国船旗）及23名船员；船东KSRM集团（航运部门SR Shipping）；未见海军强攻解救",
+  "outcome": "遭偷袭受损",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "单平台",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "约15—20名武装海盗登船劫持。登船方式、使用的小艇与武器型号，检索结果均未说明（未检索到公开记录）。",
+  "defense_means_cn": "无有效现场防御：船员23人被扣，未见海军拦截或登船行动。获释后该船在两艘军舰护送下抵达阿联酋（舰名、国籍检索结果未显示）。船东与海盗直接谈判，最终支付赎金。",
+  "narrative_cn": "2024年3月12日，孟加拉国籍散货船“阿卜杜拉”号（MV Abdullah）在从莫桑比克驶往阿联酋途中，于莫加迪沙以东约600海里（另有报道称约550海里）的印度洋海域被索马里海盗劫持，船上载有约5.5万吨煤炭，23名船员被扣。劫持者约15至20人，持枪。船东为KSRM集团，其航运部门为SR Shipping。约九天后，海盗联系船东索要赎金。4月14日凌晨，该船与23名船员获释。两名海盗向媒体表示，船东支付了500万美元赎金；海盗阿卜迪拉希德·优素福（Abdirashiid Yusuf）称，钱款在释放前两个晚上送到，他们当场验钞辨别真伪。赎金交付方式在报道中说法不一：一说钞票包从飞机上空投入海，由海盗从水中捞取；另一说从直升机投下。SR Shipping的米扎努尔·伊斯兰（Mizanul Islam）确认船和船员已获释，称“与海盗达成了协议”，船员平安，但未确认赎金数额。该船随后在两艘军舰护送下抵达阿联酋。索马里政府官员未回应媒体的置评请求。背景方面，该案紧随2023年12月“鲁恩”号（MV Ruen）被劫（索马里海盗2017年以来首次成功劫船），而印度海军在3月14日—17日夺回“鲁恩”号（见io_ruen_2024_03_16）；分析人士把海盗回潮与海军力量转向红海应对胡塞袭击联系起来。",
+  "defense_effect_cn": "该案防御侧表现为“事后赎回”：现场没有拦截，劫持后约33天靠谈判解决，海军行动没有出现在检索到的报道中。同一周印度海军以“加尔各答”号驱逐舰、特战队和空中平台夺回“鲁恩”号，对比之下，“阿卜杜拉”号走的是支付赎金路线。可以确认的是：作案位置在索马里以东约600海里，远离沿岸巡逻圈；船舶走莫桑比克—阿联酋航线，途经西印度洋开阔水域。是否存在预警、船员是否进入安全屋（citadel）、劫持后有哪国海军接近该船，本次检索未取得公开记录。",
+  "claims_compare_cn": "海盗：500万美元赎金，钱款释放前两晚送到，已验钞。船东（SR Shipping）：确认获释和船员平安，称“与海盗达成了协议”，不确认金额。赎金交付方式：飞机空投入海与直升机投放两种说法并存。劫持位置：莫加迪沙以东约600海里与约550海里两种口径。索马里政府：未回应置评。海军介入情况：除“两艘军舰护送抵达阿联酋”外，未检索到公开记录。",
+  "losses_cn": "赎金约500万美元（海盗口径，船东未确认）；23名船员被扣约33天，均安全（船东口径）；船货约5.5万吨煤炭，货损情况未检索到公开记录。",
+  "analysis_cn": "同一时期的两起劫船给出了两种处置模板：印度海军用持续监视、舰载与空投特战力量夺船，代价是占用多型平台；“阿卜杜拉”号靠赎金解决，代价是500万美元和对海盗模式的正反馈。对远海机动单舰而言，商船本身没有防护手段，位于离岸数百海里时，预警和护航成为唯一变量，而分析人士把2024年初的海盗回潮与海军巡逻力量转向红海联系起来。该案没有军事对抗，仍具参考价值：远海非对称威胁的成本曲线极低（十几个人、小艇、轻武器），而防御成本以舰艇、飞机和数周的持续监视计。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "The Citizen (Tanzania)",
+    "title": "Somali pirates say hijacked ship MV Abdullah released after payment of $5 million ransom",
+    "title_cn": "索马里海盗称被劫“阿卜杜拉”号在支付500万美元赎金后获释",
+    "author": "",
+    "date": "",
+    "url": "https://thecitizen.co.tz/tanzania/news/africa/somali-pirates-say-hijacked-ship-mv-abdullah-released-after-payment-of-5-million-ransom--4590178",
+    "type": "其他",
+    "date_note": "转载通讯社稿，日期未显示，约2024年4月14—15日"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "Somali Pirates Release Hijacked Ship MV Abdullah And Crew After Receiving $5 Million Ransom",
+    "title_cn": "索马里海盗在收到500万美元赎金后释放“阿卜杜拉”号及船员",
+    "author": "",
+    "date": "",
+    "url": "https://www.marineinsight.com/?p=1840605",
+    "type": "专业媒体",
+    "date_note": "日期未显示，约2024年4月中旬"
+   },
+   {
+    "publisher": "CNBC Africa",
+    "title": "Somali pirates say they hijacked ship MV Abdullah released after $5 million ransom was paid",
+    "title_cn": "索马里海盗称“阿卜杜拉”号在500万美元赎金支付后获释",
+    "author": "",
+    "date": "",
+    "url": "https://cnbcafrica.com/wire/616837",
+    "type": "其他",
+    "date_note": "通讯社转发页，日期未显示，约2024年4月中旬"
+   },
+   {
+    "publisher": "The Daily Prothom Alo",
+    "title": "MV Abdullah, crew released after $5m ransom paid, Somali pirates say",
+    "title_cn": "索马里海盗称“阿卜杜拉”号及船员在支付500万美元赎金后获释",
+    "author": "",
+    "date": "",
+    "url": "https://en.prothomalo.com/bangladesh/bangladesh-in-world-media/v76qtx0xz5",
+    "type": "专业媒体",
+    "date_note": "日期未显示，约2024年4月中旬"
+   },
+   {
+    "publisher": "The Daily Prothom Alo",
+    "title": "Sailors of MV Abdullah freed from Somali pirates",
+    "title_cn": "“阿卜杜拉”号船员脱离索马里海盗",
+    "author": "",
+    "date": "",
+    "url": "https://en.prothomalo.com/bangladesh/9ck1106fjp",
+    "type": "专业媒体",
+    "date_note": "日期未显示，约2024年4月14日前后"
+   },
+   {
+    "publisher": "The Daily Prothom Alo",
+    "title": "How Somali pirates received ransom, freed MV Abdullah",
+    "title_cn": "索马里海盗如何收到赎金并释放“阿卜杜拉”号",
+    "author": "",
+    "date": "",
+    "url": "https://en.prothomalo.com/bangladesh/1gvqcn84vi",
+    "type": "专业媒体",
+    "date_note": "日期未显示，约2024年4月中旬"
+   },
+   {
+    "publisher": "South China Morning Post",
+    "title": "Somali pirates say hijacked Bangladesh-flagged ship released after payment of US$5 million ransom",
+    "title_cn": "索马里海盗称被劫孟加拉国籍船舶在支付500万美元赎金后获释",
+    "author": "",
+    "date": "2024-04-15",
+    "url": "https://scmp.com/news/world/africa/article/3258969/somali-pirates-say-hijacked-bangladesh-flagged-ship-released-after-payment-us5-million-ransom",
+    "type": "专业媒体",
+    "date_note": "日期据同一稿件的PressReader版本URL（20240415）"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "载货": "约5.5万吨煤炭（莫桑比克至阿联酋）",
+   "船员": "23人，全部获释",
+   "劫持者": "15—20人，武装",
+   "劫持位置": "莫加迪沙以东约600海里（另有约550海里口径）",
+   "被扣时长": "2024-03-12至04-14，约33天",
+   "赎金": "500万美元（海盗口径，船东未确认）"
+  },
+  "round": 2,
+  "image_categories": []
+ },
+ {
+  "case_key": "sd_port_sudan_2025_05_04",
+  "category": "周边港口",
+  "title_cn": "无人机连日轰炸苏丹港，油库起火、港口停摆",
+  "subtitle_cn": "2025年5月4日—9日，红海沿岸苏丹港（Port Sudan）：无人机连日打击油库、弗拉明戈海军基地、奥斯曼·迪格纳机场与电站，苏丹军方称系快速支援部队（RSF）所为",
+  "date_start": "2025-05-04",
+  "date_end": "2025-05-09",
+  "location_cn": "苏丹红海州苏丹港（Port Sudan）及港区油库、弗拉明戈海军基地（Flamingo）、奥斯曼·迪格纳空军基地/机场（Osman Digna）；坐标取苏丹港，为近似值",
+  "lat": 19.6,
+  "lon": 37.22,
+  "region": "红海-亚丁湾",
+  "attacker": "苏丹武装部队（SAF）称为快速支援部队（RSF）；RSF未声称负责；苏丹方面另指控阿联酋参与，阿联酋否认",
+  "defender": "苏丹武装部队（SAF）防空部队；港口当局；联合国人道主义航班（受影响方）",
+  "outcome": "被攻击受损",
+  "domains": [
+   "空中",
+   "岸基"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "无人机多批次、连续多日打击。已知被打击目标：港口南部的油库与油罐区、弗拉明戈海军基地（SAF声称有无人机被拦截）、奥斯曼·迪格纳空军基地的弹药库、机场民用区、变电/电站设施，以及一处靠近陆军总司令布尔汉住所的大型酒店。无人机型号、数量、发射地点，检索结果均未提供（未检索到公开记录）。",
+  "defense_means_cn": "SAF防空系统：5月7日称拦截了攻击弗拉明戈海军基地的无人机，AP5月8日稿称军方称拦截了无人机。拦截数量、所用武器（高炮、导弹或电子干扰）未检索到公开记录。其他措施：港口空中与海上交通临时暂停；联合国暂停进出苏丹港的人道主义航班。",
+  "narrative_cn": "2025年5月4日（周日），苏丹港遭无人机打击，此后连续数日。据Daily Maverick（5月6日）、Malay Mail与AP稿（5月7日、8日）、Jordan Times及Dabanga综合：报道称第三架无人机击中港口南部、人口稠密的市中心附近的油库；5月6日路透社卫星图像显示苏丹港一处油料储存区冒出浓烟，油库火势持续至少两天，有报道称被毁的是苏丹最大的油库。弗拉明戈海军基地被多次瞄准，5月7日苏丹军方称防空系统拦截了攻击该基地的无人机，路透社称当时不清楚爆炸是否发生在基地附近。其他受袭目标包括奥斯曼·迪格纳空军基地的弹药库、城南油罐、一座变电设施，以及机场民用区；另有报道称一家靠近布尔汉（Abdel Fattah al-Burhan）住所的大酒店被击中。苏丹港的空中与海上交通因此暂停，联合国停飞往返该市的人道航班。军方5月9日称已连续第六天应对RSF的无人机攻击。归因方面：军方指向RSF，RSF在这些报道发表时未声称负责；苏丹常驻联合国大使称5月4日的打击使用的战机和无人机来自红海沿岸的阿联酋基地，阿联酋发表声明否认并谴责袭击。伤亡与损毁数字在早期报道中出入较大，未检索到可靠汇总。",
+  "defense_effect_cn": "防御效果有限且不均：军方只明确声称5月7日拦截了攻击海军基地的无人机，而油库、机场和电站等设施均有被击中的报道，说明对港口纵深目标的防空覆盖存在缺口。Dabanga转述苏丹媒体论坛观点称，RSF无人机打击暴露了SAF的防御薄弱。后果在于连锁效应：燃油储备被毁后出现燃料短缺，民众恐慌，空中与海上交通中断，联合国暂停人道航班。该港被报道称是SAF的事实首都（de facto capital），Daily Maverick的标题还强调了“援助运送面临风险”。无人机来源、飞行路径和被拦截数量，本次检索没有可靠数据。",
+  "claims_compare_cn": "苏丹军方：RSF无人机连续六天袭击苏丹港（至5月9日）；5月7日拦截攻击海军基地的无人机。RSF：在所引报道发表时未声称负责。苏丹常驻联合国大使：5月4日打击来自阿联酋在红海的基地。阿联酋：否认，并谴责袭击。路透社：不清楚爆炸是否在弗拉明戈基地附近。伤亡与损失数字：报道口径不一，未见独立汇总；无人机型号与数量均未检索到。",
+  "losses_cn": "油库与油罐区被毁、起火，火势持续至少两天，有报道称被毁的是全国最大油库；奥斯曼·迪格纳空军基地弹药库被击；机场民用区、一处变电设施和一家酒店受损；苏丹港空运与海运临时中断，联合国人道航班暂停。人员伤亡与经济损失数字，本次未检索到可靠口径。",
+  "analysis_cn": "该案的特点是以低成本无人机对一座“后方”港口实施多日、多目标的纵深打击：油库（能源）、海军基地（海上力量）、机场（空运）、电站（城市）与指挥人员住所同时在目标清单上。受益的不是毁伤数量，而是连锁效应——油库一旦起火，港口、机场和城市供电都受牵连。防御侧的暴露点在于一线防空集中于军事点位，对油库等高价值民用—军用混合目标缺少层层拦截，也缺少对无人机来源的取证。港口防御的经验是，能源储备应分散布置、与港区作业区保持安全间距，并提前准备油库灭火和断电后的备用供电。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Daily Maverick",
+    "title": "Drone strikes pound Port Sudan, putting aid deliveries at risk",
+    "title_cn": "无人机轰炸苏丹港，援助运送面临风险",
+    "author": "",
+    "date": "2025-05-06",
+    "url": "https://www.dailymaverick.co.za/article/2025-05-06-drone-strikes-pound-port-sudan-putting-aid-deliveries-at-risk/",
+    "type": "专业媒体",
+    "date_note": "日期、标题据URL"
+   },
+   {
+    "publisher": "Malay Mail",
+    "title": "Explosions rock Port Sudan, army says it intercepted drones",
+    "title_cn": "苏丹港爆炸声不断，军方称已拦截无人机",
+    "author": "",
+    "date": "2025-05-07",
+    "url": "https://malaymail.com/news/world/2025/05/07/explosions-rock-port-sudan-army-says-it-intercepted-drones/175930",
+    "type": "其他",
+    "date_note": "转载通讯社稿；日期据URL"
+   },
+   {
+    "publisher": "Hawaii Tribune-Herald（转载AP）",
+    "title": "More explosions rock Port Sudan, army says it intercepted drones",
+    "title_cn": "苏丹港再次爆炸，军方称拦截无人机",
+    "author": "",
+    "date": "2025-05-08",
+    "url": "https://www.hawaiitribune-herald.com/2025/05/08/nation-world-news/more-explosions-rock-port-sudan-army-says-it-intercepted-drones/amp/",
+    "type": "通讯社",
+    "date_note": "日期据URL；通讯社名称（AP）检索结果未显示，待核"
+   },
+   {
+    "publisher": "Deccan Herald",
+    "title": "Explosions rock Port Sudan, army says it intercepted drones",
+    "title_cn": "苏丹港爆炸声不断，军方称拦截无人机",
+    "author": "",
+    "date": "",
+    "url": "https://www.deccanherald.com/amp/story/world%2Fexplosions-rock-port-sudan-army-says-it-intercepted-drones-3528792",
+    "type": "其他",
+    "date_note": "转载通讯社稿，日期未显示，约2025年5月7日"
+   },
+   {
+    "publisher": "Jordan Times",
+    "title": "Drone strikes rock Port Sudan for third day of attacks",
+    "title_cn": "苏丹港遭无人机袭击进入第三天",
+    "author": "",
+    "date": "",
+    "url": "https://www.jordantimes.com/news/region/drone-strikes-rock-port-sudan-third-day-attacks",
+    "type": "其他",
+    "date_note": "标题据URL还原，日期未显示，约2025年5月6日"
+   },
+   {
+    "publisher": "The EastAfrican",
+    "title": "Sudan accuses UAE of May 4 drone attacks on Port Sudan",
+    "title_cn": "苏丹指控阿联酋策划5月4日对苏丹港的无人机袭击",
+    "author": "",
+    "date": "",
+    "url": "https://theeastafrican.co.ke/tea/news/north-africa/sudan-accuses-uae-of-may-4-drone-attacks-on-port-sudan-5049734",
+    "type": "专业媒体",
+    "date_note": "日期未显示，约2025年5月"
+   },
+   {
+    "publisher": "Dabanga Sudan",
+    "title": "Fuel crisis and civilian fears mount as drones continue to strike eastern Sudan",
+    "title_cn": "燃料危机与平民恐惧加剧，无人机继续袭击苏丹东部",
+    "author": "",
+    "date": "",
+    "url": "https://www.dabangasudan.org/en/all-news/article/fuel-crisis-and-civilian-fears-mount-as-drones-continue-to-strike-eastern-sudan",
+    "type": "专业媒体",
+    "date_note": "日期未显示，约2025年5月"
+   },
+   {
+    "publisher": "Dabanga Sudan",
+    "title": "Sudan Media Forum: ‘RSF drone strikes on Port Sudan expose SAF defences’",
+    "title_cn": "苏丹媒体论坛：RSF无人机打击苏丹港暴露了SAF防御",
+    "author": "",
+    "date": "",
+    "url": "https://www.dabangasudan.org/en?p=20117523",
+    "type": "专业媒体",
+    "date_note": "日期未显示，约2025年5月"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "持续时间": "2025-05-04起，军方称5月9日为连续第六天",
+   "主要受击目标": "油库/油罐区、弗拉明戈海军基地、奥斯曼·迪格纳空军基地弹药库、机场民用区、变电设施、一处酒店",
+   "卫星图像": "路透社，2025-05-06，油库冒烟",
+   "拦截声明": "SAF称2025-05-07拦截攻击海军基地的无人机；数量未公布",
+   "无人机数量/型号": "未检索到公开记录",
+   "伤亡": "未检索到可靠汇总"
+  },
+  "round": 2,
+  "image_categories": []
+ },
+ {
+  "case_key": "bs_charles_de_gaulle_drone_2026_02_25",
+  "category": "远海机动编组",
+  "title_cn": "瑞典电子干扰压制疑似俄无人机，法国航母未受影响",
+  "subtitle_cn": "2026年2月25日，瑞典马尔默（Malmö）附近厄勒海峡（Öresund）：瑞典海军巡逻舰发现自俄罗斯电子侦察船起飞的无人机，以电子对抗压制，法国航母“戴高乐”号（Charles de Gaulle）访问期间",
+  "date_start": "2026-02-25",
+  "date_end": "2026-02-27",
+  "location_cn": "瑞典马尔默（Malmö）外厄勒海峡（Öresund）；坐标为马尔默外海近似值",
+  "lat": 55.62,
+  "lon": 12.95,
+  "region": "波罗的海-北海",
+  "attacker": "疑似俄罗斯无人机，据瑞典武装部队称自俄罗斯电子侦察船“日古列夫斯克”号（Zhigulevsk）起飞；俄方否认",
+  "defender": "瑞典海军（巡逻舰）与电子对抗人员；法国海军“戴高乐”号航母及其编组",
+  "outcome": "防御成功",
+  "domains": [
+   "空中",
+   "电磁"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "一架疑似俄罗斯无人机，自俄罗斯“日古列夫斯克”号电子侦察船起飞后接近“戴高乐”号航母；机型、任务载荷未公开。法方发言人称无人机在距航母约10公里处被发现，另有报道称约13公里（约7海里）。",
+  "defense_means_cn": "瑞典海军一艘巡逻舰在例行巡逻中发现无人机，随后瑞典方面启用电子对抗手段，压制其控制链路。所用设备型号、是否缴获无人机、是否有动能拦截，检索结果均未说明。",
+  "narrative_cn": "2026年2月，法国航母“戴高乐”号（Charles de Gaulle）在瑞典访问，参与与波罗的海哨兵行动（Baltic Sentry）相关的北约演练，停靠于马尔默附近。2月25日（周三；个别报道称26日），瑞典海军一艘巡逻舰在厄勒海峡发现一架无人机，该机自附近的俄罗斯军用船舶起飞并向航母接近。瑞典方面随即启用电子对抗，压制无人机的控制系统。瑞典国防部长帕尔·琼森（Pål Jonson）最初表示无人机“很可能”来自俄罗斯，因为附近有一艘俄军船只；2月27日瑞典武装部队进一步确认，无人机自俄罗斯电子侦察船“日古列夫斯克”号起飞。距离说法不一：法国发言人对AP称在距航母10公里处发现，其他报道称约13公里（约7海里）。法方称干扰未影响舰上作业。克里姆林宫发言人佩斯科夫（Dmitry Peskov）称瑞典的说法“荒谬”，未提供更多说明；法国外长让-诺埃尔·巴罗（Jean-Noël Barrot）称此事为“可笑的挑衅”。瑞典首相乌尔夫·克里斯特松（Ulf Kristersson）与琼森于2月27日登舰访问。瑞典当局另在调查该事件是否违反《通行条例》（Access Ordinance）。无人机是否被缴获、残骸分析、电子对抗装备型号，均未检索到公开记录。",
+  "defense_effect_cn": "防御结果是“不对称成功”：以电子对抗而非弹药压制了无人机，法方称航母作业未受影响；这样处理成本低、无碎片落入城区，也不会升级为动能交火。可检验的指标有限：从起飞到被发现的距离为10—13公里，对大型舰艇是较近的距离，报道中发现者是瑞典海军巡逻舰，未见航母自身或岸基预警的说明，具体探测手段检索结果也未说明。暴露的问题：目标舰在近岸港口区域，民用船只、渔船和军用侦察船交错，识别“友敌”和责任主体的时间窗口很短；无人机若换成携带爆炸物的机型，电子对抗未必足够。无人机是否被缴获、所用频段，未检索到公开记录。",
+  "claims_compare_cn": "瑞典国防部长琼森：初称“很可能”是俄罗斯，因附近有俄军船；瑞典武装部队2月27日：确认无人机自“日古列夫斯克”号起飞。克里姆林宫（佩斯科夫）：说法“荒谬”，未提证据。法国外长巴罗：“可笑的挑衅”。法方：干扰未影响航母作业，无人机在距航母10公里处被发现；其他报道称约13公里（约7海里）。日期：2月25日与26日并存。俄方对“日古列夫斯克”号位置与任务的说明：未检索到公开记录。",
+  "losses_cn": "无人员伤亡与舰艇受损报道；法方称航母作业未受干扰。无人机损失情况未检索到公开记录。",
+  "analysis_cn": "按瑞方说法，该案是电子侦察船放飞无人机贴近高价值舰艇：成本很低，责任事后仍可被否认，若不被发现，可能的收益是航母到港期间的电磁和影像情报。防御侧的有效做法是用巡逻舰探测加电子对抗，及时、非动能、无附带伤害；不足在于这依赖一次例行巡逻的碰巧发现，目标舰访港期间的专用反无人机警戒圈（探测—识别—处置）没有公开描述。对停靠港口或锚地的编队，可借鉴的是预设无人机进入走廊的划设、与民用雷达的联网，以及在法律上明确谁有权在领海内实施干扰。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "USNI News",
+    "title": "Swedish Forces Jam Suspected Russian Drone Near French Carrier Charles De Gaulle",
+    "title_cn": "瑞典部队在法国航母“戴高乐”号附近干扰疑似俄罗斯无人机",
+    "author": "",
+    "date": "2026-02-27",
+    "url": "https://news.usni.org/2026/02/27/swedish-forces-jam-suspected-russian-drone-near-french-carrier-charles-de-gaulle",
+    "type": "专业媒体",
+    "date_note": "日期据URL"
+   },
+   {
+    "publisher": "Kyiv Post",
+    "title": "Drone Jammed Near French Aircraft Carrier in Swedish Waters ‘Probably’ Russian, Minister Says",
+    "title_cn": "瑞典水域法国航母附近被干扰的无人机“很可能”来自俄罗斯，部长称",
+    "author": "",
+    "date": "2026-02-26",
+    "url": "https://www.kyivpost.com/post/70851",
+    "type": "专业媒体",
+    "date_note": "页面注明已于基辅时间2月26日22:05更新瑞典国防部长表态"
+   },
+   {
+    "publisher": "UK Defence Journal",
+    "title": "Russia caught launching drones at French aircraft carrier",
+    "title_cn": "俄罗斯被指向法国航母放飞无人机",
+    "author": "",
+    "date": "",
+    "url": "https://ukdefencejournal.org.uk/russia-caught-launching-drones-at-french-aircraft-carrier/",
+    "type": "专业媒体",
+    "date_note": "标题据URL还原，日期未显示，约2026年2月下旬"
+   },
+   {
+    "publisher": "Fox News",
+    "title": "Sweden jams suspected Russian drone near French carrier, NATO war fears rise",
+    "title_cn": "瑞典干扰法国航母附近疑似俄罗斯无人机，北约战争担忧上升",
+    "author": "",
+    "date": "",
+    "url": "https://www.foxnews.com/world/sweden-jams-suspected-russian-drone-near-french-carrier-nato-war-fears-rise.print",
+    "type": "专业媒体",
+    "date_note": "标题据URL还原，日期未显示，约2026年2月下旬"
+   },
+   {
+    "publisher": "Ground News（聚合页，仅作线索）",
+    "title": "Sweden intercepts suspected Russian drone during visit by French aircraft carrier",
+    "title_cn": "瑞典在法国航母访问期间拦截疑似俄罗斯无人机",
+    "author": "",
+    "date": "",
+    "url": "https://ground.news/article/russia-suspected-in-unauthorized-drone-flight-near-french-navy-flagship",
+    "type": "其他",
+    "date_note": "聚合页，仅作线索"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "无人机发现距离": "法方称约10公里；其他报道约13公里（约7海里）",
+   "发射平台": "俄罗斯“日古列夫斯克”号电子侦察船（瑞典武装部队，2026-02-27）",
+   "处置方式": "电子对抗（干扰控制链路）",
+   "对航母作业影响": "法方称无影响",
+   "瑞典高层登舰": "2026-02-27，首相克里斯特松与国防部长琼森"
+  },
+  "round": 2,
+  "image_categories": []
+ },
+ {
+  "case_key": "ca_cuba_fuel_interdiction_2026_02_2026_09",
+  "category": "远海机动编组",
+  "title_cn": "海岸警卫队堵截古巴运油船，燃料封锁“事实成形”",
+  "subtitle_cn": "2026年2月—9月，加勒比海与墨西哥湾口：委内瑞拉政权更迭后，美国海岸警卫队拦截驶往古巴的运油船与货船（含“Ocean Mariner”号改航、“Grace”号被扣）",
+  "date_start": "2026-02-01",
+  "date_end": "2026-09-05",
+  "location_cn": "加勒比海古巴周边及古巴—墨西哥之间海域；坐标取古巴与尤卡坦海峡之间海域，为近似值",
+  "lat": 21.5,
+  "lon": -85.5,
+  "region": "加勒比",
+  "attacker": "美国海岸警卫队（USCG）及美国政府禁运政策；美国海军加勒比兵力构成威慑背景",
+  "defender": "驶往古巴的运油船与货船（“Ocean Mariner”号、“Grace”号等）；古巴；被扣船的运营方",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "海岸警卫队巡逻艇（Cutter）堵截与登临。“Ocean Mariner”号：海岸警卫队舰艇出现后改变航向离开古巴方向（报道称为观察人士判断，美方未置评）。“Grace”号：海岸警卫队舰艇拦截并派小队登船，将该船护送到墨西哥，由墨西哥海军检查人员查验。",
+  "defense_means_cn": "被拦截方采取“暗舰队”规避战术（据海岸警卫队声明）：关闭或伪装识别信息，规避监管，将燃油藏于压舱舱。除此以外，被拦截船只未见武装抵抗；古巴方面的反应、俄罗斯对运油的保护措施，检索结果仅见3月30日一艘俄罗斯油轮载约10万吨原油抵达古巴（据维基百科条目摘要，待核）。",
+  "narrative_cn": "2026年1月美国对委内瑞拉采取军事行动、马杜罗被带离后，委内瑞拉向古巴的石油出口中断（见ca_venezuela_port_strikes_2026_01_03；背景据维基百科“2026 Cuban crisis”条目摘要）。1月，据Politico（经torre.news聚合页转引），美国政府考虑对古巴石油进口实行全面封锁，特朗普尚未作决定。到2月，据检索摘要转述，《纽约时报》称美国政府虽未正式宣布封锁，但其政策在实际上起到了封锁作用，海岸警卫队已拦截过驶往古巴的油轮。2月，Maritime Executive报道称，海岸警卫队巡逻艇的出现，使化学品/成品油轮“Ocean Mariner”号改变航向，驶离古巴方向，美国政府未公开置评。3月30日，一艘载约10万吨原油的俄罗斯油轮抵达古巴（维基百科条目摘要，待核）。其后，据Maritime Executive，美国一度准许部分紧急油品运输，海岸警卫队随后恢复对禁运的执行。9月，海岸警卫队在古巴与墨西哥之间的加勒比海域拦截货船“Grace”号：声明称该船采取规避手段、符合“暗舰队”常见做法，检查小队登船后将其护送至墨西哥，墨西哥海军检查人员在其压舱舱内发现大量燃油。官员未说明如何判断该船驶往古巴，路透社称判断依据为情报。海岸警卫队声明称拦截发生在9月5日（据检索摘要），但相关报道（含《纽约时报》）见于2026年10月2日前后，约相隔四周，日期待核。美海军加勒比兵力方面：《星条旗报》2026年3月12日有一篇标题涉及加勒比5艘军舰的美军存在（据URL还原，正文未取得）；检索摘要称“福特”号2月中旬离开加勒比，“硫磺岛”号两栖戒备群3月仍在该海域。",
+  "defense_effect_cn": "对美方而言，拦截以低烈度手段（改航劝退、登临、护送至第三国检查）完成，无交火、无人员受伤的报道，借第三国（墨西哥）海军检查取得燃油证据；但判断“驶往古巴”主要依据情报，官员未说明具体依据，路透社称为情报判断。对被拦截方而言，规避战术包括关闭识别信息和藏油于压舱舱，被拦截的概率取决于海岸警卫队舰艇数量，Maritime Executive提到美国中途一度准许紧急油品运输，执法时紧时松。政策层面，该行动未被正式称为封锁，国际法上的地位存争议。拦截总数、被扣船清单，本次检索未取得可靠汇总。",
+  "claims_compare_cn": "美国海岸警卫队：“Grace”号规避监管、疑似暗舰队、运油去古巴；墨西哥海军确认压舱舱有大量燃油。美国官员：未说明如何得知目的地；路透社：判断基于情报。《纽约时报》：政策实际上等同封锁，但未正式宣布。美国政府：对“Ocean Mariner”号改航未置评。古巴、俄罗斯方面的口径：本次检索未取得。拦截日期：9月5日（声明摘要）与10月2日前后的报道日期存在约四周差。",
+  "losses_cn": "无人员伤亡、舰艇受损的报道。燃料短缺对古巴的影响有报道称持续恶化（Maritime Executive标题“Shortages Worsen”），量化数字未检索到可靠口径。",
+  "analysis_cn": "加勒比对古巴的燃料封锁没有被正式宣布：由海岸警卫队舰艇在商船航路上“出现”，必要时登临并移交第三国查验。这类灰色地带行动的关键资源是巡逻艇和情报，而不是航母；同一水域的海军大型舰艇（“福特”号2月中旬离开，“硫磺岛”号编组3月仍在）构成背景威慑，拦截执法由海岸警卫队承担。缺点是证据链依赖情报，判断“驶往古巴”的依据不公开，容易引发法律与外交争议。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Maritime Executive",
+    "title": "Report: USCG Cutter Blocks Tanker Bound for Cuba With Vital Fuel Supply",
+    "title_cn": "报道：海岸警卫队舰艇阻止载有重要燃料的油轮驶往古巴",
+    "author": "",
+    "date": "",
+    "url": "https://maritime-executive.com/article/report-uscg-cutter-blocks-tanker-bound-for-cuba-with-vital-fuel-supply",
+    "type": "专业媒体",
+    "date_note": "标题据URL还原，日期未显示，约2026年2月"
+   },
+   {
+    "publisher": "Maritime Executive",
+    "title": "US Coast Guard Has Stopped Vessels Carrying Oil to Cuba",
+    "title_cn": "美国海岸警卫队已拦停载油驶往古巴的船舶",
+    "author": "",
+    "date": "",
+    "url": "https://maritime-executive.com/index.php/article/us-coast-guard-has-stopped-vessels-carrying-oil-to-cuba",
+    "type": "专业媒体",
+    "date_note": "标题据URL还原，日期未显示"
+   },
+   {
+    "publisher": "Maritime Executive",
+    "title": "Report: Fuel Tanker Arrives in Cuba as Shortages Worsen",
+    "title_cn": "报道：燃油船抵达古巴，短缺加剧",
+    "author": "",
+    "date": "",
+    "url": "https://maritime-executive.com/article/report-fuel-tanker-arrives-in-cuba-as-shortages-worsen",
+    "type": "专业媒体",
+    "date_note": "标题据URL还原，日期未显示"
+   },
+   {
+    "publisher": "Baird Maritime",
+    "title": "Cuba-bound ship carrying fuel seized by US Coast Guard as embargo bites",
+    "title_cn": "美国海岸警卫队扣押驶往古巴、载有燃油的船舶，禁运见效",
+    "author": "",
+    "date": "",
+    "url": "https://bairdmaritime.com/security/incidents/piracy/cuba-bound-ship-carrying-fuel-seized-by-us-coast-guard-as-embargo-bites",
+    "type": "专业媒体",
+    "date_note": "日期未显示，约2026年10月初"
+   },
+   {
+    "publisher": "WSAU（转载）",
+    "title": "US Coast Guard intercepts cargo boat carrying fuel bound for Cuba, NYT reports",
+    "title_cn": "《纽约时报》：美国海岸警卫队拦截驶往古巴的运油货船",
+    "author": "",
+    "date": "2026-10-02",
+    "url": "https://wsau.com/2026/10/02/us-coast-guard-intercepts-cargo-boat-carrying-fuel-bound-for-cuba-nyt-reports/",
+    "type": "其他",
+    "date_note": "转载稿，日期据URL；通讯社名称未显示"
+   },
+   {
+    "publisher": "AJOT",
+    "title": "US Coast Guard intercepts cargo boat carrying fuel bound for Cuba, NYT reports",
+    "title_cn": "《纽约时报》：美国海岸警卫队拦截驶往古巴的运油货船",
+    "author": "",
+    "date": "",
+    "url": "https://www.ajot.com/news/us-coast-guard-intercepts-cargo-boat-carrying-fuel-bound-for-cuba-nyt-reports",
+    "type": "专业媒体",
+    "date_note": "标题据URL还原，日期未显示，约2026年10月2日"
+   },
+   {
+    "publisher": "La Prensa (Honduras)",
+    "title": "Guardacostas de EEUU interceptan en el Caribe un buque que transportaba combustible a Cuba",
+    "title_cn": "美国海岸警卫队在加勒比拦截运载燃料驶往古巴的船舶",
+    "author": "",
+    "date": "",
+    "url": "https://www.laprensa.hn/mundo/guardacostas-eeuu-interceptan-buque-transportaba-combustible-cuba-GB32222004",
+    "type": "其他",
+    "date_note": "日期未显示，约2026年10月初"
+   },
+   {
+    "publisher": "Torre News（聚合页，仅作线索）",
+    "title": "US considering total Cuba oil blockade – Politico",
+    "title_cn": "Politico：美国考虑对古巴实行全面石油封锁",
+    "author": "",
+    "date": "",
+    "url": "https://torre.news/us-considering-total-cuba-oil-blockade-politico",
+    "type": "其他",
+    "date_note": "聚合页转引Politico，日期未显示，约2026年1月，仅作线索"
+   },
+   {
+    "publisher": "Stars and Stripes",
+    "title": "（标题据URL还原）US presence in Caribbean: 5 warships",
+    "title_cn": "美军在加勒比的存在：5艘军舰",
+    "author": "",
+    "date": "2026-03-12",
+    "url": "https://www.stripes.com/branches/navy/2026-03-12/us-presence-caribbean-5-warships-21043276.html",
+    "type": "专业媒体",
+    "date_note": "标题与日期据URL，正文未取得"
+   },
+   {
+    "publisher": "Wikipedia（背景，仅作线索）",
+    "title": "2026 Cuban crisis",
+    "title_cn": "2026年古巴危机",
+    "author": "",
+    "date": "",
+    "url": "https://en.wikipedia.org/wiki/2026_Cuban_crisis",
+    "type": "其他",
+    "date_note": "背景条目，非一手来源，待核"
+   },
+   {
+    "publisher": "IOL / Sunday Tribune",
+    "title": "Cuba on the brink: scenarios for US military action",
+    "title_cn": "古巴处于边缘：美国军事行动的几种情景",
+    "author": "",
+    "date": "2026-05-31",
+    "url": "https://iol.co.za/sunday-tribune/world/2026-05-31-cuba-on-the-brink-scenarios-for-us-military-action/",
+    "type": "其他",
+    "date_note": "日期、标题据URL"
+   }
+  ],
+  "images": [],
+  "stats": {
+   "Ocean Mariner改航": "2026年2月，海岸警卫队舰艇出现后（美方未置评）",
+   "Grace号拦截": "海岸警卫队声明称9月5日；护送至墨西哥，压舱舱查获大量燃油",
+   "俄罗斯油轮": "2026-03-30抵古巴，约10万吨原油（维基百科摘要，待核）",
+   "美军大型舰艇": "福特号2月中旬离开加勒比（摘要转述，待核）；硫磺岛ARG 3月仍在",
+   "被拦截船只总数": "未检索到可靠汇总"
+  },
+  "round": 2,
+  "image_categories": []
+ }
+]
