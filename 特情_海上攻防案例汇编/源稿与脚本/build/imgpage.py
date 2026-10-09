@@ -46,22 +46,44 @@ document.getElementById('txt').onclick = () => {
   const blob = new Blob([ITEMS.map(it => it.save_as + '\t' + it.url).join('\n')], {type:'text/plain'});
   const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'urls.txt'; a.click();
 };
+async function shrink(blob){
+  // 统一压成长边不超过 1600px 的 JPEG（质量 0.82），单张通常 150-400KB
+  try{
+    const bmp = await createImageBitmap(blob);
+    const k = Math.min(1, 1600/Math.max(bmp.width,bmp.height));
+    const c = document.createElement('canvas'); c.width=Math.round(bmp.width*k); c.height=Math.round(bmp.height*k);
+    const g = c.getContext('2d'); g.fillStyle='#fff'; g.fillRect(0,0,c.width,c.height); g.drawImage(bmp,0,0,c.width,c.height);
+    return await new Promise(r=>c.toBlob(r,'image/jpeg',0.82));
+  }catch(e){ return null; }
+}
+function thumbUrl(u){ // upload.wikimedia.org 原图 -> 1280px 缩略图
+  const m = u.match(/^(https:\/\/upload\.wikimedia\.org\/wikipedia\/commons\/)([0-9a-f]\/[0-9a-f]{2}\/)(.+)$/);
+  if(!m) return null; let n=m[3]; let t=n; if(/\.(svg|tiff?)$/i.test(n)) t=n+'.png';
+  return m[1]+'thumb/'+m[2]+n+'/1280px-'+t;
+}
+async function getBlob(u){
+  for (const x of [thumbUrl(u), u]) { if(!x) continue;
+    try{ const r=await fetch(x,{mode:'cors'}); if(r.ok) return await r.blob(); }catch(e){} }
+  throw new Error('fetch failed');
+}
+function save(blob,name){ const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=name; a.click(); }
 document.getElementById('go').onclick = async () => {
-  const st = document.getElementById('st'); const zip = new JSZip(); const man = []; let ok = 0, bad = 0;
+  const LIMIT = 25*1024*1024; // 每卷不超过 25MB
+  const st = document.getElementById('st'); let zip = new JSZip(), size = 0, vol = 1, ok = 0, bad = 0; const man = [];
+  const flush = async () => { zip.file('manifest_part'+vol+'.json', JSON.stringify(man.filter(m=>m.vol===vol),null,1));
+    const b = await zip.generateAsync({type:'blob'}); save(b, 'xiguang_imgs_part'+vol+'.zip'); vol++; zip = new JSZip(); size = 0;
+    await new Promise(r=>setTimeout(r,800)); };
   for (let i = 0; i < ITEMS.length; i++) {
-    const it = ITEMS[i]; st.textContent = `抓取中 ${i+1}/${ITEMS.length}（成功 ${ok}，失败 ${bad}）`;
+    const it = ITEMS[i]; st.textContent = `抓取中 ${i+1}/${ITEMS.length}（成功 ${ok}，失败 ${bad}，第 ${vol} 卷）`;
     try {
-      const r = await fetch(it.url, {mode:'cors'}); if (!r.ok) throw new Error(r.status);
-      const b = await r.blob(); const name = it.save_as + extOf(it.url, b.type);
-      zip.file(name, b); man.push({...it, file:name}); ok++;
-      document.getElementById('s'+i).innerHTML = '<span class="ok">已打包</span>';
-    } catch(e) { bad++; man.push({...it, file:null, error:String(e)}); document.getElementById('s'+i).innerHTML = '<span class="bad">抓取失败</span>'; }
+      const raw = await getBlob(it.url); const small = (await shrink(raw)) || raw;
+      if (size + small.size > LIMIT && size > 0) await flush();
+      const name = it.save_as + '.jpg'; zip.file(name, small); size += small.size; ok++;
+      man.push({...it, file:name, vol:vol}); document.getElementById('s'+i).innerHTML = '<span class="ok">已打包（第'+vol+'卷）</span>';
+    } catch(e) { bad++; man.push({...it, file:null, error:String(e), vol:vol}); document.getElementById('s'+i).innerHTML = '<span class="bad">抓取失败</span>'; }
   }
-  zip.file('manifest.json', JSON.stringify(man, null, 1));
-  st.textContent = `生成压缩包…（成功 ${ok}，失败 ${bad}）`;
-  const blob = await zip.generateAsync({type:'blob'});
-  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'xiguang_imgs.zip'; a.click();
-  st.textContent = `完成：成功 ${ok} 张，失败 ${bad} 张。请把 xiguang_imgs.zip 传回对话。`;
+  await flush();
+  st.textContent = `完成：成功 ${ok} 张，失败 ${bad} 张，共 ${vol-1} 卷（每卷不超过 25MB）。请把各卷 zip 依次传回对话。`;
 };
 </script></body></html>"""
 
