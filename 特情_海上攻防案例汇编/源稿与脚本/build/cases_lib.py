@@ -102,6 +102,9 @@ def load_all():
     for c in out:
         if c.get('region') == '台海' or str(c.get('case_key', '')).startswith(('kinmen', 'joint_sword', 'strait_thunder', 'justice_mission', 'matsu', 'penghu')):
             tw_normalize(c)
+    for c in out:
+        if c.get('case_key') in OUTCOME_OVERRIDE:
+            c['outcome'] = OUTCOME_OVERRIDE[c['case_key']]
     for k, cat in CAT_OVERRIDE.items():
         for c in out:
             if c.get('case_key') == k:
@@ -109,9 +112,11 @@ def load_all():
     return out
 
 
-MANUAL_MERGE = [('rs_perim_mokha_2026_09_11', 'rs_perim_island_seized_2026_09'), ('sd_port_sudan_drones_2025_05', 'sd_port_sudan_2025_05_04')]   # (保留键, 并入键)
+MANUAL_MERGE = [('rs_perim_mokha_2026_09_11', 'rs_perim_island_seized_2026_09'), ('sd_port_sudan_drones_2025_05', 'sd_port_sudan_2025_05_04'), ('vn_spratly_reclamation_2023_2026', 'scs_vietnam_spratly_reclamation_2025')]   # (保留键, 并入键)
 MANUAL_DROP = []
-CAT_OVERRIDE = {'rs_tutor_2024_06_12': '海上交通线', 'io_chem_pluto_2023_12_23': '海上交通线',
+OUTCOME_OVERRIDE = {'vn_spratly_reclamation_2023_2026': '防务建设（非袭击事件）', 'luzon_strait_typhon_nmesis_2024_2026': '防务建设（非袭击事件）',
+                    'scs_natuna_buildup_2025': '防务建设（非袭击事件）', 'scs_layanglayang_radar_2026': '防务建设（非袭击事件）'}
+CAT_OVERRIDE = {'scs_natuna_ccg5402_2024_10': '海上小岛', 'rs_tutor_2024_06_12': '海上交通线', 'io_chem_pluto_2023_12_23': '海上交通线',
                 'io_abdullah_2024_03_12': '海上交通线', 'ca_cuba_fuel_interdiction_2026_02_2026_09': '海上交通线',
                 'med_arctic_metagaz_2026_03_03': '海上交通线', 'bs_jaguar_su35_2025_05_13': '海上交通线'}
 

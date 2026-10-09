@@ -753,6 +753,35 @@ class DocxBuilder:
                             set_run(r, HEI, 10.5, True, NAVY)
         sp = self.para(indent=False, line=8, after=4)
 
+    def b_photogrid(self, b):
+        """实景图录：两列表格，每格一图一注（图已预裁为4:3）。"""
+        items = [it for it in b['items'] if os.path.exists(it['path'])]
+        if not items:
+            return
+        rows = (len(items) + 1) // 2
+        t = self.doc.add_table(rows=rows, cols=2)
+        t.alignment = WD_TABLE_ALIGNMENT.CENTER
+        tblPr = t._tbl.tblPr
+        st = tblPr.find(qn('w:tblStyle'))
+        if st is not None:
+            tblPr.remove(st)
+        lay = OxmlElement('w:tblLayout'); lay.set(qn('w:type'), 'fixed'); ordered_set(tblPr, lay, TBLPR_ORDER)
+        for i, it in enumerate(items):
+            cell = t.cell(i // 2, i % 2)
+            self._cell_width(cell, 80)
+            p = cell.paragraphs[0]; p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p.paragraph_format.space_before = Pt(4); p.paragraph_format.space_after = Pt(1)
+            p.add_run().add_picture(it['path'], width=Mm(76))
+            q = cell.add_paragraph(); q.alignment = WD_ALIGN_PARAGRAPH.LEFT
+            q.paragraph_format.space_after = Pt(5); q.paragraph_format.line_spacing = 1.1
+            add_text(q, it['code'] + '　', HEI, 9, True, BRASS, kai_brackets=False)
+            add_text(q, norm_text(it['title']), KAI, 9.5, True, NAVY, kai_brackets=False)
+            if it.get('note'):
+                q2 = cell.add_paragraph(); q2.paragraph_format.space_after = Pt(6); q2.paragraph_format.line_spacing = 1.0
+                add_text(q2, norm_text(it['note']), KAI, 8, False, GREY, kai_brackets=False)
+        for row in t.rows:
+            trPr = row._tr.get_or_add_trPr(); trPr.insert(0, OxmlElement('w:cantSplit'))
+
     def b_pagebreak(self, b):
         p = self.doc.add_paragraph()
         p.add_run().add_break(WD_BREAK.PAGE)

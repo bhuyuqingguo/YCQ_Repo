@@ -1,0 +1,968 @@
+[
+ {
+  "case_key": "scs_luconia_kasawari_ccg5901_2023_03",
+  "category": "海上小岛",
+  "title_cn": "海警5901逼近卡沙瓦里气田施工区",
+  "subtitle_cn": "2023年2—3月 南康暗沙（Luconia Shoals / Beting Patinggi Ali）卡沙瓦里（Kasawari）气田：中国海警5901舰近距离盯防，马来西亚海军跟踪",
+  "date_start": "2023-02-17",
+  "date_end": "2023-03-19",
+  "location_cn": "南康暗沙东南约25海里、沙捞越外海卡沙瓦里气田（Kasawari, Block SK316）",
+  "lat": 5.3,
+  "lon": 112.4,
+  "region": "南海",
+  "attacker": "中国海警（CCG）5901舰（约1.2万吨级，媒体称“怪兽”）",
+  "defender": "马来西亚国家石油公司（Petronas）卡沙瓦里项目施工船队；马来西亚皇家海军舰艇",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "无武器使用记录。海警5901舰以近距离机动、伴随盯防的方式对离岸施工区施压；AIS显示最近距离约1.5海里。",
+  "defense_means_cn": "马来西亚皇家海军舰艇到场跟踪监视（媒体称包括近海任务舰KD Keris，该点仅见于二手报道）；Petronas施工未停。",
+  "narrative_cn": "卡沙瓦里气田位于沙捞越外海SK316区块，在南康暗沙东南约25海里，由Petronas Carigali开发，估计可采天然气约3万亿立方英尺。据战略与国际研究中心（CSIS）亚洲海事透明倡议（AMTI）及转引媒体的AIS追踪，中国海警5901舰于2023年2月17日抵达南康暗沙，2月18日接近至卡沙瓦里7海里以内，3月11—12日及17—19日又先后逼近到约1.5海里。同期气田正在安装中央处理平台导管架，施工计划持续至4月30日。AMTI指出该舰AIS信号时断时续，实际停留时间可能更长；马来西亚皇家海军舰艇随即到场跟踪，二手报道称近海任务舰KD Keris曾伴随监视，并提到5901舰于2月18日接替另一艘海警舰（5303）。2023年3月29日至4月1日马来西亚总理安瓦尔访华，《世界石油》杂志专栏把该事件与访问并列提及。未检索到水炮、冲撞、登临或喊话驱离的公开记录，也未见马来西亚官方公布的正式抗议；本案属于以大型执法船长时间伴随为特征的灰色地带施压。注：AMTI原文页面（本轮检索结果中以“perilous prospects”和“contest at kasawari”两个链接出现）与本案对应关系未能在检索结果中直接确认，下列来源以《世界石油》专栏、Defence Security Asia报道和RFA 2023-03-08报道为主，原始AMTI页面待核。",
+  "defense_effect_cn": "Petronas施工按计划推进，未见停工报道，马方以海军舰艇跟踪、不升级为防守型应对。暴露的问题：一是马方公开口径克制，2023年时任国防部长穆罕默德·哈桑称海警在重叠区域的存在不视为入侵；二是对方以“存在”而非“行动”施压，难以界定为可采取强制措施的违法行为；三是监视多依赖舰艇长时间伴随，占用海军和海事执法局（MMEA）资产。",
+  "claims_compare_cn": "马方：军方、海事执法局称持续监视，2023年时任国防部长表示在重叠区域的海警存在不视为入侵（该表述来自后续FMT报道的背景介绍）。中方：本轮检索未见专门针对本案的中国官方表态；中方一贯立场是南康暗沙等相关海域属其管辖范围，海警在其管辖海域巡航（中方口径据后续报道转述，未见本案原始表态）。AIS数据为追踪依据，存在信号间断。",
+  "losses_cn": "未检索到人员伤亡或设备损失记录。成本主要为海军与执法资产的长期占用。",
+  "analysis_cn": "本案的特点是以大吨位执法船替代军舰实施长时间“贴靠”，与离岸平台的距离压缩到1.5海里量级，但不触发武力使用门槛。离岸气田平台是固定点目标，防护手段多为监视与外交，缺少能够低成本驱离的强制性措施。对防御方而言，持续监视链条的人员和舰艇消耗大于对方单舰部署的成本，且AIS间断使态势感知出现盲区；对离岸平台的任何防卫设想，需要把执法力量、海军和空中监视统一调度。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "World Oil",
+    "title": "Oil and gas in the capitals (April 2023 column)",
+    "title_cn": "首都里的油气（2023年4月专栏）",
+    "author": "World Oil 专栏",
+    "date": "2023-04-01",
+    "url": "https://www.worldoil.com/magazine/2023/april-2023/columns/oil-and-gas-in-the-capitals/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Defence Security Asia",
+    "title": "China's 12,000-Ton 'Monster' Tests Malaysia in South China Sea",
+    "title_cn": "中国1.2万吨“怪兽”考验马来西亚",
+    "author": "Defence Security Asia",
+    "date": "未核实",
+    "url": "https://defencesecurityasia.com/en/china-coast-guard-5901-monster-malaysia-eez-south-china-sea/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Radio Free Asia",
+    "title": "Hunt for oil and gas increases risk of flashpoints in South China Sea, report says",
+    "title_cn": "寻找油气增加南海引爆点风险",
+    "author": "RFA",
+    "date": "2023-03-08",
+    "url": "https://www.rfa.org/english/news/southchinasea/scs-oil-gas-03082023234738.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "CSIS AMTI",
+    "title": "Perilous Prospects: Tensions Flare at Malaysian, Vietnamese Oil and Gas Fields（对应关系待核）",
+    "title_cn": "危险前景：马来西亚、越南油气田紧张升级",
+    "author": "AMTI",
+    "date": "未核实",
+    "url": "https://amti.csis.org/perilous-prospects-tensions-flare-at-malaysian-vietnamese-oil-and-gas-fields/",
+    "type": "智库"
+   },
+   {
+    "publisher": "Free Malaysia Today",
+    "title": "Armed forces monitoring Chinese vessel at South Luconia Shoals（背景引述2023年马方口径）",
+    "title_cn": "武装部队监控南康暗沙中国船只",
+    "author": "FMT",
+    "date": "2026-01-01",
+    "url": "https://fmtv5.freemalaysiatoday.com/category/nation/2026/01/01/armed-forces-monitoring-chinese-vessel-at-south-luconia-shoals",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:North_and_South_Luconia_Shoals.jpg",
+    "file_name": "North_and_South_Luconia_Shoals.jpg",
+    "desc_cn": "南康暗沙（北康暗沙与南康暗沙）位置示意图",
+    "date": "未核实",
+    "credit": "未核实",
+    "license": "未核实（需打开文件页确认）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Luconia_Shoals_Department_of_State_map_2016587286_(2015)_(cropped).jpg",
+    "file_name": "Luconia_Shoals_Department_of_State_map_2016587286_(2015)_(cropped).jpg",
+    "desc_cn": "美国国务院2015年地图（裁切）中的南康暗沙",
+    "date": "2015",
+    "credit": "美国国务院（文件名所示）",
+    "license": "未核实，疑为美国政府作品/公有领域",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:China_Coast_Guard_vessels",
+    "file_name": "Category:China_Coast_Guard_vessels",
+    "desc_cn": "中国海警船舶分类页（检索结果称含 CCG 5901 PCG photo.jpg，具体文件页未见）",
+    "date": "未核实",
+    "credit": "Wikimedia Commons",
+    "license": "未核实",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "最近距离": "约1.5海里（AIS，2023-03-11/12、17—19）",
+   "气田距南康暗沙": "约25海里",
+   "施工窗口": "至2023-04-30（AMTI转述）"
+  }
+ },
+ {
+  "case_key": "scs_luconia_ccg_persistent_2024",
+  "category": "海上小岛",
+  "title_cn": "海警全年驻守南康暗沙压向马方气田",
+  "subtitle_cn": "2024年1—11月 南康暗沙（Luconia Shoals）及沙捞越外海：中国海警常态化存在与马来西亚照常开采",
+  "date_start": "2024-01-01",
+  "date_end": "2024-11-19",
+  "location_cn": "南康暗沙（Luconia Shoals / Beting Patinggi Ali）及沙捞越外海马来西亚专属经济区",
+  "lat": 5.3,
+  "lon": 112.3,
+  "region": "南海",
+  "attacker": "中国海警（9艘不同舰船轮换，含5402）",
+  "defender": "Petronas及其合同钻井平台；马来西亚皇家海军、海事执法局（MMEA）",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "海警船轮换驻守，近距离靠近离岸作业设施；AMTI称中国船只常进入关键气田平台1000米内；2024年11月19日海警5402据称逼近一座自升式钻井平台至约2海里。无武器使用记录。",
+  "defense_means_cn": "马方海军与MMEA舰艇伴随监视，不采取强制行动；外交上由总理公开表态继续作业。",
+  "narrative_cn": "AMTI于2024年10月发布的分析称，2024年1月1日至9月30日，共有9艘不同的中国海警船在马来西亚专属经济区和大陆架内活动，几乎每天至少有1艘在位，单船常驻数周后由接替船轮换，其中大部分时间集中在距沙捞越约80海里的南康暗沙。AMTI还观察到该处海警船AIS发射频率远高于其他热点，一年365天中至少1艘船在南康暗沙广播AIS达258天（据二手摘要）。同一时期，一封外交信函泄露，称中方敦促马方停止在南康暗沙附近的油气活动；总理安瓦尔（Anwar Ibrahim）随后公开表示，马方将在本国水域继续作业，包括钻探，“中国是好朋友，但我们必须在自己的水域作业”。据二手摘要转述的AMTI另一报道，海警5402于2024年11月19日再次进入，并逼近一座钻井平台至约2海里，距沙捞越海岸仅40余海里，是AMTI记录到的距岸最近的此类骚扰。该处细节来自环境和平建设网站对AMTI内容的摘要，原文页面本轮未取得，需复核。本案未见水炮、冲撞或登临，属长期低烈度压迫。",
+  "defense_effect_cn": "马方作业没有因此中止，并扩大了勘探；马方军警以“监视+抗议照会”应对。暴露问题：无法在不升级的前提下驱离对方；每日在位的海警船使马方必须全年维持伴随资产；平台作业方承受不确定的安全风险和保险压力（本轮检索未见保险或停工数据）。",
+  "claims_compare_cn": "中方：泄露信函据报道要求马方停止相关作业（信函内容为媒体转述）。马方：总理安瓦尔2024年10月公开称继续在本国水域作业；国防部长2025年12月称自2013年起海警在相关区域的存在已成“常态”。AMTI数据以AIS为基础，存在间断。",
+  "losses_cn": "未检索到直接损失记录。",
+  "analysis_cn": "按AMTI的统计，南康暗沙一带已由“偶发出现”转为“全年在位”，轮换节奏约数周一次，体现出支撑体系的常态化。对方不使用武力，防御方也无法以执法手段解决。离岸设施的防护更多取决于国家层面的政治决心与监视覆盖，而不是平台自身的防御能力。可借鉴点在于：把平台、伴随船和空中监视纳入统一态势，保留证据链。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "CSIS AMTI",
+    "title": "A Well-Oiled Machine: Chinese Patrols at Luconia Shoals",
+    "title_cn": "运转良好的机器：南康暗沙的中国巡逻",
+    "author": "AMTI",
+    "date": "2024-10(日期未核实)",
+    "url": "https://amti.csis.org/a-well-oiled-machine-chinese-patrols-at-luconia-shoals/",
+    "type": "智库"
+   },
+   {
+    "publisher": "Free Malaysia Today",
+    "title": "Malaysia defying China with offshore drilling, says US think tank",
+    "title_cn": "美国智库称马来西亚无视中国继续海上钻探",
+    "author": "FMT",
+    "date": "2024-10-02",
+    "url": "https://fmtv5.freemalaysiatoday.com/category/nation/2024/10/02/malaysia-defying-china-with-offshore-drilling-says-us-think-tank",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "World Oil",
+    "title": "Malaysia defies China with offshore oil, gas drilling in disputed waters, U.S. think tank says",
+    "title_cn": "马来西亚无视中国在争议水域钻探",
+    "author": "World Oil",
+    "date": "2024-10-03",
+    "url": "https://worldoil.com/news/2024/10/3/malaysia-defies-china-with-offshore-oil-gas-drilling-in-disputed-waters-u-s-think-tank-says/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Radio Free Asia",
+    "title": "Despite constant hovering by Chinese ships, Malaysia expands South China Sea drilling",
+    "title_cn": "尽管中国船只不断盘桓，马来西亚扩大南海钻探",
+    "author": "RFA",
+    "date": "2024-10-02",
+    "url": "https://www.rfa.org/english/news/china/malaysia-south-china-sea-oil-drilling-10022024153718.html",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Environmental Peacebuilding",
+    "title": "China/Malaysia/South China Sea: A Well-Oiled Machine（二手摘要，含11月19日细节）",
+    "title_cn": "中国/马来西亚/南海：运转良好的机器",
+    "author": "环境和平建设网",
+    "date": "未核实",
+    "url": "https://www.environmentalpeacebuilding.org/news/show/8e45972da673",
+    "type": "其他"
+   },
+   {
+    "publisher": "Defence Security Asia",
+    "title": "Nine Chinese Coast Guard Vessels Patrolled Malaysian Waters from Jan-Sept 2024",
+    "title_cn": "2024年1—9月九艘中国海警船在马来西亚水域巡逻",
+    "author": "Defence Security Asia",
+    "date": "未核实",
+    "url": "https://defencesecurityasia.com/en/nine-chinese-coast-guard-vessels-patrolled-malaysian-waters-from-jan-sept-2024/",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:North_and_South_Luconia_Shoals.jpg",
+    "file_name": "North_and_South_Luconia_Shoals.jpg",
+    "desc_cn": "南康暗沙位置示意图",
+    "date": "未核实",
+    "credit": "未核实",
+    "license": "未核实（需打开文件页确认）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Chinese_Coast_Guard_ship_during_DiREx-15.jpg",
+    "file_name": "Chinese_Coast_Guard_ship_during_DiREx-15.jpg",
+    "desc_cn": "中国海警船（DiREx-15演习期间，非南康暗沙现场，仅作舰型示意）",
+    "date": "未核实",
+    "credit": "未核实",
+    "license": "未核实（需打开文件页确认）",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "海警船数量": "9艘（2024-01-01至09-30，AMTI）",
+   "AIS在位天数": "258/365（AMTI，二手摘要）",
+   "距气田平台": "AMTI称常在1000米内；2024-11-19约2海里（钻井平台）",
+   "距沙捞越海岸": "最近约40余海里"
+  }
+ },
+ {
+  "case_key": "scs_natuna_ccg5402_2024_10",
+  "category": "远海机动编组",
+  "title_cn": "海警5402三度闯入纳土纳，海安局驱离",
+  "subtitle_cn": "2024年10月21—24日 北纳土纳海（North Natuna Sea）：中国海警5402干扰Pertamina地震勘探船，印尼海事安全局（Bakamla）与海军驱离",
+  "date_start": "2024-10-21",
+  "date_end": "2024-10-24",
+  "location_cn": "北纳土纳海（印尼专属经济区/大陆架）、纳土纳群岛（Natuna Islands）以北",
+  "lat": 4.3,
+  "lon": 108.4,
+  "region": "南海",
+  "attacker": "中国海警5402舰",
+  "defender": "印度尼西亚海事安全局（Bakamla）巡逻船Tanjung Datu 301、Pulau Dana 323；印尼海军KRI SSA-378（舰名转述）",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "海警5402逼近并伴随挪威籍勘探船Geo Coral（受雇于Pertamina进行三维地震数据采集），在无线电中声称该海域属中方管辖。无武器使用报道。",
+  "defense_means_cn": "Bakamla巡逻船Tanjung Datu 301、Pulau Dana 323先后跟踪、无线电交涉并将其驱离；海军舰艇KRI SSA-378协助。",
+  "narrative_cn": "2024年10月21日（周一），Bakamla称海警5402干扰了由Pertamina委托、Geo Coral号船实施的北纳土纳海三维地震调查，Bakamla巡逻船Tanjung Datu 301对其跟踪并驱离。10月23日（周三）同一艘海警船再度进入，被驱离；据彭博社及美联社10月24日的报道，这是当周第二次/第三次被驱离，不同媒体对次数和日期说法不一。Bakamla海上行动主任下令Pulau Dana 323拦截，当地时间07:30试图无线电联络，对方未回应，随后接近Geo Coral并造成干扰，Pulau Dana 323在海军KRI SSA-378协助下将其逐出印尼大陆架。Bakamla称对方在无线电中表示该海域属中方管辖，印尼则称该海域依国际法属印尼。《雅加达邮报》指出此事发生在普拉博沃（Prabowo Subianto）就任总统之后。11月初Bakamla领导层表示将与中国海警会谈。未见水炮、冲撞或登临，无人员伤亡。",
+  "defense_effect_cn": "勘探船作业被短暂干扰但未中断为长期，Bakamla在72小时内完成多次到场驱离，处置较为克制，并通过海军协同提高了威慑。暴露问题：Bakamla巡逻船吨位和火力与海警5402悬殊（具体吨位本轮未检索到）；若对方持续轮换，驱离只能治标；调查船作业窗口与巡逻覆盖之间需要紧密排期。",
+  "claims_compare_cn": "印尼：Bakamla称5402干扰地震调查，印尼水域依国际法属印尼。中方：据Bakamla转述，海警船在无线电中称该海域属中方管辖；本轮检索未见中国官方针对本案的正式表态。媒体对再次进入的日期（10月23日或24日）及驱离次数（两次或三次）存在出入。",
+  "losses_cn": "无人员伤亡或设备受损报道；地震调查被干扰的时长未检索到。",
+  "analysis_cn": "本案的看点是印尼以执法船加海军的“双层”到场响应，在三天内连续接触三次且不使用武器，属于在专属经济区内的低成本驱离样板。其脆弱点是依赖对方不升级；一旦对方改变吨位或增加伴随船，Bakamla现有舰艇难以独立压制。对离岸作业船，提前通报巡逻力量并规划作业窗口是现实的保护手段。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "The Jakarta Post",
+    "title": "Bakamla drives Chinese ship from disputed waters again",
+    "title_cn": "海安局再次把中国船只赶出争议水域",
+    "author": "Jakarta Post",
+    "date": "2024-10-27",
+    "url": "https://www.thejakartapost.com/world/2024/10/27/bakamla-drives-chinese-ship-from-disputed-waters-again",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "BNN Bloomberg",
+    "title": "Indonesia Drives Out China Coast Guard Again in Disputed Waters",
+    "title_cn": "印尼再次驱离中国海警",
+    "author": "BNN Bloomberg",
+    "date": "2024-10-24",
+    "url": "https://bnnbloomberg.ca/business/international/2024/10/24/indonesia-drives-out-china-coast-guard-in-disputed-waters",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "News4Jax (AP)",
+    "title": "Indonesia says its coast guard drove away Chinese ship that interrupted survey in disputed sea",
+    "title_cn": "印尼称其海岸警卫队赶走干扰勘探的中国船",
+    "author": "美联社",
+    "date": "2024-10-24",
+    "url": "https://www.news4jax.com/news/world/2024/10/24/indonesia-says-its-coast-guard-drove-away-chinese-ship-that-interrupted-survey-in-disputed-sea/",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "The Jakarta Post",
+    "title": "Indonesia's maritime agency to hold talks with Chinese coast guard",
+    "title_cn": "印尼海事机构将与中国海警会谈",
+    "author": "Jakarta Post",
+    "date": "2024-11-11",
+    "url": "https://www.thejakartapost.com/world/2024/11/11/indonesias-maritime-agency-to-hold-talks-with-chinese-coast-guard.html",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "Indonesian Coast Guard \"Drives Out\" Chinese Vessel Shadowing Seismic Ship",
+    "title_cn": "印尼海警“驱离”跟踪地震船的中国船",
+    "author": "Maritime Executive",
+    "date": "2024-10(日期未核实)",
+    "url": "https://maritime-executive.com/article/indonesian-coast-guard-drives-out-chinese-cutter-shadowing-seismic-ship",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:KN_Tanjung_Datu_(1101),_Indonesian_Maritime_Security_Agency,_23_march_2018.jpg",
+    "file_name": "KN_Tanjung_Datu_(1101),_Indonesian_Maritime_Security_Agency,_23_march_2018.jpg",
+    "desc_cn": "印尼海事安全局KN Tanjung Datu（1101）巡逻船，2018-03-23（同级船型示意，非本次事件拍摄）",
+    "date": "2018-03-23",
+    "credit": "未核实",
+    "license": "未核实（需打开文件页确认）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Natuna_Regency",
+    "file_name": "Category:Natuna_Regency",
+    "desc_cn": "纳土纳县分类页",
+    "date": "未核实",
+    "credit": "Wikimedia Commons",
+    "license": "未核实",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "进入次数": "2—3次（媒体口径不一）",
+   "涉事海警船": "CCG 5402",
+   "勘探船": "Geo Coral（挪威籍）"
+  }
+ },
+ {
+  "case_key": "scs_luconia_ccg5304_2025_12",
+  "category": "海上小岛",
+  "title_cn": "海警5304漂泊沙捞越外海，马军方跟踪并拟抗议",
+  "subtitle_cn": "2025年12月—2026年1月 南康暗沙一带：中国海警5304入马来西亚海域，海事执法局与海军“萨特里亚行动”（Op Satria）监视",
+  "date_start": "2025-12-10",
+  "date_end": "2026-01-26",
+  "location_cn": "沙捞越外海、Terumbun Lang Ngindang附近（南康暗沙一带；坐标为近似）",
+  "lat": 5.0,
+  "lon": 112.0,
+  "region": "南海",
+  "attacker": "中国海警5304舰",
+  "defender": "马来西亚海事执法局（MMEA）KM Tegas；皇家海军KD Kelantan（Op Satria 28/25）",
+  "outcome": "灰色地带对峙",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "海警5304进入马来西亚海事区（ZMM），在Terumbun Lang Ngindang以南1.8海里漂泊。无武器使用报道。",
+  "defense_means_cn": "MMEA KM Tegas于12月10日在“拉惹劳特特别行动”中首先发现；海军KD Kelantan自12月23日起在Op Satria 28/25中全程跟踪；国防部通报外交部拟发抗议照会。",
+  "narrative_cn": "据马来西亚媒体2026年1月1日报道，马方武装部队自12月10日起对进入沙捞越海事区的中国海警船5304持续监视，该船被MMEA的KM Tegas在特别行动中首先发现，当时在Terumbun Lang Ngindang以南1.8海里漂泊。自12月23日起，海军KD Kelantan（Op Satria 28/25）对该船负责跟踪。国防部长卡立德·诺丁（Khaled Nordin）说，国防部将在核实后通知外交部发出抗议照会；他强调自2013年末起，海警在Op Satria区域（Beting Raja Jarom和Beting Hempasan Bantin）出现已是常态，军方实行全天候监视，并受制于避免局势升级的交战规则。2026年1月26日，副总理阿末扎希（Ahmad Zahid Hamidi）在国会答复中说，政府将保持空中和海上资产在南康暗沙的“存在展示”，并将继续采购新舰；外交部对侵入领水的国家继续提交抗议。《新海峡时报》同期报道海军继续监视该船。未检索到海警方面的细节或中国方面对本案的表态。",
+  "defense_effect_cn": "监视链条运转正常，发现—跟踪—通报—抗议流程完整，也首次在2026年初公开使用“存在展示”表述。暴露问题：船只“漂泊”13天以上才有军舰接手（12月10日发现，12月23日海军接替，期间由MMEA应对；此判断基于上述日期，属本报告推论）；规则限制让军方只能被动伴随；抗议照会尚属“待发”状态。",
+  "claims_compare_cn": "马方：国防部长称海警在该区域存在为“常态”，将发抗议；2023年时任部长曾表示重叠区域的存在不视为入侵（见FMT背景）。中方：本轮检索未见中国官方对本案的公开表态。",
+  "losses_cn": "无。",
+  "analysis_cn": "本案反映马方处置模式已由“不公开”转向“公开通报+抗议+展示存在”，但手段仍以伴随和外交为主。漂泊类行为的法律定性模糊，防御方难以通过执法措施回应。新增的公开信息是Op Satria按24小时轮值的运行方式，说明监视强度已高但缺少强制手段。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Free Malaysia Today",
+    "title": "Armed forces monitoring Chinese vessel at South Luconia Shoals",
+    "title_cn": "武装部队监视南康暗沙的中国船只",
+    "author": "FMT",
+    "date": "2026-01-01",
+    "url": "https://fmtv5.freemalaysiatoday.com/category/nation/2026/01/01/armed-forces-monitoring-chinese-vessel-at-south-luconia-shoals",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Free Malaysia Today",
+    "title": "Govt to ensure continued 'show of presence' at Luconia Shoals",
+    "title_cn": "政府将确保在南康暗沙持续“展示存在”",
+    "author": "FMT",
+    "date": "2026-01-26",
+    "url": "https://fmtv5.freemalaysiatoday.com/category/nation/2026/01/26/govt-to-ensure-continued-show-of-presence-at-luconia-shoals",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "New Straits Times",
+    "title": "RMN keeps watch on Chinese Coast Guard vessel off Sarawak",
+    "title_cn": "皇家海军监视沙捞越外海中国海警船",
+    "author": "NST",
+    "date": "2026-01(日期未核实)",
+    "url": "https://www.nst.com.my/amp/news/nation/2026/01/1348627/rmn-keeps-watch-chinese-coast-guard-vessel-sarawak",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Royal_Malaysian_Navy_Offshore_Patrol_Vessel_KD_Kelantan_(175).jpg",
+    "file_name": "Royal_Malaysian_Navy_Offshore_Patrol_Vessel_KD_Kelantan_(175).jpg",
+    "desc_cn": "马来西亚皇家海军近海巡逻舰KD Kelantan（175）",
+    "date": "未核实",
+    "credit": "未核实",
+    "license": "未核实（需打开文件页确认）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:North_and_South_Luconia_Shoals.jpg",
+    "file_name": "North_and_South_Luconia_Shoals.jpg",
+    "desc_cn": "南康暗沙位置示意图",
+    "date": "未核实",
+    "credit": "未核实",
+    "license": "未核实（需打开文件页确认）",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "首次发现": "2025-12-10（KM Tegas）",
+   "海军接替": "2025-12-23（KD Kelantan，Op Satria 28/25）",
+   "漂泊位置": "Terumbun Lang Ngindang以南1.8海里"
+  }
+ },
+ {
+  "case_key": "mal_sg_strait_robbery_surge_2025",
+  "category": "周边港口",
+  "title_cn": "新加坡海峡持械登船抢劫三倍激增",
+  "subtitle_cn": "2025年1—6月 新加坡海峡（Singapore Strait）菲利普水道（Phillip Channel）东行航道：ReCAAP通报船舶抢劫上升至19年高位",
+  "date_start": "2025-01-01",
+  "date_end": "2025-07-08",
+  "location_cn": "新加坡海峡东行航道、菲利普水道附近（Phillip Channel）",
+  "lat": 1.15,
+  "lon": 103.8,
+  "region": "马六甲-新加坡海峡",
+  "attacker": "海盗/海上抢劫团伙（据印尼警方后续通报，主要活动于廖内群岛一带）",
+  "defender": "过往商船船员；新加坡、印尼、马来西亚海事执法部门",
+  "outcome": "被攻击受损",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群",
+   "偷袭/突防"
+  ],
+  "attack_means_cn": "夜间小艇靠近低速航行的散货船，数人登船偷盗备件、缆绳和个人物品；2025年2月ReCAAP通报的11起中，4起歹徒持枪或类枪物，5起持刀；5月7日“Hui Shun No.1”遇2人持刀，希腊籍散货船“Virgo”上5名入侵者中有2人疑持枪。",
+  "defense_means_cn": "船员发现后警报、避让或躲入安全区；新加坡海事和港务局（MPA）发布安全通告；信息融合中心（IFC）与ReCAAP通报；沿岸国增加巡逻。",
+  "narrative_cn": "ReCAAP信息分享中心于2025年2月3日发布第IA 01-2025号警报，通报新加坡海峡船舶抢劫事件，其中11起已报案，4起歹徒持枪或类枪物，5起持刀。截至2025年5月初，2025年新加坡海峡累计50起，上年同期为14起，增长约3.5倍；全部发生在菲利普水道附近的东行航道上，被攻击的主要是散货船，夜间（20时至次日6时）居多。5月上旬一周内有6艘船遭袭（5月7日起）：希腊籍散货船“Virgo”5名入侵者中2人疑持枪，“Hui Shun No.1”2名持刀者；报道称6起案件中均无船员受伤。3月曾有一名船员受伤并被后送。ReCAAP声明自己仅监测和协调，没有执法权，呼吁沿岸国增加巡逻和监视。2025年上半年，一说该区域共80起，对比2024年上半年21起（来自智库分析文章，口径不一）。全年数据见下一案例。",
+  "defense_effect_cn": "船员多数发现后未与入侵者交锋，歹徒遇人即逃，较多案件“未丢失物品”。暴露的问题：东行航道在菲利普水道转向、航速降至约5节的位置成为固定的“窗口”；沿岸国辖区分隔，新加坡称加害者均在新加坡领海外活动，执法需依赖印尼方；歹徒手中出现枪械迹象使风险提升。",
+  "claims_compare_cn": "ReCAAP：以其统计的发生数和严重等级为准；IMB对新加坡海峡的统计口径不同（全年73起，为1991年以来最高，见后续案例）；新加坡国防部2025年10月13日称此类事件多为“夜间机会主义的小偷小摸”，与海湾地区或索马里的有组织海盗不同。各口径计数不同，不能直接相加。",
+  "losses_cn": "多数案件仅损失备件、缆绳、船员个人物品；未检索到人员死亡记录；严重度方面，ReCAAP称2025年无最高级别（CAT 1）事件，2024年有2起。",
+  "analysis_cn": "这是一个“低烈度、高频次、固定点位”的海上交通线风险：重点在航道几何而非袭击者能力。袭击者靠夜间小艇、低速目标和辖区缝隙取胜，防御方的关键是在转向点附近加密监视、减少船舶低速暴露时间并联动岸基响应。持械迹象说明威胁可能升级，需要把个体船舶自卫与区域执法联动起来。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "ReCAAP ISC",
+    "title": "ReCAAP ISC IA 01-2025: Sea robbery incidents in the Singapore Strait (3 Feb 2025)",
+    "title_cn": "ReCAAP ISC 2025年第01号警报：新加坡海峡船舶抢劫事件",
+    "author": "ReCAAP ISC",
+    "date": "2025-02-03",
+    "url": "https://recaap.org/resources/ck/files/alerts/2025/ReCAAP%20ISC%20IA%2001-2025%20Sea%20robbery%20Incidents%20in%20the%20Singapore%20Strait%20(3%20Feb%202025).pdf",
+    "type": "官方"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "Robberies Continue in Singapore Strait with Six Ships Hit in May",
+    "title_cn": "五月新加坡海峡劫案持续，六船被袭",
+    "author": "Maritime Executive",
+    "date": "2025-05(日期未核实)",
+    "url": "https://maritime-executive.com/article/robberies-continue-in-singapore-strait-with-six-ships-hit-in-may",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "The Maritime Executive",
+    "title": "ReCAAP sounds alarm about tripling of robberies in Singapore Strait in 2025",
+    "title_cn": "ReCAAP就新加坡海峡劫案三倍增长发出警报",
+    "author": "Maritime Executive",
+    "date": "2025-02(日期未核实)",
+    "url": "https://maritime-executive.com/article/recaap-sounds-alarm-about-tripling-of-robberies-in-singapore-strait-in-2025",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Marine Insight",
+    "title": "Six ships attacked within 5 days in Singapore Strait as cases triple since 2024",
+    "title_cn": "新加坡海峡5天内六船遇袭，案件较2024年增加三倍",
+    "author": "Marine Insight",
+    "date": "2025-05(日期未核实)",
+    "url": "https://www.marineinsight.com/six-ships-attacked-within-5-days-in-singapore-strait-as-cases-triple-since-2024/",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "South China Morning Post",
+    "title": "Shipping under siege: armed piracy surges in Singapore Strait",
+    "title_cn": "航运被围：新加坡海峡持械海盗激增",
+    "author": "SCMP（AFP稿）",
+    "date": "2025(日期未核实)",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3306693/shipping-under-siege-armed-piracy-surges-singapore-strait",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Singapore MINDEF",
+    "title": "Reply To Media Query on Increase in Piracy in Singapore Waters",
+    "title_cn": "就新加坡水域海盗增加答媒体问",
+    "author": "新加坡国防部",
+    "date": "2025-10-13",
+    "url": "https://www.mindef.gov.sg/news-and-events/latest-releases/13oct25-mq/",
+    "type": "官方"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+    "file_name": "The_port_of_Singapore.jpg",
+    "desc_cn": "新加坡港（PSA）全景，约占全球集装箱转运吞吐量五分之一（文件说明）",
+    "date": "未核实",
+    "credit": "未核实",
+    "license": "未核实（需打开文件页确认）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:LocatorMap_Malacca_Strait.png",
+    "file_name": "LocatorMap_Malacca_Strait.png",
+    "desc_cn": "马六甲海峡位置示意图",
+    "date": "未核实",
+    "credit": "未核实",
+    "license": "未核实（需打开文件页确认）",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "2025年初至5月初": "50起（2024同期14起，ReCAAP）",
+   "2025年2月警报": "11起，4起持枪/类枪、5起持刀",
+   "IMB第一季度": "27起（2024同期7起，AFP/SCMP转引）",
+   "时段": "夜间20时至次日6时为主"
+  }
+ },
+ {
+  "case_key": "mal_sg_strait_robbery_arrests_2025_h2",
+  "category": "周边港口",
+  "title_cn": "印尼抓捕后新加坡海峡劫案下降",
+  "subtitle_cn": "2025年7月—2026年1月 新加坡海峡：廖内群岛水警抓捕抢劫团伙；ReCAAP公布2025年全年海峡108起，为19年最高",
+  "date_start": "2025-07-09",
+  "date_end": "2026-01-09",
+  "location_cn": "菲利普水道、廖内群岛（Riau Islands）、巴淡岛（Batam）",
+  "lat": 1.15,
+  "lon": 103.8,
+  "region": "马六甲-新加坡海峡",
+  "attacker": "在廖内群岛一带活动的抢劫团伙（至少一伙自2017年起活动）",
+  "defender": "印尼廖内群岛水警、巴淡岛海警；新加坡信息融合中心（IFC）；ReCAAP",
+  "outcome": "防御成功",
+  "domains": [
+   "水面"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "小艇夜间追近转向减速的目标船，登船偷盗；2025年7月9日试图登上一艘在菲利普水道行驶的油轮。",
+  "defense_means_cn": "印尼水警在海上抓捕8人，陆上抓捕3人，共11人；7—8月印尼巴淡岛海警三次抓捕；新加坡、印尼联合协调。",
+  "narrative_cn": "2025年7月9日，一伙抢劫者试图登上在菲利普水道行驶的一艘油轮，随后印尼廖内群岛水警抓捕11人（海上8人、陆上3人）。据报道，该团伙自2017年起盯住在菲利普水道和Pulau Nipah转向处减速至约5节的船舶。7月和8月期间，巴淡岛海警三次抓捕，之后事件数量显著下降：8月至12月仅14起，11月和12月各5起。国际海事局（IMB）称“显著减少”，但印尼海警认为仍有两三个团伙活跃。2026年1月9日，ReCAAP在第17届航海论坛上发布2025年年报：亚洲全年132起海盗和武装抢劫（较2024年107起增23%），马六甲和新加坡海峡108起（较2024年62起增74%，为2007年以来最高），其中新加坡海峡107起，马六甲海峡1起；严重度下降，无最高等级（CAT 1）事件（2024年为2起）；近半数案件登船后未偷到任何东西；散货船占52%。IMB统计的口径不同：新加坡海峡全年73起，为1991年以来最高。",
+  "defense_effect_cn": "执法抓捕是见效最直接的措施：数个月内事件显著减少，说明威胁来源集中于少数团伙。暴露问题：下半年11月、12月再度回升到各5起；残余团伙仍在；新加坡自身无权在邻国领海内执法，成效取决于印尼警方；不同统计机构数字相差较大（ReCAAP 108对IMB 73）。",
+  "claims_compare_cn": "ReCAAP：海峡108起、同比增74%。IMB：新加坡海峡73起，为1991年以来最高。新加坡国防部（2025-10-13）强调多为小偷小摸，非有组织海盗；印尼海警：仍有两三个团伙活跃。ReCAAP与IMB的口径（覆盖范围、是否含未遂）不同。",
+  "losses_cn": "全年未检索到船员死亡记录；多为财物损失。",
+  "analysis_cn": "这是“执法打击团伙”优于“舰艇加密巡逻”的案例：抓捕十余人即压低全年下半段发案量。对海上交通线的启示是，威胁源的岸上基地、团伙网络和销赃渠道应与海上巡逻并行打击。同时，数据口径的不一致提醒使用者在引用时注明机构。",
+  "confidence": "A",
+  "sources": [
+   {
+    "publisher": "ReCAAP ISC",
+    "title": "Press release - ReCAAP ISC annual report (2025)",
+    "title_cn": "ReCAAP ISC 2025年年报新闻稿",
+    "author": "ReCAAP ISC",
+    "date": "2026-01-09",
+    "url": "https://www.recaap.org/resources/ck/files/news/2026/Press%20release%20-%20ReCAAP%20ISC%20annual%20report%20(2025)%20-FINAL.pdf",
+    "type": "官方"
+   },
+   {
+    "publisher": "ReCAAP ISC",
+    "title": "ReCAAP ISC Annual Report 2025",
+    "title_cn": "ReCAAP ISC 2025年年度报告",
+    "author": "ReCAAP ISC",
+    "date": "2026-01-09",
+    "url": "https://recaap.org/resources/ck/files/reports/annual/ReCAAP%20ISC%20Annual%20Report%202025.pdf",
+    "type": "官方"
+   },
+   {
+    "publisher": "Seatrade Maritime",
+    "title": "2 or 3 ship robbery groups remain active in Singapore Strait",
+    "title_cn": "两三个抢劫团伙仍在新加坡海峡活动",
+    "author": "Seatrade Maritime",
+    "date": "2026-01(日期未核实)",
+    "url": "https://www.seatrade-maritime.com/security/2-or-3-ship-robbery-groups-remain-active-in-singapore-strait",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Seatrade Maritime",
+    "title": "Arrests halt deepsea vessel boardings in Singapore Strait",
+    "title_cn": "抓捕终止新加坡海峡深海船舶被登",
+    "author": "Seatrade Maritime",
+    "date": "2025-08(日期未核实)",
+    "url": "https://www.seatrade-maritime.com/piracy/arrests-halt-deepsea-vessel-boardings-in-singapore-strait",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Riviera Maritime Media",
+    "title": "ReCAAP reports arrests following an attempted tanker boarding and a spike in sea robbery incidents near Singapore",
+    "title_cn": "ReCAAP通报油轮登船未遂后的抓捕",
+    "author": "Riviera",
+    "date": "2025-07(日期未核实)",
+    "url": "https://www.rivieramm.com/news-content-hub/tanker-robbers-arrested-after-singapore-strait-surge-85649",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Baird Maritime",
+    "title": "132 incidents of piracy and armed robbery on ships in Asia reported in 2025",
+    "title_cn": "2025年亚洲报告132起海盗和武装抢劫",
+    "author": "Baird Maritime",
+    "date": "2026-01(日期未核实)",
+    "url": "https://www.bairdmaritime.com/security/incidents/piracy/132-incidents-of-piracy-and-armed-robbery-on-ships-in-asia-reported-in-2025",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+    "file_name": "The_port_of_Singapore.jpg",
+    "desc_cn": "新加坡港全景",
+    "date": "未核实",
+    "credit": "未核实",
+    "license": "未核实（需打开文件页确认）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:LocatorMap_Malacca_Strait.png",
+    "file_name": "LocatorMap_Malacca_Strait.png",
+    "desc_cn": "马六甲海峡位置示意图",
+    "date": "未核实",
+    "credit": "未核实",
+    "license": "未核实（需打开文件页确认）",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "2025年海峡": "108起（ReCAAP），2024年62起，+74%",
+   "2025年亚洲": "132起（2024年107起，+23%）",
+   "新加坡海峡占比": "107/108（据一家媒体转述年报）",
+   "8—12月": "14起",
+   "IMB口径": "新加坡海峡73起（1991年以来最高）",
+   "团伙抓捕": "11人（海上8，陆上3）"
+  }
+ },
+ {
+  "case_key": "mal_msp_singapore_response_2025_2026",
+  "category": "周边港口",
+  "title_cn": "马六甲海峡巡逻机制应对劫案升温",
+  "subtitle_cn": "2025年10月—2026年1月 新加坡国防部口径与第16届马六甲海峡巡逻联合协调委员会（MSP JCC）会议",
+  "date_start": "2025-10-13",
+  "date_end": "2026-01-23",
+  "location_cn": "新加坡海峡、马六甲海峡",
+  "lat": 1.25,
+  "lon": 103.8,
+  "region": "马六甲-新加坡海峡",
+  "attacker": "海盗/抢劫团伙（见前案）",
+  "defender": "新加坡、印尼、马来西亚、泰国四国马六甲海峡巡逻（MSP）；新加坡信息融合中心（IFC）",
+  "outcome": "防御成功",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "集群"
+  ],
+  "attack_means_cn": "同前案。",
+  "defense_means_cn": "MSP含三部分：海上巡逻（Malacca Straits Sea Patrol）、“空中之眼”联合空巡、情报交换小组；新加坡与印尼的CORPAT INDOSIN协调巡逻；IFC设25名来自20国的联络官。",
+  "narrative_cn": "2025年10月13日，新加坡国防部答媒体询问称，马六甲和新加坡海峡的事件多为夜间机会性偷窃，窃取备件、缆绳和船员个人物品，不同于几内亚湾或索马里的有组织海盗；IFC有来自58个国家和机构的159个联络点，另有来自20国的25名联络官；国防部呼吁船公司及时报告可疑小艇并采取推荐的防范措施。新加坡与印尼通过CORPAT INDOSIN在新加坡海峡协调巡逻。2025年2月，马来西亚与印尼也有4艘舰艇参与的双边联合行动（用于情报共享、打击走私和跨境犯罪）。TradeWinds于2025年10月15日报道沿岸国在登船事件激增后加大巡逻。2026年1月23日，新加坡海军新闻稿称新加坡主办了第16届MSP联合协调委员会会议，并计划2027年初进行一次验证流程的演习。本轮检索未发现专门因某起劫案而启动的联合巡逻。",
+  "defense_effect_cn": "机制层面，四国海上与空中巡逻、情报交换均在运转，抓捕行动在印尼完成；但新加坡无权在邻国领海内执法，机制多以信息共享为主，并未形成统一指挥。暴露问题：巡逻机制成立于2004年，其设计针对的是反恐和大规模海盗，应对低烈度、高频次劫案存在适配问题；MSP会议到验证演习间隔较长。",
+  "claims_compare_cn": "新加坡：事件多为小偷小摸，强调IFC网络；ReCAAP：2025年为19年最高，呼吁沿岸国加强巡逻。两者对事件性质的定性侧重不同，数据本身不矛盾。",
+  "losses_cn": "同前案；无专门损失数据。",
+  "analysis_cn": "多国合作机制的优势在于信息融合和联络官网络，短板在执法权限的地域分割。对港口及航道的防护，第一要务是把传感器数据、巡逻调度和抓捕权限放进同一个决策回路，而非增加巡逻次数本身。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "Singapore MINDEF",
+    "title": "Reply To Media Query on Increase in Piracy in Singapore Waters",
+    "title_cn": "就新加坡水域海盗增加答媒体问",
+    "author": "新加坡国防部",
+    "date": "2025-10-13",
+    "url": "https://www.mindef.gov.sg/news-and-events/latest-releases/13oct25-mq/",
+    "type": "官方"
+   },
+   {
+    "publisher": "Republic of Singapore Navy",
+    "title": "Singapore Hosts the 16th Malacca Straits Patrol Joint Coordinating Committee Meeting",
+    "title_cn": "新加坡主办第16届马六甲海峡巡逻联合协调委员会会议",
+    "author": "新加坡海军",
+    "date": "2026-01-23",
+    "url": "https://www.navy.gov.sg/news-events/pressroom/23jan26-article",
+    "type": "官方"
+   },
+   {
+    "publisher": "TradeWinds",
+    "title": "Singapore Strait piracy（检索摘要引述，2025-10-15，标题未核实）",
+    "title_cn": "新加坡海峡海盗",
+    "author": "TradeWinds",
+    "date": "2025-10-15",
+    "url": "https://www.tradewindsnews.com/casualties/break-up-of-two-gangs-pulls-down-piracy-in-singapore-strait/2-1-1886333",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:LocatorMap_Malacca_Strait.png",
+    "file_name": "LocatorMap_Malacca_Strait.png",
+    "desc_cn": "马六甲海峡位置示意图",
+    "date": "未核实",
+    "credit": "未核实",
+    "license": "未核实（需打开文件页确认）",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "IFC联络点": "159个，来自58国/机构",
+   "联络官": "25人，来自20国",
+   "MSP验证演习": "计划2027年初"
+  }
+ },
+ {
+  "case_key": "scs_natuna_buildup_2025",
+  "category": "岛屿防卫",
+  "title_cn": "印尼升级纳土纳空军基地并拟设常驻海军陆战队",
+  "subtitle_cn": "2025年 纳土纳群岛（Natuna Islands）：Raden Sadjad空军基地由B型升A型，海军陆战队任务单位拟转常设（防务建设，非袭击事件）",
+  "date_start": "2025-01-01",
+  "date_end": "2025-09-04",
+  "location_cn": "纳土纳大岛（Natuna Besar）、拉奈（Ranai）Raden Sadjad空军基地",
+  "lat": 3.91,
+  "lon": 108.39,
+  "region": "南海",
+  "attacker": "无直接攻击方（背景为北纳土纳海与中国海警的反复接触）",
+  "defender": "印度尼西亚国民军（TNI）、空军",
+  "outcome": "防务建设（非袭击事件）",
+  "domains": [
+   "空中",
+   "水面"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "不适用。",
+  "defense_means_cn": "Raden Sadjad空军基地从B型升为A型，指挥官级别由上校升至空军少将级；海军陆战队“任务单位”拟转为常设有机部队；基地为军民合用，IATA代码NTX，ICAO代码WION。",
+  "narrative_cn": "一篇带2025年版权标注的印尼安塔拉通讯社（ANTARA）报道称，有官员（报道中记为Wibowo，职务未在摘要中核实）在第二次访问纳土纳时宣布，计划把Raden Sadjad空军基地提升为A型，并把现有海军陆战队任务单位转为常设的有机部队驻守纳土纳，以增强威慑和国家防卫；首次访问侧重区域摸底，第二次评估部队战备和基础设施。2025年9月4日的印尼国家广播（RRI）报道确认，Raden Sadjad基地由B型升A型是TNI空军第一军区（Kodau I）组织验证的一部分，同时升级的还有Husein Sastranegara和Soewondo两基地，基地长官级别随之提高。海军陆战队部分，本轮检索只有ANTARA一条来源，部队规模和启用时间未检索到公开记录。与此相关，2024年10月海警5402三度闯入北纳土纳海被驱离（见另案）。",
+  "defense_effect_cn": "属建设规划，效果尚无法评估。可见内容仅限于编制级别和部队性质调整；尚无新增装备、数量、部署时间的公开细节。暴露问题：纳土纳远离主岛，驻军的后勤与长期补给、对海监视覆盖都是现实约束，但本轮检索未发现相关量化数据。",
+  "claims_compare_cn": "印尼方：升级是为了增强威慑和国防；中方：本轮检索未见针对该项规划的表态。背景上，印尼与中方对北纳土纳海管辖权主张不同（印尼称依国际法属其专属经济区，中方称相关海域属其管辖范围，据2024年10月Bakamla转述）。",
+  "losses_cn": "不适用。",
+  "analysis_cn": "升级编制与设常驻部队是低成本的“存在”手段，但对海警船的灰色地带行动，空军基地与陆战队的直接作用有限，主要价值在于监视、运输和快速增援。真正对应海警行动的是Bakamla与海军舰艇的海上到场能力。该案的价值在于显示岛屿防卫由“临时轮驻”向“常设化”转变的趋势。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "ANTARA News",
+    "title": "Indonesian military personnel in Natuna capable to defend Natuna",
+    "title_cn": "印尼驻纳土纳军人有能力保卫纳土纳",
+    "author": "ANTARA",
+    "date": "2025(日期未核实)",
+    "url": "https://en.antaranews.com/news/373985/indonesian-mily-personnel-in-natura-capable-to-defend-natuna",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "Radio Republik Indonesia",
+    "title": "Kolonel Pnb Onesmus Gede Rai Aryadi Jabat Danlanud-RSA",
+    "title_cn": "Onesmus Gede Rai Aryadi上校出任Raden Sadjad基地司令",
+    "author": "RRI",
+    "date": "2025-09-04",
+    "url": "https://rri.co.id/ranai/nasional/1815177/kolonel-pnb-onesmus-gede-rai-aryadi-jabat-danlanud-rsa",
+    "type": "通讯社"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Raden_Sadjad_Airport",
+    "file_name": "Category:Raden_Sadjad_Airport",
+    "desc_cn": "Raden Sadjad机场（拉奈）分类页",
+    "date": "未核实",
+    "credit": "Wikimedia Commons",
+    "license": "未核实",
+    "verified": false
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mount_Ranai_in_Natuna.jpg",
+    "file_name": "Mount_Ranai_in_Natuna.jpg",
+    "desc_cn": "纳土纳拉奈山",
+    "date": "未核实",
+    "credit": "未核实",
+    "license": "未核实（需打开文件页确认）",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "基地类型": "B型升A型",
+   "陆战队": "任务单位拟转常设（规模未检索到）"
+  }
+ },
+ {
+  "case_key": "scs_layanglayang_radar_2026",
+  "category": "岛屿防卫",
+  "title_cn": "马来西亚拟在燕子礁部署对空监视雷达",
+  "subtitle_cn": "2024—2026年 燕子礁（Layang-Layang / Swallow Reef）与沙捞越民都鲁（Bintulu）：马来西亚强化南海方向防御（防务建设，非袭击事件）",
+  "date_start": "2024-10-17",
+  "date_end": "2026-06-18",
+  "location_cn": "燕子礁（Layang-Layang / Swallow Reef，马来西亚占据）、海军Lima站；沙捞越民都鲁",
+  "lat": 7.37,
+  "lon": 113.84,
+  "region": "南海",
+  "attacker": "无直接攻击方（背景：海警长期在沙捞越外海存在、外国船只闯入）",
+  "defender": "马来西亚皇家海军、皇家空军",
+  "outcome": "防务建设（非袭击事件）",
+  "domains": [
+   "空中",
+   "水面"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "不适用。",
+  "defense_means_cn": "燕子礁海军Lima站新增对空监视雷达（2029年前投入运行，与既有海上监视雷达互补）；Lima站另有可连续飞行约7小时的无人机；民都鲁新建海军基地（东部舰队司令部下的第4海军区），计划2030年建成；皇家空军在民都鲁、Bukit Puteri（登嘉楼）、Bukit Lunchu（柔佛）部署防空雷达。",
+  "narrative_cn": "2024年10月，马方宣布在沙捞越民都鲁新建海军基地，作为东部舰队司令部下的第4海军区，计划2030年前建成，媒体把它与中国海警在沙捞越外海的反复出现相联系。2026年6月中旬，国防部长卡立德·诺丁宣布，在燕子礁的海军Lima站增设对空监视雷达，场地先行准备，力争2029年全面运行；他说“外国船只仍在进入我们的水域，Lima站在探测和监视中作用重大”，该站还操作续航约7小时、昼夜可用的无人机。6月18日，空军司令描述了雷达网：民都鲁、登嘉楼的Bukit Puteri、柔佛的Bukit Lunchu部署防空雷达，燕子礁建空中监视雷达，目的是预警和填补空域盲区。各报道对雷达类型表述不一（防空雷达、空中监视雷达、远程雷达）。7月的后续报道主要是在竞选活动中重复该承诺，南华早报还把它与菲律宾重提沙巴主权相联系。本轮检索未发现燕子礁本身遭海警攻击或围堵的记录。",
+  "defense_effect_cn": "仍在规划期，尚无效果数据。2029和2030两个时间表远于眼前的海警存在问题；雷达解决的是空中态势感知，对海警船行动无直接制约；燕子礁补给、人员轮换及雷达建设的成本未检索到。",
+  "claims_compare_cn": "马方：强调增强海域和空域感知。中方：本轮检索未见针对该规划的表态。报道对雷达性质的描述不一致（防空/空中监视/远程）。",
+  "losses_cn": "不适用。",
+  "analysis_cn": "马方的做法是把对南海方向的防御分为三层：燕子礁前沿监视、民都鲁后方基地、全国雷达网。离岸岛礁的特点是自身难以防御，重点在于探测与预警，并依托后方基地快速到场。该案属防务建设类参考。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "New Straits Times",
+    "title": "[UPDATED] Air defence radar to boost South China Sea surveillance by 2029",
+    "title_cn": "防空雷达将于2029年前提升南海监视能力",
+    "author": "NST",
+    "date": "2026-06(日期未核实，URL含2026/06)",
+    "url": "https://www.nst.com.my/amp/news/nation/2026/06/1464781/air-defence-radar-boost-south-china-sea-surveillance-2029",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Bernama",
+    "title": "Layang-Layang radar（Bernama，标题未核实）",
+    "title_cn": "燕子礁雷达",
+    "author": "Bernama",
+    "date": "2026-06(日期未核实)",
+    "url": "https://bernama.com/en/news.php?id=2569404",
+    "type": "通讯社"
+   },
+   {
+    "publisher": "The Vibes",
+    "title": "MINDEF to install radar on Layang-Layang island to strengthen South China Sea surveillance",
+    "title_cn": "国防部将在燕子礁安装雷达以加强南海监视",
+    "author": "The Vibes",
+    "date": "2026(日期未核实)",
+    "url": "https://www.thevibes.com/articles/news/125224/mindef-to-install-radar-on-layang-layang-island-to-strengthen-south-china-sea-surveillance",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "South China Morning Post",
+    "title": "Malaysia upgrades South China Sea defences amid Sabah row with Philippines",
+    "title_cn": "马来西亚在与菲律宾的沙巴争端中升级南海防御",
+    "author": "SCMP",
+    "date": "2026-07(日期未核实)",
+    "url": "https://www.scmp.com/week-asia/politics/article/3361200/malaysia-upgrades-south-china-sea-defences-amid-sabah-row-philippines",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Free Malaysia Today",
+    "title": "New naval base for Sarawak amid rising South China Sea tensions",
+    "title_cn": "南海紧张之际沙捞越新建海军基地",
+    "author": "FMT",
+    "date": "2024-10-17",
+    "url": "https://freemalaysiatoday.com/category/nation/2024/10/17/new-naval-base-for-sarawak-amid-rising-south-china-sea-tensions",
+    "type": "专业媒体"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Swallow_Reef,_Spratly_Islands.png",
+    "file_name": "Swallow_Reef,_Spratly_Islands.png",
+    "desc_cn": "燕子礁（Swallow Reef）示意图",
+    "date": "未核实",
+    "credit": "未核实",
+    "license": "未核实（需打开文件页确认）",
+    "verified": true
+   },
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Swallow_Reef3_(cropped).jpg",
+    "file_name": "Swallow_Reef3_(cropped).jpg",
+    "desc_cn": "燕子礁影像（裁切）",
+    "date": "未核实",
+    "credit": "未核实",
+    "license": "未核实（需打开文件页确认）",
+    "verified": true
+   }
+  ],
+  "stats": {
+   "雷达目标运行时间": "2029年",
+   "民都鲁基地": "计划2030年建成",
+   "无人机续航": "约7小时"
+  }
+ },
+ {
+  "case_key": "scs_vietnam_spratly_reclamation_2025",
+  "category": "岛屿防卫",
+  "title_cn": "越南在南沙21处占据岛礁全部填海并建弹药库",
+  "subtitle_cn": "2025年 南沙群岛（Spratly Islands / 南沙群岛 / Quần đảo Trường Sa）：AMTI称越南新增8处填海，全部21处占据地物均含人工陆地（防务建设，非袭击事件）",
+  "date_start": "2025-01-01",
+  "date_end": "2025-08-22",
+  "location_cn": "南沙群岛越南占据岛礁（含Alison、Collins、East、Lansdowne、Petley等礁，Barque Canada礁）",
+  "lat": 8.6,
+  "lon": 112.0,
+  "region": "南海",
+  "attacker": "无直接攻击方",
+  "defender": "越南",
+  "outcome": "防务建设（非袭击事件）",
+  "domains": [
+   "水面",
+   "空中"
+  ],
+  "patterns": [
+   "单平台"
+  ],
+  "attack_means_cn": "不适用。",
+  "defense_means_cn": "填海造陆；新增礁上建有每处6个厚墙隔离的集装箱式弹药存放设施；Barque Canada礁在建约8000英尺（约2440米）跑道；港口建设以延长海军和执法力量在海时间。",
+  "narrative_cn": "CSIS亚洲海事透明倡议（AMTI）于2025年8月22日发布“No Islet Left Behind”报告称，2025年初以来越南把填海扩展到此前本轮（2021年起）未触及的8处地物，包括Alison、Collins、East、Lansdowne、Petley等礁；至此越南占据的21处岩礁和低潮高地均含人工陆地。至2025年3月，越南人工陆地约为中国在南沙造陆的70%；至2025年中，越南累计填海面积超过2300英亩，约为中国总量的三分之二（SAN转引）。AMTI评估，近期工程大量为港口，将延长越方海军和执法船只在海时间；在另外7处填海基本完成的岛礁上，已建或在建含弹药库在内的军事相关设施。新扩展的每处礁上建有6个厚墙隔开的集装箱式弹药存放设施；Barque Canada礁正建约8000英尺的跑道。中方表示反对（通过外交渠道，细节见SCMP报道）。本案是岛礁防御能力建设，而非遭袭案例；检索到的2024年另一越南案例为海警5901舰在先锋滩（Vanguard Bank）西侧越南油气区块巡逻（RFA，2024年1月）。",
+  "defense_effect_cn": "属建设中，尚无遭袭检验。AMTI的评估是其增加了越南在海上持续停留的能力；但填海地物本身仍受海平面、台风和补给线的制约，本轮未检索到相关量化数据。",
+  "claims_compare_cn": "AMTI：越南填海已达中国的约70%（2025年3月）至三分之二（2025年中）；中方：SCMP称中方誓言维护海洋权益；越南方面：本轮检索未见针对AMTI报告的官方回应。",
+  "losses_cn": "不适用。",
+  "analysis_cn": "越南的做法是“全覆盖+港口先行”，即先把所有占据点扩出人工陆地，再配备弹药存放和港口。对岛礁防卫的意义在于补给半径与滞留时间的拓展，而非单点防御强度。该案作为岛礁防卫趋势的背景条目。",
+  "confidence": "B",
+  "sources": [
+   {
+    "publisher": "CSIS AMTI",
+    "title": "No Islet Left Behind: Vietnam Reclaims Land at Every Remaining Spratly Outpost",
+    "title_cn": "没有岛礁被落下：越南在南沙每个剩余据点填海",
+    "author": "AMTI",
+    "date": "2025-08-22",
+    "url": "https://amti.csis.org/no-islet-left-behind-vietnam-reclaims-land-at-every-remaining-spratly-outpost/",
+    "type": "智库"
+   },
+   {
+    "publisher": "Pekingnology",
+    "title": "（AMTI报告转载，标题未核实）",
+    "title_cn": "转载",
+    "author": "Pekingnology",
+    "date": "2025-08(日期未核实)",
+    "url": "https://www.pekingnology.com/cp/172232783",
+    "type": "其他"
+   },
+   {
+    "publisher": "South China Morning Post",
+    "title": "China vows maritime rights defence amid US report on Vietnam's accelerated Spratly efforts",
+    "title_cn": "美方报告称越南加速南沙工程，中国誓言维护海洋权益",
+    "author": "SCMP",
+    "date": "2025(日期未核实)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3323086/china-vows-maritime-rights-defence-amid-us-report-vietnams-accelerated-spratly-efforts",
+    "type": "专业媒体"
+   },
+   {
+    "publisher": "Radio Free Asia",
+    "title": "Chinese 'monster' ship patrols near Vietnam's oil fields",
+    "title_cn": "中国“怪兽”船在越南油气田附近巡逻",
+    "author": "RFA",
+    "date": "2024-01-09",
+    "url": "https://www.rfa.org/english/news/southchinasea/chinese-monster-ship-01092024061622.html",
+    "type": "通讯社"
+   }
+  ],
+  "images": [
+   {
+    "file_page": "https://commons.wikimedia.org/wiki/Category:Spratly_Islands",
+    "file_name": "Category:Spratly_Islands",
+    "desc_cn": "南沙群岛分类页",
+    "date": "未核实",
+    "credit": "Wikimedia Commons",
+    "license": "未核实",
+    "verified": false
+   }
+  ],
+  "stats": {
+   "新增填海地物": "8处",
+   "占据地物": "21处均含人工陆地",
+   "越南/中国填海比": "约70%（2025-03）；2300+英亩（2025年中）",
+   "跑道": "Barque Canada礁约8000英尺在建"
+  }
+ }
+]

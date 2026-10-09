@@ -6,6 +6,8 @@
 
 第三组是台海、东海、南海、朝鲜半岛和波罗的海方向围绕岛屿的演习、执法巡查、炮击、无人机抵近和导航干扰等活动（{case:yeonpyeong_2024_01_05_artillery,kinmen_2024_02_14_capsize_boarding,kinmen_ccg_patrols_2024_2026,joint_sword_2024a_2024_05_23,joint_sword_2024b_2024_10_14,strait_thunder_2025a_2025_04_01,justice_mission_2025_2025_12_29,yonaguni_2025_11_drone_and_sam,pagasa_2026_03_25_frigate_close,bs_gotland_bornholm_2024_2026,bs_denmark_drones_2025_09_22}），以及2024年12月美军在关岛进行的"标准-3" Block IIA拦截试验（{case:guam_2024_12_10_ftm_intercept}，试验而非实战）。这一组没有发生直接的火力攻防，但涉及离岛与要港封控、补给与执法、岛上防空部署和电磁环境等问题，对岛屿防卫的需求论证同样有参照价值。涉及台海方向的案例，本汇编并列中国国防部、东部战区、中国海警局通报与台湾方面通报，不作评判。
 
+第四组是南海周边国家的岛礁防务建设：越南在南沙所占21处岛礁全部完成吹填并在柏礁修建跑道，美菲在吕宋北部和巴坦群岛部署"堤丰"中程导弹系统与"海军打击导弹"岸基反舰系统，印度尼西亚升级纳土纳空军基地，马来西亚拟在燕子礁部署对空监视雷达（{case:vn_spratly_reclamation_2023_2026,luzon_strait_typhon_nmesis_2024_2026,scs_natuna_buildup_2025,scs_layanglayang_radar_2026}）。这一组不是遇袭事件，结果栏标为"防务建设"，作为岛屿防卫态势的参照收录。
+
 {fig:f_asia}给出了亚太方向岛屿与岛礁案例的分布，{fig:f_mideast}给出了东地中海与波斯湾方向案例的分布。
 
 !fig f_asia|f_asia.png|亚太方向案例分布（岛屿、岛礁与海缆）|本报告根据所收录案例坐标绘制|130
