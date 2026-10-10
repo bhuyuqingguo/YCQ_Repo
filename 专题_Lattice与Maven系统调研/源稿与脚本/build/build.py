@@ -32,16 +32,16 @@ PHOTOS = os.path.abspath(os.path.join(ROOT, '..', 'research_notes', 'Lattice与M
 for d in (OUT, IMGS):
     os.makedirs(d, exist_ok=True)
 
-TITLE_MAIN = '边缘网格与目标工厂'
-TITLE_SUB = '——Anduril Lattice 与 Maven Smart System 两系统深度调研（2017—2026）'
-BASENAME = '析光专题_Lattice与Maven系统深度调研'
-ISSUE = '专题 · 2026年10月'
-COLUMN = '专题调研｜DEEP DIVE'
+TITLE_MAIN = '算法战双核'
+TITLE_SUB = '——美军“边缘神经网”与“目标工厂”：Anduril Lattice 与 Palantir Maven Smart System 全景解析（2017—2026）'
+BASENAME = '析光特情_算法战双核_Lattice与Maven全景解析'
+ISSUE = '特情 · 2026年10月'
+COLUMN = '体系研判｜SYSTEM'
 ACCESS = '2026-10-10'
 DELIVER = os.path.join(ROOT, '成品')
 MODE = {'name': 'full'}
-BRIEF_BASENAME = '析光专题精要_Lattice与Maven系统调研精要'
-BRIEF_TITLE_SUB = '——Lattice 与 Maven 两系统调研精要（总结·概括·架构·统计·观点）'
+BRIEF_BASENAME = '析光特情精要版_算法战双核_Lattice与Maven'
+BRIEF_TITLE_SUB = '——美军“边缘神经网”与“目标工厂”精要版（总结·概括·架构·统计·观点）'
 
 # GB/T 7714 网络文献：访问日期改为本期检索日
 _ref_entry = xgengine.ref_entry
@@ -59,15 +59,15 @@ class LMDocx(DocxBuilder):
         hp = s.header.paragraphs[0]
         hp.alignment = WD_ALIGN_PARAGRAPH.LEFT
         p_tabs(hp, 9070, 'right', 'none')
-        r = hp.add_run('XIGUANG · DEEP DIVE'); set_run(r, HEI, 9, color=NAVY)
-        r = hp.add_run('\t《析光》专题 · Lattice 与 Maven'); set_run(r, HEI, 9, color=GREY)
+        r = hp.add_run('XIGUANG · INTELLIGENCE REPORT'); set_run(r, HEI, 9, color=NAVY)
+        r = hp.add_run('\t《析光》特情 · 2026年10月'); set_run(r, HEI, 9, color=GREY)
         p_border(hp, 'bottom', '12233B', '6')
 
     def footer(self, s, mode):
         fp = s.footer.paragraphs[0]
         fp.alignment = WD_ALIGN_PARAGRAPH.CENTER
         if mode == 'digest':
-            r = fp.add_run('专题精要 · '); set_run(r, SONG, 10.5, color=GREY)
+            r = fp.add_run('特情精要 · '); set_run(r, SONG, 10.5, color=GREY)
             field_inline(fp, ' PAGE ', '1', SONG, 10.5, GREY)
         elif mode == 'front':
             r = fp.add_run('析光·科研情报｜鸿眼·无人体系中心　　看得早·看得懂·看得准·看得透')
@@ -81,7 +81,7 @@ class LMDocx(DocxBuilder):
         p = self.para(WD_ALIGN_PARAGRAPH.CENTER, indent=False, line=None, before=14)
         p_border(p, 'bottom', 'A8842F', '6')
         p = self.para(WD_ALIGN_PARAGRAPH.CENTER, indent=False, line=None, before=4)
-        add_text(p, '—— 本文完 ｜《析光》2026年10月专题 · Lattice 与 Maven ——', KAI, 10, False, GREY,
+        add_text(p, '—— 本文完 ｜《析光》2026年10月特情 · 体系研判 ——', KAI, 10, False, GREY,
                  kai_brackets=False)
 
 
@@ -106,7 +106,7 @@ class LMHtml(HtmlBuilder):
         return HtmlBuilder.b_figure(self, b)
 
     def b_close(self, b):
-        self.add('<div class="close">—— 本文完 ｜《析光》2026年10月专题 · Lattice 与 Maven ——</div>')
+        self.add('<div class="close">—— 本文完 ｜《析光》2026年10月特情 · 体系研判 ——</div>')
 
 
 # ---------------------------------------------------------------- 源稿解析
@@ -331,21 +331,20 @@ def covers():
     brief = MODE['name'] == 'brief'
     if brief:
         cov = cov.replace('cover.png', 'cover_brief.png')
-    xc.make_cover(cov, title=['Lattice 与 Maven', '两系统调研精要' if brief else '两系统深度调研'],
-                  subtitle=('总结 · 概括 · 架构 · 统计 · 观点' if brief else
-                            '边缘网格与目标工厂：前世今生·功能·架构·能力·案例·合作·合同'),
-                  issue='专 题 · 2026 年 10 月', org=org)
+    xc.make_cover(cov, title=['算法战双核', 'Lattice 与 Maven 全景解析' + ('（精要版）' if brief else '')],
+                  subtitle='美军“边缘神经网”与“目标工厂”',
+                  issue='特 情 · 2026 年 10 月', org=org)
     im = Image.open(cov); d = ImageDraw.Draw(im)
     f = xc.font(xc.F_BOLD, 44)
     d.rectangle([630, 1580, 870, 1660], fill=xc.NAVY)
-    xc.tracked(d, (750, 1636), '精　要' if brief else '专　题', f, (255, 255, 255), target_w=150, anchor='ms')
+    xc.tracked(d, (750, 1636), '特　情', f, (255, 255, 255), target_w=150, anchor='ms')
     im.save(cov)
-    xc.make_back(back, issue='专 题', date='2026 年 10 月', org=org)
+    xc.make_back(back, issue='特 情', date='2026 年 10 月', org=org)
     return cov, back
 
 
 # ---------------------------------------------------------------- docx
-EDIT_ROWS = [('刊　　名', '《析光》科研情报刊物 · 专题'), ('期　　次', ISSUE),
+EDIT_ROWS = [('刊　　名', '《析光》科研情报刊物 · 特情'), ('期　　次', ISSUE),
              ('题　　目', TITLE_MAIN + TITLE_SUB), ('编　　制', '无人体系中心 · 鸿眼科情团队'),
              ('资料截止', '2026年10月10日（检索日期 2026年10月10日）'),
              ('资料性质', '公开来源情报（OSINT）汇编与分析；各方口径并列呈现，弱源与推断均已标注'),
@@ -380,7 +379,7 @@ def build_docx(ctx, secs, cov, back, pages=None, path=None):
     D.full_image(cov)
     if not brief:
         s = D.new_section('digest'); D.header(s); D.footer(s, 'digest'); D.pg_start(s, 1)
-        D.plain_heading('专 题 精 要', outline=0, before=4, after=10)
+        D.plain_heading('特 情 精 要', outline=0, before=4, after=10)
         D.render(ctx['digest_blocks'])
     s = D.new_section('front'); D.footer(s, 'front')
     if not brief:
@@ -562,9 +561,9 @@ def build_html(cov, back):
             + '</tbody></table>')
     doc = ('<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">'
            '<meta name="viewport" content="width=device-width,initial-scale=1">'
-           '<title>Lattice与Maven深度调研</title><style>%s</style></head><body>'
-           '<div class="band"><span>XIGUANG · DEEP DIVE</span><span>《析光》%s</span></div>'
-           '%s<div class="digest"><h2>专 题 精 要</h2>%s</div>'
+           '<title>算法战双核</title><style>%s</style></head><body>'
+           '<div class="band"><span>XIGUANG · INTELLIGENCE REPORT</span><span>《析光》%s</span></div>'
+           '%s<div class="digest"><h2>特 情 精 要</h2>%s</div>'
            '<h2 class="chapter" id="abstract">摘　要</h2>%s'
            '<h2 class="chapter" id="toc">目　录</h2><div class="toc">%s</div>'
            '<h2 class="chapter">插图目录</h2><div class="toc">%s</div>'
@@ -573,7 +572,7 @@ def build_html(cov, back):
            '<div class="colbar">◆ %s</div>'
            '<h1 class="title">%s</h1><div class="subtitle">%s</div>'
            '<div class="byline">文｜无人体系中心科技情报组（鸿眼）</div>'
-           '%s%s<div class="close">—— 本文完 ｜《析光》2026年10月专题 · Lattice 与 Maven ——</div>%s'
+           '%s%s<div class="close">—— 本文完 ｜《析光》2026年10月特情 · 体系研判 ——</div>%s'
            '<div class="brand">鸿眼 HONGEYE ｜ 析光 XIGUANG · 看得早 · 看得懂 · 看得准 · 看得透</div>%s'
            '</body></html>') % (HTML_CSS, ISSUE, cover, ''.join(hb_d.parts), ''.join(hb_a.parts), toc, lof, lot,
                                 ISSUE, COLUMN, H.escape(TITLE_MAIN), H.escape(TITLE_SUB), ''.join(hb.parts),
