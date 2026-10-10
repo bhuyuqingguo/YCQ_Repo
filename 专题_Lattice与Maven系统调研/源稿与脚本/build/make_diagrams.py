@@ -333,11 +333,11 @@ def d_timeline():
         if side == 'L':
             ax.plot([33.5, 45.8], [y, y], color=col, lw=0.6, ls=':')
             text(ax, 33, y, t, size=6.0, ha='right', color=NAVY)
-            text(ax, 41.5, y + 0.0, d[5:] + '月', size=5.4, color=col)
+            text(ax, 41.5, y, d[5:] + '月', size=5.4, color=col, bbox=dict(boxstyle='square,pad=0.15', fc=CREAM, ec='none'))
         else:
             ax.plot([54.2, 66.5], [y, y], color=col, lw=0.6, ls=':')
             text(ax, 67, y, t, size=6.0, ha='left', color=NAVY)
-            text(ax, 58.5, y + 0.0, d[5:] + '月', size=5.4, color=col)
+            text(ax, 58.5, y, d[5:] + '月', size=5.4, color=col, bbox=dict(boxstyle='square,pad=0.15', fc=CREAM, ec='none'))
     return save(fig, 'd_timeline.png')
 
 if __name__ == '__main__':

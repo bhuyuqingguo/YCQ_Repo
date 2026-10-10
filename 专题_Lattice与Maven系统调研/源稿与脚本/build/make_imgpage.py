@@ -33,13 +33,15 @@ def alt_urls(u):
     return out
 
 
-def main():
-    data = json.load(open(SRC, encoding='utf-8'))
+def main(src=SRC, out=OUT, title_note=''):
+    data = json.load(open(src, encoding='utf-8'))
     items = []
     for d in data:
         url = d.get('image_url') or ''
-        items.append({'case': SEC.get(d['section'], d['section']), 'desc': d['caption_zh'][:80],
-                      'url': url, 'alts': alt_urls(url), 'page': d.get('page_url') or url,
+        if not url and title_note:
+            continue
+        items.append({'case': SEC.get(d.get('section', ''), d.get('section', '补抓')), 'desc': d['caption_zh'][:80],
+                      'url': url, 'alts': (d.get('alt_urls') or []) + alt_urls(url), 'page': d.get('page_url') or url,
                       'save_as': 'lm_' + d['id'], 'license': d.get('license', '')})
     tpl = imgpage.TPL
     tpl = tpl.replace('特情配图采集清单', 'Lattice与Maven配图采集清单')
@@ -61,12 +63,24 @@ def main():
   if(!u) throw new Error('no direct url');
   for (const x of [thumbUrl(u), u, ...(alts||[])]) { if(!x) continue;''')
     tpl = tpl.replace('const raw = await getBlob(it.url);', 'const raw = await getBlob(it.url, it.alts);')
+    # 站点不允许跨域抓取时，经 wsrv.nl 图片中转（返回 CORS 头）再试
+    tpl = tpl.replace('''    try{ const r=await fetch(x,{mode:'cors'}); if(r.ok) return await r.blob(); }catch(e){} }
+  throw new Error('fetch failed');''', '''    try{ const r=await fetch(x,{mode:'cors'}); if(r.ok) return await r.blob(); }catch(e){} }
+  for (const x of [u, ...(alts||[])]) {
+    try{ const r=await fetch('https://wsrv.nl/?url='+encodeURIComponent(x)+'&w=1600&output=jpg',{mode:'cors'}); if(r.ok) return await r.blob(); }catch(e){} }
+  throw new Error('fetch failed');''')
+    assert 'wsrv.nl' in tpl
     assert 'getBlob(it.url, it.alts)' in tpl and 'needs' not in tpl
-    os.makedirs(os.path.dirname(OUT), exist_ok=True)
+    if title_note:
+        tpl = tpl.replace('—— 配图采集清单</h1>', '—— 配图采集清单（%s）</h1>' % title_note)
+    os.makedirs(os.path.dirname(out), exist_ok=True)
     imgpage.TPL = tpl
-    imgpage.build(items, OUT)
-    print(OUT, len(items), sum(1 for i in items if i['url']))
+    imgpage.build(items, out)
+    print(out, len(items))
 
 
 if __name__ == '__main__':
-    main()
+    if len(sys.argv) > 2:
+        main(sys.argv[1], sys.argv[2], sys.argv[3] if len(sys.argv) > 3 else '')
+    else:
+        main()

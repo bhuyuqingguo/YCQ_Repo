@@ -63,6 +63,8 @@ async function getBlob(u, alts){
   if(!u) throw new Error('no direct url');
   for (const x of [thumbUrl(u), u, ...(alts||[])]) { if(!x) continue;
     try{ const r=await fetch(x,{mode:'cors'}); if(r.ok) return await r.blob(); }catch(e){} }
+  for (const x of [u, ...(alts||[])]) {
+    try{ const r=await fetch('https://wsrv.nl/?url='+encodeURIComponent(x)+'&w=1600&output=jpg',{mode:'cors'}); if(r.ok) return await r.blob(); }catch(e){} }
   throw new Error('fetch failed');
 }
 function save(blob,name){ const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=name; a.click(); }
