@@ -369,7 +369,8 @@ def collect_toc(blocks):
             toc.append((0, ('%s、%s' % (b['num'], b['name'])) if b['num'] else b['name'], b['anchor']))
         elif b['t'] == 'h1':
             toc.append((1, b['text'], b['anchor']))
-    toc.append((0, '参考文献', 'refs'))
+    if MODE['name'] != 'brief':
+        toc.append((0, '参考文献', 'refs'))
     return toc
 
 
@@ -403,7 +404,12 @@ def build_docx(ctx, secs, cov, back, pages=None, path=None):
     D.masthead()
     D.title(TITLE_MAIN, BRIEF_TITLE_SUB if brief else TITLE_SUB)
     D.render(ctx['body_blocks'])
-    D.refs()
+    if brief:
+        p = D.para(WD_ALIGN_PARAGRAPH.LEFT, indent=False, line=20, before=12)
+        add_text(p, '说明：本精要版各项事实与数字的出处，见《算法战双核》完整版正文引注与参考文献。', KAI, 11, False, GREY,
+                 kai_brackets=False)
+    else:
+        D.refs()
     D.b_close({})
     D.b_pagebreak({})
     edit_page(D)
@@ -456,7 +462,10 @@ def locate_pages(pdf, entries):
 def prepare(include_remote):
     ctx = make_ctx()
     if MODE['name'] == 'brief':
-        secs = {'digest': '', 'abstract': '', 'body': read('brief'), 'appendix': ''}
+        # 精要版：去掉行内引注（出处见完整版），自绘图收窄，免参考文献
+        b = re.sub(r'\s*\[@[^\]]+\]', '', read('brief'))
+        b = re.sub(r'^(!fig [^|]*\|[^|]*\|[^|]*\|[^|]*)\|\s*\d+\s*$', r'\1|135', b, flags=re.M)
+        secs = {'digest': '', 'abstract': '', 'body': b, 'appendix': ''}
     else:
         secs = {k: read(k) for k in ('digest', 'abstract', 'body', 'appendix')}
     body = dedupe_photos(parse_markup(secs['body'], ctx) + (parse_markup(secs['appendix'], ctx) if secs['appendix'] else []))
@@ -496,7 +505,8 @@ def main(mode='full'):
             fn += 1; entries.append(('图%d%s' % (fn, b['caption']), 'fig_%d' % fn))
         elif b['t'] == 'table' and not b.get('nonum'):
             tn += 1; entries.append(('表%d%s' % (tn, b['caption']), 'tab_%d' % tn))
-    entries.append(('参考文献', 'refs'))
+    if mode != 'brief':
+        entries.append(('参考文献', 'refs'))
     pages = {}
     for it in range(4):
         by_key = ctx['refs'].by_key
