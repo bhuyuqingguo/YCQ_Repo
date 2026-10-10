@@ -214,7 +214,7 @@ NGC2 被描述为“传输、基础设施、数据、应用”四层技术栈，
 
 第五步，执行与评估。巡飞弹与无人艇执行打击，系统自动改派侦察平台做毁伤评估[@la_blog_edge23]，评估数据回流至战区平台更新目标列表。
 
-第六步，盟军协同（推断）。近岸拒止作战涉及盟国平台与盟国指挥体系。台湾陆军称 2025 年共收到 131 架 ALTIUS[@co_bnn_crashes]；澳大利亚 Ghost Shark 经批准后可出口美国等国[@co_minister_ghostshark]；日本拟议的“MSS 加 Lattice 加国产监督层”方案若落地，将形成美日共用两系统的格局[@co_defpost_japan]。盟军平台能否接入同一 Lattice 网格、目标数据按何种可释放规则共享，均无公开依据。各步流程汇总于{tab:t_ops_maritime}。
+第六步，盟军协同（推断）。近岸拒止作战涉及盟国平台与盟国指挥体系。台湾陆军称 2025 年共收到 131 架 ALTIUS[@co_defpost_taiwan_2508,co_bnn_crashes]；澳大利亚 Ghost Shark 经批准后可出口美国等国[@co_minister_ghostshark,co_navalnews_ghostshark,co_sldinfo_ghostshark]；日本拟议的“MSS 加 Lattice 加国产监督层”方案若落地，将形成美日共用两系统的格局[@co_defpost_japan]。盟军平台能否接入同一 Lattice 网格、目标数据按何种可释放规则共享，均无公开依据。各步流程汇总于{tab:t_ops_maritime}。
 
 !table t_ops_maritime|想定四：海上与近岸无人拒止流程（构想与推断）|本报告分析性构建；本想定多数步骤无直接依据，依据栏列可参照的相关事实|16,30,26,46,42
 步骤|系统|人/机|依据|薄弱点
