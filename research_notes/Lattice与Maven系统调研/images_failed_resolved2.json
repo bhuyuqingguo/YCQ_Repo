@@ -1,0 +1,480 @@
+[
+  {
+    "id": "anduril_hq_costa_mesa",
+    "caption_zh": "Anduril科斯塔梅萨总部园区（原《洛杉矶时报》印刷厂旧址）",
+    "page_url": "https://clui.org/projects/remote-sensing/aerospace-southern-california/anduril-industries-headquarters",
+    "image_url": null,
+    "alt_urls": [],
+    "credit": "Center for Land Use Interpretation",
+    "license": "CLUI copyright; ask permission",
+    "confidence": "none",
+    "note": "CLUI 版权图，未找到 Commons/政府公有领域替代照片。 第二轮补检仍未找到（WebFetch 无法访问目标站点，WebSearch 未返回图片直链）。"
+  },
+  {
+    "id": "yfq44_aftc",
+    "caption_zh": "YFQ-44A生产代表性试验机停放在科斯塔梅萨的试验舱内（2025年5月1日，CCA地面测试开始）",
+    "page_url": "https://www.aflcmc.af.mil/News/Photos/igphoto/2003702564/",
+    "image_url": "https://media.defense.gov/2025/May/01/2003702564/-1/-1/0/250501-F-F3227-1003.JPG",
+    "alt_urls": [
+      "https://media.defense.gov/2025/May/02/2003702564/-1/-1/0/250501-F-F3227-1003.JPG",
+      "https://media.defense.gov/2025/May/30/2003702564/-1/-1/0/250501-F-F3227-1003.JPG",
+      "https://media.defense.gov/2025/May/01/2003702563/-1/-1/0/250501-F-F3227-1003.JPG",
+      "https://media.defense.gov/2025/May/02/2003702563/-1/-1/0/250501-F-F3227-1003.JPG",
+      "https://media.defense.gov/2025/May/30/2003702563/-1/-1/0/250501-F-F3227-1003.JPG",
+      "https://media.defense.gov/2025/May/01/2003702563/-1/-1/0/250501-F-F3227-1001.JPG",
+      "https://media.defense.gov/2025/May/01/2003702564/-1/-1/0/250501-F-F3227-1001.JPG"
+    ],
+    "credit": "U.S. Air Force courtesy photo (Master Sgt. Gustavo Castillo)",
+    "license": "Public domain (US federal government work)",
+    "confidence": "derived",
+    "note": "AFTC igphoto 2003851594 内容为同一试验舱场景（署名 Trevor Dalton，文件名未查到）。改用 AFLCMC 首发的同场景照片：VIRIN 250501-F-F3227-1003 / -1001，igphoto 2003702563/2003702564（两者与文件名的对应关系未确认，alt 中给出交叉组合）。日期目录取 May/01（2025-05-01 发布“DAF begins ground testing for CCA”）。"
+  },
+  {
+    "id": "yfq44_edwards",
+    "caption_zh": "空军维护人员与Anduril技术人员在爱德华兹基地维护YFQ-44A",
+    "page_url": "https://www.af.mil/News/Photos/igphoto/2003914938/mediaid/9995378/",
+    "image_url": "https://media.defense.gov/2026/Apr/09/2003914938/-1/-1/0/260406-F-AT754-1299.JPG",
+    "alt_urls": [
+      "https://media.defense.gov/2026/Apr/08/2003914938/-1/-1/0/260406-F-AT754-1299.JPG",
+      "https://media.defense.gov/2026/Apr/10/2003914938/-1/-1/0/260406-F-AT754-1299.JPG",
+      "https://media.defense.gov/2026/Apr/07/2003914938/-1/-1/0/260406-F-AT754-1299.JPG",
+      "https://media.defense.gov/2026/Apr/13/2003914938/-1/-1/0/260406-F-AT754-1299.JPG",
+      "https://media.defense.gov/2026/Apr/08/2003913873/-1/-1/0/260406-F-AT754-1299.JPG",
+      "https://media.defense.gov/2026/Apr/09/2003913873/-1/-1/0/260406-F-AT754-1299.JPG",
+      "https://media.defense.gov/2026/Apr/08/2003913878/-1/-1/0/260406-F-AT754-1299.JPG",
+      "https://media.defense.gov/2026/Apr/09/2003913878/-1/-1/0/260406-F-AT754-1299.JPG"
+    ],
+    "credit": "U.S. Air Force photo by Ariana Ortega",
+    "license": "Public domain (US federal government work)",
+    "confidence": "derived",
+    "note": "igphoto 2003914938 已确认对应 VIRIN 260406-F-AT754-1299（Ariana Ortega 拍摄，EOU 人员与 Anduril 技术人员在爱德华兹维护 YFQ-44A）。发布日期未查到，日期目录取 Apr/09，alt 给出 08/10/07/13；同一照片在 afmc.af.mil 另有 igphoto 2003913873/2003913878，原始上传 id 可能是其中之一，alt 末尾附这两个 id 的变体。"
+  },
+  {
+    "id": "yfq44_creech_1",
+    "caption_zh": "YFQ-44A在克里奇空军基地（2026年7月，实验作战部队）",
+    "page_url": "https://www.af.mil/News/Photos/igphoto/2003970708/mediaid/10244052/",
+    "image_url": null,
+    "alt_urls": [],
+    "credit": "U.S. Air Force",
+    "license": "Public domain (US federal government work)",
+    "confidence": "none",
+    "note": "igphoto 2003970708 的文件名（VIRIN）未检索到，无法推导。同组已知文件：260720-F-NV774-1009（2003970710，见 yfq44_creech_2）、260721-F-NO357-1002/1003（加油/启动，eglin/acc 转载，原始 igphoto id 不明）。建议直接用 yfq44_creech_2，或打开页面手动下载。"
+  },
+  {
+    "id": "yfq44_creech_2",
+    "caption_zh": "YFQ-44A“狂怒”停放在克里奇空军基地航线上，进行武器挂载（实验作战部队，2026年7月）",
+    "page_url": "https://www.af.mil/News/Photos/igphoto/2003970710/mediaid/10244055/",
+    "image_url": "https://media.defense.gov/2026/Jul/23/2003970710/-1/-1/0/260720-F-NV774-1009.JPG",
+    "alt_urls": [
+      "https://media.defense.gov/2026/Jul/22/2003970710/-1/-1/0/260720-F-NV774-1009.JPG",
+      "https://media.defense.gov/2026/Jul/24/2003970710/-1/-1/0/260720-F-NV774-1009.JPG",
+      "https://media.defense.gov/2026/Jul/21/2003970710/-1/-1/0/260720-F-NV774-1009.JPG",
+      "https://media.defense.gov/2026/Jul/27/2003970710/-1/-1/0/260720-F-NV774-1009.JPG"
+    ],
+    "credit": "U.S. Air Force photo by Senior Airman Renee Blundon",
+    "license": "Public domain (US federal government work)",
+    "confidence": "derived",
+    "note": "igphoto 2003970710 已确认对应 VIRIN 260720-F-NV774-1009.JPG（Renee Blundon 拍摄）。发布日期未查到，日期目录取 Jul/23，alt 给出 22/24/21/27。"
+  },
+  {
+    "id": "yfq44_firstflight_press",
+    "caption_zh": "YFQ-44A于2025年10月31日首飞（Anduril/空军部提供照片）",
+    "page_url": "https://breakingdefense.com/2025/10/anduril-drone-wingman-prototype-makes-first-flight-air-force-says/",
+    "image_url": null,
+    "alt_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3d/Drone_Anduril_YFQ-44_au_Salon_du_Bourget_2025.jpg"
+    ],
+    "credit": "Anduril Industries courtesy photo via U.S. Air Force",
+    "license": "Company press image (courtesy release)",
+    "confidence": "none",
+    "note": "Anduril 提供的首飞照片没有找到公司 CDN 直链；alt 为 2025 年巴黎航展 YFQ-44 照片（CC BY 4.0，与候选 yfq44_paris2025 重复）。 第二轮补检仍未找到（WebFetch 无法访问目标站点，WebSearch 未返回图片直链）。"
+  },
+  {
+    "id": "ghost_shark_minister",
+    "caption_zh": "首艘“幽灵鲨”XL-AUV原型停放在悉尼花园岛码头（2024年4月）",
+    "page_url": "https://www.minister.defence.gov.au/media-releases/2024-04-18/first-autonomous-undersea-vehicle-ghost-shark-prototype-ready",
+    "image_url": "https://region.com.au/wp-content/uploads/sites/12/2024/04/afaaae64c20ac0105572370c657cd8d48b620692-6000x4000-1-1200x761.jpg",
+    "alt_urls": [
+      "https://region.com.au/wp-content/uploads/sites/12/2024/04/20240418adf8630742_Ghost-Shark-copy-1-1200x653.jpg"
+    ],
+    "credit": "Anduril Australia",
+    "license": "media image (© Anduril Australia)",
+    "confidence": "search-reported",
+    "note": "region.com.au 2024-04 报道配图（图注：首艘原型停放在悉尼花园岛码头，Photo: Anduril Australia），文件名显示原图来自 Anduril 的 Sanity CDN（6000x4000），未验证。alt 为同文的 ADF 概念图（© Commonwealth of Australia）。"
+  },
+  {
+    "id": "ghost_shark_ran_hammond",
+    "caption_zh": "首艘“幽灵鲨”XL-AUV原型停放在悉尼花园岛码头（2024年4月）",
+    "page_url": "https://www.bairdmaritime.com/ausmarine/featured/column-australias-ghost-shark-auv-the-end-of-conventional-manned-submarines-the-boroscope",
+    "image_url": "https://region.com.au/wp-content/uploads/sites/12/2024/04/afaaae64c20ac0105572370c657cd8d48b620692-6000x4000-1-1200x761.jpg",
+    "alt_urls": [
+      "https://region.com.au/wp-content/uploads/sites/12/2024/04/20240418adf8630742_Ghost-Shark-copy-1-1200x653.jpg"
+    ],
+    "credit": "Anduril Australia",
+    "license": "media image (© Anduril Australia)",
+    "confidence": "search-reported",
+    "note": "哈蒙德中将发布的原图没有找到；与 ghost_shark_minister 同图（同一原型、同一时期）。"
+  },
+  {
+    "id": "ghost_shark_production",
+    "caption_zh": "首艘量产型“幽灵鲨”在Anduril悉尼工厂下线（2025年11月）",
+    "page_url": "https://breakingdefense.com/2025/11/first-ghost-shark-extra-large-auv-delivered-to-australian-navy/",
+    "image_url": null,
+    "alt_urls": [
+      "https://region.com.au/wp-content/uploads/sites/12/2024/04/afaaae64c20ac0105572370c657cd8d48b620692-6000x4000-1-1200x761.jpg",
+      "https://region.com.au/wp-content/uploads/sites/12/2024/04/20240418adf8630742_Ghost-Shark-copy-1-1200x653.jpg"
+    ],
+    "credit": "Anduril Australia",
+    "license": "Company press image",
+    "confidence": "none",
+    "note": "2025-11 量产型下线照片的直链未找到；alt 为 2024-04 原型照片和 ADF 概念图（不是量产型，慎用）。"
+  },
+  {
+    "id": "barracuda_500m_press",
+    "caption_zh": "Anduril Barracuda-500地面发射构型试射（公司图）",
+    "page_url": "https://theaviationist.com/2026/05/16/anduril-to-supply-surface-launched-barracuda-500m-us-army/",
+    "image_url": "https://www.calibredefence.co.uk/wp-content/uploads/2025/09/eOZ4yJEA.jpg",
+    "alt_urls": [
+      "https://www.twz.com/wp-content/uploads/2024/09/barracuda-air-vehicles-family-break-cover.jpg",
+      "https://cdn.militaeraktuell-cdn.at/wp-content/uploads/2026/05/18110040/00214_%C2%A9Anduril-324x160.jpeg"
+    ],
+    "credit": "Anduril Industries",
+    "license": "media image (© Anduril Industries)",
+    "confidence": "search-reported",
+    "note": "Calibre Defence 文章头图（Anduril 提供，Barracuda-500 地面发射构型，即 500M 的前身），未验证。alt：TWZ 的 Barracuda 系列合影；militaeraktuell 的 Barracuda-500M 小缩略图（324px）。"
+  },
+  {
+    "id": "bolt_m_press",
+    "caption_zh": "Anduril Bolt-M单兵便携巡飞弹（公司图）",
+    "page_url": "https://www.twz.com/air/bolt-m-aims-to-make-kamikaze-drone-attacks-more-user-friendly-effective",
+    "image_url": "https://cdn.militaeraktuell-cdn.at/wp-content/uploads/2026/01/17221704/07120_c_Anduril-1068x712.jpg",
+    "alt_urls": [
+      "https://i.thedefensepost.com/wp-content/uploads/2024/10/bolt-interface-1024x576.jpg"
+    ],
+    "credit": "Anduril Industries",
+    "license": "media image (© Anduril Industries)",
+    "confidence": "search-reported",
+    "note": "DVIDS/军方没有 Bolt-M 照片。直链来自 militaeraktuell.at 文章（图注 ©Anduril，1068px 宽缩略版），未实际打开验证。alt 为 The Defense Post 刊登的 Bolt 操控界面图（Anduril 提供）。"
+  },
+  {
+    "id": "anvil_press",
+    "caption_zh": "Anduril Anvil动能拦截无人机（公司图）",
+    "page_url": "https://techcrunch.com/?p=2167554",
+    "image_url": null,
+    "alt_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/4f/Marine_Air_Defense_Integrated_System_%28MADIS%29_Mk1_and_Mk2.jpg"
+    ],
+    "credit": "Anduril Industries",
+    "license": "Company press image",
+    "confidence": "none",
+    "note": "Anvil 本体照片无直链。alt 为 MADIS Mk1/Mk2 照片（Anduril 为其提供 C-UAS 交战系统/Anvil，不是 Anvil 本体；与候选 madis_mk1_mk2 重复）。 第二轮补检仍未找到（WebFetch 无法访问目标站点，WebSearch 未返回图片直链）。"
+  },
+  {
+    "id": "pulsar_press",
+    "caption_zh": "Anduril Pulsar电磁战系统（公司图，2024年5月发布）",
+    "page_url": "https://www.anduril.com/pulsar",
+    "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2024/05/anduril-pulsar.jpg",
+    "alt_urls": [],
+    "credit": "Anduril Industries",
+    "license": "media image (© Anduril Industries)",
+    "confidence": "search-reported",
+    "note": "Interesting Engineering 发布 Pulsar 的报道头图（Anduril 提供），未验证。"
+  },
+  {
+    "id": "pulsar_l_press",
+    "caption_zh": "Anduril Pulsar-L轻型电子战系统发布",
+    "page_url": "https://www.anduril.com/news/introducing-pulsar-l-the-lightweight-ew-system-for-rapid-deployment",
+    "image_url": null,
+    "alt_urls": [],
+    "credit": "Anduril Industries",
+    "license": "Company press image",
+    "confidence": "none",
+    "note": "公司新闻页，未找到可用直链。 第二轮补检仍未找到（WebFetch 无法访问目标站点，WebSearch 未返回图片直链）。"
+  },
+  {
+    "id": "menace_t_press",
+    "caption_zh": "Anduril Menace-T单兵便携C4边缘计算套件",
+    "page_url": "https://www.anduril.com/menace-t",
+    "image_url": null,
+    "alt_urls": [],
+    "credit": "Anduril Industries",
+    "license": "Company press image",
+    "confidence": "none",
+    "note": "公司产品页，未找到可用直链。 第二轮补检仍未找到（WebFetch 无法访问目标站点，WebSearch 未返回图片直链）。"
+  },
+  {
+    "id": "counter_intrusion_press",
+    "caption_zh": "Anduril反入侵（Sentry/Wisp/Lattice）产品页",
+    "page_url": "https://www.anduril.com/land/counter-intrusion",
+    "image_url": null,
+    "alt_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a1/Anduril_Sentry_Tower_-_BFSP_2.jpg"
+    ],
+    "credit": "Anduril Industries",
+    "license": "Company press image",
+    "confidence": "none",
+    "note": "产品页无直链；alt 为 Sentry 塔 Commons 照片（CC0，与候选 sentry_bfsp 重复）。 第二轮补检仍未找到（WebFetch 无法访问目标站点，WebSearch 未返回图片直链）。"
+  },
+  {
+    "id": "seapower_press",
+    "caption_zh": "Anduril海上产品线（Dive-LD/Copperhead/Seabed Sentry）",
+    "page_url": "https://www.anduril.com/sea/seapower",
+    "image_url": null,
+    "alt_urls": [],
+    "credit": "Anduril Industries",
+    "license": "Company press image",
+    "confidence": "none",
+    "note": "公司产品页，未找到可用直链。 第二轮补检仍未找到（WebFetch 无法访问目标站点，WebSearch 未返回图片直链）。"
+  },
+  {
+    "id": "arsenal1_rendering",
+    "caption_zh": "Anduril“武库-1”（Arsenal-1）俄亥俄超大规模工厂效果图（非实拍，慎用）",
+    "page_url": "https://ohiocapitaljournal.com/2025/01/16/gov-dewine-lands-biggest-jobs-deal-in-ohio-history-with-defense-company-andurils-new-plant/",
+    "image_url": null,
+    "alt_urls": [],
+    "credit": "Anduril Industries (rendering)",
+    "license": "Company press image (rendering)",
+    "confidence": "none",
+    "note": "公司效果图，未找到直链；本身也不是实拍，可考虑放弃。 第二轮补检仍未找到（WebFetch 无法访问目标站点，WebSearch 未返回图片直链）。"
+  },
+  {
+    "id": "lattice_demo_mittr",
+    "caption_zh": "MIT科技评论现场观看的Lattice演示（界面截图）",
+    "page_url": "https://www.technologyreview.com/2024/12/10/1108354/we-saw-a-demo-of-the-new-ai-system-powering-andurils-vision-for-war/",
+    "image_url": null,
+    "alt_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/64/Lattice_at_Advanced_Battle_Management_System_Onramp_2.jpg"
+    ],
+    "credit": "Anduril Industries / MIT Technology Review",
+    "license": "Company press image / editorial",
+    "confidence": "none",
+    "note": "MIT TR 界面截图未找到直链；alt 为 ABMS Onramp 2 中运行 Lattice 的公有领域照片（与候选 lattice_abms_onramp2 重复）。 第二轮补检仍未找到（WebFetch 无法访问目标站点，WebSearch 未返回图片直链）。"
+  },
+  {
+    "id": "ivysting4_video",
+    "caption_zh": "第10特种兵大队“绿色贝雷帽”在“常春藤之刺IV”演习中接入第4步兵师NGC2指挥控制体系（科罗拉多州皮尼翁峡谷，2026年2月）",
+    "page_url": "https://www.dvidshub.net/image/9534771/special-operation-forces-integrate-into-ngc2-during-ivy-sting-iv",
+    "image_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2602/9534771/1000w_q95.jpg",
+    "alt_urls": [
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2601/9534771/1000w_q95.jpg",
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2603/9534771/1000w_q95.jpg"
+    ],
+    "credit": "4th Infantry Division Public Affairs",
+    "license": "Public domain (US federal government work)",
+    "confidence": "derived",
+    "note": "原条目为 DVIDS 视频 995669；改用同一演习（Ivy Sting IV）的 DVIDS 照片 9534771（Image 2 of 5）。直链按 DVIDS cloudfront 规则推导，YYMM 取 2602（拍摄于 2026 年 2 月），alt 为前后各 1 个月。"
+  },
+  {
+    "id": "ivysting1_aes_video",
+    "caption_zh": "第4步兵师副师长雷蒙德准将在“常春藤之刺1”中使用NGC2火炮执行套件（AES）操作M777榴弹炮射击（卡森堡，2025年9月17日）",
+    "page_url": "https://www.dvidshub.net/image/9325050/ivy-sting-1",
+    "image_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2509/9325050/1000w_q95.jpg",
+    "alt_urls": [
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2508/9325050/1000w_q95.jpg",
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2510/9325050/1000w_q95.jpg",
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2509/9325058/1000w_q95.jpg"
+    ],
+    "credit": "4th Infantry Division Public Affairs",
+    "license": "Public domain (US federal government work)",
+    "confidence": "derived",
+    "note": "原条目为 DVIDS 视频 977381；改用同一活动的 DVIDS 照片 9325050（Ivy Sting 1, Image 1 of 4，2025-09-17）。同组还有 9325058（Image 3 of 4，雷蒙德向第77野战炮兵团2营讲解 AES）。YYMM 取 2509。"
+  },
+  {
+    "id": "wa_ng_cuas",
+    "caption_zh": "华盛顿州国民警卫队第10民事支援队列装Anduril反无人机系统（远程摄像塔/Wisp/Pulsar/Lattice）",
+    "page_url": "https://www.dvidshub.net/news/571045/washington-national-guard-advances-counter-drone-capabilities-with-new-technology",
+    "image_url": null,
+    "alt_urls": [],
+    "credit": "Washington National Guard",
+    "license": "Public domain (US federal government work)",
+    "confidence": "none",
+    "note": "新闻 571045（2026-07-29）配图为 courtesy photo（10th CST 的 Kevin Propes 上士与 Anduril 代表；6 月 23 日在默里营的简报），DVIDS 上没有单独的 image 页面，无法推导 cloudfront 直链；视频 1017363 的关键帧地址也无法推导。可从 army.mil/article/294224 页面手动下载。"
+  },
+  {
+    "id": "wa_ng_cuas_course",
+    "caption_zh": "华盛顿州国民警卫队反无人机主操作员课程（组装Wisp、Pulsar）",
+    "page_url": "https://www.dvidshub.net/news/575892/washington-national-guard-hosts-counter-uas-master-operator-course",
+    "image_url": null,
+    "alt_urls": [
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2501/8877409/1000w_q95.jpg",
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2412/8877409/1000w_q95.jpg",
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2502/8877409/1000w_q95.jpg"
+    ],
+    "credit": "Washington National Guard",
+    "license": "Public domain (US federal government work)",
+    "confidence": "none",
+    "note": "新闻 575892（2026-09）配图的 DVIDS photo id 未检索到。alt 仅为参考：华盛顿州国民警卫队较早的“通用小型无人机操作员课程”照片 8877409（不是反无人机课程，也不是本次活动；YYMM 按 id 估为 2501，误差较大）。"
+  },
+  {
+    "id": "cuas_fire_control_dvids",
+    "caption_zh": "Anduril技术运营人员马特·里德在二十九棕榈镇演习中协助组装Sentry哨塔（2020年1月）",
+    "page_url": "https://www.dvidshub.net/image/6076363/anduril",
+    "image_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2001/6076363/1000w_q95.jpg",
+    "alt_urls": [
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1912/6076363/1000w_q95.jpg",
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2002/6076363/1000w_q95.jpg"
+    ],
+    "credit": "U.S. Marine Corps",
+    "license": "Public domain (US federal government work)",
+    "confidence": "derived",
+    "note": "新闻 550168 无配图 id；DVIDS 上没有反无人机火控的照片，改用 DVIDS 上 Anduril Sentry 塔照片 6076363（Image 5 of 8，2020-01）作为替代，相关度一般。YYMM 取 2001，置信度较低。"
+  },
+  {
+    "id": "shanahan_billington",
+    "caption_zh": "沙纳汉在第10届Billington网络安全峰会发言（2019年9月4日）",
+    "page_url": "https://www.war.gov/Multimedia/Photos/igphoto/2002179273/",
+    "image_url": "https://media.defense.gov/2019/Sep/04/2002179273/-1/-1/0/190904-D-UB488-002C.JPG",
+    "alt_urls": [
+      "https://media.defense.gov/2019/Sep/05/2002179273/-1/-1/0/190904-D-UB488-002C.JPG",
+      "https://media.defense.gov/2019/Sep/06/2002179273/-1/-1/0/190904-D-UB488-002C.JPG",
+      "https://media.defense.gov/2019/Sep/03/2002179273/-1/-1/0/190904-D-UB488-002C.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lt_Gen_John_N.T._Shanahan.jpg"
+    ],
+    "credit": "DoD photo by David Vergun",
+    "license": "Public domain (US federal government work)",
+    "confidence": "derived",
+    "note": "igphoto 2002179273 已确认对应 VIRIN 190904-D-UB488-002C.JPG（David Vergun，2019-09-04）。日期目录取 Sep/04，alt 给出 05/06/03；alt 末尾保留原官方肖像。"
+  },
+  {
+    "id": "shanahan_atlantic",
+    "caption_zh": "沙纳汉在《大西洋月刊》“AI时代军事战备”活动中对谈",
+    "page_url": "https://www.war.gov/Multimedia/Photos/igphoto/2002186391/",
+    "image_url": null,
+    "alt_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/89/LIEUTENANT_GENERAL_JOHN_N.T._%22JACK%22_SHANAHAN.jpg"
+    ],
+    "credit": "DoD photo",
+    "license": "Public domain (US federal government work)",
+    "confidence": "none",
+    "note": "war.gov igphoto 2002186391 直链未找到；alt 为官方肖像（与候选重复）。 第二轮补检仍未找到（WebFetch 无法访问目标站点，WebSearch 未返回图片直链）。"
+  },
+  {
+    "id": "maven_2017_dod_article",
+    "caption_zh": "国防部2017年报道：Maven将于年底前向战区部署算法（库科上校在Defense One技术峰会发言配图）",
+    "page_url": "https://www.defense.gov/News/News-Stories/Article/Article/1254719/project-maven-to-deploy-computer-algorithms-to-war-zone-by-years-end/",
+    "image_url": null,
+    "alt_urls": [],
+    "credit": "DoD photo (VIRIN 170614-D-ZZ999-999)",
+    "license": "Public domain (US federal government work)",
+    "confidence": "none",
+    "note": "2017 年 defense.gov 文章配图（VIRIN 170614-D-ZZ999-999）直链未找到。 第二轮补检仍未找到（WebFetch 无法访问目标站点，WebSearch 未返回图片直链）。"
+  },
+  {
+    "id": "scarlet_dragon_26_1",
+    "caption_zh": "“猩红巨龙26-1”期间第18野战炮兵旅进行HIMARS空中装载训练（布拉格堡，2025年12月）",
+    "page_url": "https://www.dvidshub.net/image/9433847/scarlet-dragon-air-load-himars",
+    "image_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2512/9433847/1000w_q95.jpg",
+    "alt_urls": [
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2511/9433847/1000w_q95.jpg",
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2601/9433847/1000w_q95.jpg",
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2512/9433853/1000w_q95.jpg",
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2512/9433872/1000w_q95.jpg",
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2512/9433791/1000w_q95.jpg"
+    ],
+    "credit": "18th Field Artillery Brigade / XVIII Airborne Corps (photo: Sgt. Austin Robertson)",
+    "license": "Public domain (US federal government work)",
+    "confidence": "derived",
+    "note": "新闻 554325 配图的 photo id 未找到；改用同一期演习的 DVIDS 照片“Scarlet Dragon Air Load HIMARS”9433847。注意：搜索摘要称该组照片为装载 C-130（非新闻中的 C-17），图注已按此改写。同组 id：9433791/9433796/9433853/9433872（alt 末尾附 2512 地址）。"
+  },
+  {
+    "id": "scarlet_dragon_26_3",
+    "caption_zh": "“猩红巨龙26-3”演习前的单个传感器评估（北卡罗来纳州费耶特维尔，2026年8月）",
+    "page_url": "https://www.dvidshub.net/image/9875842/scarlet-dragon-26-3-individual-sensor-evaluation",
+    "image_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2608/9875842/1000w_q95.jpg",
+    "alt_urls": [
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2607/9875842/1000w_q95.jpg",
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2609/9875842/1000w_q95.jpg"
+    ],
+    "credit": "XVIII Airborne Corps Public Affairs",
+    "license": "Public domain (US federal government work)",
+    "confidence": "derived",
+    "note": "原条目为 DVIDS 视频 1025126（2026-09）；视频关键帧无法推导，改用 26-3 期的 DVIDS 照片 9875842（Image 3 of 5，2026 年 8 月，演习前的反无人机传感器评估）。YYMM 取 2608。"
+  },
+  {
+    "id": "scarlet_dragon_c_uas",
+    "caption_zh": "“猩红巨龙”：以人工智能与以数据为中心的作战变革军事行动（第8期，布拉格堡/自由堡，2024年1月发布）",
+    "page_url": "https://www.dvidshub.net/image/8205846/scarlet-dragon-transforming-military-operations-with-ai-and-data-centric-warfare",
+    "image_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2401/8205846/1000w_q95.jpg",
+    "alt_urls": [
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2312/8205846/1000w_q95.jpg",
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2402/8205846/1000w_q95.jpg",
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2401/8205848/1000w_q95.jpg"
+    ],
+    "credit": "XVIII Airborne Corps Public Affairs",
+    "license": "Public domain (US federal government work)",
+    "confidence": "derived",
+    "note": "新闻 575267 配图 id 未找到；26-3 期照片 9875842 已用于 scarlet_dragon_26_3，这里改用较早一期的 Scarlet Dragon AI 主题照片 8205846（Image 2 of 3），alt 末尾附同组 8205848。内容不是反无人机，慎用。"
+  },
+  {
+    "id": "b1b_feb2024_ellsworth",
+    "caption_zh": "2024年2月1日，戴斯与埃尔斯沃斯基地的B-1B停放在戴斯空军基地航线上，准备出击支援中央司令部（即2月2日对伊拉克、叙利亚的空袭）",
+    "page_url": "https://www.dyess.af.mil/News/Photos/igphoto/2003388738/",
+    "image_url": "https://media.defense.gov/2024/Feb/02/2003388738/-1/-1/0/240201-F-MI946-1067.JPG",
+    "alt_urls": [
+      "https://media.defense.gov/2024/Feb/01/2003388738/-1/-1/0/240201-F-MI946-1067.JPG",
+      "https://media.defense.gov/2024/Feb/03/2003388738/-1/-1/0/240201-F-MI946-1067.JPG",
+      "https://media.defense.gov/2024/Feb/05/2003388738/-1/-1/0/240201-F-MI946-1067.JPG",
+      "https://media.defense.gov/2024/Feb/02/2003388865/-1/-1/0/240201-F-MI946-1067.JPG",
+      "https://media.defense.gov/2024/Feb/01/2003388865/-1/-1/0/240201-F-MI946-1067.JPG"
+    ],
+    "credit": "U.S. Air Force photo by Senior Airman Leon Redfern",
+    "license": "Public domain (US federal government work)",
+    "confidence": "derived",
+    "note": "改用戴斯基地 igphoto 2003388738（另一副本 2003388865）的照片 VIRIN 240201-F-MI946-1067（Senior Airman Leon Redfern，2024-02-01）。日期目录取 Feb/02，alt 给出 01/03/05 及 2003388865 变体。"
+  },
+  {
+    "id": "b1b_feb2024_centcom_video",
+    "caption_zh": "2024年2月1日，戴斯与埃尔斯沃斯基地的B-1B停放在戴斯空军基地航线上，准备出击支援中央司令部（即2月2日对伊拉克、叙利亚的空袭）",
+    "page_url": "https://www.dyess.af.mil/News/Photos/igphoto/2003388738/",
+    "image_url": "https://media.defense.gov/2024/Feb/02/2003388738/-1/-1/0/240201-F-MI946-1067.JPG",
+    "alt_urls": [
+      "https://media.defense.gov/2024/Feb/01/2003388738/-1/-1/0/240201-F-MI946-1067.JPG",
+      "https://media.defense.gov/2024/Feb/03/2003388738/-1/-1/0/240201-F-MI946-1067.JPG",
+      "https://media.defense.gov/2024/Feb/05/2003388738/-1/-1/0/240201-F-MI946-1067.JPG",
+      "https://media.defense.gov/2024/Feb/02/2003388865/-1/-1/0/240201-F-MI946-1067.JPG",
+      "https://media.defense.gov/2024/Feb/01/2003388865/-1/-1/0/240201-F-MI946-1067.JPG"
+    ],
+    "credit": "U.S. Air Force photo by Senior Airman Leon Redfern",
+    "license": "Public domain (US federal government work)",
+    "confidence": "derived",
+    "note": "CENTCOM 视频没有静态图；改用戴斯基地 igphoto 2003388738（另一副本 2003388865）的照片 VIRIN 240201-F-MI946-1067（Senior Airman Leon Redfern，2024-02-01）。日期目录取 Feb/02，alt 给出 01/03/05 及 2003388865 变体。与 b1b_feb2024_ellsworth 同图。"
+  },
+  {
+    "id": "palantir_gotham_sec",
+    "caption_zh": "Palantir Gotham/Foundry/Apollo界面图（取自Palantir招股书/年报）",
+    "page_url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165525000022/pltr-20241231.htm",
+    "image_url": null,
+    "alt_urls": [],
+    "credit": "Palantir Technologies (SEC filing)",
+    "license": "Company image (SEC public filing; copyright Palantir)",
+    "confidence": "none",
+    "note": "SEC 年报内嵌图为公司版权界面图，没有合适的公有领域照片，给 null。 第二轮补检仍未找到（WebFetch 无法访问目标站点，WebSearch 未返回图片直链）。"
+  },
+  {
+    "id": "palantir_platforms",
+    "caption_zh": "Palantir平台（Gotham/Foundry/AIP）官方页面图",
+    "page_url": "https://www.palantir.com/platforms/",
+    "image_url": null,
+    "alt_urls": [],
+    "credit": "Palantir Technologies",
+    "license": "Company press image",
+    "confidence": "none",
+    "note": "palantir.com 产品页没有合适的照片，给 null。 第二轮补检仍未找到（WebFetch 无法访问目标站点，WebSearch 未返回图片直链）。"
+  },
+  {
+    "id": "anduril_ngc2_blog",
+    "caption_zh": "“常春藤之刺II”中第4步兵师推进NGC2下一阶段，图为Ghost小型无人机（卡森堡，2025年10月30日）",
+    "page_url": "https://www.dvidshub.net/image/9385435/4id-implements-next-phase-ngc2-ivy-sting-ii",
+    "image_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2510/9385435/1000w_q95.jpg",
+    "alt_urls": [
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2509/9385435/1000w_q95.jpg",
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2511/9385435/1000w_q95.jpg",
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2512/9439243/1000w_q95.jpg",
+      "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2511/9439243/1000w_q95.jpg"
+    ],
+    "credit": "4th Infantry Division Public Affairs",
+    "license": "Public domain (US federal government work)",
+    "confidence": "derived",
+    "note": "Anduril 博客配图的 CDN 地址未找到，改用常春藤之刺 II 的 DVIDS 公有领域照片 9385435（2025-10-30，可能 11 月上传，故 alt 含 2511）。alt 末尾另附 Ivy Sting III 照片 9439243（2025 年 12 月）的推导地址。"
+  }
+]
