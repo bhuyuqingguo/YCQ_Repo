@@ -20,7 +20,7 @@ PURPLE = '#6A4FA3'
 LAT = '#2E93D6'   # Lattice / Anduril 主色
 MAV = '#C0392B'   # Maven / Palantir 主色
 JOINT = '#A8842F'  # 联合/政府
-LIGHT = {LAT: '#DCEBF7', MAV: '#F6DEDA', JOINT: '#F1E7CF', NAVY: '#DDE2EA', GREEN: '#D7EEE6',
+LIGHT = {'#2E93D6': '#DCEBF7', LAT: '#DCEBF7', MAV: '#F6DEDA', JOINT: '#F1E7CF', NAVY: '#DDE2EA', GREEN: '#D7EEE6',
          PURPLE: '#E6E0F1', GREY: '#ECE8DE'}
 
 

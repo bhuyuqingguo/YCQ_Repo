@@ -38,6 +38,10 @@ BASENAME = '析光专题_Lattice与Maven系统深度调研'
 ISSUE = '专题 · 2026年10月'
 COLUMN = '专题调研｜DEEP DIVE'
 ACCESS = '2026-10-10'
+DELIVER = os.path.join(ROOT, '成品')
+MODE = {'name': 'full'}
+BRIEF_BASENAME = '析光专题精要_Lattice与Maven系统调研精要'
+BRIEF_TITLE_SUB = '——Lattice 与 Maven 两系统调研精要（总结·概括·架构·统计·观点）'
 
 # GB/T 7714 网络文献：访问日期改为本期检索日
 _ref_entry = xgengine.ref_entry
@@ -324,13 +328,17 @@ def covers():
     org = '无人体系中心 · 鸿眼科情团队'
     cov = os.path.join(HERE, 'tmp', 'cover.png'); back = os.path.join(HERE, 'tmp', 'back.png')
     os.makedirs(os.path.dirname(cov), exist_ok=True)
-    xc.make_cover(cov, title=['Lattice 与 Maven', '两系统深度调研'],
-                  subtitle='边缘网格与目标工厂：前世今生·功能·架构·能力·案例·合作·合同',
+    brief = MODE['name'] == 'brief'
+    if brief:
+        cov = cov.replace('cover.png', 'cover_brief.png')
+    xc.make_cover(cov, title=['Lattice 与 Maven', '两系统调研精要' if brief else '两系统深度调研'],
+                  subtitle=('总结 · 概括 · 架构 · 统计 · 观点' if brief else
+                            '边缘网格与目标工厂：前世今生·功能·架构·能力·案例·合作·合同'),
                   issue='专 题 · 2026 年 10 月', org=org)
     im = Image.open(cov); d = ImageDraw.Draw(im)
     f = xc.font(xc.F_BOLD, 44)
     d.rectangle([630, 1580, 870, 1660], fill=xc.NAVY)
-    xc.tracked(d, (750, 1636), '专　题', f, (255, 255, 255), target_w=150, anchor='ms')
+    xc.tracked(d, (750, 1636), '精　要' if brief else '专　题', f, (255, 255, 255), target_w=150, anchor='ms')
     im.save(cov)
     xc.make_back(back, issue='专 题', date='2026 年 10 月', org=org)
     return cov, back
@@ -342,7 +350,7 @@ EDIT_ROWS = [('刊　　名', '《析光》科研情报刊物 · 专题'), ('期
              ('资料截止', '2026年10月10日（检索日期 2026年10月10日）'),
              ('资料性质', '公开来源情报（OSINT）汇编与分析；各方口径并列呈现，弱源与推断均已标注'),
              ('密　　级', '非密·内部资料'),
-             ('版本说明', 'docx 编辑版 · PDF 校样 · HTML 图文热链版（含原图链接）· 配图采集清单')]
+             ('版本说明', 'docx 编辑版 · HTML 图文热链版（含原图链接）· 精要版 docx · 配图采集清单')]
 
 
 def edit_page(D):
@@ -368,29 +376,33 @@ def collect_toc(blocks):
 
 def build_docx(ctx, secs, cov, back, pages=None, path=None):
     D = LMDocx(ctx, column=COLUMN, issue=ISSUE)
+    brief = MODE['name'] == 'brief'
     D.full_image(cov)
-    s = D.new_section('digest'); D.header(s); D.footer(s, 'digest'); D.pg_start(s, 1)
-    D.plain_heading('专 题 精 要', outline=0, before=4, after=10)
-    D.render(ctx['digest_blocks'])
+    if not brief:
+        s = D.new_section('digest'); D.header(s); D.footer(s, 'digest'); D.pg_start(s, 1)
+        D.plain_heading('专 题 精 要', outline=0, before=4, after=10)
+        D.render(ctx['digest_blocks'])
     s = D.new_section('front'); D.footer(s, 'front')
-    D.plain_heading('摘　　要', anchor='abstract', outline=0, before=4)
-    D.render(ctx['abstract_blocks'])
-    D.b_pagebreak({})
+    if not brief:
+        D.plain_heading('摘　　要', anchor='abstract', outline=0, before=4)
+        D.render(ctx['abstract_blocks'])
+        D.b_pagebreak({})
     D.plain_heading('目　　录', anchor='toc', outline=0, before=4)
     pages = pages or {}
     for lvl, text, anchor in ctx['toc_entries']:
         D.toc_entry(text, pages.get(anchor), anchor, lvl)
-    D.b_pagebreak({})
-    D.plain_heading('插 图 目 录', anchor='lof', outline=0, before=4)
-    for n, cap, anchor in ctx.get('lof', []):
-        D.toc_entry('图%d  %s' % (n, cap), pages.get(anchor), anchor, 1, size=11)
-    D.b_pagebreak({})
-    D.plain_heading('表 格 目 录', anchor='lot', outline=0, before=4)
-    for n, cap, anchor in ctx.get('lot', []):
-        D.toc_entry('表%d  %s' % (n, cap), pages.get(anchor), anchor, 1, size=11)
+    if not brief:
+        D.b_pagebreak({})
+        D.plain_heading('插 图 目 录', anchor='lof', outline=0, before=4)
+        for n, cap, anchor in ctx.get('lof', []):
+            D.toc_entry('图%d  %s' % (n, cap), pages.get(anchor), anchor, 1, size=11)
+        D.b_pagebreak({})
+        D.plain_heading('表 格 目 录', anchor='lot', outline=0, before=4)
+        for n, cap, anchor in ctx.get('lot', []):
+            D.toc_entry('表%d  %s' % (n, cap), pages.get(anchor), anchor, 1, size=11)
     s = D.new_section('body'); D.footer(s, 'body'); D.pg_start(s, 1)
     D.masthead()
-    D.title(TITLE_MAIN, TITLE_SUB)
+    D.title(TITLE_MAIN, BRIEF_TITLE_SUB if brief else TITLE_SUB)
     D.render(ctx['body_blocks'])
     D.refs()
     D.b_close({})
@@ -398,7 +410,7 @@ def build_docx(ctx, secs, cov, back, pages=None, path=None):
     edit_page(D)
     D.new_section('back')
     D.full_image(back)
-    path = path or os.path.join(OUT, BASENAME + '.docx')
+    path = path or os.path.join(OUT, (BRIEF_BASENAME if brief else BASENAME) + '.docx')
     D.save(path)
     return path
 
@@ -444,7 +456,10 @@ def locate_pages(pdf, entries):
 
 def prepare(include_remote):
     ctx = make_ctx()
-    secs = {k: read(k) for k in ('digest', 'abstract', 'body', 'appendix')}
+    if MODE['name'] == 'brief':
+        secs = {'digest': '', 'abstract': '', 'body': read('brief'), 'appendix': ''}
+    else:
+        secs = {k: read(k) for k in ('digest', 'abstract', 'body', 'appendix')}
     body = dedupe_photos(parse_markup(secs['body'], ctx) + (parse_markup(secs['appendix'], ctx) if secs['appendix'] else []))
     resolve_numbers(body, ctx, include_remote)
     ctx['body_blocks'] = body
@@ -454,7 +469,8 @@ def prepare(include_remote):
     return ctx, secs
 
 
-def main():
+def main(mode='full'):
+    MODE['name'] = mode
     ctx, secs = prepare(include_remote=False)
     miss = check_refs(ctx['body_blocks'] + ctx['digest_blocks'] + ctx['abstract_blocks'], ctx)
     print('未定义引注:', len(miss), miss[:20])
@@ -497,11 +513,22 @@ def main():
     by_key = ctx['refs'].by_key
     ctx['refs'] = RefRegistry(); ctx['refs'].by_key = by_key
     final = build_docx(ctx, secs, cov, back, pages)
-    pdf = soffice_pdf(final, OUT, final=True)
-    print('docx:', final); print('pdf:', pdf, os.path.exists(pdf))
-    html, n = build_html(cov, back)
-    print('html:', html, n, 'figures')
-    return final, pdf, html
+    print('docx:', final, '页数（PDF 校样口径）:', pdf_pagecount(pdf))
+    import shutil
+    os.makedirs(DELIVER, exist_ok=True)
+    shutil.copy(final, DELIVER)
+    html = None
+    if mode == 'full':
+        html, n = build_html(cov, back)
+        print('html:', html, n, 'figures')
+        shutil.copy(html, DELIVER)
+    return final, html
+
+
+def pdf_pagecount(pdf):
+    out = subprocess.run(['pdfinfo', pdf], capture_output=True, text=True).stdout
+    m = re.search(r'Pages:\s+(\d+)', out)
+    return int(m.group(1)) if m else None
 
 
 # ---------------------------------------------------------------- HTML
@@ -557,4 +584,4 @@ def build_html(cov, back):
 
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv[1] if len(sys.argv) > 1 else 'full')
