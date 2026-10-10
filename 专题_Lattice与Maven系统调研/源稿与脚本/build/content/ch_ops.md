@@ -12,6 +12,12 @@
 
 依据有五组。陆军第 401 联合跨机构特遣部队（JIATF-401）2026 年 3 月以约 8,700 万美元任务订单把 Lattice 定为全军“通用反无人机 C2”骨干，内容包括软件、集成和培训[@la_bd_jiatf,la_d1_jiatf]；JIATF-401 此前为“复制者 2”采购了 Fortem DroneHunter F700 和 Perennial Autonomy Bumblebee V2[@co_soldiersys_jiatf,co_defpost_bumblebee]。陆战队设施反小型无人机（I-CsUAS）项目以 Lattice 为 C2，集成 Anvil、Pulsar 等传感器与效应器，10 年期上限 6.42 亿美元[@la_ds_icsuas,la_wt_icsuas]；陆战队地基防空项目办公室明确 Anvil“只在人工操作员下令后才拦截”[@la_marines_gbad]。陆军 IBCS 机动型（IBCS-M）选定 Lattice 作为反无人机火控与 C2，负责“从探测到摧毁”的融合与自动化火控，尤马试验中实弹拦截 4 中 4[@la_ds_ibcsm,la_execbiz_ibcsm]。北方司令部 Falcon Peak 25.2 演示中，Mobile Sentry 探测并跟踪一架“敌方”无人机，Anvil 将其动能摧毁[@la_ius_falconpeak,la_tdp_falconpeak]。2024 年 10 月国防部以约 2.5 亿美元采购 500 发 Roadrunner-M 全备弹及 Pulsar[@la_dn_roadrunner]；2026 年 6 月获批的科威特军售包含 Roadrunner-M、Anvil、多型 Sentry 塔、电子战、战术作战中心和 C2，由 Lattice 连接[@la_bd_kuwait,la_dn_kuwait]。
 
+### 装备编成与接入关系
+
+基地反无人机方案的组成在合同中有明确记录。SOCOM 2022 年的反无人系统集成合同以 Lattice 为集成内核，连接 Sentry、Anvil、Pulsar、FoxHound 及第三方传感器与效应器，自主检测、分类、跟踪目标，向操作员告警并提供交战选项[@la_dn_socom,la_afcea_socom]。陆战队 I-CsUAS 合同的内容包括交付、安装和维护，首笔约 950 万美元，未公布具体型号和数量[@la_wt_icsuas,la_edr_icsuas]。Sentry 塔有固定型、2022 年 10 月推出的轮式机动型和 2024 年 5 月推出的增程型三种形态[@la_c4isrnet_mobilesentry,la_execbiz_xrsentry]，可分别适配固定基地与机动部署。
+
+IBCS-M 提供了更高一层的接入关系。IBCS-M 被描述为连接传感器、效应器和决策中心的开放架构，Lattice 是其机动火控层[@la_uasmag_ibcsm,la_armyrec_ibcsm]。Lattice 与 IBCS 核心（诺斯罗普·格鲁曼）在“爱国者”、LTAMDS 层面如何对接，没有公开细节[@la_stripes_ibcsm]。本想定把 Lattice 作为基地级反无人机的 C2 与火控层，把 IBCS 作为区域防空的上级网络。按 SDK 接口映射的七步交战流程见{fig:d_lattice_killchain}，下文在其基础上结合基地防护编成展开，逐步流程汇总于{tab:t_ops_cuas}。
+
 ### 逐步推演
 
 第一步，探测。Sentry 塔集成雷达、光电/红外和射频传感器[@la_dn_cruise,la_c4isrnet_mobilesentry]，增程型塔高 80 英尺，自主探测距离超过 5 英里，有人辅助可达 7.5 英里[@la_execbiz_xrst]。按公司说法，塔端内置的 Lattice AI Core 在边缘完成检测、分类和多航迹调和[@la_airrec_socom]。基地周边若部署第三方雷达，可按 SDK 生产者模式接入[@la_sdk_ref]。
@@ -54,6 +60,8 @@
 
 第四，多厂商汇聚带来的安全面。JIATF-401 的通用 C2 定位意味着 Lattice 要连接多种第三方反无人机系统[@la_bd_jiatf]，每增加一个第三方生产者或代理，就增加一条需要审查的接入路径。
 
+第五，与上层防空体系的衔接。基地反无人机链路需要与区域防空和导弹防御共享空情。2026 年 5 月 Anduril 获陆军原型 C2 导弹防御系统合同，细节未公开[@la_bd_missiledef]；据路透社报道，Anduril 与 Palantir 共同参与“金穹”C2 平台开发，金穹负责人称这一软件是连接雷达、传感器和拦截弹的“胶水层”[@co_usnews_gd_2603,co_cxo_gd]。反无人机链路向上贯通到国土防空层的技术路径，目前只有合同与报道层面的线索。
+
 【推演判读】**前沿基地反无人机是四条链路中唯一由 Lattice 单系统闭合的链路，合同、演示和接口证据最完整，人机分工清晰：机器负责探测、融合、推荐和执行，人负责定性和授权。**链路的短板在于无实战击落证据、饱和攻击下的授权负荷和末端平台可靠性；这条链路的效能上限由人工授权节点和末端效应器决定，C2 软件本身已不构成主要瓶颈。
 
 ## （二）师级火力打击：NGC2 中的 Lattice 与 Target Workbench
@@ -64,9 +72,15 @@
 
 依据为陆军第 4 步兵师 Ivy Sting 系列演习。Ivy Sting 1（2025 年 9 月）中，师级目标处理流程从师部到炮位完全运行在 Lattice Mesh 和 Target Workbench 上，Lattice Mesh 部署于坚固的 Voyager 边缘计算套件，运行在 Lattice Mesh 上的测试版炮兵数据工具 AXS 被用于 M777 射击[@la_ss_ivysting1,la_bd_ivysting1,la_army_ivysting1]。Ivy Sting 2（2025 年 10 月）扩展到火力前的空域管理与冲突消解及司令部层面 C2[@co_d1_2510_ivysting2,co_fnn_2510]。Ivy Sting 4—5 用例超过 50 个，Ivy Sting 5 在通信降级阶段于本地网格上完成“电子战定位到火力打击”的端到端流程[@co_anduril_scaling,la_militaer_ivysting5]。2026 年 5 月特种部队加入 NGC2 原型试验[@la_bd_sf]。Ivy Mass（2026 年 5 月）中全师上线，接入 2,500 多台终端[@la_milleak_ivymass]。后两组数字只有公司来源。
 
+NGC2 被描述为“传输、基础设施、数据、应用”四层技术栈，原型是一套运行在通用数据层上的软硬件一体 C2 套件，计算节点装在多型机械化车辆上；Team Anduril 成员包括 Palantir、Microsoft、Striveworks、Govini、Instant Connect Enterprise 和 Research Innovations Inc.，2026 年 2 月 Rune Technologies 加入[@co_bd_2507_ngc2,co_soldiersys_2507,co_bw_2602_rune]。开发以增量冲刺方式推进，逐步扩展到师级[@co_ds_2508_sprints]。NGC2 三层架构与里程碑见{fig:d_ngc2}。
+
+陆军同时保留了另一条技术路线。洛克希德·马丁牵头的团队获 2,600 万美元、16 个月 OTA，为第 25 步兵师提供一体化数据层，2026 年 1 月首测，3 月前后进行“闪电涌动 2”传感器到射手演示[@co_tectonic_lmt,co_bd_2601_lmt,co_dp_2603_lmt]。两条路线的演习数据未见公开对比。陆战队则把 MSS 定为跨作战司令部的标准“火力与效果集成平台”[@mv_ds_maradmin]。我部推断，陆战队的火力链路可能以 MSS 为目标处理层，与陆军 NGC2 形成两种不同的师级以下火力组织模式。
+
 ### 逐步推演
 
 第一步，前沿感知。前沿侦察无人机、电子侦察手段和友邻部队报告产生目标线索。Ivy Sting 5 的“电子战定位到火力打击”说明，电子侦察测向结果可以作为目标线索进入数据层[@co_anduril_scaling]。按 Ivy Sting 5 的公司描述，每辆车、每个指挥所和每名士兵都是 Lattice Mesh 节点[@co_anduril_scaling]，线索以实体形式在网格中发布。
+
+陆军 2026 年 9 月授出 TITAN 地面站生产合同，合计 1.92 亿美元，其中 Palantir 1.27 亿美元、Anduril 6,500 万美元，TITAN 的目标是缩短传感器到射手的时间[@co_bd_2609_titan,co_army_titan_2403]。我部推断，TITAN 列装后将成为师级火力链路前沿感知的重要来源，其与 NGC2 数据层的接口尚无公开说明。
 
 第二步，数据汇聚。线索经 Lattice Mesh 在战术边缘同步，在通信条件允许时汇入 Foundry 云端数据平台[@co_ds_2606_baseline]。Raft 提供数据与服务注册、数据转换和联邦工具[@co_bd_2606_baseline]。实体如何转换为 Foundry 对象没有公开说明，本步的跨系统转换属推断。
 
@@ -94,7 +108,7 @@
 
 本链路的时间压缩数据全部来自演习，且主要为公司口径。AXS 炮组 30 秒完成数字化准备，对比的是 AFATDS 炮组的连接排查时间[@la_bd_ivysting1]；Anduril 称 Ivy Mass 中炮兵火力时间线比旧系统缩短 90%[@la_milleak_ivymass,co_defenceblog_ngc2]。这两项数字均未获陆军官方确认，测量起止点与对照条件不明。
 
-我部研判，NGC2 链路的提速来源有三项：一是把情报、目标处理与火力执行放在同一数据层上，消除系统间人工转录；二是 Lattice Mesh 在战术边缘直接同步，降低对上级网络的依赖；三是 AXS 以新架构替代 AFATDS 的部分功能，减少连接故障。陆军以 2026 年 6 月的通用数据层基线和 10 月的 18 亿美元扩展合同，确认了这一架构的推广价值[@co_ds_2606_baseline,co_ds_2610_ngc2]，陆军目标是年底前用 NGC2 同步两个师[@la_d1_twodiv]。
+流程汇总于{tab:t_ops_fires}。我部研判，NGC2 链路的提速来源有三项：一是把情报、目标处理与火力执行放在同一数据层上，消除系统间人工转录；二是 Lattice Mesh 在战术边缘直接同步，降低对上级网络的依赖；三是 AXS 以新架构替代 AFATDS 的部分功能，减少连接故障。陆军以 2026 年 6 月的通用数据层基线和 10 月的 18 亿美元扩展合同，确认了这一架构的推广价值[@co_ds_2606_baseline,co_ds_2610_ngc2]，陆军目标是 2026 年底前用 NGC2 同步两个师[@la_d1_twodiv]，并最终推广到全部 11 个师[@co_meritalk_2610]。
 
 !photo ivysting4_video|第 10 特种兵大队“绿色贝雷帽”在“常春藤之刺 IV”演习中接入第 4 步兵师 NGC2 指挥控制体系（科罗拉多州皮尼翁峡谷，2026 年 2 月）。特种部队接入扩展了师级火力链路的前沿感知来源|美国陆军（DVIDS），美国政府作品
 
@@ -118,13 +132,15 @@
 
 依据有三组。第一组是中央司令部 2024 年 2 月 2 日空袭伊拉克、叙利亚：约旦“22 号塔”前哨遇袭致 3 名美军死亡后，美军实施报复性打击；中央司令部首席技术官摩尔称机器学习目标识别帮助“缩小目标范围”，每一步都以人工验证结束；Maven 参与了 85 次以上打击，涉及 7 处设施[@mv_register_2024,mv_national_2024]。第二组是 2024 年也门与红海：Maven 被用于定位也门境内的火箭发射器和红海上的水面船只[@mv_bloomberg_2024,mv_batch]，没有公开来源把某一次具体打击与 Maven 直接对应。第三组是 2026 年对伊朗的“史诗怒火”行动：美国官员称五角大楼依靠 Maven 识别最高优先级目标并帮助选择武器[@mv_aca_iran]，CDAO 斯坦利称 38 天打击 13,000 个目标[@mv_ds_mazol,mv_stanley_testimony]；同一行动首日发生了 Minab 学校遇袭事件[@mv_bloomberg_minab]。
 
+战区链路处于 CJADC2 框架之内。CJADC2 最小可行能力于 2023 年 12 月认证、2024 年 2 月公布，聚焦 11 个作战司令部之间的信息共享，应用包括联合火力网[@mv_ds_mvp_2023,mv_ds_cjadc2_mvc]。2024 年 5 月的 4.8 亿美元合同把 MSS 原型推广到中央、欧洲、印太、北方、运输五个作战司令部和联合参谋部[@mv_ds_2024_05]。FY2027 预算申请把“MSS 与联合火力网”合并申请 23 亿美元[@mv_fy27_book,co_ds_2605_fy27]。联合火力网与 MSS 的具体技术关系未公开。本想定把 MSS 作为目标处理层，把联合火力网作为可能的火力协调层，后者属推断。
+
 ### 逐步推演
 
 第一步，多源汇聚。MSS 接入国家侦察卫星、ICEYE 与 Capella 商业 SAR 卫星、信号情报和既有数据库，中央司令部 2024 年部署共 179 个数据源[@mv_csis]。NGA Maven 流水线训练和认证的 GEOINT 模型对图像做自动检测[@mv_fnn_agaim]。检测结果作为对象写入 Palantir 本体，与已知设施、历史记录链接[@mv_palantir_ontology]。
 
 第二步，目标发现与提名。分析员在共用作战图上调查检测对象，结合信号情报与历史数据把候选对象提名上 Target Workbench 看板[@mv_target_workbench]。2026 年版本中，大模型代理参与检索与排序；据《华盛顿邮报》报道，内嵌 Claude 的 MSS 为目标排序并生成坐标[@mv_wapo_2026]。
 
-第三步，核查与审批。目标卡片在看板上经核查、禁打清单比对、法律审查与指挥官审批[@mv_target_workbench,mv_csis]。2024 年的数据是一名目标官借助 Maven 每小时签批约 80 个目标[@mv_bloomberg_2024]。二手转述称大模型还生成法律依据草稿[@mv_wapo_2026]。平民伤害评估是这一步的组成部分。
+第三步，核查与审批。看板各列与 F2T2EA 阶段的对应见{fig:d_maven_workflow}。目标卡片在看板上经核查、禁打清单比对、法律审查与指挥官审批[@mv_target_workbench,mv_csis]。2024 年的数据是一名目标官借助 Maven 每小时签批约 80 个目标[@mv_bloomberg_2024]。二手转述称大模型还生成法律依据草稿[@mv_wapo_2026]。平民伤害评估是这一步的组成部分。
 
 第四步，资产配对。操作员按到达时间、距离、燃油、弹药等约束比较附近的打击资产，选定 B-1B、舰射“战斧”或其他手段[@mv_csis]。美国官员称伊朗作战中 Maven 帮助选择武器[@mv_aca_iran]。配对算法是否计入毁伤概率和附带损伤估计，公开资料未说明。
 
@@ -148,6 +164,8 @@
 
 战区链路的时间压缩数据比前两条链路丰富，但口径各异。人力方面，XVIII 空降军以约 20 人的目标单元达到 2003 年伊拉克战争中 2,000 多人时敏目标单元的效能[@mv_cset_coalition]。审批吞吐方面，一名目标官的签批量从每小时约 30 个增至约 80 个[@mv_bloomberg_2024]。时延方面，NGA 局长称某目标单元在演习中把时间线从数小时缩短到数分钟[@mv_bd_geoint2025]；二手报道称“猩红之龙”演习中“数据传输加打击”从 12 小时以上缩短到 1 分钟以内[@mv_armyrec]；CDAO 斯坦利在国会书面证词中称 MSS 把目标周期“从数天压缩到数秒”[@mv_stanley_testimony]。战役总量方面，《华盛顿邮报》称伊朗作战头 24 小时打击约 1,000 个目标[@mv_wapo_2026]，官方统计 38 天 13,000 个目标[@mv_ds_mazol]。
 
+使用强度同步上升。战事期间五角大楼称 MSS 涉密网使用量环比增长 89%，用户数从约 5 万增至 10 万以上[@mv_bd_insatiable,mv_ds_mazol]。流程各步的人机分工见{tab:t_ops_theater}。
+
 上述数字需区分口径。13,000 是打击目标总数，不是 Maven 独立识别的目标数，MSS 的贡献比例未公开[@mv_ds_mazol]。“数秒”出自预算申请与转正式项目背景下的官方表述，无方法说明[@mv_stanley_testimony]。“743 分钟降至 1 分钟以内”“每个目标决策约 86 秒”等说法只见于弱源[@co_abhs,co_medium_killchain]。我部研判，MSS 压缩的主要是“人找目标、人排目标、人比资产”的时间，武器飞行与毁伤的物理时间不受影响。
 
 !photo centcom_jan2024_2|中央司令部发布的 2024 年 1 月 12 日美英对也门胡塞武装目标打击图片。2024 年 Maven 被用于定位也门境内火箭发射器和红海水面船只，公开资料未将本次打击与 Maven 直接对应|美国中央司令部，美国政府作品
@@ -168,6 +186,8 @@
 
 第四，数据投毒。任一数据源被篡改，都可能经本体链接传播到目标列表[@mv_techmeme]。NGA 2023 年已就 Maven 的 AI/ML 供应链风险发布征询[@mv_bd_supplychain_2023]。
 
+第五，目标情报向执行端的传递。支援乌克兰的经验显示，XVIII 空降军用 MSS 生成目标情报并分享给乌军，据称发送了“数以万计”的目标；《纽约时报》2024 年的报道称效果“好坏参半”，它帮助乌军更有效地打击俄军炮兵，但没能把战场图像送到前线士兵手里[@mv_lawfare_book,mv_kyivind]。目标处理层的高吞吐，需要执行端具备相应的接收与执行能力才能转化为效果。
+
 【推演判读】**战区联合打击链路是 MSS 规模化运用的典型形态，已证实的增益是以少量人力支撑大规模目标吞吐，伊朗作战 38 天 13,000 个目标是迄今最大的战役级数据点。**Minab 事件表明，这条链路的失守点集中在数据时效与人工审查力量，识别算法本身并非主因。我部研判，战区链路的风险控制重点应放在数据保鲜机制、平民伤害评估力量配置和大模型输出的可追溯性三项上。
 
 ## （四）海上与近岸无人拒止：“地狱景观”构想下的推演
@@ -177,6 +197,8 @@
 本想定以构想与推断为主。想定背景为印太司令部司令帕帕罗上将 2024 年 6 月提出的“地狱景观”构想：在对手入侵部队渡海时投放无人机、无人潜航器和无人水面艇群，制造“无人地狱景观”，为美国及盟友争取约一个月时间；2025 年美方称该战略“按计划推进”[@co_wt_hellscape,co_scmp_hellscape,co_usni_hellscape]。想定内容为：在近岸海域部署多型无人平台，由群体协同软件编排，执行侦察、拦截和打击，上层由战区目标与决策平台提供目标优先级。
 
 依据分为四组，证据强度依次递减。第一组是“复制者”计划：2024 年 11 月 20 日 DIU 公布“复制者”软件授标，Anduril（Lattice）与 L3Harris、Swarm Aero 赢得“自主协同组队”（ACT）方向，内容是在通信和卫星导航拒止环境下协调“数百到数千个”跨域无人资产[@co_diu_replicator_sw,co_d1_replicator_sw]；第二批平台包括 Anduril Ghost-X 和 ALTIUS-600[@co_ius_replicator2,co_ds_ghostx_replicator]；2025 年秋“复制者”整体移交特种作战司令部下的自主作战群（DAWG）[@co_wt_dawg]。第二组是水下平台：澳大利亚 Ghost Shark 超大型无人潜航器 2025 年 9 月签订 17 亿澳元生产合同，2026 年 4 月交付首批生产艇并组建海上自主系统部队[@la_minister_ghostshark,la_tdn_masu]；美国海军 Dive-LD 大型无人潜航器在竞速测试中用 Lattice 实时跟踪和共享位置[@la_globalsec_diveld]。第三组是任务自主软件：LMA 被公司称为可管理“数百个”异构平台[@la_dn_lma]，EDGE23 演示了一人控制多机、人工授权打击和自动改派评估[@la_blog_edge23]。第四组是印太平台：台湾 2024 年获批 291 套 ALTIUS-600M，2026 年 8 月据报再采购 1,554 套 ALTIUS-700M 和 478 套 ALTIUS-600ISR，USNI 把台湾的巡飞弹采购视为“地狱景观”的组成部分[@la_dsca_taiwan,la_tdp_taiwan_2026,co_usni_hellscape]。MSS 2024 年合同覆盖的五个作战司令部包括印太司令部[@co_ds_2405_480]。
+
+战区规划层同样有相关项目。DIU 2025 年 3 月启动的 Thunderforge 项目为印太司令部和欧洲司令部提供 AI 辅助的作战与战役规划，Lattice 提供数据共享层，配合微软和 Scale 的大模型，采用“始终在人类监督下”的代理式工作流[@la_ds_thunderforge,la_diu_thunderforge]。盟国层面，澳大利亚海上自主系统部队整合了 Ghost Shark、Bluebottle 和 Speartooth 等无人系统[@la_tdn_masu]；据 The Defense Post 援引日经亚洲报道，日本考虑把 Palantir MSS 和 Anduril Lattice 结合用于指挥控制，并在其上叠加国产 AI 平台进行监督，范围包括导弹防御、反击能力和无人机作战[@co_defpost_japan]。
 
 公开资料中，Ghost Shark 自主功能由 Lattice 管理的说法只见于二手来源[@la_speedoscience]；“复制者”无人艇编队协同软件中 Lattice 的角色未能核实；关岛“勇敢之盾 2026”中基于 Lattice 的防御作战管理器只见于二手聚合来源[@la_venture_atlas]。
 
@@ -192,6 +214,8 @@
 
 第五步，执行与评估。巡飞弹与无人艇执行打击，系统自动改派侦察平台做毁伤评估[@la_blog_edge23]，评估数据回流至战区平台更新目标列表。
 
+第六步，盟军协同（推断）。近岸拒止作战涉及盟国平台与盟国指挥体系。台湾陆军称 2025 年共收到 131 架 ALTIUS[@co_bnn_crashes]；澳大利亚 Ghost Shark 经批准后可出口美国等国[@co_minister_ghostshark]；日本拟议的“MSS 加 Lattice 加国产监督层”方案若落地，将形成美日共用两系统的格局[@co_defpost_japan]。盟军平台能否接入同一 Lattice 网格、目标数据按何种可释放规则共享，均无公开依据。各步流程汇总于{tab:t_ops_maritime}。
+
 !table t_ops_maritime|想定四：海上与近岸无人拒止流程（构想与推断）|本报告分析性构建；本想定多数步骤无直接依据，依据栏列可参照的相关事实|16,30,26,46,42
 步骤|系统|人/机|依据|薄弱点
 预置与组网|Ghost Shark、Dive-LD；Lattice 资产实体|机器（推断）|Dive-LD 竞速测试用 Lattice 共享位置[@la_globalsec_diveld]|水下通信带宽；Ghost Shark 与 Lattice 关系仅弱源
@@ -199,6 +223,7 @@
 任务编排|LMA；“复制者”ACT 软件|机器编排，人监督|ACT 授标：拒止环境下协调数百到数千资产[@co_diu_replicator_sw]|大规模编排未见实证
 打击授权|操作员与指挥官|人（授权方式待定）|EDGE23 人工授权打击[@la_blog_edge23]|规模化下逐目标授权不可行
 执行与评估|ALTIUS、无人艇；LMA 自动改派|机器执行|EDGE23 自动改派 ISR[@la_blog_edge23]|海军无人艇演习失灵；乌克兰受干扰[@la_sherwood_wsj,la_tc_wsj]
+盟军协同|盟国平台与指挥体系（推断）|人机协同（推断）|日本考虑 MSS 与 Lattice 结合[@co_defpost_japan]|可释放规则与网格互通无依据
 !end
 
 !photo ghostx_cr25_4|美陆军第 10 山地师士兵在“联合决心 25-1”演习中训练使用 Ghost-X 无人机（德国霍恩费尔斯，2025 年 1 月）。Ghost-X 列入“复制者”第二批平台，是规模化可消耗无人系统的代表机型之一|美国陆军（DVIDS），美国政府作品
@@ -206,6 +231,8 @@
 ### 时间压缩效果
 
 本想定没有可引用的时间数据。“地狱景观”构想的目标是争取约一个月时间[@co_wt_hellscape]，其时间逻辑与前三条链路不同：前三条链路追求缩短单次杀伤链，本想定追求以规模化无人平台延迟对手行动。LMA 的“一人操控多机”理念若能落地，节省的是操作人员数量，平台数量越大，人力节省越显著[@la_d1_lma]。
+
+!photo ghostx_cr25_3|第 10 山地师在“联合决心”多国演习中开展 Ghost-X 无人机训练（德国霍恩费尔斯，2025 年 1 月）。规模化可消耗无人系统依赖一线部队的操作与维护能力，这是“一人操控多机”从演示走向部署的前提|美国陆军（DVIDS），美国政府作品
 
 ### 薄弱环节
 
@@ -254,6 +281,14 @@
 第三类断点是网络安全。陆军首席技术官备忘录指出的访问控制缺失、用户行为不可见和第三方应用未经审查[@co_reuters_memo]，在任一条链路中都可能被利用。链路一旦从企业层贯通到效应器，单个应用的漏洞即可影响实际交战。
 
 第四类断点是末端平台在电子对抗下的生存。乌克兰战场上 Ghost 受干扰、Altius 停用，美国海军无人艇编队演习失灵[@la_tc_wsj,la_sherwood_wsj]。数据层与决策层的效率提升，最终要经由末端平台转化为作战效果。
+
+### 治理与盟国因素
+
+链路贯通还受治理结构制约。MSS 归 CDAO 管理，合同经陆军企业协议执行；Lattice 在陆军归 PEO C3N，合同经另一份企业协议和 18 亿美元扩展合同[@co_ds_2604_transition,co_ds_2610_ngc2]。端到端链路跨越至少两个主管体系和两份企业协议，联合火力网与两者的关系不明。盟国层面，欧洲评论认为 MSS NATO 意味着美国软件在替欧洲做决定，法国以 Athea 参与北约 eAirC2 竞争，日本执政联盟内部有人担忧过度依赖外国供应商[@co_escudo_eu,co_ncia_eairc2,co_defpost_japan]。盟国可能要求在链路中插入本国监督层，这会增加接口数量。
+
+### 后续观察节点
+
+我部建议跟踪五个节点：NGC2 在第 I 军的部署进度和 2026 年底前同步两个师的目标能否实现[@co_ds_2610_ngc2,la_d1_twodiv]；北约 eAirC2 约 2027 年春的选型结果[@co_ncia_eairc2]；Minab 事件完整调查报告是否公开[@mv_wiki_minab]；DAWG 在 FY2027 中实际获得的经费[@co_gs_dawg]；CCA 任务自主软件竞争在 2027 年的结论[@co_circleville_cca]。前两项决定师级与盟军空中 C2 链路的规模，第三项决定战区链路的治理改进方向，后两项决定无人拒止链路的资金与软件基础。
 
 :::judge 作战流程推演研判要点
 - 四条链路均保留了人工定性、审批或授权节点，公开案例中没有任何一条链路由机器独立完成武器释放决策。

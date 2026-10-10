@@ -26,6 +26,8 @@ SDK 从接口一侧印证了“节点本地存储加跨节点复制”的结构�
 
 实体层的强制时效同样服务于 DDIL。发布实体时 expiry_time 为必填，“必须在未来，但距当前时间少于 30 天”[@la_sdk_entity]。链路中断后，过期数据自动退出共用作战图，断线节点重新接入时不会把陈旧航迹当作当前态势回灌。视频接口区分边缘与云：MPEG-TS 接入“只在边缘封闭网络中支持”，Lattice 运行在“经公共互联网访问的云环境”时可能被禁用[@la_sdk_ref]。这一限制说明 Anduril 把边缘封闭网络和云端视为两种部署形态，并按形态裁剪功能。
 
+上述机制汇总于{tab:t_tech_mesh}，Mesh 在 Lattice 六层架构中的位置见{fig:d_lattice_arch}。
+
 !table t_tech_mesh|Lattice Mesh 面向 DDIL 的机制与证据|本报告依据 Lattice Mesh 专利、lattice-sdk-python 接口参考与公开报道整理|30,48,48,34
 DDIL 问题|Lattice 对应机制|作战含义|证据性质
 带宽不足时先传什么|实时数据优先，回填只用剩余带宽；对象获取支持 RFC 9218 优先级头[@la_patent_436,la_sdk_ref]|航迹与告警先于历史数据和大文件到达|专利与一手 SDK
@@ -62,6 +64,8 @@ MSS 一侧没有对应的边缘网格设计。公开资料没有 MSS 在前沿�
 Lattice 的融合对象是“实体”。SDK 对 Entity 的定义是“代表 Lattice 作战环境中的一个已知对象”，全部数据放在 30 余个可选组件中[@la_sdk_entity]。与融合直接相关的组件有五个。location 与 kinematics 只能二选一，航迹实体“优先使用 kinematics”，后者携带速度和加速度，是航迹外推和火控解算的输入[@la_sdk_entity]。location_uncertainty 表达定位误差。tracked 组件描述航迹质量，包括 0—15 级质量评分、sensor_hits（传感器命中数）、radar_cross_section（雷达截面积）和 number_of_objects[@la_sdk_tracked]。correlation 组件实现多传感器航迹关联。provenance 组件记录数据来源与更新时间[@la_sdk_ref]。
 
 实体类型由 ontology 组件中的本体模板决定，公开 SDK 中共五类：航迹（TEMPLATE_TRACK）、传感器关注点、资产、地理形状和关注信号，另有 platform_type、specific_type 细化平台类别与型号[@la_sdk_ontology,la_sdk_ontology_tpl]。mil_view 组件承载敌我属性，枚举值为不明、友、敌、可疑、假定友、中立、待定，并含所处环境和国籍字段，与北约和美军通用分类基本一致[@la_sdk_milview_disp,la_sdk_milview]。实体组件模型与任务状态机的关系见{fig:d_lattice_entity_task}。
+
+融合范围不限于空中航迹。signal 组件描述关注信号，orbit 组件承载“空间目标的轨道信息”，transponder_codes 记录应答机与敌我识别代码[@la_sdk_entity]。Varda、LeoLabs 与 Anduril 联合跟踪 Varda 返回舱的轨道机动时，数据实时输入 Lattice[@la_execbiz_varda]，太空态势数据已按同一实体模型进入融合。indicators 组件中的 simulated 和 exercise 标识允许真实数据与模拟、演习数据在同一作战图中混跑[@la_sdk_indicators]；health 组件把连接状态、健康状态和当前告警挂在资产实体上[@la_sdk_health]。融合结果因此同时包含目标信息和己方传感器的可信状态。我部推断，下游应用可依据发布节点的健康状态调整对其航迹的信任程度，SDK 未规定这一权重机制。
 
 ### 关联与去关联：自动关联器受人工约束
 
@@ -108,6 +112,8 @@ NGA 管线由标注、集成与认证三个环节构成。标注环节，2024 �
 平台接入|MSS 本体与第三方模型[@mv_palantir_blog_nato]|检测结果作为对象写入平台|对象写入的置信度与来源字段规范
 供应链治理|NGA 2023 年征询[@mv_bd_supplychain_2023]|评估下级供应商风险|评估结论未公开
 !end
+
+{tab:t_tech_aipipe}显示，管线中公开程度最高的是合同与承包商，最低的是评估指标与结果。Maven 早期采用多供应商并行的模式，经 ECS 渠道接入多家公司的识别工具[@mv_execbiz_ecs,mv_itpro]；2024 年以后标注集中到单一大额合同，模型评估集中到 AGAIM，管线由分散试验转向标准化生产。SEQUOIA 标注合同上限 7.08 亿美元，高于 2024 年 5 月 MSS 原型合同的 4.8 亿美元[@mv_bd_sequoia,mv_ds_2024_05]，政府在模型数据侧的投入规模已与平台侧相当。
 
 ### 机器生成 GEOINT 标注
 
@@ -198,6 +204,8 @@ MSS 的人机问题集中在审批密度。目标官 Temple 估计每小时签�
 制度约束|3000.09 适用方式未见公开文件|决策支持定位；问责靠 JP 3-60 签批[@co_gao_3000]|无独立审查记录
 !end
 
+{tab:t_tech_hmi}按杀伤链环节对照两系统的人机分工。两系统在发现、定位环节均以机器为主，在识别定性与武器释放环节均由人掌握；差别集中在交战分配和评估环节，Lattice 由能力目录和自动改派承担更多调度，MSS 则以资产推荐交人决定。表中“制度约束”一行两系统均为空白，这是人机协同领域最大的公开缺口。
+
 !photo pcc4_csa_ghost|陆军参谋长在“项目融合—顶点 4”期间听取 Anduril Ghost 无人机能力简报（加州欧文堡，2024 年 3 月）。同期演习开展了人机融合试验，是陆军评估“一人操控多机”模式的场合之一|美国陆军（DVIDS），美国政府作品
 
 【技术判读】**两系统都把武器释放权留给人，人机风险却分处两端：MSS 的风险在机器速度提名导致人工审批密度下降，Lattice 的风险在机器速度执行压缩人工干预窗口。**Lattice 的 SDK 提供了覆写、拒绝、接管等可验证的人机接口，MSS 的人机控制则主要依赖流程与人员配置，Minab 事件说明后者在规模化运行中最先失守。DoDD 3000.09 对两系统的具体适用方式没有公开答案。
@@ -213,6 +221,8 @@ MSS 的人机问题集中在审批密度。目标官 Temple 估计每小时签�
 多家媒体报道，Anthropic 的 Claude 通过 Anthropic 与 Palantir 的合作于 2024 年末接入 Maven，用于目标优先级排序和分析[@mv_rs_iran,mv_aca_iran]。据《华盛顿邮报》2026 年 3 月 4 日报道，在对伊朗作战中，内嵌 Claude 的 MSS 为目标排序、生成坐标并建议武器[@mv_wapo_2026]；二手转述称其生成法律依据草稿，以及“提出数百个目标，进行优先排序并给出精确坐标，再由人类指挥官批准”[@mv_wapo_2026,mv_strat_intl]。“和平愿景”的说法要克制得多：Claude 主要用于把情报报告转成通俗语言[@mv_voh]。
 
 Claude 的现状同样存在冲突。据报道，国防部 2026 年 3 月 4 日把 Anthropic 列为“供应链风险”，要求 6 个月内淘汰，起因是 Anthropic 拒绝把模型用于大规模国内监控和完全自主武器，OpenAI 等公司据报接替；Palantir 首席执行官卡普在 CNBC 上则称 Claude 仍在目标系统中运行[@mv_aca_iran,mv_ie_claude]。Claude 在 MSS 中的具体角色、是否已被替换、由谁接替，均无法从五角大楼或 Anthropic 的一手文件中证实。
+
+Claude 经 Palantir 平台参与行动的报道还见于 2026 年 1 月 3 日委内瑞拉马杜罗抓捕行动。《华尔街日报》称 Claude 通过 Palantir 平台参与，但没有来源明确说使用的是 Maven，具体任务属于机密，Anthropic 不予置评[@mv_swj_maduro,mv_cnbc_karp]。
 
 使用强度有官方数据。五角大楼发言人称，伊朗战事期间 MSS 非密网使用量环比增长 38%，涉密网增长 89%，按 token 计的日峰值增长 4,425%，最高约 200 亿 token/天[@mv_bd_insatiable]。这组数据说明大模型已深度嵌入日常参谋工作，但没有拆分到目标排序、坐标生成等具体用途。
 
@@ -268,6 +278,8 @@ v2 公开接口分为实体、任务、对象、认证、视频五组，定义�
 
 许可条款决定了这套 SDK 的性质。许可是有限、可撤销、免版税的，只能用于为“兼容的 Lattice 实现”开发应用，明确禁止用它构建其他 SDK 或不兼容的实现[@la_sdk_license,la_buf_license]。政府和第三方获得的是接口使用权，无法据此开发替代实现。陆军把“避免厂商锁定、为传感器和升级留出空间”列为通用数据层的关键考虑[@la_bd_cdl]，许可条款与这一考虑之间存在张力。
 
+开发者计划提供“运行 Lattice Mesh、带模拟数据的环境”[@la_docs_overview]；Anduril 招聘信息称，其合作伙伴“从创新初创公司到防务巨头和世界各国军事组织”都有[@la_gc_jobs]。SDK 是否收费、开发者沙箱的准入方式和其中的模拟资产，本轮均未查明。
+
 ### A-GRA：唯一有记录的开放标准
 
 政府参考自主架构（A-GRA）是 Lattice 唯一有明确记录的开放标准。Anduril 称 LMA 完全符合 A-GRA；YFQ-44A 在一次飞行中既运行 Shield AI 的 Hivemind，也运行 Anduril 的 LMA，并通过早期 A-GRA 实现在两套软件之间切换[@la_aviationist_hivemind]。这是美军在自主软件层面保持可替换性的直接证据。空军通过 A-GRA 使自主软件竞争持续到 2027 年，Lattice 需与 Shield AI、通用原子、洛克希德等长期竞争[@co_circleville_cca,co_aviationist_2603]。
@@ -287,6 +299,8 @@ MSS 的开放性体现在应用层和模型层。北约描述 MSS NATO 的开放
 集成速度证据|IBCS-M 数小时接入新传感器与效应器[@la_ds_ibcsm]|北约从提出需求到签约约 6 个月[@co_ds_2504_nato]|口径不同，不可直接比较
 两系统互通|无公开映射文档[@co_ds_2606_baseline]|无公开映射文档|NGC2 中依赖未公开的集成层
 !end
+
+{tab:t_tech_open}对照了两系统在接口、接入路径、许可、标准和互通五个维度的开放程度。
 
 ### 生态格局
 
