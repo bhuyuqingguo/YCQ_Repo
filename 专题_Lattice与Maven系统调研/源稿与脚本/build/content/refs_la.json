@@ -1,0 +1,2018 @@
+{
+ "la_wiki_anduril": {
+  "author": "Wikipedia",
+  "title": "Anduril Industries",
+  "title_cn": "Anduril Industries 词条",
+  "publisher": "Wikipedia",
+  "date": "2026",
+  "url": "https://en.wikipedia.org/wiki/Anduril_Industries"
+ },
+ "la_tc_founding": {
+  "author": "TechCrunch",
+  "title": "TechCrunch report on Anduril's founding",
+  "title_cn": "TechCrunch 关于 Anduril 成立的报道",
+  "publisher": "TechCrunch",
+  "date": "2017",
+  "url": "https://techcrunch.com/?p=1654777"
+ },
+ "la_builtin_luckey": {
+  "author": "Built In",
+  "title": "Who Is Palmer Luckey?",
+  "title_cn": "帕尔默·勒基是谁",
+  "publisher": "Built In",
+  "date": "",
+  "url": "https://builtin.com/articles/who-is-palmer-luckey"
+ },
+ "la_andurilnews_funding": {
+  "author": "andurilnews.com",
+  "title": "Anduril funding tracker",
+  "title_cn": "Anduril 融资追踪（第三方聚合）",
+  "publisher": "andurilnews.com",
+  "date": "2026",
+  "url": "https://www.andurilnews.com/funding/"
+ },
+ "la_multiples": {
+  "author": "Multiples.vc",
+  "title": "Anduril private comps",
+  "title_cn": "Anduril 私募估值数据",
+  "publisher": "Multiples.vc",
+  "date": "",
+  "url": "https://multiples.vc/private-comps/anduril"
+ },
+ "la_sacra": {
+  "author": "Sacra",
+  "title": "Anduril revenue, valuation & funding",
+  "title_cn": "Anduril 营收、估值与融资",
+  "publisher": "Sacra",
+  "date": "2026",
+  "url": "https://sacra.com/c/anduril/"
+ },
+ "la_fedscoop_towers": {
+  "author": "FedScoop",
+  "title": "Anduril Sentry towers and CBP",
+  "title_cn": "Anduril Sentry 塔与 CBP",
+  "publisher": "FedScoop",
+  "date": "",
+  "url": "https://fedscoop.com/anduril-sentry-towers-cbp/"
+ },
+ "la_shadowproof": {
+  "author": "Shadowproof",
+  "title": "The Virtual Wall: Documents Show CBP Plans for Surveillance Towers at US-Mexico Border",
+  "title_cn": "虚拟墙：文件显示 CBP 在美墨边境部署监视塔的计划",
+  "publisher": "Shadowproof",
+  "date": "2021-04-08",
+  "url": "https://shadowproof.com/2021/04/08/the-virtual-wall-documents-show-cbp-plans-for-surveillance-towers-at-us-mexico-border/"
+ },
+ "la_aibusiness": {
+  "author": "AI Business",
+  "title": "Anduril raises $200M, wins contract for autonomous surveillance towers along US-Mexico border",
+  "title_cn": "Anduril 融资 2 亿美元并赢得美墨边境自主监视塔合同",
+  "publisher": "AI Business",
+  "date": "2020-07",
+  "url": "https://aibusiness.com/verticals/anduril-raises-200m-wins-contract-for-autonomous-surveillance-towers-along-us-mexico-border"
+ },
+ "la_govconwire_dhs": {
+  "author": "GovConWire",
+  "title": "Anduril UAV, UUV and Lattice for homeland security",
+  "title_cn": "Anduril 无人机、无人潜航器与 Lattice 用于国土安全",
+  "publisher": "GovConWire",
+  "date": "",
+  "url": "https://www.govconwire.com/articles/anduril-uav-uuv-lattice-homeland-security"
+ },
+ "la_asdnews_300": {
+  "author": "ASDNews",
+  "title": "Anduril deploys 300th Autonomous Surveillance Tower (AST), advancing capability for border security",
+  "title_cn": "Anduril 部署第 300 座自主监视塔",
+  "publisher": "ASDNews",
+  "date": "2024-09-27",
+  "url": "https://www.asdnews.com/news/defense/2024/09/27/anduril-deploys-300th-autonomous-surveillance-tower-ast-advancing-capability-border-security"
+ },
+ "la_anduril_300": {
+  "author": "Anduril Industries",
+  "title": "Anduril deploys 300th Autonomous Surveillance Tower (AST), advancing capability for border security",
+  "title_cn": "Anduril 部署第 300 座自主监视塔（公司新闻）",
+  "publisher": "Anduril",
+  "date": "2024",
+  "url": "https://www.anduril.com/news/anduril-deploys-300th-autonomous-surveillance-tower-ast-advancing-capability-for-border-security"
+ },
+ "la_tdn_xrst": {
+  "author": "TheDefenseNews",
+  "title": "Anduril Wins $363 Million CBP Contract to Deploy Over 200 Extended-Range AI Surveillance Towers",
+  "title_cn": "Anduril 获 3.63 亿美元 CBP 合同部署 200 余座增程 AI 监视塔",
+  "publisher": "TheDefenseNews",
+  "date": "2026-06",
+  "url": "https://www.thedefensenews.com/Anduril-Wins-363-Million-CBP-Contract-to-Deploy-Over-200-Extended-Range-AI-Surveillance-Towers/"
+ },
+ "la_sos": {
+  "author": "State of Surveillance",
+  "title": "Anduril border surveillance monopoly and the Big Beautiful Bill (2026)",
+  "title_cn": "Anduril 边境监视垄断与《大而美法案》（倡导类媒体）",
+  "publisher": "State of Surveillance",
+  "date": "2026",
+  "url": "https://stateofsurveillance.org/news/anduril-border-surveillance-monopoly-big-beautiful-bill-2026/"
+ },
+ "la_cbp_por": {
+  "author": "U.S. Customs and Border Protection",
+  "title": "CBP's autonomous surveillance towers declared program of record along southwest border",
+  "title_cn": "CBP 自主监视塔被宣布为西南边境正式采购项目",
+  "publisher": "CBP",
+  "date": "2020",
+  "url": "https://www.cbp.gov/newsroom/national-media-release/cbp-s-autonomous-surveillance-towers-declared-program-record-along"
+ },
+ "la_anduril_xrst": {
+  "author": "Anduril Industries",
+  "title": "Anduril and U.S. Customs and Border Protection expand partnership with 200 additional Extended Range Sentry Towers",
+  "title_cn": "Anduril 与 CBP 扩大合作，新增 200 座增程 Sentry 塔",
+  "publisher": "Anduril",
+  "date": "2026-06",
+  "url": "https://www.anduril.com/news/anduril-and-u-s-customs-and-border-protection-expand-partnership-with-200-additional-extended-range-sentry-towers"
+ },
+ "la_execbiz_xrst": {
+  "author": "ExecutiveBiz",
+  "title": "CBP awards Anduril $363M for Extended Range Sentry Towers",
+  "title_cn": "CBP 授予 Anduril 3.63 亿美元增程 Sentry 塔合同",
+  "publisher": "ExecutiveBiz",
+  "date": "2026-06",
+  "url": "https://www.executivebiz.com/articles/cbp-anduril-extended-range-sentry-towers-363m"
+ },
+ "la_orangeslices_xrst": {
+  "author": "OrangeSlices AI",
+  "title": "Anduril scores 1-year $363M SBIR Phase III Autonomous Surveillance Towers IDIQ task with DHS Border Patrol",
+  "title_cn": "Anduril 获边境巡逻队 1 年期 3.63 亿美元 SBIR 第三阶段 AST 任务",
+  "publisher": "OrangeSlices AI",
+  "date": "2026-06",
+  "url": "https://orangeslices.ai/anduril-scores-1-year-363m-sbir-phase-iii-autonomous-surveillance-towers-idiq-task-with-dhs-border-patrol/"
+ },
+ "la_zerog": {
+  "author": "ZeroG Talent",
+  "title": "Anduril's $363M border wall tech deal is fueling a hidden hiring surge",
+  "title_cn": "Anduril 3.63 亿美元边境技术合同带动招聘（低可信）",
+  "publisher": "ZeroG Talent",
+  "date": "2026",
+  "url": "https://zerogtalent.com/blog/anduril-s-363m-border-wall-tech-deal-is-fueling-a-hidden-hiring-surge-in-autonomous-sensing-and-rhode-island-is-ground-zero"
+ },
+ "la_nextgov_2020": {
+  "author": "Nextgov",
+  "title": "CBP taps Anduril for virtual border sentinel system",
+  "title_cn": "CBP 选用 Anduril 虚拟边境哨兵系统",
+  "publisher": "Nextgov",
+  "date": "2020-07",
+  "url": "https://nextgov.com/acquisition/2020/07/cbp-taps-anduril-for-virtual-border-sentinel-system/257835"
+ },
+ "la_defensedaily_por": {
+  "author": "Defense Daily",
+  "title": "CBP makes autonomous surveillance tower program of record",
+  "title_cn": "CBP 将自主监视塔列为正式采购项目",
+  "publisher": "Defense Daily",
+  "date": "2020",
+  "url": "https://defensedaily.com/cbp-makes-autonomous-surveillance-tower-program-record/homeland-security"
+ },
+ "la_privacyintl": {
+  "author": "Privacy International",
+  "title": "Dual-use tech: the Anduril example",
+  "title_cn": "两用技术：以 Anduril 为例",
+  "publisher": "Privacy International",
+  "date": "",
+  "url": "https://privacyinternational.org/report/5704/dual-use-tech-anduril-example"
+ },
+ "la_mittr_towers": {
+  "author": "MIT Technology Review",
+  "title": "Border towers surveillance investigation",
+  "title_cn": "边境监视塔调查",
+  "publisher": "MIT Technology Review",
+  "date": "2026-09-21",
+  "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
+ },
+ "la_intercept_bbb": {
+  "author": "The Intercept",
+  "title": "Trump's Big Beautiful Bill and Anduril",
+  "title_cn": "特朗普《大而美法案》与 Anduril",
+  "publisher": "The Intercept",
+  "date": "2025-07-09",
+  "url": "https://theintercept.com/2025/07/09/trump-big-beautiful-bill-anduril/"
+ },
+ "la_dn_socom": {
+  "author": "Defense News",
+  "title": "US Special Operations Command picks Anduril to lead counter-drone integration work in $1B deal",
+  "title_cn": "SOCOM 以约 10 亿美元合同选定 Anduril 牵头反无人机集成",
+  "publisher": "Defense News",
+  "date": "2022-01-24",
+  "url": "https://www.defensenews.com/unmanned/2022/01/24/us-special-operations-command-picks-anduril-to-lead-counter-drone-integration-work-in-1b-deal/"
+ },
+ "la_monch_cuxs": {
+  "author": "Monch",
+  "title": "Anduril Industries lands SOCOM C-UxS contract",
+  "title_cn": "Anduril 获 SOCOM 反无人系统合同",
+  "publisher": "Monch",
+  "date": "2022",
+  "url": "https://monch.com/anduril-industries-lands-socom-cuxs-contract/"
+ },
+ "la_afcea_socom": {
+  "author": "AFCEA Signal",
+  "title": "SOCOM selects Anduril as integration partner in $967 million counter-unmanned contract",
+  "title_cn": "SOCOM 以 9.67 亿美元合同选定 Anduril 为反无人系统集成伙伴",
+  "publisher": "AFCEA Signal",
+  "date": "2022-01",
+  "url": "https://www.afcea.org/signal-media/contracting/socom-selects-anduril-integration-partner-967-million-counter-unmanned"
+ },
+ "la_fedscoop_socom": {
+  "author": "FedScoop",
+  "title": "Anduril nabs $1B contract for anti-drone work with SOCOM",
+  "title_cn": "Anduril 获 SOCOM 10 亿美元反无人机合同",
+  "publisher": "FedScoop",
+  "date": "2022-01",
+  "url": "https://fedscoop.com/anduril-nabs-1b-contract-for-anti-drone-work-with-socom/"
+ },
+ "la_wt_socom": {
+  "author": "Washington Technology",
+  "title": "Anduril's market inroads clear with $1B counter-unmanned system tech win",
+  "title_cn": "Anduril 凭 10 亿美元反无人系统合同打开市场",
+  "publisher": "Washington Technology",
+  "date": "2022-01",
+  "url": "https://washingtontechnology.com/companies/2022/01/andurils-market-inroads-clear-1b-counter-unmanned-system-tech-win/361017/"
+ },
+ "la_govconwire_socom": {
+  "author": "GovConWire",
+  "title": "Anduril wins $968M SOCOM counter-UAS tech integration contract",
+  "title_cn": "Anduril 获 9.68 亿美元 SOCOM 反无人机集成合同",
+  "publisher": "GovConWire",
+  "date": "2022-01",
+  "url": "https://govconwire.com/2022/01/anduril-wins-968m-socom-counter-uas-tech-integration-contract/"
+ },
+ "la_anduril_blog_socom": {
+  "author": "Anduril Industries",
+  "title": "Special Operations Command selects Anduril Industries as Systems Integration Partner",
+  "title_cn": "SOCOM 选定 Anduril 为系统集成伙伴",
+  "publisher": "Anduril Blog",
+  "date": "2022-01",
+  "url": "https://blog.anduril.com/special-operations-command-selects-anduril-industries-as-systems-integration-partner-e40da542f18d"
+ },
+ "la_airrec_socom": {
+  "author": "Air Recognition",
+  "title": "US Special Ops Command awards Anduril Industries a $1B counter-drone contract",
+  "title_cn": "SOCOM 授予 Anduril 10 亿美元反无人机合同",
+  "publisher": "Air Recognition",
+  "date": "2022-01",
+  "url": "https://airrecognition.com/index.php/news/defense-aviation-news/2022-news-aviation-aerospace/january/8118-us-special-ops-command-awards-anduril-industries-a-1b-counter-drone-contract.html"
+ },
+ "la_dn_lma": {
+  "author": "Defense News",
+  "title": "Anduril unveils software to manage hordes of drones",
+  "title_cn": "Anduril 发布管理大批无人机的软件",
+  "publisher": "Defense News",
+  "date": "2023-05-03",
+  "url": "https://www.defensenews.com/industry/2023/05/03/anduril-unveils-software-to-manage-hordes-of-drones/"
+ },
+ "la_blog_lma": {
+  "author": "Anduril Industries",
+  "title": "Anduril Unveils Lattice for Mission Autonomy",
+  "title_cn": "Anduril 发布 Lattice 任务自主",
+  "publisher": "Anduril Blog",
+  "date": "2023-05-03",
+  "url": "https://blog.anduril.com/anduril-unveils-lattice-for-mission-autonomy-8e0c5fa0e94b"
+ },
+ "la_d1_lma": {
+  "author": "Defense One",
+  "title": "New software aims to allow fewer troops to manage more drones",
+  "title_cn": "新软件旨在让更少士兵管理更多无人机",
+  "publisher": "Defense One",
+  "date": "2023-05",
+  "url": "https://defenseone.com/business/2023/05/new-software-aims-allow-fewer-troops-manage-more-drones/385905"
+ },
+ "la_blog_edge23": {
+  "author": "Anduril Industries",
+  "title": "Anduril demonstrates Lattice for Mission Autonomy controlling teams of autonomous assets at US Army EDGE23",
+  "title_cn": "Anduril 在陆军 EDGE23 演示 Lattice 任务自主控制自主资产编队",
+  "publisher": "Anduril Blog",
+  "date": "2023",
+  "url": "https://blog.anduril.com/anduril-demonstrates-lattice-for-mission-autonomy-controlling-teams-of-autonomous-assets-at-us-f617c489441"
+ },
+ "la_monch_mas": {
+  "author": "Monch",
+  "title": "USSOCOM selects Anduril as Mission Autonomy Systems Integration Partner",
+  "title_cn": "SOCOM 选定 Anduril 为任务自主系统集成伙伴",
+  "publisher": "Monch",
+  "date": "",
+  "url": "https://monch.com/?p=368148"
+ },
+ "la_tectonic_86m": {
+  "author": "Tectonic Defense",
+  "title": "Anduril secures $86M to help SOCOM control its drones",
+  "title_cn": "Anduril 获 8,600 万美元帮助 SOCOM 控制无人机",
+  "publisher": "Tectonic Defense",
+  "date": "",
+  "url": "https://www.tectonicdefense.com/anduril-secures-86m-to-help-socom-control-its-drones/"
+ },
+ "la_amr_singapore": {
+  "author": "Asian Military Review",
+  "title": "Singapore DSTA and RSAF partner with Anduril on Lattice for Mission Autonomy",
+  "title_cn": "新加坡 DSTA 与 RSAF 就 Lattice 任务自主与 Anduril 合作",
+  "publisher": "Asian Military Review",
+  "date": "2025-03",
+  "url": "https://asianmilitaryreview.com/?p=18585"
+ },
+ "la_dd_sdk": {
+  "author": "Defense Daily",
+  "title": "Anduril offers software development kit for Lattice networking platform to boost interoperability",
+  "title_cn": "Anduril 推出 Lattice 网络平台软件开发包以提升互操作性",
+  "publisher": "Defense Daily",
+  "date": "2024-12-10",
+  "url": "https://www.defensedaily.com/anduril-offers-software-development-kit-for-lattice-networking-platform-to-boost-interoperability/advanced-transformational-technology/"
+ },
+ "la_x_sdk": {
+  "author": "Anduril Industries",
+  "title": "Lattice SDK launch announcement",
+  "title_cn": "Lattice SDK 发布公告（X 帖文）",
+  "publisher": "X (Twitter)",
+  "date": "2024-12-10",
+  "url": "https://x.com/anduriltech/status/1866525275644633517"
+ },
+ "la_ocbj_partners": {
+  "author": "Orange County Business Journal",
+  "title": "Anduril Industries enabling partners to operate on Lattice",
+  "title_cn": "Anduril 让合作伙伴在 Lattice 上运行",
+  "publisher": "OCBJ",
+  "date": "2024-12",
+  "url": "https://www.ocbj.com/defense-2/anduril-industries-enabling-partners-to-operate-on-lattice/"
+ },
+ "la_docs_overview": {
+  "author": "Anduril Industries",
+  "title": "Lattice SDK guide: Overview",
+  "title_cn": "Lattice SDK 指南：概述",
+  "publisher": "docs.anduril.com",
+  "date": "",
+  "url": "https://docs.anduril.com/guide/overview"
+ },
+ "la_sdk_license": {
+  "author": "Anduril Industries",
+  "title": "Lattice SDK License",
+  "title_cn": "Lattice SDK 许可协议",
+  "publisher": "developer.anduril.com",
+  "date": "",
+  "url": "https://developer.anduril.com/license"
+ },
+ "la_buf_license": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk LICENSE",
+  "title_cn": "lattice-sdk 许可文本（Buf Schema Registry）",
+  "publisher": "buf.build",
+  "date": "",
+  "url": "https://buf.build/anduril/lattice-sdk/raw/main/-/LICENSE"
+ },
+ "la_github_anduril": {
+  "author": "Anduril Industries",
+  "title": "anduril (GitHub organization)",
+  "title_cn": "Anduril GitHub 组织主页",
+  "publisher": "GitHub",
+  "date": "2026",
+  "url": "https://github.com/anduril"
+ },
+ "la_sdk_cpp": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-cpp",
+  "title_cn": "Lattice C++ SDK 仓库（已归档）",
+  "publisher": "GitHub",
+  "date": "2025-07-24",
+  "url": "https://github.com/anduril/lattice-sdk-cpp"
+ },
+ "la_changelog": {
+  "author": "Anduril Industries",
+  "title": "Lattice developer changelog",
+  "title_cn": "Lattice 开发者更新日志",
+  "publisher": "developer.anduril.com",
+  "date": "2026-10",
+  "url": "https://developer.anduril.com/changelog"
+ },
+ "la_changelog_20250724": {
+  "author": "Anduril Industries",
+  "title": "Lattice developer changelog, 2025-07-24",
+  "title_cn": "Lattice 开发者更新日志（2025-07-24）",
+  "publisher": "developer.anduril.com",
+  "date": "2025-07-24",
+  "url": "https://developer.anduril.com/changelog/2025/7/24"
+ },
+ "la_docs_java": {
+  "author": "Anduril Industries",
+  "title": "Lattice SDK for Java",
+  "title_cn": "Lattice Java SDK 文档",
+  "publisher": "docs.anduril.com",
+  "date": "",
+  "url": "https://docs.anduril.com/sdks/java"
+ },
+ "la_dev_watch": {
+  "author": "Anduril Industries",
+  "title": "Watch entities",
+  "title_cn": "实体订阅指南",
+  "publisher": "developer.anduril.com",
+  "date": "",
+  "url": "https://developer.anduril.com/guides/entities/watch"
+ },
+ "la_docs_publish": {
+  "author": "Anduril Industries",
+  "title": "Publish entities",
+  "title_cn": "实体发布指南",
+  "publisher": "docs.anduril.com",
+  "date": "",
+  "url": "https://docs.anduril.com/entity/publish"
+ },
+ "la_dev_objects": {
+  "author": "Anduril Industries",
+  "title": "Objects overview",
+  "title_cn": "对象存储概述",
+  "publisher": "developer.anduril.com",
+  "date": "",
+  "url": "https://developer.anduril.com/guides/objects/overview"
+ },
+ "la_bd_tag": {
+  "author": "Breaking Defense",
+  "title": "Lattice (tag page)",
+  "title_cn": "Breaking Defense 网站 Lattice 标签页",
+  "publisher": "Breaking Defense",
+  "date": "2026",
+  "url": "https://breakingdefense.com/tag/lattice/"
+ },
+ "la_ua_20b": {
+  "author": "Unmanned Airspace",
+  "title": "US Army awards Anduril the world's largest ever C-UAS contract at USD20 billion",
+  "title_cn": "美陆军授予 Anduril 史上最大 200 亿美元反无人机合同",
+  "publisher": "Unmanned Airspace",
+  "date": "2026-03",
+  "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-army-awards-anduril-the-worlds-largest-ever-c-uas-contact-at-usd20-billion/"
+ },
+ "la_execbiz_ssn": {
+  "author": "ExecutiveBiz",
+  "title": "Anduril contract award to modernize Space Surveillance Network",
+  "title_cn": "Anduril 获太空监视网现代化合同",
+  "publisher": "ExecutiveBiz",
+  "date": "2024-11",
+  "url": "https://executivebiz.com/2024/11/anduril-contract-award-modernize-space-surveillance-network-ssc"
+ },
+ "la_ds_ssn": {
+  "author": "DefenseScoop",
+  "title": "Anduril space surveillance network upgrade contract (SDANet)",
+  "title_cn": "Anduril 太空监视网升级合同（SDANet）",
+  "publisher": "DefenseScoop",
+  "date": "2024-11-21",
+  "url": "https://defensescoop.com/2024/11/21/anduril-space-surveillance-network-upgrade-contract-sdanet/"
+ },
+ "la_bd_ssn": {
+  "author": "Breaking Defense",
+  "title": "Anduril could receive up to $100M for Space Surveillance Network upgrade",
+  "title_cn": "Anduril 可获最高 1 亿美元太空监视网升级合同",
+  "publisher": "Breaking Defense",
+  "date": "2024-11",
+  "url": "https://breakingdefense.com/2024/11/anduril-could-receive-up-to-100m-for-space-surveillance-network-upgrade/"
+ },
+ "la_spaceinsider": {
+  "author": "Space Insider",
+  "title": "Anduril secures $99.7M contract to modernize U.S. Space Surveillance Network",
+  "title_cn": "Anduril 获 9,970 万美元美国太空监视网现代化合同",
+  "publisher": "Space Insider",
+  "date": "2024-11-21",
+  "url": "https://spaceinsider.tech/2024/11/21/anduril-secures-99-7m-contract-to-modernize-u-s-space-surveillance-network"
+ },
+ "la_tc_consortium": {
+  "author": "TechCrunch",
+  "title": "Palantir and Anduril reportedly building a tech consortium to bid on defense contracts",
+  "title_cn": "据报 Palantir 与 Anduril 组建科技联合体投标国防合同",
+  "publisher": "TechCrunch",
+  "date": "2024-12-22",
+  "url": "https://techcrunch.com/2024/12/22/palantir-and-anduril-reportedly-building-a-tech-consortium-to-bid-on-defense-contracts/"
+ },
+ "la_bw_palantir": {
+  "author": "Anduril Industries; Palantir Technologies",
+  "title": "Anduril and Palantir to Accelerate AI Capabilities for National Security",
+  "title_cn": "Anduril 与 Palantir 合作加速国家安全 AI 能力",
+  "publisher": "BusinessWire",
+  "date": "2024-12-06",
+  "url": "https://www.businesswire.com/news/home/20241206684306/en/Anduril-and-Palantir-to-Accelerate-AI-Capabilities-for-National-Security"
+ },
+ "la_ds_palantir": {
+  "author": "DefenseScoop",
+  "title": "Palantir, Anduril form consortium to merge AI capabilities",
+  "title_cn": "Palantir 与 Anduril 结盟融合 AI 能力",
+  "publisher": "DefenseScoop",
+  "date": "2024-12-06",
+  "url": "https://defensescoop.com/2024/12/06/palantir-anduril-consortium-ai-new-alliance-merge-capabilities/"
+ },
+ "la_bnn_palantir": {
+  "author": "BNN Bloomberg",
+  "title": "Defense startups Palantir, Anduril to save data from battlefield to train AI models",
+  "title_cn": "Palantir 与 Anduril 将保存战场数据用于训练 AI 模型",
+  "publisher": "BNN Bloomberg",
+  "date": "2024-12-06",
+  "url": "https://bnnbloomberg.ca/business/technology/2024/12/06/defense-startups-palantir-anduril-to-save-data-from-battlefield-to-train-ai-models"
+ },
+ "la_army_ngc2_award": {
+  "author": "U.S. Army",
+  "title": "Army announces Next Generation Command and Control (NGC2) prototype award",
+  "title_cn": "陆军宣布下一代指挥控制原型合同",
+  "publisher": "Army.mil",
+  "date": "2025-07",
+  "url": "https://www.army.mil/article/287180/army_announces_next_generation_command_and_control_ngc2_prototype_award"
+ },
+ "la_tdp_ngc2": {
+  "author": "The Defense Post",
+  "title": "Anduril to build US Army NGC2 prototype",
+  "title_cn": "Anduril 将为美陆军构建 NGC2 原型",
+  "publisher": "The Defense Post",
+  "date": "2025-07-21",
+  "url": "https://thedefensepost.com/2025/07/21/anduril-us-army-ngc2-prototype/"
+ },
+ "la_ds_ngc2_award": {
+  "author": "DefenseScoop",
+  "title": "Anduril wins Army Next Generation Command and Control award",
+  "title_cn": "Anduril 赢得陆军下一代指挥控制合同",
+  "publisher": "DefenseScoop",
+  "date": "2025-07-21",
+  "url": "https://defensescoop.com/2025/07/21/anduril-army-next-generation-command-and-control-award/"
+ },
+ "la_dn_ngc2_award": {
+  "author": "Defense News",
+  "title": "Anduril wins $100M deal to build US Army's next-gen C2 ecosystem",
+  "title_cn": "Anduril 获 1 亿美元合同构建陆军下一代 C2 生态",
+  "publisher": "Defense News",
+  "date": "2025-07-21",
+  "url": "https://www.defensenews.com/land/2025/07/21/anduril-wins-100m-deal-to-build-us-armys-next-gen-c2-ecosystem/"
+ },
+ "la_ss_ngc2_award": {
+  "author": "Soldier Systems Daily",
+  "title": "Anduril awarded $99.6M for U.S. Army Next Generation Command and Control prototype",
+  "title_cn": "Anduril 获 9,960 万美元陆军 NGC2 原型合同",
+  "publisher": "Soldier Systems Daily",
+  "date": "2025-07-18",
+  "url": "https://soldiersystems.net/2025/07/18/anduril-awarded-99-6m-for-u-s-army-next-generation-command-and-control-prototype/"
+ },
+ "la_insidedef_ngc2": {
+  "author": "Inside Defense",
+  "title": "Army NGC2 prototype award (Inside Defense report)",
+  "title_cn": "陆军 NGC2 原型授予（Inside Defense 报道）",
+  "publisher": "Inside Defense",
+  "date": "2025-07",
+  "url": "https://insidedefense.com/node/224724"
+ },
+ "la_die_ivysting1": {
+  "author": "Defence Industry Europe",
+  "title": "Anduril and U.S. Army showcase next-gen command and control with NGC2 in live-fire Ivy Sting 1",
+  "title_cn": "Anduril 与美陆军在 Ivy Sting 1 实弹中展示 NGC2",
+  "publisher": "Defence Industry Europe",
+  "date": "2025-09",
+  "url": "https://defence-industry.eu/anduril-and-u-s-army-showcase-next-gen-command-and-control-with-ngc2-in-live-fire-ivy-sting-1/"
+ },
+ "la_ss_ivysting1": {
+  "author": "Soldier Systems Daily",
+  "title": "How Anduril and the Army are rewriting fire missions with NGC2",
+  "title_cn": "Anduril 与陆军如何用 NGC2 改写火力任务",
+  "publisher": "Soldier Systems Daily",
+  "date": "2025-10-02",
+  "url": "https://soldiersystems.net/2025/10/02/how-anduril-and-the-army-are-rewriting-fire-missions-with-ngc2/"
+ },
+ "la_bd_ivysting1": {
+  "author": "Breaking Defense",
+  "title": "In NGC2 first, Army uses beta artillery data tool in howitzer strike at Ivy Sting 1",
+  "title_cn": "NGC2 首次：陆军在 Ivy Sting 1 榴弹炮射击中使用测试版炮兵数据工具",
+  "publisher": "Breaking Defense",
+  "date": "2025-10",
+  "url": "https://breakingdefense.com/2025/10/in-ngc2-first-army-uses-beta-artillery-data-tool-in-howitzer-strike-at-ivy-sting-1/"
+ },
+ "la_army_ivysting1": {
+  "author": "U.S. Army",
+  "title": "It's about lethal formations: Ivy Division launches Army prototype for Next Gen Command and Control",
+  "title_cn": "常春藤师启动陆军下一代指挥控制原型",
+  "publisher": "Army.mil",
+  "date": "2025-09",
+  "url": "https://www.army.mil/article/288651/its_about_lethal_formations_ivy_division_launches_army_prototype_for_next_gen_command_and_control"
+ },
+ "la_die_cca": {
+  "author": "Defence Industry Europe",
+  "title": "U.S. Air Force selects Anduril Lattice Mission Autonomy software for next Collaborative Combat Aircraft program phase",
+  "title_cn": "美空军为 CCA 下一阶段选定 Anduril Lattice 任务自主软件",
+  "publisher": "Defence Industry Europe",
+  "date": "2026-06",
+  "url": "https://defence-industry.eu/u-s-air-force-selects-anduril-lattice-mission-autonomy-software-for-next-collaborative-combat-aircraft-program-phase/"
+ },
+ "la_ds_20b": {
+  "author": "DefenseScoop",
+  "title": "Anduril $20 billion Army contract",
+  "title_cn": "Anduril 获陆军 200 亿美元合同",
+  "publisher": "DefenseScoop",
+  "date": "2026-03-14",
+  "url": "https://defensescoop.com/2026/03/14/anduril-20-billion-dollar-army-contract/"
+ },
+ "la_bd_jiatf": {
+  "author": "Breaking Defense",
+  "title": "Army awards Anduril counter-drone task order as first in new $20B contract vehicle",
+  "title_cn": "陆军在新的 200 亿美元合同载体下授予 Anduril 首个反无人机任务单",
+  "publisher": "Breaking Defense",
+  "date": "2026-03",
+  "url": "https://breakingdefense.com/2026/03/army-awards-anduril-counter-drone-task-order-as-first-in-new-20b-contract-vehicle/"
+ },
+ "la_ius_20b": {
+  "author": "Inside Unmanned Systems",
+  "title": "U.S. Army enterprise contract with Anduril positions Lattice as core platform for C-UAS operations",
+  "title_cn": "陆军与 Anduril 企业合同确立 Lattice 为反无人机核心平台",
+  "publisher": "Inside Unmanned Systems",
+  "date": "2026-03",
+  "url": "https://insideunmannedsystems.com/u-s-army-enterprise-contract-with-anduril-positions-lattice-as-core-platform-for-c-uas-operations/"
+ },
+ "la_army_20b": {
+  "author": "U.S. Army",
+  "title": "Army enterprise agreement with Anduril (Army.mil article 291074)",
+  "title_cn": "陆军与 Anduril 企业协议",
+  "publisher": "Army.mil",
+  "date": "2026-03",
+  "url": "https://www.army.mil/article/291074"
+ },
+ "la_d1_jiatf": {
+  "author": "Defense One",
+  "title": "Anduril secures $87M contract for common counter-unmanned C2 program",
+  "title_cn": "Anduril 获 8,700 万美元通用反无人 C2 合同",
+  "publisher": "Defense One",
+  "date": "2026-03",
+  "url": "https://www.defenseone.com/business/2026/03/anduril-secures-87m-contract-common-counter-unmanned-c2-program/412156/"
+ },
+ "la_dronexl": {
+  "author": "DroneXL",
+  "title": "Army, Anduril and the $20B AI counter-drone deal",
+  "title_cn": "陆军、Anduril 与 200 亿美元 AI 反无人机合同",
+  "publisher": "DroneXL",
+  "date": "2026-03-22",
+  "url": "https://dronexl.co/2026/03/22/army-anduril-20b-ai-counter-drone/"
+ },
+ "la_bd_missiledef": {
+  "author": "Breaking Defense",
+  "title": "Anduril wins Army contract for prototype C2 missile defense system",
+  "title_cn": "Anduril 获陆军原型 C2 导弹防御系统合同",
+  "publisher": "Breaking Defense",
+  "date": "2026-05",
+  "url": "https://breakingdefense.com/2026/05/anduril-wins-army-contract-for-prototype-c2-missile-defense-system/"
+ },
+ "la_ds_cdl": {
+  "author": "DefenseScoop",
+  "title": "Army taps Anduril to lead NGC2 common data layer baseline",
+  "title_cn": "陆军指定 Anduril 牵头 NGC2 通用数据层基线",
+  "publisher": "DefenseScoop",
+  "date": "2026-06-22",
+  "url": "https://defensescoop.com/2026/06/22/army-taps-anduril-lead-ngc2-common-data-layer-baseline/"
+ },
+ "la_bd_cdl": {
+  "author": "Breaking Defense",
+  "title": "Army picks Anduril to lead next-gen C2 common data layer baseline",
+  "title_cn": "陆军选定 Anduril 牵头下一代 C2 通用数据层基线",
+  "publisher": "Breaking Defense",
+  "date": "2026-06",
+  "url": "https://breakingdefense.com/2026/06/army-picks-anduril-to-lead-next-gen-c2-common-data-layer-baseline/"
+ },
+ "la_insidedef_cdl": {
+  "author": "Inside Defense",
+  "title": "Army, Anduril work out common data layer baseline for NGC2",
+  "title_cn": "陆军与 Anduril 商定 NGC2 通用数据层基线",
+  "publisher": "Inside Defense",
+  "date": "2026-06",
+  "url": "https://insidedefense.com/insider/army-anduril-work-out-common-data-layer-baseline-ngc2"
+ },
+ "la_anduril_nato": {
+  "author": "Anduril Industries",
+  "title": "Anduril secures first NATO contract: Lattice for eAirC2 data platform initiative",
+  "title_cn": "Anduril 获首个北约合同：Lattice 用于 eAirC2 数据平台计划",
+  "publisher": "Anduril",
+  "date": "2026-07-07",
+  "url": "https://www.anduril.com/news/anduril-secures-first-nato-contract-lattice-for-eairc2-data-platform-initiative"
+ },
+ "la_battlepolicy_nato": {
+  "author": "BattlePolicy",
+  "title": "NATO picks Anduril's Lattice for air command trial against Palantir and Athea",
+  "title_cn": "北约选 Anduril Lattice 参加空中指挥试验，对手为 Palantir 与 Athea",
+  "publisher": "BattlePolicy",
+  "date": "2026-07",
+  "url": "https://www.battlepolicy.com/nato-picks-andurils-lattice-for-air-command-trial-against-palantir-and-athea/"
+ },
+ "la_ncia_nato": {
+  "author": "NATO NCIA",
+  "title": "NATO accelerates transformation of air command and control with key contract awards",
+  "title_cn": "北约以关键合同加速空中指挥控制转型",
+  "publisher": "NCIA",
+  "date": "2026-07",
+  "url": "https://www.ncia.nato.int/newsroom/news/nato-accelerates-transformation-of-air-command-and-control-with-key-contract-awards"
+ },
+ "la_die_nato": {
+  "author": "Defence Industry Europe",
+  "title": "Anduril secures first NATO contract as NCIA selects Lattice for allied air command and control data platform evaluation",
+  "title_cn": "NCIA 选定 Lattice 参加盟军空中指挥控制数据平台评估",
+  "publisher": "Defence Industry Europe",
+  "date": "2026-07",
+  "url": "https://defence-industry.eu/anduril-secures-first-nato-contract-as-ncia-selects-lattice-for-allied-air-command-and-control-data-platform-evaluation/"
+ },
+ "la_anduril_ngc2_scale": {
+  "author": "Anduril Industries",
+  "title": "Anduril continues to scale Next Generation Command and Control across the Army",
+  "title_cn": "Anduril 继续在全陆军推广下一代指挥控制",
+  "publisher": "Anduril",
+  "date": "2026-10-05",
+  "url": "https://www.anduril.com/news/anduril-continues-to-scale-next-generation-command-and-control-across-the-army"
+ },
+ "la_govconwire_icorps": {
+  "author": "GovConWire",
+  "title": "Anduril wins Army NGC2 contract for I Corps",
+  "title_cn": "Anduril 获陆军第 1 军 NGC2 合同",
+  "publisher": "GovConWire",
+  "date": "2026-10",
+  "url": "https://www.govconwire.com/articles/anduril-army-ngc2-contract-i-corps"
+ },
+ "la_asdnews_icorps": {
+  "author": "ASDNews",
+  "title": "Anduril continues to scale next-gen command and control across Army",
+  "title_cn": "Anduril 继续在陆军推广下一代指挥控制",
+  "publisher": "ASDNews",
+  "date": "2026-10-05",
+  "url": "https://www.asdnews.com/news/defense/2026/10/05/anduril-continues-scale-nextgen-command-control-across-army"
+ },
+ "la_ds_icorps": {
+  "author": "DefenseScoop",
+  "title": "Army awards Anduril $1.8B contract to expand NGC2",
+  "title_cn": "陆军授予 Anduril 18 亿美元合同扩展 NGC2",
+  "publisher": "DefenseScoop",
+  "date": "2026-10-06",
+  "url": "https://defensescoop.com/2026/10/06/army-awards-anduril-1-8b-contract-expand-ngc2/"
+ },
+ "la_defblog_icorps": {
+  "author": "Defence Blog",
+  "title": "U.S. Army moves Anduril battle network from test to field",
+  "title_cn": "美陆军将 Anduril 战斗网络从测试推向部署",
+  "publisher": "Defence Blog",
+  "date": "2026-10",
+  "url": "https://defence-blog.com/u-s-army-moves-anduril-battle-network-from-test-to-field/"
+ },
+ "la_d1_twodiv": {
+  "author": "Defense One",
+  "title": "Army aims to sync two divisions using next-gen C2 by year's end",
+  "title_cn": "陆军计划年底前用下一代 C2 同步两个师",
+  "publisher": "Defense One",
+  "date": "2026-06",
+  "url": "https://www.defenseone.com/defense-systems/2026/06/army-aims-sync-two-divisions-using-next-gen-c2-years-end/414367/"
+ },
+ "la_contrary": {
+  "author": "Contrary Research",
+  "title": "Anduril (company research)",
+  "title_cn": "Anduril 公司研究",
+  "publisher": "Contrary Research",
+  "date": "",
+  "url": "https://research.contrary.com/company/anduril"
+ },
+ "la_andurilnews_acq": {
+  "author": "andurilnews.com",
+  "title": "Anduril acquisitions",
+  "title_cn": "Anduril 收购汇总（第三方聚合）",
+  "publisher": "andurilnews.com",
+  "date": "",
+  "url": "https://www.andurilnews.com/topics/acquisitions/"
+ },
+ "la_notboring": {
+  "author": "Not Boring",
+  "title": "Anduril acquiring Prime",
+  "title_cn": "Anduril 与新式主承包商",
+  "publisher": "Not Boring",
+  "date": "",
+  "url": "https://www.notboring.co/p/anduril-acquiring-prime"
+ },
+ "la_builtin_what": {
+  "author": "Built In",
+  "title": "What Is Anduril?",
+  "title_cn": "Anduril 是什么",
+  "publisher": "Built In",
+  "date": "",
+  "url": "https://builtin.com/articles/what-is-anduril"
+ },
+ "la_janes_blueforce": {
+  "author": "Janes",
+  "title": "Anduril acquires Blue Force Technologies, entering large UAV market",
+  "title_cn": "Anduril 收购 Blue Force Technologies 进入大型无人机市场",
+  "publisher": "Janes",
+  "date": "2023-09",
+  "url": "https://www.janes.com/defence-intelligence-insights/defence-news/air/anduril-acquires-blue-force-technologies-entering-large-uav-market"
+ },
+ "la_wiki_yfq44": {
+  "author": "Wikipedia",
+  "title": "Anduril YFQ-44",
+  "title_cn": "Anduril YFQ-44 词条",
+  "publisher": "Wikipedia",
+  "date": "2026",
+  "url": "https://en.wikipedia.org/wiki/Anduril_YFQ-44"
+ },
+ "la_privsource_klas": {
+  "author": "PrivSource",
+  "title": "Anduril Industries acquires Klas",
+  "title_cn": "Anduril 收购 Klas",
+  "publisher": "PrivSource",
+  "date": "2025-05",
+  "url": "https://www.privsource.com/acquisitions/deal/anduril-industries-acquires-klas-7YSEr6"
+ },
+ "la_venture_atlas": {
+  "author": "Venture Atlas",
+  "title": "Anduril (company profile)",
+  "title_cn": "Anduril 公司概况（二手聚合）",
+  "publisher": "Venture Atlas",
+  "date": "2026",
+  "url": "https://www.ventureatlas.org/company/anduril"
+ },
+ "la_minister_ghostshark": {
+  "author": "Australian Minister for Defence",
+  "title": "Equipping Royal Australian Navy with next-generation autonomous undersea vehicles",
+  "title_cn": "为澳大利亚皇家海军装备下一代自主水下航行器",
+  "publisher": "Australian Department of Defence",
+  "date": "2025-09-10",
+  "url": "https://www.minister.defence.gov.au/media-releases/2025-09-10/equipping-royal-australian-navy-next-generation-autonomous-undersea-vehicles"
+ },
+ "la_bd_ghostshark": {
+  "author": "Breaking Defense",
+  "title": "Australia signs contract with Anduril for Ghost Shark autonomous underwater vehicle",
+  "title_cn": "澳大利亚与 Anduril 签订 Ghost Shark 自主水下航行器合同",
+  "publisher": "Breaking Defense",
+  "date": "2025-09",
+  "url": "https://breakingdefense.com/2025/09/australia-signs-contract-with-anduril-for-ghost-shark-autonomous-underwater-vehicle/"
+ },
+ "la_navalnews_ghostshark": {
+  "author": "Naval News",
+  "title": "Anduril Ghost Shark now Australian $1.7bn program of record",
+  "title_cn": "Ghost Shark 成为澳大利亚 17 亿澳元正式项目",
+  "publisher": "Naval News",
+  "date": "2025-09",
+  "url": "https://www.navalnews.com/naval-news/2025/09/anduril-ghost-shark-now-australian-1-7-bn-program-of-record/"
+ },
+ "la_engineers_ghostshark": {
+  "author": "Engineer's Perspective",
+  "title": "Ghost Shark",
+  "title_cn": "幽灵鲨（Substack 文章）",
+  "publisher": "Substack",
+  "date": "",
+  "url": "https://engineersperspective.substack.com/p/ghost-shark"
+ },
+ "la_substack_taiwan": {
+  "author": "Substack",
+  "title": "Australia and Anduril: autonomous...",
+  "title_cn": "澳大利亚与 Anduril（Substack 文章）",
+  "publisher": "Substack",
+  "date": "",
+  "url": "https://iwantmydemocracysausage.substack.com/p/australia-and-anduril-autonomous-e31"
+ },
+ "la_tc_seriesh": {
+  "author": "TechCrunch",
+  "title": "Anduril raises $5B, doubles valuation to $61B",
+  "title_cn": "Anduril 融资 50 亿美元，估值翻倍至 610 亿美元",
+  "publisher": "TechCrunch",
+  "date": "2026-05-13",
+  "url": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/"
+ },
+ "la_cnbc_seriesh": {
+  "author": "CNBC",
+  "title": "Anduril valuation and the defense tech funding boom",
+  "title_cn": "Anduril 估值与防务科技融资热潮",
+  "publisher": "CNBC",
+  "date": "2026-05-13",
+  "url": "https://www.cnbc.com/2026/05/13/anduril-valuation-defense-tech-funding-boom.html"
+ },
+ "la_dn_100b": {
+  "author": "Defense News",
+  "title": "Anduril in talks to raise funding at about $100 billion valuation",
+  "title_cn": "Anduril 洽谈以约 1,000 亿美元估值融资",
+  "publisher": "Defense News",
+  "date": "2026-07-24",
+  "url": "https://www.defensenews.com/industry/techwatch/2026/07/24/anduril-in-talks-to-raise-funding-at-about-100-billion-valuation/"
+ },
+ "la_tc_100b": {
+  "author": "TechCrunch",
+  "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year's mark",
+  "title_cn": "据报 Anduril 洽谈 1,000 亿美元估值融资",
+  "publisher": "TechCrunch",
+  "date": "2026-07-24",
+  "url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/"
+ },
+ "la_tracxn": {
+  "author": "Tracxn",
+  "title": "Anduril funding and investors",
+  "title_cn": "Anduril 融资与投资方",
+  "publisher": "Tracxn",
+  "date": "2026-09",
+  "url": "https://tracxn.com/d/companies/anduril/__qqOI0HKR47lFXorj9FAQlDfmJOqfOpDNWiW3JcO--ss/funding-and-investors"
+ },
+ "la_acquinox": {
+  "author": "Acquinox Capital",
+  "title": "Anduril Industries investor insights: rewriting the defence industrial base at a $30.5 billion valuation",
+  "title_cn": "Anduril 投资者洞察",
+  "publisher": "Acquinox Capital",
+  "date": "2025",
+  "url": "https://acquinox.capital/insights/space-and-defense-tech/anduril-industries-investor-insights-rewriting-the-defence-industrial-base-at-a-30-5-billion-valuation"
+ },
+ "la_fnex": {
+  "author": "FNEX",
+  "title": "Anduril stock",
+  "title_cn": "Anduril 股权信息",
+  "publisher": "FNEX",
+  "date": "",
+  "url": "https://fnex.com/anduril-stock/"
+ },
+ "la_dn_arsenal1": {
+  "author": "Defense News",
+  "title": "Anduril to build Arsenal-1 autonomous weapons plant in central Ohio",
+  "title_cn": "Anduril 将在俄亥俄州中部建设武库-1 自主武器工厂",
+  "publisher": "Defense News",
+  "date": "2025-01-16",
+  "url": "https://www.defensenews.com/industry/2025/01/16/anduril-to-build-arsenal-1-autonomous-weapons-plant-in-central-ohio/"
+ },
+ "la_ohio_arsenal1": {
+  "author": "Office of the Governor of Ohio",
+  "title": "Ohio partners with Anduril to rebuild the arsenal for essential national security needs",
+  "title_cn": "俄亥俄州与 Anduril 合作重建国家安全武库",
+  "publisher": "Ohio Governor",
+  "date": "2025-01-16",
+  "url": "https://governor.ohio.gov/media/news-and-media/ohio-partners-with-anduril-to-rebuild-the-arsenal-for-essential-national-security-needs"
+ },
+ "la_bd_arsenal1": {
+  "author": "Breaking Defense",
+  "title": "As Fury production starts, Anduril pledging a different production approach at Arsenal-1",
+  "title_cn": "Fury 开始生产，Anduril 承诺在武库-1 采用不同生产方式",
+  "publisher": "Breaking Defense",
+  "date": "2026-03",
+  "url": "https://breakingdefense.com/2026/03/as-fury-production-starts-anduril-pledging-a-different-production-approach-at-arsenal-1/"
+ },
+ "la_andurilnews_mfg": {
+  "author": "andurilnews.com",
+  "title": "Anduril manufacturing",
+  "title_cn": "Anduril 制造动态（第三方聚合）",
+  "publisher": "andurilnews.com",
+  "date": "2026",
+  "url": "https://www.andurilnews.com/manufacturing/"
+ },
+ "la_yahoo_ipo": {
+  "author": "Reuters (via Yahoo Finance)",
+  "title": "Anduril set to double valuation",
+  "title_cn": "Anduril 估值将翻倍",
+  "publisher": "Yahoo Finance",
+  "date": "2026",
+  "url": "https://finance.yahoo.com/news/anduril-set-double-valuation-4-192755828.html"
+ },
+ "la_cnbc_sub": {
+  "author": "CNBC",
+  "title": "Anduril Navy submarine shipyard contract",
+  "title_cn": "Anduril 海军潜艇船厂合同",
+  "publisher": "CNBC",
+  "date": "2026-10-06",
+  "url": "https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html"
+ },
+ "la_janes_sub": {
+  "author": "Janes",
+  "title": "Anduril Industries awarded USD2.9 billion US Navy contract for submarine work",
+  "title_cn": "Anduril 获美海军 29 亿美元潜艇工程合同",
+  "publisher": "Janes",
+  "date": "2026-10",
+  "url": "https://www.janes.com/defence-intelligence-insights/defence-news/industry/anduril-industries-awarded-usd29-billion-us-navy-contract-for-submarine-work"
+ },
+ "la_sdk_entity": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/entity.py",
+  "title_cn": "Lattice Python SDK：实体类型定义",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/entity.py"
+ },
+ "la_sdk_ontology": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/ontology.py",
+  "title_cn": "Lattice Python SDK：本体类型定义",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/ontology.py"
+ },
+ "la_sdk_ontology_tpl": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/ontology_template.py",
+  "title_cn": "Lattice Python SDK：本体模板枚举",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/ontology_template.py"
+ },
+ "la_sdk_milview_disp": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/mil_view_disposition.py",
+  "title_cn": "Lattice Python SDK：敌我属性枚举",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/mil_view_disposition.py"
+ },
+ "la_sdk_milview": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/mil_view.py",
+  "title_cn": "Lattice Python SDK：军事视图组件",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/mil_view.py"
+ },
+ "la_sdk_tracked": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/tracked.py",
+  "title_cn": "Lattice Python SDK：航迹组件",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/tracked.py"
+ },
+ "la_sdk_correlation": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/correlation.py",
+  "title_cn": "Lattice Python SDK：航迹关联组件",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/correlation.py"
+ },
+ "la_sdk_indicators": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/indicators.py",
+  "title_cn": "Lattice Python SDK：标识组件",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/indicators.py"
+ },
+ "la_sdk_health": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/health.py",
+  "title_cn": "Lattice Python SDK：健康组件",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/health.py"
+ },
+ "la_sdk_classification": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/classification.py",
+  "title_cn": "Lattice Python SDK：密级组件",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/classification.py"
+ },
+ "la_sdk_class_info": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/classification_information.py",
+  "title_cn": "Lattice Python SDK：密级信息",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/classification_information.py"
+ },
+ "la_sdk_class_level": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/classification_information_level.py",
+  "title_cn": "Lattice Python SDK：密级等级枚举",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/classification_information_level.py"
+ },
+ "la_sdk_ref": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python reference.md",
+  "title_cn": "Lattice Python SDK 接口参考",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/reference.md"
+ },
+ "la_sdk_event_type": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/entity_event_event_type.py",
+  "title_cn": "Lattice Python SDK：实体事件类型枚举",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/entity_event_event_type.py"
+ },
+ "la_sdk_task_status_status": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/task_status_status.py",
+  "title_cn": "Lattice Python SDK：任务状态枚举",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/task_status_status.py"
+ },
+ "la_sdk_task_status": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/task_status.py",
+  "title_cn": "Lattice Python SDK：任务状态对象",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/task_status.py"
+ },
+ "la_sdk_task_catalog": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/task_catalog.py",
+  "title_cn": "Lattice Python SDK：能力目录组件",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/task_catalog.py"
+ },
+ "la_sdk_readme": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python README",
+  "title_cn": "Lattice Python SDK 说明文档",
+  "publisher": "GitHub",
+  "date": "2026-10",
+  "url": "https://github.com/anduril/lattice-sdk-python"
+ },
+ "la_fern_mirror": {
+  "author": "Fern",
+  "title": "fern-api/lattice-sdk-python",
+  "title_cn": "Lattice Python SDK 的 Fern 生成镜像",
+  "publisher": "GitHub",
+  "date": "2026",
+  "url": "https://github.com/fern-api/lattice-sdk-python"
+ },
+ "la_ds_ibcsm": {
+  "author": "DefenseScoop",
+  "title": "Army selects Anduril Lattice for IBCS Maneuver counter-UAS",
+  "title_cn": "陆军为 IBCS 机动型反无人机选定 Anduril Lattice",
+  "publisher": "DefenseScoop",
+  "date": "2025-11-11",
+  "url": "https://defensescoop.com/2025/11/11/army-ibcs-maneuver-anduril-lattice-counter-uas/"
+ },
+ "la_janes_ibcsm": {
+  "author": "Janes",
+  "title": "US Army, Anduril reach deal on IBCS-Maneuver programme",
+  "title_cn": "美陆军与 Anduril 就 IBCS-M 项目达成协议",
+  "publisher": "Janes",
+  "date": "2025-11",
+  "url": "https://www.janes.com/osint-insights/defence-news/c4isr/us-army-anduril-reach-deal-on-ibcs-maneuver-programme"
+ },
+ "la_execbiz_ibcsm": {
+  "author": "ExecutiveBiz",
+  "title": "Army, Anduril Lattice IBCS-M program",
+  "title_cn": "陆军 IBCS-M 项目采用 Anduril Lattice",
+  "publisher": "ExecutiveBiz",
+  "date": "2025-11",
+  "url": "https://www.executivebiz.com/articles/army-anduril-lattice-ibcs-m-program"
+ },
+ "la_stripes_ibcsm": {
+  "author": "Stars and Stripes",
+  "title": "New software for command and control",
+  "title_cn": "新型指挥控制软件",
+  "publisher": "Stars and Stripes",
+  "date": "2025-11-14",
+  "url": "https://www.stripes.com/branches/army/2025-11-14/new-software-command-and-control-19763782.html"
+ },
+ "la_mes_ibcsm": {
+  "author": "Military Embedded Systems",
+  "title": "US Army's Integrated Battle Command System to use Anduril's Lattice software for counter-UAS",
+  "title_cn": "美陆军 IBCS 将使用 Anduril Lattice 软件反无人机",
+  "publisher": "Military Embedded Systems",
+  "date": "2025-11",
+  "url": "https://militaryembedded.com/unmanned/counter-uas/us-armys-integrated-battle-command-system-to-use-andurils-lattice-software-for-counter-uas"
+ },
+ "la_tdp_ibcsm": {
+  "author": "The Defense Post",
+  "title": "Anduril Lattice and the US Army",
+  "title_cn": "Anduril Lattice 与美陆军",
+  "publisher": "The Defense Post",
+  "date": "2025-11-13",
+  "url": "https://thedefensepost.com/2025/11/13/anduril-lattice-us-army/"
+ },
+ "la_uasmag_ibcsm": {
+  "author": "UAS Magazine",
+  "title": "Anduril selected for US Army's Integrated Battle Command System-Maneuver program",
+  "title_cn": "Anduril 入选美陆军 IBCS-M 项目",
+  "publisher": "UAS Magazine",
+  "date": "2025-11",
+  "url": "https://uasmagazine.com/articles/anduril-selected-for-us-armys-integrated-battle-command-system-maneuver-program"
+ },
+ "la_armyrec_ibcsm": {
+  "author": "Army Recognition",
+  "title": "US Army picks Anduril Lattice for Integrated Battle Command System-Maneuver counter-drone role",
+  "title_cn": "美陆军为 IBCS-M 反无人机角色选定 Anduril Lattice",
+  "publisher": "Army Recognition",
+  "date": "2025-11",
+  "url": "https://www.armyrecognition.com/news/army-news/2025/us-army-picks-anduril-lattice-for-integrated-battle-command-system-maneuver-counter-drone-role"
+ },
+ "la_ius_falconpeak": {
+  "author": "Inside Unmanned Systems",
+  "title": "Anduril demonstrates and delivers counter-UAS capabilities to USNORTHCOM",
+  "title_cn": "Anduril 向北方司令部演示并交付反无人机能力",
+  "publisher": "Inside Unmanned Systems",
+  "date": "2025-10",
+  "url": "https://insideunmannedsystems.com/anduril-demonstrates-and-delivers-counter-uas-capabilities-to-usnorthcom/"
+ },
+ "la_tdp_falconpeak": {
+  "author": "The Defense Post",
+  "title": "Anduril demos C-UAS at Falcon Peak",
+  "title_cn": "Anduril 在 Falcon Peak 演示反无人机",
+  "publisher": "The Defense Post",
+  "date": "2025-10-20",
+  "url": "https://www.thedefensepost.com/2025/10/20/anduril-demos-cuas-falcon-peak/"
+ },
+ "la_marines_gbad": {
+  "author": "U.S. Marine Corps PAE",
+  "title": "PM GBAD successfully demonstrates kinetic interceptor capability",
+  "title_cn": "地基防空项目办成功演示动能拦截能力",
+  "publisher": "Marines.mil",
+  "date": "",
+  "url": "https://www.pae.marines.mil/Media/Article/Article/4484189/pm-gbad-successfully-demonstrates-kinetic-interceptor-capability/"
+ },
+ "la_militaer_ivysting5": {
+  "author": "Militär Aktuell",
+  "title": "Anduril is advancing networked combat operations",
+  "title_cn": "Anduril 推进网络化作战",
+  "publisher": "Militär Aktuell",
+  "date": "2026",
+  "url": "https://militaeraktuell.at/en/anduril-is-advancing-networked-combat-operations/"
+ },
+ "la_ds_cdao": {
+  "author": "DefenseScoop",
+  "title": "Anduril awarded $100M deal by CDAO to scale edge data mesh capabilities (OTA)",
+  "title_cn": "CDAO 授予 Anduril 1 亿美元协议推广边缘数据网格",
+  "publisher": "DefenseScoop",
+  "date": "2024-12-03",
+  "url": "https://defensescoop.com/2024/12/03/anduril-awarded-100m-deal-cdao-scale-edge-data-mesh-capabilities-ota/"
+ },
+ "la_anduril_cdao": {
+  "author": "Anduril Industries",
+  "title": "CDAO awards Anduril production agreement to deliver Edge Data Mesh",
+  "title_cn": "CDAO 授予 Anduril 边缘数据网格生产协议",
+  "publisher": "Anduril",
+  "date": "2024-12",
+  "url": "https://www.anduril.com/news/cdao-awards-anduril-production-agreement-to-deliver-edge-data-mesh"
+ },
+ "la_bd_cdao": {
+  "author": "Breaking Defense",
+  "title": "Decentralizing battle data: CDAO, Anduril open tactical mesh to third-party developers",
+  "title_cn": "战斗数据去中心化：CDAO 与 Anduril 向第三方开放战术网格",
+  "publisher": "Breaking Defense",
+  "date": "2024-12",
+  "url": "https://breakingdefense.com/2024/12/decentralizing-battle-data-cdao-anduril-open-tactical-mesh-to-third-party-developers"
+ },
+ "la_insidedef_cdao": {
+  "author": "Inside Defense",
+  "title": "CDAO Edge Data Integration Services award to Anduril",
+  "title_cn": "CDAO 边缘数据集成服务授予 Anduril",
+  "publisher": "Inside Defense",
+  "date": "2024-12",
+  "url": "https://insidedefense.com/node/222723"
+ },
+ "la_orangeslices_cdao": {
+  "author": "OrangeSlices AI",
+  "title": "CDAO edge data mesh award to Anduril",
+  "title_cn": "CDAO 边缘数据网格合同",
+  "publisher": "OrangeSlices AI",
+  "date": "2024-12",
+  "url": "https://orangeslices.ai/?p=115927"
+ },
+ "la_x_mesh": {
+  "author": "Anduril Industries",
+  "title": "Lattice Mesh announcement",
+  "title_cn": "Lattice Mesh 公告（X 帖文）",
+  "publisher": "X (Twitter)",
+  "date": "2024-12",
+  "url": "https://x.com/anduriltech/status/1866526178116342016"
+ },
+ "la_ua_cdao": {
+  "author": "Unmanned Airspace",
+  "title": "DoD CDAO awards production agreement to Anduril to deliver edge data mesh",
+  "title_cn": "CDAO 授予 Anduril 边缘数据网格生产协议",
+  "publisher": "Unmanned Airspace",
+  "date": "2024-12",
+  "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/dod-cdao-awards-production-agreement-to-anduril-to-deliver-edge-data-mesh/"
+ },
+ "la_patent_436": {
+  "author": "Anduril Industries",
+  "title": "US Patent 10,506,436 (Lattice Mesh)",
+  "title_cn": "美国专利 US 10,506,436（Lattice Mesh）",
+  "publisher": "USPTO（uspto.report）",
+  "date": "",
+  "url": "https://uspto.report/patent/grant/10506436"
+ },
+ "la_patent_pub": {
+  "author": "Anduril Industries",
+  "title": "US Patent Application Publication 2020/0068404",
+  "title_cn": "美国专利申请公开 US 2020/0068404",
+  "publisher": "FreePatentsOnline",
+  "date": "2020",
+  "url": "https://www.freepatentsonline.com/y2020/0068404.html"
+ },
+ "la_phil_blog": {
+  "author": "Phil Escandon",
+  "title": "Lattice OS architecture guide",
+  "title_cn": "Lattice OS 架构指南（个人博客，低可信）",
+  "publisher": "Phil's Blog",
+  "date": "",
+  "url": "https://philescandon.rbind.io/lattice_os_architecture_guide/"
+ },
+ "la_tc_menace": {
+  "author": "TechCrunch",
+  "title": "Anduril is working on the difficult AI-related task of real-time edge computing",
+  "title_cn": "Anduril 攻关实时边缘计算这一 AI 难题",
+  "publisher": "TechCrunch",
+  "date": "2025-05-05",
+  "url": "https://techcrunch.com/2025/05/05/anduril-is-working-on-the-difficult-ai-related-task-of-real-time-edge-computing/"
+ },
+ "la_everythingrf_menace": {
+  "author": "everything RF",
+  "title": "Anduril introduces compact field-deployable C4 system designed for tactical mission applications",
+  "title_cn": "Anduril 推出紧凑型野战 C4 系统",
+  "publisher": "everything RF",
+  "date": "2025-05",
+  "url": "https://www.everythingrf.com/news/details/20142-anduril-introduces-compact-field-deployable-c4-system-designed-for-tactical-mission-applications"
+ },
+ "la_dc_menace": {
+  "author": "Defence Connect",
+  "title": "Anduril's Menace systems preferred hardware partner for Palantir's edge software",
+  "title_cn": "Anduril Menace 成为 Palantir 边缘软件首选硬件",
+  "publisher": "Defence Connect",
+  "date": "2025",
+  "url": "https://www.defenceconnect.com.au/land/16047-andurils-menace-systems-preferred-hardware-partner-for-palantirs-edge-software"
+ },
+ "la_die_asgard": {
+  "author": "Defence Industry Europe",
+  "title": "Anduril UK demonstrates edge data mesh capability for British Army on Project Asgard",
+  "title_cn": "Anduril 英国在阿斯加德计划中为英国陆军演示边缘数据网格",
+  "publisher": "Defence Industry Europe",
+  "date": "2025",
+  "url": "https://defence-industry.eu/anduril-uk-demonstrates-edge-data-mesh-capability-for-british-army-on-project-asgard/"
+ },
+ "la_dn_cruise": {
+  "author": "Defense News",
+  "title": "Anduril adapts tech to detect cruise missiles in Air Force demo",
+  "title_cn": "Anduril 在空军演示中改造技术探测巡航导弹",
+  "publisher": "Defense News",
+  "date": "2020-10-16",
+  "url": "https://www.defensenews.com/digital-show-dailies/ausa/2020/10/16/anduril-adapts-tech-to-detect-cruise-missiles-in-air-force-demo/"
+ },
+ "la_c4isrnet_mobilesentry": {
+  "author": "C4ISRNET",
+  "title": "Anduril debuts wheeled version of Sentry surveillance tower",
+  "title_cn": "Anduril 推出轮式 Sentry 监视塔",
+  "publisher": "C4ISRNET",
+  "date": "2022-10-10",
+  "url": "https://www.c4isrnet.com/industry/2022/10/10/anduril-debuts-wheeled-version-of-sentry-surveillance-tower"
+ },
+ "la_execbiz_xrsentry": {
+  "author": "ExecutiveBiz",
+  "title": "Anduril debuts latest autonomous surveillance tower system",
+  "title_cn": "Anduril 推出最新自主监视塔系统",
+  "publisher": "ExecutiveBiz",
+  "date": "2024-05",
+  "url": "https://executivebiz.com/2024/05/anduril-debuts-latest-autonomous-surveillance-tower-system/"
+ },
+ "la_defmatters_kuwait": {
+  "author": "Defence Matters",
+  "title": "Proposed Kuwait FMS sale of Anduril systems",
+  "title_cn": "拟议向科威特出售 Anduril 系统",
+  "publisher": "Defence Matters",
+  "date": "2026",
+  "url": "https://defencematters.eu/?p=6065"
+ },
+ "la_aviationist_hivemind": {
+  "author": "The Aviationist",
+  "title": "YFQ-44A tests Shield AI Hivemind and Lattice AIs",
+  "title_cn": "YFQ-44A 测试 Hivemind 与 Lattice 两套自主软件",
+  "publisher": "The Aviationist",
+  "date": "2026-03-03",
+  "url": "https://theaviationist.com/2026/03/03/yfq-44a-tests-shivemind-lattice-ais/"
+ },
+ "la_simpleflying": {
+  "author": "Simple Flying",
+  "title": "The software deal that put Anduril inside every CCA the Air Force buys",
+  "title_cn": "让 Anduril 进入空军每一架 CCA 的软件交易",
+  "publisher": "Simple Flying",
+  "date": "2026",
+  "url": "https://simpleflying.com/software-deal-put-anduril-inside-every-cca-air-force-buys/"
+ },
+ "la_twz_f35": {
+  "author": "The War Zone",
+  "title": "Anduril's YFQ-44A Fury CCA has flown alongside F-35s",
+  "title_cn": "Anduril YFQ-44A 已与 F-35 编队飞行",
+  "publisher": "The War Zone",
+  "date": "2026",
+  "url": "https://www.twz.com/air/andurils-yfq-44a-fury-cca-has-flown-alongside-f-35s"
+ },
+ "la_x_cca": {
+  "author": "Anduril Industries",
+  "title": "Anduril delivers first CCA to the USAF",
+  "title_cn": "Anduril 向空军交付首架 CCA（X 帖文）",
+  "publisher": "X (Twitter)",
+  "date": "2026",
+  "url": "https://x.com/anduriltech/status/2103277104980996308"
+ },
+ "la_andurilnews_lattice": {
+  "author": "andurilnews.com",
+  "title": "Lattice (product tracker)",
+  "title_cn": "Lattice 产品动态（第三方聚合）",
+  "publisher": "andurilnews.com",
+  "date": "2026",
+  "url": "https://www.andurilnews.com/products/lattice/"
+ },
+ "la_cyberwarzone": {
+  "author": "Cyberwarzone",
+  "title": "U.S. Army selects Anduril's AI platform for advanced counter-drone capabilities",
+  "title_cn": "美陆军选定 Anduril AI 平台用于反无人机",
+  "publisher": "Cyberwarzone",
+  "date": "2025-11-11",
+  "url": "https://cyberwarzone.com/2025/11/11/u-s-army-selects-andurils-ai-platform-for-advanced-counter-drone-capabilities/"
+ },
+ "la_popsci": {
+  "author": "Popular Science",
+  "title": "Sentry camera border security in Texas",
+  "title_cn": "得州边境安全中的 Sentry 摄像塔",
+  "publisher": "Popular Science",
+  "date": "",
+  "url": "https://www.popsci.com/technology/sentry-camera-border-security-texas/"
+ },
+ "la_freepress": {
+  "author": "Free Press",
+  "title": "Anduril's Lattice is now the Army's drone-killing brain, and it's built to act faster than human judgment",
+  "title_cn": "Lattice 成为陆军反无人机大脑，且为快于人类判断而设计（评论）",
+  "publisher": "Free Press",
+  "date": "2026",
+  "url": "https://freepress.org/article/anduril-s-lattice-now-army-s-drone-killing-brain-and-it-s-built-act-faster-human-judgment"
+ },
+ "la_builtin_atak": {
+  "author": "Built In",
+  "title": "Sr. ATAK Engineer (Anduril job posting)",
+  "title_cn": "Anduril 高级 ATAK 工程师招聘",
+  "publisher": "Built In",
+  "date": "",
+  "url": "https://builtin.com/job/sr-atak-engineer/7073600"
+ },
+ "la_anduril_contours": {
+  "author": "Anduril Industries",
+  "title": "The contours of war are changing: we must prepare for interoperability at the edge",
+  "title_cn": "战争形态正在改变：我们必须为边缘互操作做好准备",
+  "publisher": "Anduril",
+  "date": "",
+  "url": "https://www.anduril.com/news/the-contours-of-war-are-changing-we-must-prepare-for-interoperability-at-the-edge"
+ },
+ "la_gc_jobs": {
+  "author": "General Catalyst Jobs",
+  "title": "Senior Software Engineer, Lattice SDK (Anduril)",
+  "title_cn": "Anduril Lattice SDK 高级软件工程师招聘",
+  "publisher": "General Catalyst",
+  "date": "",
+  "url": "https://jobs.generalcatalyst.com/companies/anduril/jobs/54592249-senior-software-engineer-lattice-sdk"
+ },
+ "la_overt_642": {
+  "author": "Overt Defense",
+  "title": "Anduril secures $642M deal to deliver AI-driven counter-drone defense for US Marine Corps",
+  "title_cn": "Anduril 获 6.42 亿美元陆战队 AI 反无人机合同",
+  "publisher": "Overt Defense",
+  "date": "2025-03-21",
+  "url": "https://www.overtdefense.com/2025/03/21/anduril-secures-642m-deal-to-deliver-ai-driven-counter-drone-defense-for-us-marine-corps/"
+ },
+ "la_ds_icsuas": {
+  "author": "DefenseScoop",
+  "title": "Marine Corps awards Anduril contract to defend installations from small UAS drones",
+  "title_cn": "陆战队授予 Anduril 设施反小型无人机合同",
+  "publisher": "DefenseScoop",
+  "date": "2025-03-13",
+  "url": "https://defensescoop.com/2025/03/13/marine-corps-anduril-contract-defend-installations-small-uas-drones/"
+ },
+ "la_edr_icsuas": {
+  "author": "EDR Magazine",
+  "title": "Anduril wins 640 million I-CsUAS contract",
+  "title_cn": "Anduril 赢得 6.4 亿美元 I-CsUAS 合同",
+  "publisher": "EDR Magazine",
+  "date": "2025-03",
+  "url": "https://www.edrmagazine.eu/anduril-wins-640-million-i-csuas-contract"
+ },
+ "la_wt_icsuas": {
+  "author": "Washington Technology",
+  "title": "Anduril wins $642M Marines counter-drone tech contract",
+  "title_cn": "Anduril 赢得 6.42 亿美元陆战队反无人机合同",
+  "publisher": "Washington Technology",
+  "date": "2025-03",
+  "url": "https://washingtontechnology.com/contracts/2025/03/anduril-wins-642m-marines-counter-drone-tech-contract/403613/"
+ },
+ "la_ius_madis": {
+  "author": "Inside Unmanned Systems",
+  "title": "Anduril awarded 10-year $642M program of record to deliver C-UAS systems for U.S. Marine Corps",
+  "title_cn": "Anduril 获陆战队 10 年 6.42 亿美元反无人机正式项目",
+  "publisher": "Inside Unmanned Systems",
+  "date": "2025-03",
+  "url": "https://insideunmannedsystems.com/anduril-awarded-10-year-642m-program-of-record-to-deliver-cuas-systems-for-u-s-marine-corps/"
+ },
+ "la_armyrec_kuwait": {
+  "author": "Army Recognition",
+  "title": "U.S. approves $1.98B Anduril counter-drone system for Kuwait to defend against drone swarm attacks",
+  "title_cn": "美国批准向科威特出售 19.8 亿美元 Anduril 反无人机系统",
+  "publisher": "Army Recognition",
+  "date": "2026-06",
+  "url": "https://www.armyrecognition.com/news/army-news/2026/u-s-approves-1-98b-anduril-counter-drone-system-for-kuwait-to-defend-against-drone-swarm-attacks"
+ },
+ "la_aol_epicfury": {
+  "author": "AOL (reprint)",
+  "title": "Anduril's president says firm a heavy participant",
+  "title_cn": "Anduril 总裁称公司为重要参与者",
+  "publisher": "AOL",
+  "date": "2026",
+  "url": "https://www.aol.com/articles/andurils-president-says-firm-heavy-040829085.html"
+ },
+ "la_overt_blaze": {
+  "author": "Overt Defense",
+  "title": "Anduril and ORIGIN integrated ORIGIN's BLAZE interceptor with Anduril's Lattice software for drone defense",
+  "title_cn": "Anduril 与 ORIGIN 将 BLAZE 拦截器集成进 Lattice",
+  "publisher": "Overt Defense",
+  "date": "2026-10-01",
+  "url": "https://www.overtdefense.com/2026/10/01/anduril-and-origin-integrated-origins-blaze-interceptor-with-andurils-lattice-software-for-drone-defense/"
+ },
+ "la_sherwood_wsj": {
+  "author": "Sherwood News",
+  "title": "WSJ: Anduril's weapons systems have failed during several tests",
+  "title_cn": "《华尔街日报》：Anduril 武器系统在多次测试中失败",
+  "publisher": "Sherwood News",
+  "date": "2025-11",
+  "url": "https://sherwood.news/tech/wsj-andurils-weapons-systems-have-failed-during-several-tests/"
+ },
+ "la_tc_wsj": {
+  "author": "TechCrunch",
+  "title": "Anduril's autonomous weapons stumble in tests and combat, WSJ reports",
+  "title_cn": "《华尔街日报》称 Anduril 自主武器在测试和实战中受挫",
+  "publisher": "TechCrunch",
+  "date": "2025-11-27",
+  "url": "https://techcrunch.com/2025/11/27/andurils-autonomous-weapons-stumble-in-tests-and-combat-wsj-reports"
+ },
+ "la_techbuzz": {
+  "author": "TechBuzz",
+  "title": "Anduril's autonomous weapons fail in tests, Ukraine combat",
+  "title_cn": "Anduril 自主武器在测试与乌克兰实战中失败",
+  "publisher": "TechBuzz",
+  "date": "2025-11",
+  "url": "https://www.techbuzz.ai/articles/anduril-s-autonomous-weapons-fail-in-tests-ukraine-combat"
+ },
+ "la_conard": {
+  "author": "Edward Conard",
+  "title": "Tests in the US and on the battlefield in Ukraine suggest that Anduril is facing challenges in developing and fielding attritable mass weapons systems",
+  "title_cn": "美国测试与乌克兰战场表明 Anduril 在可消耗大规模武器上面临挑战（摘要）",
+  "publisher": "edwardconard.com",
+  "date": "2025-11",
+  "url": "https://www.edwardconard.com/macro-roundup/tests-in-the-us-and-on-the-battlefield-in-ukraine-suggest-that-anduril-a-leading-new-entrant-into-the-defense-industry-is-facing-challenges-in-developing-and-fielding-attritable-mass-weapons-systems/"
+ },
+ "la_drone_warfare": {
+  "author": "drone-warfare.com",
+  "title": "Altius research page",
+  "title_cn": "Altius 研究页（二手聚合，低可信）",
+  "publisher": "drone-warfare.com",
+  "date": "",
+  "url": "https://drone-warfare.com/research/altius/"
+ },
+ "la_milleak_ivymass": {
+  "author": "MilitaryLeak",
+  "title": "How Team Anduril and US Army took Lattice across the 4th Infantry Division",
+  "title_cn": "Team Anduril 与美陆军如何让 Lattice 覆盖第 4 步兵师",
+  "publisher": "MilitaryLeak",
+  "date": "2026-05-26",
+  "url": "https://militaryleak.com/2026/05/26/how-team-anduril-and-us-army-took-lattice-across-the-4th-infantry-division/"
+ },
+ "la_anduril_scaling": {
+  "author": "Anduril Industries",
+  "title": "Scaling Next Generation Command and Control from prototype to fight",
+  "title_cn": "将下一代指挥控制从原型推向实战",
+  "publisher": "Anduril",
+  "date": "2026-04",
+  "url": "https://www.anduril.com/news/scaling-next-generation-command-and-control-from-prototype-to-fight"
+ },
+ "la_asdnews_scaling": {
+  "author": "ASDNews",
+  "title": "Scaling next-gen command and control from prototype to fight",
+  "title_cn": "将下一代指挥控制从原型推向实战",
+  "publisher": "ASDNews",
+  "date": "2026-04-10",
+  "url": "https://www.asdnews.com/news/defense/2026/04/10/scaling-nextgen-command-control-prototype-fight"
+ },
+ "la_twz_production": {
+  "author": "The War Zone",
+  "title": "USAF orders both General Atomics FQ-42 and Anduril's FQ-44 into production",
+  "title_cn": "美空军同时订购 FQ-42 与 FQ-44 投产",
+  "publisher": "The War Zone",
+  "date": "2026-06",
+  "url": "https://www.twz.com/air/usaf-orders-both-general-atomics-fq-42-and-andurils-fq-44-into-production"
+ },
+ "la_aviationist_production": {
+  "author": "The Aviationist",
+  "title": "YFQ-44A Fury CCA is now in production",
+  "title_cn": "YFQ-44A Fury 协同作战飞机已投产",
+  "publisher": "The Aviationist",
+  "date": "2026-03-24",
+  "url": "https://theaviationist.com/2026/03/24/yfq-44a-fury-cca-is-now-in-production/"
+ },
+ "la_militarytimes_rolloff": {
+  "author": "Military Times",
+  "title": "First Anduril YFQ-44A rolls off production line for US CCA program",
+  "title_cn": "首架 Anduril YFQ-44A 下线",
+  "publisher": "Military Times",
+  "date": "2026-07-28",
+  "url": "https://www.militarytimes.com/industry/techwatch/2026/07/28/first-anduril-yfq-44a-rolls-off-production-line-for-us-cca-program/"
+ },
+ "la_migflug": {
+  "author": "MiGFlug",
+  "title": "FQ-42 Vengeance, FQ-44 Fury: USAF 500 CCA by 2032",
+  "title_cn": "空军 2032 年 500 架 CCA 目标（二手）",
+  "publisher": "MiGFlug",
+  "date": "2026-09",
+  "url": "https://migflug.com/afterburner/fq-42-vengeance-fq-44-fury-usaf-500-cca-2032/"
+ },
+ "la_bd_ghostshark_first": {
+  "author": "Breaking Defense",
+  "title": "First Ghost Shark extra-large AUV delivered to Australian Navy",
+  "title_cn": "首艘 Ghost Shark 超大型无人潜航器交付澳海军",
+  "publisher": "Breaking Defense",
+  "date": "2025-11",
+  "url": "https://breakingdefense.com/2025/11/first-ghost-shark-extra-large-auv-delivered-to-australian-navy/"
+ },
+ "la_wiki_ghostshark": {
+  "author": "Wikipedia",
+  "title": "Ghost Shark (submarine)",
+  "title_cn": "幽灵鲨（潜航器）词条",
+  "publisher": "Wikipedia",
+  "date": "2026",
+  "url": "https://en.wikipedia.org/wiki/Ghost_Shark_(submarine)"
+ },
+ "la_tdn_masu": {
+  "author": "TheDefenseNews",
+  "title": "Royal Australian Navy activates Maritime Autonomous Systems Unit integrating Ghost Shark, Bluebottle and Speartooth uncrewed systems",
+  "title_cn": "澳海军成立海上自主系统部队，整合幽灵鲨等无人系统",
+  "publisher": "TheDefenseNews",
+  "date": "2026-04",
+  "url": "https://www.thedefensenews.com/news-details/Royal-Australian-Navy-Activates-Maritime-Autonomous-Systems-Unit-Integrating-Ghost-Shark-Bluebottle-and-Speartooth-Uncrewed-Systems/"
+ },
+ "la_speedoscience": {
+  "author": "Speedoscience",
+  "title": "Anduril Ghost Shark autonomous XL-AUV",
+  "title_cn": "Anduril 幽灵鲨自主超大型无人潜航器（二手）",
+  "publisher": "Speedoscience",
+  "date": "2026-03",
+  "url": "https://www.speedoscience.com/2026/03/anduril-ghost-shark-autonomous-xl-auv.html"
+ },
+ "la_ds_navyaccident": {
+  "author": "DefenseScoop",
+  "title": "Navy unmanned vessel accident near Ventura, Channel Islands, California",
+  "title_cn": "海军无人艇在加州海峡群岛附近发生事故",
+  "publisher": "DefenseScoop",
+  "date": "2025-07-01",
+  "url": "https://defensescoop.com/2025/07/01/navy-unmanned-vessel-accident-boat-ventura-channel-islands-california/"
+ },
+ "la_defblog_wsjfalse": {
+  "author": "Defence Blog",
+  "title": "Anduril founder calls WSJ drone boat factory story false",
+  "title_cn": "Anduril 创始人称《华尔街日报》无人艇工厂报道失实",
+  "publisher": "Defence Blog",
+  "date": "2025",
+  "url": "https://defence-blog.com/anduril-founder-calls-wsj-drone-boat-factory-story-false/"
+ },
+ "la_tdp_taiwan": {
+  "author": "The Defense Post",
+  "title": "Anduril Altius-600M and Taiwan",
+  "title_cn": "Anduril Altius-600M 与台湾",
+  "publisher": "The Defense Post",
+  "date": "2026-03-20",
+  "url": "https://thedefensepost.com/2026/03/20/anduril-altius-600m-taiwan/"
+ },
+ "la_janes_taiwan": {
+  "author": "Janes",
+  "title": "Taiwan acquires first batch of Altius-600M loitering munitions",
+  "title_cn": "台湾获得首批 Altius-600M 巡飞弹",
+  "publisher": "Janes",
+  "date": "2025",
+  "url": "https://www.janes.com/defence-intelligence-insights/defence-news/defence/taiwan-acquires-first-batch-of-altius-600m-loitering-munitions"
+ },
+ "la_bd_indopac": {
+  "author": "Breaking Defense",
+  "title": "Anduril increases Indo-Pacific footprint with Taiwan, South Korea partnerships",
+  "title_cn": "Anduril 通过台湾、韩国合作扩大印太布局",
+  "publisher": "Breaking Defense",
+  "date": "2025-08",
+  "url": "https://breakingdefense.com/2025/08/anduril-increases-indo-pacific-footprint-with-taiwan-south-korea-partnerships/"
+ },
+ "la_anduril_uk17m": {
+  "author": "Anduril Industries",
+  "title": "Anduril Industries awarded GBP17 million Ministry of Defence force protection technology contract",
+  "title_cn": "Anduril 获英国国防部 1,700 万英镑部队防护技术合同",
+  "publisher": "Anduril",
+  "date": "2023",
+  "url": "https://www.anduril.com/news/anduril-industries-awarded-gbp17-million-ministry-of-defence-force-protection-technology"
+ },
+ "la_tbij": {
+  "author": "The Bureau of Investigative Journalism",
+  "title": "Selling weapons to Westminster: how defence giant Anduril trained its sights on the UK",
+  "title_cn": "向威斯敏斯特卖武器：Anduril 如何瞄准英国",
+  "publisher": "TBIJ",
+  "date": "2025-07-23",
+  "url": "https://www.thebureauinvestigates.com/stories/2025-07-23/selling-weapons-to-westminster-how-defence-giant-anduril-trained-its-sights-on-the-uk"
+ },
+ "la_aft_goldendome": {
+  "author": "Airforce Technology",
+  "title": "Anduril and the US Golden Dome",
+  "title_cn": "Anduril 与美国金穹",
+  "publisher": "Airforce Technology",
+  "date": "2026",
+  "url": "https://www.airforce-technology.com/news/anduril-us-golden-dome/"
+ },
+ "la_execbiz_varda": {
+  "author": "ExecutiveBiz",
+  "title": "Varda, LeoLabs, Anduril hypersonic reentry demo",
+  "title_cn": "Varda、LeoLabs 与 Anduril 高超声速再入演示",
+  "publisher": "ExecutiveBiz",
+  "date": "2026",
+  "url": "https://www.executivebiz.com/articles/varda-leolabs-anduril-hypersonic-reentry-demo"
+ },
+ "la_midbay_eglin": {
+  "author": "Mid Bay News",
+  "title": "Eglin drone failures put Anduril under the microscope",
+  "title_cn": "埃格林无人机失败让 Anduril 受到审视",
+  "publisher": "Mid Bay News",
+  "date": "2025",
+  "url": "https://midbaynews.com/post/eglin-drone-failures-put-anduril-under-the-microscope"
+ },
+ "la_edr_talos": {
+  "author": "EDR Magazine",
+  "title": "UK MoD awards 3.8 million contract for advanced base protection system",
+  "title_cn": "英国国防部授予 380 万英镑先进基地防护系统合同",
+  "publisher": "EDR Magazine",
+  "date": "2021-09",
+  "url": "https://www.edrmagazine.eu/uk-mod-awards-3-8-million-contract-for-advanced-base-protection-system"
+ },
+ "la_blog_talos": {
+  "author": "Anduril Industries",
+  "title": "Anduril Industries to provide advanced force protection technology to UK Ministry of Defence",
+  "title_cn": "Anduril 向英国国防部提供先进部队防护技术",
+  "publisher": "Anduril Blog",
+  "date": "2021-09",
+  "url": "https://blog.anduril.com/anduril-industries-to-provide-advanced-force-protection-technology-to-uk-ministry-of-defences-f34f32d71cc7"
+ },
+ "la_gov_uk_17m": {
+  "author": "UK Ministry of Defence",
+  "title": "£17million contract awarded for force protection technology",
+  "title_cn": "英国授予 1,700 万英镑部队防护技术合同",
+  "publisher": "GOV.UK",
+  "date": "2023-11-02",
+  "url": "https://www.gov.uk/government/news/17million-contract-awarded-for-force-protection-technology"
+ },
+ "la_shephard_talos3": {
+  "author": "Shephard Media",
+  "title": "Anduril takes $20 million UK MoD contract to enhance force protection and counter-intrusion capability",
+  "title_cn": "Anduril 获英国国防部 2,000 万美元部队防护与反入侵合同",
+  "publisher": "Shephard",
+  "date": "2023-11",
+  "url": "https://www.shephardmedia.com/news/air-warfare/anduril-takes-20-million-uk-mod-contract-to-enhance-force-protection-and-counter-intrusion-capabilit/"
+ },
+ "la_armytech_talos3": {
+  "author": "Army Technology",
+  "title": "Anduril begins third phase of UK MoD's integrated force protection facilities",
+  "title_cn": "Anduril 启动英国国防部一体化部队防护第三阶段",
+  "publisher": "Army Technology",
+  "date": "2023-11",
+  "url": "https://www.army-technology.com/news/anduril-begins-third-phase-of-uk-mods-integrated-force-protection-facilities/"
+ },
+ "la_dn_diveld": {
+  "author": "Defense News",
+  "title": "Pentagon tech hub hires Anduril to get large underwater drone to Navy",
+  "title_cn": "五角大楼技术中心委托 Anduril 为海军研制大型水下无人机",
+  "publisher": "Defense News",
+  "date": "2024-02-08",
+  "url": "https://www.defensenews.com/unmanned/2024/02/08/pentagon-tech-hub-hires-anduril-to-get-large-underwater-drone-to-navy/"
+ },
+ "la_globalsec_diveld": {
+  "author": "GlobalSecurity.org",
+  "title": "LDUUV Dive-LD",
+  "title_cn": "Dive-LD 大型无人潜航器",
+  "publisher": "GlobalSecurity.org",
+  "date": "",
+  "url": "https://www.globalsecurity.org/military/systems/ship/lduuv-dive-ld.htm"
+ },
+ "la_ds_cca1": {
+  "author": "DefenseScoop",
+  "title": "Anduril, General Atomics advance in Air Force CCA program",
+  "title_cn": "Anduril 与通用原子在空军 CCA 项目中胜出",
+  "publisher": "DefenseScoop",
+  "date": "2024-04-24",
+  "url": "https://defensescoop.com/2024/04/24/anduril-general-atomics-air-force-cca-program/"
+ },
+ "la_twz_cca1": {
+  "author": "The War Zone",
+  "title": "General Atomics, Anduril move ahead in Collaborative Combat Aircraft drone program",
+  "title_cn": "通用原子与 Anduril 推进协同作战飞机项目",
+  "publisher": "The War Zone",
+  "date": "2024-04",
+  "url": "https://www.twz.com/air/general-atomics-anduril-move-ahead-in-collaborative-combat-aircraft-drone-program"
+ },
+ "la_dsca_taiwan": {
+  "author": "Defense Security Cooperation Agency",
+  "title": "Taipei Economic and Cultural Representative Office in the United States – ALTIUS 600M-V",
+  "title_cn": "驻美台北经济文化代表处——ALTIUS 600M-V 对外军售",
+  "publisher": "DSCA",
+  "date": "2024-06-18",
+  "url": "https://www.dsca.mil/press-media/major-arms-sales/taipei-economic-and-cultural-representative-office-united-states-34"
+ },
+ "la_tdp_taiwan_2025": {
+  "author": "The Defense Post",
+  "title": "Taiwan receives Altius drones from Anduril",
+  "title_cn": "台湾接收 Anduril Altius 无人机",
+  "publisher": "The Defense Post",
+  "date": "2025-08-07",
+  "url": "https://thedefensepost.com/2025/08/07/taiwan-altius-drones-anduril/"
+ },
+ "la_dn_roadrunner": {
+  "author": "Defense News",
+  "title": "Anduril lands $250 million Pentagon contract for drone defense system",
+  "title_cn": "Anduril 获五角大楼 2.5 亿美元无人机防御系统合同",
+  "publisher": "Defense News",
+  "date": "2024-10-08",
+  "url": "https://www.defensenews.com/unmanned/2024/10/08/anduril-lands-250-million-pentagon-contract-for-drone-defense-system/"
+ },
+ "la_bd_eagleeye": {
+  "author": "Breaking Defense",
+  "title": "Anduril unveiling EagleEye mixed reality device at AUSA",
+  "title_cn": "Anduril 在 AUSA 发布 EagleEye 混合现实设备",
+  "publisher": "Breaking Defense",
+  "date": "2025-10",
+  "url": "https://breakingdefense.com/2025/10/i-have-got-this-s-figured-out-anduril-unveiling-eagleeye-mixed-reality-device-at-ausa/"
+ },
+ "la_bd_kuwait": {
+  "author": "Breaking Defense",
+  "title": "US approves $2B sale of Anduril counter-drone systems to Kuwait",
+  "title_cn": "美国批准向科威特出售 20 亿美元 Anduril 反无人机系统",
+  "publisher": "Breaking Defense",
+  "date": "2026-06",
+  "url": "https://breakingdefense.com/2026/06/us-approves-2b-sale-of-anduril-counter-drone-systems-to-kuwait/"
+ },
+ "la_dn_kuwait": {
+  "author": "Defense News",
+  "title": "US approves Kuwait request to buy nearly $2 billion of counter-drone platforms",
+  "title_cn": "美国批准科威特购买近 20 亿美元反无人机平台",
+  "publisher": "Defense News",
+  "date": "2026-06-08",
+  "url": "https://www.defensenews.com/industry/techwatch/2026/06/08/us-approves-kuwait-request-to-buy-nearly-2-billion-of-counter-drone-platforms/"
+ },
+ "la_ds_cca_prod": {
+  "author": "DefenseScoop",
+  "title": "Air Force picks Anduril, General Atomics to build first operational CCA drones",
+  "title_cn": "空军选定 Anduril 与通用原子制造首批作战型 CCA",
+  "publisher": "DefenseScoop",
+  "date": "2026-06-17",
+  "url": "https://defensescoop.com/2026/06/17/air-force-picks-anduril-general-atomics-to-build-first-operational-cca-drones/"
+ },
+ "la_tdp_taiwan_2026": {
+  "author": "The Defense Post",
+  "title": "Taiwan acquires Anduril Altius",
+  "title_cn": "台湾采购 Anduril Altius",
+  "publisher": "The Defense Post",
+  "date": "2026-08-28",
+  "url": "https://thedefensepost.com/2026/08/28/taiwan-acquires-anduril-altius/"
+ },
+ "la_bloomberg_sbi": {
+  "author": "Bloomberg",
+  "title": "SpaceX, Anduril among companies to win space interceptor deals",
+  "title_cn": "SpaceX、Anduril 等获天基拦截器合同",
+  "publisher": "Bloomberg",
+  "date": "2026-04-24",
+  "url": "https://www.bloomberg.com/news/articles/2026-04-24/spacex-anduril-among-companies-to-win-space-interceptor-deals"
+ },
+ "la_defconnect_japan": {
+  "author": "Defence Connect",
+  "title": "Anduril partners Japanese firms to enhance defence capability",
+  "title_cn": "Anduril 与日本企业合作提升防务能力",
+  "publisher": "Defence Connect",
+  "date": "2023-05-31",
+  "url": "https://defenceconnect.com.au/industry/12069-anduril-partners-japanese-firms-to-enhance-defence-capability"
+ },
+ "la_reuters_nissan": {
+  "author": "Reuters (via Internazionale)",
+  "title": "Exclusive: U.S. defence firm Anduril in talks for Nissan plant to build drones in Japan, sources say",
+  "title_cn": "独家：Anduril 洽购日产工厂在日本生产无人机",
+  "publisher": "Internazionale",
+  "date": "2026-06-25",
+  "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/06/25/exclusive-u-s-defence-firm-anduril-in-talks-for-nissan-plant-to-build-drones-in-japan-sources-say"
+ },
+ "la_reuters_memo": {
+  "author": "Reuters (via TradingView)",
+  "title": "Anduril and Palantir battlefield communication system 'very high risk', US Army memo says",
+  "title_cn": "美陆军备忘录称 Anduril 与 Palantir 战场通信系统'极高风险'",
+  "publisher": "TradingView",
+  "date": "2025-10-03",
+  "url": "https://de.tradingview.com/news/reuters.com,2025:newsml_L2N3VK0G9:0-anduril-and-palantir-battlefield-communication-system-very-high-risk-us-army-memo-says"
+ },
+ "la_yahoo_memo": {
+  "author": "Reuters (via Yahoo News)",
+  "title": "Anduril, Palantir battlefield communication system 'very high risk'",
+  "title_cn": "Anduril 与 Palantir 战场通信系统被评为极高风险",
+  "publisher": "Yahoo News",
+  "date": "2025-10",
+  "url": "https://www.yahoo.com/news/articles/anduril-palantir-battlefield-communication-system-115526922.html"
+ },
+ "la_bd_memo": {
+  "author": "Breaking Defense",
+  "title": "Army says it's mitigated critical cybersecurity deficiencies in early NGC2 prototype",
+  "title_cn": "陆军称已缓解早期 NGC2 原型的关键网络安全缺陷",
+  "publisher": "Breaking Defense",
+  "date": "2025-10",
+  "url": "https://breakingdefense.com/2025/10/army-says-its-mitigated-critical-cybersecurity-deficiencies-in-early-ngc2-prototype/"
+ },
+ "la_army_lockheed": {
+  "author": "U.S. Army",
+  "title": "Army announces additional competitive award for Next Generation Command and Control (NGC2) prototyping efforts",
+  "title_cn": "陆军宣布 NGC2 原型的另一项竞争性授予",
+  "publisher": "Army.mil",
+  "date": "2025",
+  "url": "https://www.army.mil/article/288233/army_announces_additional_competitive_award_for_next_generation_command_and_control_ngc2_prototyping_efforts"
+ },
+ "la_tectonic_lockheed": {
+  "author": "Tectonic Defense",
+  "title": "Lockheed wins $26M OTA for NGC2",
+  "title_cn": "洛克希德获 2,600 万美元 NGC2 协议",
+  "publisher": "Tectonic Defense",
+  "date": "2025",
+  "url": "https://www.tectonicdefense.com/lockheed-wins-26m-ota-for-ngc2/"
+ },
+ "la_bd_lockheed": {
+  "author": "Breaking Defense",
+  "title": "Army tests next-gen C2 data layer for the first time",
+  "title_cn": "陆军首次测试下一代 C2 数据层",
+  "publisher": "Breaking Defense",
+  "date": "2026-01",
+  "url": "https://breakingdefense.com/2026/01/army-tests-next-gen-c2-data-layer-for-the-first-time/"
+ },
+ "la_tdp_lightning": {
+  "author": "The Defense Post",
+  "title": "Lockheed NGC2 Lightning Surge 2",
+  "title_cn": "洛克希德 NGC2 闪电涌动 2 演示",
+  "publisher": "The Defense Post",
+  "date": "2026-03-03",
+  "url": "https://thedefensepost.com/2026/03/03/lockheed-ngc2-lightning-surge-2/"
+ },
+ "la_bd_sf": {
+  "author": "Breaking Defense",
+  "title": "'Going to change everything': Special Forces joins Army's next-gen C2 prototype experiments",
+  "title_cn": "特种部队加入陆军下一代 C2 原型实验",
+  "publisher": "Breaking Defense",
+  "date": "2026-05",
+  "url": "https://breakingdefense.com/2026/05/going-to-change-everything-special-forces-joins-armys-next-gen-c2-prototype-experiments/"
+ },
+ "la_meritalk": {
+  "author": "MeriTalk",
+  "title": "Army awards Anduril up to $1.8B to scale NGC2 across I Corps",
+  "title_cn": "陆军授予 Anduril 最高 18 亿美元在第 1 军推广 NGC2",
+  "publisher": "MeriTalk",
+  "date": "2026-10",
+  "url": "https://www.meritalk.com/articles/army-awards-anduril-up-to-1-8b-to-scale-ngc2-across-i-corps/"
+ },
+ "la_usnews_goldendome": {
+  "author": "Reuters (via US News)",
+  "title": "Anduril, Palantir developing Golden Dome missile shield's software, source says",
+  "title_cn": "消息人士称 Anduril 与 Palantir 正在开发金穹导弹防御软件",
+  "publisher": "US News",
+  "date": "2026-03-24",
+  "url": "https://www.usnews.com/news/top-news/articles/2026-03-24/anduril-palantir-developing-golden-dome-missile-shields-software-source-says"
+ },
+ "la_govconwire_goldendome": {
+  "author": "GovConWire",
+  "title": "Anduril, Palantir Golden Dome software",
+  "title_cn": "Anduril 与 Palantir 金穹软件",
+  "publisher": "GovConWire",
+  "date": "2026",
+  "url": "https://www.govconwire.com/articles/anduril-palantir-golden-dome-software-wash100"
+ },
+ "la_af_abms": {
+  "author": "U.S. Air Force (RAF Mildenhall)",
+  "title": "ABMS moves forward on cloud-based C2",
+  "title_cn": "ABMS 推进云端指挥控制",
+  "publisher": "af.mil",
+  "date": "",
+  "url": "https://www.mildenhall.af.mil/News/Article-Display/Article/3262645/abms-moves-forward-on-cloud-based-c2/"
+ },
+ "la_lodi411": {
+  "author": "Lodi411",
+  "title": "Anduril and Palantir: AI-enabled transformation of US defense",
+  "title_cn": "Anduril 与 Palantir：AI 赋能的美国防务转型（二手）",
+  "publisher": "Lodi411",
+  "date": "",
+  "url": "https://lodi411.com/lodi-eye/anduril-and-palantir-ai-enabled-transformation-of-us-defense"
+ },
+ "la_ds_thunderforge": {
+  "author": "DefenseScoop",
+  "title": "DIU Thunderforge: Scale AI to support combatant commands INDOPACOM, EUCOM",
+  "title_cn": "DIU Thunderforge：Scale AI 支持印太与欧洲司令部",
+  "publisher": "DefenseScoop",
+  "date": "2025-03-05",
+  "url": "https://defensescoop.com/2025/03/05/diu-thunderforge-scale-ai-combatant-commands-indopacom-eucom/"
+ },
+ "la_diu_thunderforge": {
+  "author": "Defense Innovation Unit",
+  "title": "DIU's Thunderforge project to integrate commercial AI-powered decision-making",
+  "title_cn": "DIU Thunderforge 项目集成商业 AI 决策能力",
+  "publisher": "DIU",
+  "date": "2025-03-05",
+  "url": "https://www.diu.mil/latest/dius-thunderforge-project-to-integrate-commercial-ai-powered-decision-making"
+ },
+ "la_scale_thunderforge": {
+  "author": "Scale AI",
+  "title": "Thunderforge: AI for American defense",
+  "title_cn": "Thunderforge：服务美国防务的 AI",
+  "publisher": "Scale AI Blog",
+  "date": "2025-03",
+  "url": "https://scale.com/blog/thunderforge-ai-for-american-defense"
+ },
+ "la_robotics_hivemind": {
+  "author": "robotics.press",
+  "title": "Shield AI Hivemind selected for CCA demos on Fury airframe",
+  "title_cn": "Shield AI Hivemind 入选 Fury 机体 CCA 演示（二手）",
+  "publisher": "robotics.press",
+  "date": "2026-02",
+  "url": "https://www.robotics.press/news/shield-ai-hivemind-cca-fury-airframe/"
+ }
+}

@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lattice与Maven配图采集清单</title>
+<style>
+:root{--cream:#F7F4EC;--navy:#12233B;--accent:#2E93D6;--brass:#A8842F;--alert:#C0392B;--grey:#8A8474}
+body{background:var(--cream);color:#222;font-family:"Noto Sans CJK SC","PingFang SC","Microsoft YaHei",sans-serif;margin:0 auto;max-width:1100px;padding:0 16px 60px}
+.band{background:var(--navy);color:#fff;padding:10px 16px;margin:0 -16px;font-size:13px;letter-spacing:.1em}
+h1{color:var(--navy);font-size:22px;margin:18px 0 6px}
+.note{background:#fff;border-left:5px solid var(--brass);padding:10px 14px;font-size:14px;line-height:1.8}
+.bar{position:sticky;top:0;background:var(--cream);padding:10px 0;z-index:5;border-bottom:1px solid #E9E4D6;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+button{background:var(--navy);color:#fff;border:0;padding:9px 16px;font-size:14px;border-radius:4px;cursor:pointer}
+button.alt{background:var(--brass)}
+#st{font-size:13px;color:var(--grey)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;margin-top:12px}
+.card{background:#fff;border:1px solid #E9E4D6;padding:8px;font-size:12px;line-height:1.5;min-width:0}
+.card img{width:100%;height:150px;object-fit:cover;background:#eee}
+.card .k{color:var(--brass);font-weight:bold}
+.card a{color:var(--accent);word-break:break-all}
+.ok{color:#1F8A70}.bad{color:var(--alert)}
+</style></head><body>
+<div class="band">XIGUANG · Lattice 与 Maven 系统调研 · 配图采集清单</div>
+<h1>Lattice 与 Maven 系统调研 —— 配图采集清单（第三轮补抓）</h1>
+<div class="note">本页图片热链 Wikimedia Commons、DVIDS 等原始图源（另有少数仅给出页面链接的条目，卡片标注“需手动另存”），由您的浏览器加载。<b>用法：</b>点击“一键打包下载”，浏览器会逐张抓取原图并打包为 <code>lm_imgs.zip</code>（含 manifest.json 对照表）；下载完成后把该压缩包传回对话，我会把原图嵌入 docx/PDF 版并按图号重排。个别图片如抓取失败（卡片标红），可点开链接手动另存，文件名按卡片上的“保存名”命名后一并打包。</div>
+<div class="bar"><button id="go">一键打包下载（3 张）</button><button class="alt" id="txt">下载链接清单 urls.txt</button><span id="st"></span></div>
+<div class="grid" id="g"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<script>
+const ITEMS = [{"case": "Lattice·装备", "desc": "空战司令部人员与Anduril技术人员在爱德华兹空军基地维护YFQ-44A（2026年4月，美空军Ariana Ortega摄）", "url": "https://media.defense.gov/2026/Apr/06/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "alts": ["https://media.defense.gov/2026/Apr/06/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/07/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/07/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/08/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/08/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/09/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/09/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/10/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/10/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/11/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/11/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/12/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/12/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/13/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/13/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/14/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/14/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/15/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/15/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/16/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/16/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/17/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/17/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/18/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/18/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/19/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/19/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/20/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/20/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/21/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/21/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/22/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/22/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/23/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/23/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/24/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/24/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/25/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/25/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/26/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/26/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/27/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/27/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/28/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/28/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/29/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/29/2003914938/-1/-1/1/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/30/2003914938/-1/-1/0/260406-F-AT754-1299.JPG", "https://media.defense.gov/2026/Apr/30/2003914938/-1/-1/1/260406-F-AT754-1299.JPG"], "page": "https://www.acc.af.mil/News/Photos/igphoto/2003914938/", "save_as": "lm_yfq44_edwards", "license": "Public domain (USAF)"}, {"case": "Maven·沿革", "desc": "NGA斯普林菲尔德园区（2024年3月12日）", "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/National_Geospatial-Intelligence_Agency_in_Springfield%2C_Virginia_on_March_12%2C_2024_-_10.jpg", "alts": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/National_Geospatial-Intelligence_Agency_in_Springfield%2C_Virginia_on_March_12%2C_2024_-_10.jpg/1280px-National_Geospatial-Intelligence_Agency_in_Springfield%2C_Virginia_on_March_12%2C_2024_-_10.jpg", "https://commons.wikimedia.org/wiki/Special:FilePath/National_Geospatial-Intelligence_Agency_in_Springfield%2C_Virginia_on_March_12%2C_2024_-_10.jpg?width=1280"], "page": "https://commons.wikimedia.org/wiki/File:National_Geospatial-Intelligence_Agency_in_Springfield,_Virginia_on_March_12,_2024_-_10.jpg", "save_as": "lm_nga_campus_2024", "license": "Commons"}, {"case": "Maven·案例", "desc": "戴斯空军基地停机坪上的B-1B（2024年2月1日，Ellsworth B-1B由此出击支援CENTCOM）", "url": "https://media.defense.gov/2024/Feb/01/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "alts": ["https://media.defense.gov/2024/Feb/01/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/02/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/02/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/03/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/03/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/04/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/04/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/05/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/05/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/06/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/06/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/07/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/07/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/08/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/08/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/09/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/09/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/10/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/10/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/11/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/11/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/12/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/12/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/13/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/13/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/14/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/14/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/15/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/15/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/16/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/16/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/17/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/17/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/18/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/18/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/19/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/19/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/20/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/20/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/21/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/21/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/22/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/22/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/23/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/23/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/24/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/24/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/25/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/25/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/26/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/26/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/27/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/27/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/28/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/28/2003388738/-1/-1/1/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/29/2003388738/-1/-1/0/240201-F-MI946-1067.JPG", "https://media.defense.gov/2024/Feb/29/2003388738/-1/-1/1/240201-F-MI946-1067.JPG"], "page": "https://www.dyess.af.mil/News/Photos/igphoto/2003388738/", "save_as": "lm_b1b_feb2024_ellsworth", "license": "Public domain (USAF, SrA Leon Redfern)"}];
+const g = document.getElementById('g');
+ITEMS.forEach((it, i) => {
+  const d = document.createElement('div'); d.className = 'card'; d.id = 'c' + i;
+  d.innerHTML = it.url ? `<img loading="lazy" src="${it.url}" onerror="this.style.opacity=.2;document.getElementById('s${i}').innerHTML='<span class=bad>预览失败</span>'">
+  <div><span class="k">${it.case}</span> ${it.desc}</div>
+  <div>保存名：<code>${it.save_as}</code> <span id="s${i}"></span></div>
+  <div><a href="${it.page}" target="_blank">原图页面</a> · <a href="${it.url}" target="_blank">原图直链</a> · <span style="color:#8A8474">${it.license||''}</span></div>` : `<div style="height:150px;display:flex;align-items:center;justify-content:center;background:#ECE8DE;color:#A8842F">需手动另存（打开原图页面）</div>
+  <div><span class="k">${it.case}</span> ${it.desc}</div>
+  <div>保存名：<code>${it.save_as}</code> <span id="s${i}"></span></div>
+  <div><a href="${it.page}" target="_blank">原图页面</a> · <span style="color:#8A8474">${it.license||''}</span></div>`;
+  g.appendChild(d);
+});
+function extOf(u, type){ if(type && type.includes('png')) return '.png'; if(type && type.includes('webp')) return '.webp'; const m=u.toLowerCase().match(/\.(jpe?g|png|webp|gif|tiff?)(\?|$)/); return m? '.'+m[1].replace('jpeg','jpg'):'.jpg'; }
+document.getElementById('txt').onclick = () => {
+  const blob = new Blob([ITEMS.map(it => it.save_as + '\t' + it.url).join('\n')], {type:'text/plain'});
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'urls.txt'; a.click();
+};
+async function shrink(blob){
+  // 统一压成长边不超过 1600px 的 JPEG（质量 0.82），单张通常 150-400KB
+  try{
+    const bmp = await createImageBitmap(blob);
+    const k = Math.min(1, 1600/Math.max(bmp.width,bmp.height));
+    const c = document.createElement('canvas'); c.width=Math.round(bmp.width*k); c.height=Math.round(bmp.height*k);
+    const g = c.getContext('2d'); g.fillStyle='#fff'; g.fillRect(0,0,c.width,c.height); g.drawImage(bmp,0,0,c.width,c.height);
+    return await new Promise(r=>c.toBlob(r,'image/jpeg',0.82));
+  }catch(e){ return null; }
+}
+function thumbUrl(u){ // upload.wikimedia.org 原图 -> 1280px 缩略图
+  const m = u.match(/^(https:\/\/upload\.wikimedia\.org\/wikipedia\/commons\/)([0-9a-f]\/[0-9a-f]{2}\/)(.+)$/);
+  if(!m) return null; let n=m[3]; let t=n; if(/\.(svg|tiff?)$/i.test(n)) t=n+'.png';
+  return m[1]+'thumb/'+m[2]+n+'/1280px-'+t;
+}
+async function getBlob(u, alts){
+  if(!u) throw new Error('no direct url');
+  for (const x of [thumbUrl(u), u, ...(alts||[])]) { if(!x) continue;
+    try{ const r=await fetch(x,{mode:'cors'}); if(r.ok) return await r.blob(); }catch(e){} }
+  for (const x of [u, ...(alts||[])]) {
+    try{ const r=await fetch('https://wsrv.nl/?url='+encodeURIComponent(x)+'&w=1600&output=jpg',{mode:'cors'}); if(r.ok) return await r.blob(); }catch(e){} }
+  throw new Error('fetch failed');
+}
+function save(blob,name){ const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=name; a.click(); }
+document.getElementById('go').onclick = async () => {
+  const LIMIT = 25*1024*1024; // 每卷不超过 25MB
+  const st = document.getElementById('st'); let zip = new JSZip(), size = 0, vol = 1, ok = 0, bad = 0; const man = [];
+  const flush = async () => { zip.file('manifest_part'+vol+'.json', JSON.stringify(man.filter(m=>m.vol===vol),null,1));
+    const b = await zip.generateAsync({type:'blob'}); save(b, 'lm_imgs_part'+vol+'.zip'); vol++; zip = new JSZip(); size = 0;
+    await new Promise(r=>setTimeout(r,800)); };
+  for (let i = 0; i < ITEMS.length; i++) {
+    const it = ITEMS[i]; st.textContent = `抓取中 ${i+1}/${ITEMS.length}（成功 ${ok}，失败 ${bad}，第 ${vol} 卷）`;
+    try {
+      const raw = await getBlob(it.url, it.alts); const small = (await shrink(raw)) || raw;
+      if (size + small.size > LIMIT && size > 0) await flush();
+      const name = it.save_as + '.jpg'; zip.file(name, small); size += small.size; ok++;
+      man.push({...it, file:name, vol:vol}); document.getElementById('s'+i).innerHTML = '<span class="ok">已打包（第'+vol+'卷）</span>';
+    } catch(e) { bad++; man.push({...it, file:null, error:String(e), vol:vol}); document.getElementById('s'+i).innerHTML = '<span class="bad">抓取失败</span>'; }
+  }
+  await flush();
+  st.textContent = `完成：成功 ${ok} 张，失败 ${bad} 张，共 ${vol-1} 卷（每卷不超过 25MB）。请把各卷 zip 依次传回对话。`;
+};
+</script></body></html>
