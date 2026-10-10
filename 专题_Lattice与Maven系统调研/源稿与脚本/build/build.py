@@ -82,6 +82,25 @@ class LMDocx(DocxBuilder):
 
 
 class LMHtml(HtmlBuilder):
+    def b_figure(self, b):
+        if b.get('kind') == 'photo' and b.get('local') and os.path.exists(b['local']):
+            # 已有本地原图：压缩后内嵌，保证离线可看；无本地图时才走热链
+            import base64, io
+            from PIL import Image
+            im = Image.open(b['local']).convert('RGB'); im.thumbnail((1100, 1100))
+            bio = io.BytesIO(); im.save(bio, 'JPEG', quality=78)
+            self.fig_n += 1
+            anchor = 'hfig_%d' % self.fig_n
+            self.ctx.setdefault('html_figs', []).append((self.fig_n, b['caption'], anchor))
+            cap = '图%d  %s' % (self.fig_n, H.escape(norm_text(b['caption'])))
+            src = '<span class="src">来源：%s</span>' % self._inline(b['source']) if b.get('source') else ''
+            self.add('<figure class="photo" id="%s"><img loading="lazy" src="data:image/jpeg;base64,%s" alt="%s">'
+                     '<figcaption>%s%s</figcaption></figure>' % (anchor, base64.b64encode(bio.getvalue()).decode(), cap, cap, src))
+            return
+        if not b.get('remote_url') and not (b.get('local') and os.path.exists(b['local'])):
+            return
+        return HtmlBuilder.b_figure(self, b)
+
     def b_close(self, b):
         self.add('<div class="close">—— 本文完 ｜《析光》2026年10月专题 · Lattice 与 Maven ——</div>')
 
@@ -249,6 +268,23 @@ def read(name):
     return open(p, encoding='utf-8').read() if os.path.exists(p) else ''
 
 
+def dedupe_photos(blocks):
+    """同一张照片（按文件内容）只收录一次；无本地图也无直链的照片块删除。"""
+    import hashlib
+    seen, out = set(), []
+    for b in blocks:
+        if b['t'] == 'figure' and b.get('kind') == 'photo':
+            if b.get('local') and os.path.exists(b['local']):
+                h = hashlib.md5(open(b['local'], 'rb').read()).hexdigest()
+                if h in seen:
+                    continue
+                seen.add(h)
+            elif not b.get('remote_url'):
+                continue
+        out.append(b)
+    return out
+
+
 def resolve_numbers(blocks, ctx, include_remote):
     f = t = 0
     ctx['fignum'], ctx['tabnum'] = {}, {}
@@ -405,7 +441,7 @@ def locate_pages(pdf, entries):
 def prepare(include_remote):
     ctx = make_ctx()
     secs = {k: read(k) for k in ('digest', 'abstract', 'body', 'appendix')}
-    body = parse_markup(secs['body'], ctx) + (parse_markup(secs['appendix'], ctx) if secs['appendix'] else [])
+    body = dedupe_photos(parse_markup(secs['body'], ctx) + (parse_markup(secs['appendix'], ctx) if secs['appendix'] else []))
     resolve_numbers(body, ctx, include_remote)
     ctx['body_blocks'] = body
     ctx['digest_blocks'] = parse_markup(secs['digest'], ctx)
