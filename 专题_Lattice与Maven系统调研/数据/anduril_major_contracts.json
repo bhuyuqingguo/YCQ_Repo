@@ -1,0 +1,178 @@
+[
+ {
+  "date": "2021-09-15",
+  "ceiling_usd": 5200000.0,
+  "category": "指挥控制/数据层",
+  "name": "英 TALOS 基地防御试验",
+  "lattice_explicit": true,
+  "basis": "合同"
+ },
+ {
+  "date": "2022-01-24",
+  "ceiling_usd": 967600000.0,
+  "category": "反无人机/防空",
+  "name": "SOCOM 反无人机集成商",
+  "lattice_explicit": true,
+  "basis": "合同上限"
+ },
+ {
+  "date": "2023-11-02",
+  "ceiling_usd": 21000000.0,
+  "category": "反无人机/防空",
+  "name": "英 TALOS 3 基地防护",
+  "lattice_explicit": false,
+  "basis": "合同"
+ },
+ {
+  "date": "2024-06-13",
+  "ceiling_usd": 19000000.0,
+  "category": "工业/其他",
+  "name": "海军 SM-6 火箭发动机",
+  "lattice_explicit": false,
+  "basis": "合同"
+ },
+ {
+  "date": "2024-06-18",
+  "ceiling_usd": 300000000.0,
+  "category": "无人平台/弹药",
+  "name": "台湾 ALTIUS-600M（FMS）",
+  "lattice_explicit": false,
+  "basis": "FMS 估值"
+ },
+ {
+  "date": "2024-10-08",
+  "ceiling_usd": 250000000.0,
+  "category": "反无人机/防空",
+  "name": "Roadrunner-M + Pulsar",
+  "lattice_explicit": false,
+  "basis": "合同"
+ },
+ {
+  "date": "2024-10-01",
+  "ceiling_usd": 14400000.0,
+  "category": "无人平台/弹药",
+  "name": "陆军连级 Ghost-X",
+  "lattice_explicit": false,
+  "basis": "合同"
+ },
+ {
+  "date": "2024-11-10",
+  "ceiling_usd": 200000000.0,
+  "category": "反无人机/防空",
+  "name": "陆战队 MADIS 交战系统",
+  "lattice_explicit": false,
+  "basis": "合同"
+ },
+ {
+  "date": "2024-11-21",
+  "ceiling_usd": 99700000.0,
+  "category": "边境/太空传感",
+  "name": "太空军 SSN 现代化",
+  "lattice_explicit": true,
+  "basis": "合同上限"
+ },
+ {
+  "date": "2024-12-03",
+  "ceiling_usd": 100000000.0,
+  "category": "指挥控制/数据层",
+  "name": "CDAO 边缘数据网格",
+  "lattice_explicit": true,
+  "basis": "合同上限"
+ },
+ {
+  "date": "2025-03-10",
+  "ceiling_usd": 642200000.0,
+  "category": "反无人机/防空",
+  "name": "陆战队基地反无人机",
+  "lattice_explicit": true,
+  "basis": "合同上限"
+ },
+ {
+  "date": "2025-07-18",
+  "ceiling_usd": 99600000.0,
+  "category": "指挥控制/数据层",
+  "name": "陆军 NGC2 原型（4ID）",
+  "lattice_explicit": false,
+  "basis": "合同"
+ },
+ {
+  "date": "2025-09-10",
+  "ceiling_usd": 1120000000.0,
+  "category": "无人平台/弹药",
+  "name": "澳 Ghost Shark 生产",
+  "lattice_explicit": false,
+  "basis": "合同"
+ },
+ {
+  "date": "2025-09-25",
+  "ceiling_usd": 159000000.0,
+  "category": "指挥控制/数据层",
+  "name": "陆军 SBMC EagleEye",
+  "lattice_explicit": true,
+  "basis": "合同"
+ },
+ {
+  "date": "2026-03-14",
+  "ceiling_usd": 20000000000.0,
+  "category": "指挥控制/数据层",
+  "name": "陆军企业协议",
+  "lattice_explicit": true,
+  "basis": "载体上限"
+ },
+ {
+  "date": "2026-03-20",
+  "ceiling_usd": 87000000.0,
+  "category": "反无人机/防空",
+  "name": "JIATF-401 反无人机 C2",
+  "lattice_explicit": true,
+  "basis": "任务订单"
+ },
+ {
+  "date": "2026-06-05",
+  "ceiling_usd": 1980000000.0,
+  "category": "反无人机/防空",
+  "name": "科威特反无人机（FMS）",
+  "lattice_explicit": true,
+  "basis": "FMS 估值"
+ },
+ {
+  "date": "2026-06-12",
+  "ceiling_usd": 363000000.0,
+  "category": "边境/太空传感",
+  "name": "CBP 增程塔 200+ 座",
+  "lattice_explicit": true,
+  "basis": "合同"
+ },
+ {
+  "date": "2026-08-28",
+  "ceiling_usd": 847000000.0,
+  "category": "无人平台/弹药",
+  "name": "台湾 Altius-700M/600ISR",
+  "lattice_explicit": false,
+  "basis": "合同"
+ },
+ {
+  "date": "2026-09-15",
+  "ceiling_usd": 65000000.0,
+  "category": "指挥控制/数据层",
+  "name": "TITAN 地面站（Anduril 份额）",
+  "lattice_explicit": false,
+  "basis": "合同"
+ },
+ {
+  "date": "2026-10-06",
+  "ceiling_usd": 1800000000.0,
+  "category": "指挥控制/数据层",
+  "name": "陆军 NGC2 扩展（I 军）",
+  "lattice_explicit": false,
+  "basis": "合同上限"
+ },
+ {
+  "date": "2026-10-06",
+  "ceiling_usd": 2900000000.0,
+  "category": "工业/其他",
+  "name": "海军潜艇部件",
+  "lattice_explicit": false,
+  "basis": "合同上限"
+ }
+]
