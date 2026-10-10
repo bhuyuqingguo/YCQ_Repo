@@ -271,8 +271,12 @@ def read(name):
 def dedupe_photos(blocks):
     """同一张照片（按文件内容）只收录一次；无本地图也无直链的照片块删除。"""
     import hashlib
-    seen, out = set(), []
+    seen, keys, out = set(), set(), []
     for b in blocks:
+        if b['t'] == 'figure' and b.get('kind') != 'photo':
+            if b['key'] in keys:      # 同一自绘图只在首次出现处收录
+                continue
+            keys.add(b['key'])
         if b['t'] == 'figure' and b.get('kind') == 'photo':
             if b.get('local') and os.path.exists(b['local']):
                 h = hashlib.md5(open(b['local'], 'rb').read()).hexdigest()

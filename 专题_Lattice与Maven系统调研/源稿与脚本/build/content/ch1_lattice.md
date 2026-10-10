@@ -124,6 +124,30 @@ Anduril 的估值从 2019 年 B 轮的约 10 亿美元，涨到 2026 年 5 月 H
 
 截至 2026 年 10 月，可以这样概括 Lattice 的地位：它是美陆军反无人机（200 亿美元企业合同和 JIATF 401）和 NGC2（I 军推广，上限 18 亿美元）的核心数据层，进入了空军 CCA 下一阶段，赢得首个北约合同，边境业务仍在扩张。它的竞争格局也随之变化，从"对抗传统主承包商"转为"与 Palantir 分层合作、在部分招标中直接竞争"，北约 eAirC2 就是两家同场竞争的例子[@la_battlepolicy_nato]。
 
+### 合同结构的演进：从试点到"企业协议加任务单"
+
+把 Anduril 的合同按时间排开，可以看到三次结构性变化。2018—2021 年以试点和小额试验为主，例如 CBP 塔试点和英国 TALOS 试验；2022 年起出现 IDIQ 和 OTA 形式的大额上限合同，SOCOM 的 9.676 亿美元合同是第一个接近十亿量级的；2026 年进入"企业协议加任务单"模式，陆军 200 亿美元企业合同之下，JIATF 401 这类后续订单以任务单形式出现，单独公告可能因此减少[@la_wt_socom,la_ds_20b,la_bd_jiatf]。NGC2 从 2025 年 9,960 万美元原型到 2026 年 18 亿美元推广，只用了约 15 个月，说明"原型 OTA 转生产"的路径已经打通[@la_army_ngc2_award,la_ds_icorps]。
+
+更重要的是 Lattice 在这些合同中的位置。几乎所有 C2、反无人机和传感器网络类合同都明确以 Lattice 为核心，而硬件和弹药类合同（固体火箭发动机、Altius、Barracuda、CCA 机体、潜艇部件）的来源通常不提 Lattice。下表列出来源中明确写到 Lattice 的主要合同。
+
+!table la_lcontracts|来源明确提到 Lattice 的主要合同|本报告依据合同公告与行业媒体整理；上限、已拨付与 FMS 估值口径不同|22,36,34,68
+时间|客户与项目|金额|Lattice 在其中的作用
+2021-09|英国国防部 TALOS 基地防御试验|380 万英镑|系统运行在 Lattice 上，检测、分类、跟踪地面与空中入侵[@la_blog_talos]
+2022-01|SOCOM 反无人系统集成伙伴|上限 9.676 亿美元|交付 Lattice 平台，集成 Sentry、Anvil、Pulsar、FoxHound[@la_wt_socom]
+2024-02|海军与 DIU Dive-LD 原型|未披露|竞速测试中用 Lattice 实时跟踪和共享位置[@la_globalsec_diveld]
+2024-11|太空军 SSN 现代化|约 9,970 万美元|交付 Lattice 作为弹性网状网络[@la_ds_ssn]
+2024-12|CDAO 边缘数据集成服务|1 亿美元|Lattice 驱动的边缘数据网格[@la_ds_cdao]
+2025-03|陆战队 I-CsUAS|上限 6.42 亿美元|核心软件为 Lattice[@la_ius_madis]
+2025-09|陆军 SBMC 第一阶段|1.59 亿美元（硬件）|SBMC-A 数据与 AI 架构建立在 Lattice C2 上[@la_bd_eagleeye,la_uploadvr]
+2025-11|陆军 IBCS-M|未披露|Lattice 作为反无人机火控与集成骨干[@la_mes_ibcsm]
+2026-03|陆军企业协议|上限 200 亿美元|涵盖 Lattice 软件、硬件、数据、算力与服务[@la_army_20b]
+2026-03|陆军 JIATF 401 首个任务单|约 8,700 万美元|Lattice 作为反无人机 C2 骨干[@la_d1_jiatf]
+2026-06|CBP 增程 Sentry 塔|3.63 亿美元|新塔与 Lattice 及既有塔网络集成[@la_execbiz_xrst]
+2026-07|北约 NCIA eAirC2 评估|未披露|在北约环境中部署 Lattice[@la_die_nato]
+!end
+
+按公开上限粗算，这些明确提到 Lattice 的合同（不含 200 亿美元企业协议）合计约 22 亿美元；计入企业协议约 220 亿美元；如果把普遍被认为基于 Lattice 的两份 NGC2 合同（9,960 万美元和 18 亿美元）也算进去，还要再加约 19 亿美元。需要强调，上限、已拨付金额和对外军售批准估值是三种不同口径，不能直接相加；JIATF 401 的任务单也已包含在 200 亿美元企业协议之内，不能重复计算。
+
 ### 大事年表
 
 !table la_timeline|Lattice 与 Anduril 大事年表（2017—2026 年 10 月）|本报告依据研究笔记整理；金额为上限或报道值，冲突处并列|24,70,34,32
@@ -327,6 +351,26 @@ SDK 中能找到一组明确的人机交互"挂钩"[@la_sdk_ref,la_sdk_correlati
 师级火力 C2|AXS 炮兵工具运行于 Lattice Mesh，与 Target Workbench 协同|从传感器到炮位|演习事实[@la_bd_ivysting1]
 !end
 
+### 一个反无人机场景在接口层的映射（示例推断）
+
+为了让读者直观理解上述数据结构如何协同，下面把一次典型的基地反无人机交战映射到 SDK 公开接口上。这是依据 SDK 文档所作的示例推断，不代表 Anduril 公布过的具体实现。
+
+【传感器上报】一座 Sentry 塔作为"生产者"，对新发现的小型无人机调用 publish_entity，发布一个 TEMPLATE_TRACK 实体：kinematics 填位置和速度，tracked 填航迹质量和传感器命中数，mil_view.disposition 暂为 UNKNOWN，expiry_time 设在几分钟之后，provenance 标明数据来源[@la_sdk_ref,la_sdk_entity]。
+
+【多源融合】另一部雷达也发布了同一目标的航迹，自动关联器把两者组成主从关联集合；如果操作员认为其实是两个目标，可以去关联，关联器此后不会再把它们合并[@la_sdk_correlation]。
+
+【态势分发】指挥所的界面和分析程序作为"消费者"，通过 stream_entities 订阅，并用过滤语句只接收基地周边地理区域内的航迹，以节省带宽[@la_sdk_ref]。
+
+【识别定性】值班员根据画面和规则，调用 override_entity 把 mil_view.disposition 改为 HOSTILE，这次覆写带有操作员身份和时间[@la_sdk_ref]。
+
+【任务下达】值班员调用 create_task，specification 中写入拦截任务定义，initial_entities 指向该航迹实体，受领者是一架在 task_catalog 中声明了拦截能力的 Anvil[@la_sdk_ref,la_sdk_task_catalog]。
+
+【执行与回报】Anvil 作为"代理"，经 stream_as_agent 收到执行请求，依次回报 MACHINE_RECEIPT、ACK、WILCO、EXECUTING，拦截后回报 DONE_OK 或 DONE_NOT_OK；如果中途收到取消请求，由 Anvil 判断是否还能中止[@la_sdk_task_status_status,la_sdk_ref]。
+
+【复盘留痕】整个过程中，航迹的创建与更新、敌我属性的覆写、任务的发起人与每一次状态变更都有记录，可供事后复盘。
+
+这一映射说明，Lattice 把"谁看到了什么、谁作了什么判断、谁下了什么命令、执行端如何回应"全部变成结构化数据。这既是它支持快速集成和自动化的基础，也是它在追责和审计上潜在的优势；但公开资料没有说明这些记录如何保存、保存多久、能否被独立调阅。
+
 ### 功能上的空白
 
 功能层面的未知项同样需要列明。公开资料中没有找到：告警和地理围栏的专用接口；tasks/v* 下的具体任务定义；可覆写字段的完整清单；仿真器或测试工具产品；交战规则配置；针对小型无人机的自动交战模式；计算机视觉模型的架构、训练数据和准确率指标。Roadrunner 与 Lattice 的集成方式也没有找到公开说明。这些空白多数恰好落在"杀伤链中由机器决定多少"这一最敏感的问题上。
@@ -466,6 +510,12 @@ MOSA 模块化开放系统|部分|主要通过公开接口、SDK 和飞机上的
 IBCS 开放架构|部分|Lattice 为 IBCS-M 机动火控层，与 IBCS 核心对接细节未公开|[@la_uasmag_ibcsm]
 !end
 
+### 与 Palantir 体系的架构对接
+
+Lattice 与 Palantir 的组合在架构上是"边缘采集与传输"加"企业级数据准备与决策应用"。2024 年 12 月的合作声明描述的链路是：传感器、载具、机器人和武器的战场数据由 Lattice 和 Menace 采集和传输，再进入 Palantir 的安全平台 AIP，为 AI 训练做准备，覆盖 SCI/SAP 等最高密级[@la_bnn_palantir,la_bw_palantir]。在 NGC2 中，Lattice 是战术边缘的网格、数据传输和实体层，Palantir 的 Foundry 是企业数据平台，Target Workbench 承担目标处理与决策应用；2026 年 6 月的通用数据层基线把两者定义为"边缘到云"的一张数据网格，Raft 提供注册与联邦服务[@la_bd_ivysting1,la_bd_cdl,la_ds_cdl]。硬件层面，Menace 同时是两家软件的首选承载平台[@la_dc_menace]。
+
+但需要指出，这种分工并不是严格的层级切分：在 NGC2 中，Palantir 的工具也部署在师一级，而不只在战役和战略层级；在 Thunderforge 和"金穹"中，Lattice 也进入了战区和联合层级[@la_diu_thunderforge,la_usnews_goldendome]。更关键的空白是，公开资料中没有找到 Lattice 实体模型与 Palantir 本体之间的映射说明，也没有找到两者之间正式的接口集成公告，2024 年的合作声明和 NGC2 实践之外，具体如何对接仍不透明。
+
 ### 安全与认证：最大的公开空白
 
 SDK 层面可以确认两项安全设计：认证采用 OAuth2 客户端凭证流程，令牌短时有效；每个实体带逐字段密级标记[@la_sdk_ref,la_sdk_classification]。专利层面还有点对点授权路由和密钥不落盘[@la_patent_436]。
@@ -558,6 +608,12 @@ C2 数据层|NGC2 原型转入 18 亿美元推广；通用数据层基线；CDAO
 跨域与盟军|陆海空天均有合同或演示；英国、新加坡、北约、澳大利亚项目[@la_ds_ssn,la_ncia_nato]|Mesh 连接全球数千系统[@la_x_mesh]|无经认证的跨密级方案；北约仍在评估；关岛演示仅弱源[@la_venture_atlas]
 抗干扰与对抗环境|专利与 SDK 的 DDIL 设计[@la_patent_436,la_sdk_ref]|Ivy Sting 5 卫星与商用通信失效时仍运行[@la_anduril_scaling]|乌克兰 Ghost 受干扰、Altius 停用[@la_tc_wsj]
 !end
+
+### 竞争者与锁定风险
+
+Lattice 并不是没有对手。在陆军 NGC2 中，洛克希德·马丁牵头的团队为第 25 步兵师做了竞争性数据层原型[@la_tectonic_lockheed]；在 CCA 自主软件上，Shield AI 的 Hivemind 已在 Fury 机体上飞行，政府明显希望保持自主软件可互换[@la_robotics_hivemind,la_aviationist_hivemind]；在战役规划上，Thunderforge 由 Scale AI 牵头，Lattice 只是其中的数据层[@la_ds_thunderforge]；在空军，ABMS 云端 C2 的软件集成商是 SAIC[@la_af_abms]；在北约 eAirC2 中，Lattice 与 Palantir、Athea 同场评估[@la_ncia_nato]。
+
+但从 2026 年的走势看，陆军正在向 Anduril 与 Palantir 的基线收拢：原本属于数据层供应商的 Raft 成为 NGC2 基线的合作方，原本牵头竞争原型的洛克希德·马丁据一家行业媒体报道转为协助实施 Anduril 基线（单一来源）[@la_bd_cdl,la_defblog_icorps]。陆军自己也把"避免厂商锁定、为传感器和升级留出空间"列为通用数据层的关键考虑[@la_bd_cdl]。当一个军种的反无人机、师级 C2 和企业采购都以同一个数据层为中心时，Lattice 的许可条款（只允许为"兼容的 Lattice 实现"开发应用）就不只是一个法律细节，而是决定未来替换成本的关键因素[@la_sdk_license]。没有找到 GAO 报告、国防授权法条款或国会听证专门讨论 NGC2 的数据权利和锁定问题。
 
 ### 负面证据汇总
 
