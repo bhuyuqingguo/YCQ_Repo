@@ -67,41 +67,97 @@ def fmt_usd(v):
     return '%d万' % round(v / 1e4)
 
 
-def c_anduril_contracts():
-    fig, ax = new(7.8, 5.0)
-    offs = {'陆军企业协议': (-40, 9), '海军潜艇部件': (-62, 9), '陆军 NGC2 扩展（I 军）': (8, -3),
-            'SOCOM 反无人机集成商': (8, 5), '陆战队基地反无人机': (-52, -15), '科威特反无人机（FMS）': (-112, 0),
-            '澳 Ghost Shark 生产': (-60, 9), 'TITAN 地面站（Anduril 份额）': (-60, -13),
-            'JIATF-401 反无人机 C2': (-110, -1), '台湾 Altius-700M/600ISR': (8, -3),
-            'CBP 增程塔 200+ 座': (8, -3), '陆军 SBMC EagleEye': (8, -2), '陆军 NGC2 原型（4ID）': (-52, -13),
-            'CDAO 边缘数据网格': (-10, 9), '太空军 SSN 现代化': (-95, -11), 'Roadrunner-M + Pulsar': (8, 4),
-            '陆战队 MADIS 交战系统': (8, -6), '台湾 ALTIUS-600M（FMS）': (-60, 9), '陆军连级 Ghost-X': (-35, -12),
-            '海军 SM-6 火箭发动机': (8, -4), '英 TALOS 3 基地防护': (-40, 7), '英 TALOS 基地防御试验': (8, 4)}
-    for d, v, cat, name, lat, kind in ANDURIL:
-        x = dt.date.fromisoformat(d)
-        col = CATS[cat]
-        s = 18 + 60 * (np.log10(v) - 6)
-        ax.scatter([x], [v], s=s, color=col if lat else 'white', edgecolor=col, lw=1.3, zorder=3,
-                   marker='D' if 'FMS' in kind else 'o')
-        ox, oy = offs.get(name, (5, 4))
-        ax.annotate('%s %s' % (name, fmt_usd(v)), (x, v), xytext=(ox, oy), textcoords='offset points',
-                    fontproperties=FP(5.6), color=NAVY, zorder=4)
-    ax.set_yscale('log'); ax.set_ylim(2e6, 6e10)
-    ax.set_xlim(dt.date(2021, 4, 1), dt.date(2027, 1, 15))
-    ax.set_yticks([1e7, 1e8, 1e9, 1e10])
-    ax.set_yticklabels(['1000万', '1亿', '10亿', '100亿'])
-    ax.xaxis.set_major_locator(mdates.YearLocator()); ax.xaxis.set_major_formatter(mdates.DateFormatter('%Y'))
-    ax.grid(axis='y', color=PAL['grid'], lw=0.7)
+def hbar_contracts(rows, cats, fname, title_note, lat_label, xlim=(1e6, 4e10)):
+    """rows: (date, value, cat, name, flag, basis)；按日期排序的横向对数条形图。"""
+    rows = sorted(rows, key=lambda r: r[0])
+    n = len(rows)
+    fig, ax = new(7.8, 0.27 * n + 1.3)
+    ys = np.arange(n)[::-1]
+    for y, (d, v, cat, name, flag, basis) in zip(ys, rows):
+        col = cats[cat]
+        ax.barh(y, v - xlim[0], left=xlim[0], color=col if flag else 'white', edgecolor=col, lw=1.0,
+                height=0.66, zorder=3, hatch=None if flag else '////')
+        ax.text(v * 1.18, y, fmt_usd(v) + ('（%s）' % basis if basis not in ('合同',) else ''),
+                fontproperties=FP(6.2), color=NAVY, va='center')
+    ax.set_yticks(ys)
+    ax.set_yticklabels(['%s  %s' % (r[0][:7], r[3]) for r in rows])
+    ax.set_xscale('log'); ax.set_xlim(*xlim)
+    ax.set_ylim(-0.7, n - 0.3)
+    ticks = [t for t in (1e6, 1e7, 1e8, 1e9, 1e10) if xlim[0] <= t <= xlim[1]]
+    ax.set_xticks(ticks)
+    ax.set_xticklabels([{1e6: '100万', 1e7: '1000万', 1e8: '1亿', 1e9: '10亿', 1e10: '100亿'}[t] for t in ticks])
+    ax.grid(axis='x', color=PAL['grid'], lw=0.7)
     style(ax)
-    ax.set_ylabel('金额（美元，对数坐标；合同上限/估值）', fontproperties=FP(7), color=GREY)
-    hs = [plt.Line2D([], [], marker='o', ls='', color=c, markersize=6, label=k) for k, c in CATS.items()]
-    hs += [plt.Line2D([], [], marker='o', ls='', mfc='white', mec=NAVY, markersize=6, label='空心＝来源未明示 Lattice'),
-           plt.Line2D([], [], marker='D', ls='', mfc='white', mec=NAVY, markersize=5, label='菱形＝FMS 批准估值')]
-    lg = ax.legend(handles=hs, prop=FP(6), frameon=True, loc='upper left', ncol=2)
-    lg.get_frame().set_facecolor('white'); lg.get_frame().set_alpha(0.85); lg.get_frame().set_edgecolor('#C9C2B0')
+    for lab in ax.get_yticklabels():
+        lab.set_fontproperties(FP(6.6)); lab.set_color(NAVY)
+    hs = [mp.Patch(fc=c, ec=c, label=k) for k, c in cats.items()]
+    hs.append(mp.Patch(fc='white', ec=NAVY, hatch='////', label=lat_label))
+    lg = ax.legend(handles=hs, prop=FP(6.2), frameon=True, loc='upper right')
+    lg.get_frame().set_facecolor('white'); lg.get_frame().set_alpha(0.9); lg.get_frame().set_edgecolor('#C9C2B0')
+    ax.set_xlabel(title_note, fontproperties=FP(6.6), color=GREY)
+    return save(fig, fname)
+
+
+def c_anduril_contracts():
     json.dump([dict(zip(['date', 'ceiling_usd', 'category', 'name', 'lattice_explicit', 'basis'], r)) for r in ANDURIL],
               open(os.path.join(DATA, 'anduril_major_contracts.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-    return save(fig, 'c_anduril_contracts.png')
+    return hbar_contracts(ANDURIL, CATS, 'c_anduril_contracts.png',
+                          '金额（美元，对数坐标）：合同上限/授予额；FMS 为批准估值；陆军企业协议为“合同载体上限”，不承诺支出',
+                          '斜线空心＝来源未明示 Lattice')
+
+
+PCATS = {'Maven / MSS': MAV, '情报与数据平台': PURPLE, 'Maven 生态（标注/集成）': GREEN, '企业协议/其他': GREY}
+# (日期, 金额, 类别, 名称, 是否 Maven 专属, 口径)
+PALANTIR = [
+    ('2016-05-26', 2.22e8, '企业协议/其他', 'SOCOM 全源情报融合', False, '上限'),
+    ('2018-03-09', 8.76e8, '情报与数据平台', 'DCGS-A CD1（与雷神共享）', False, '共享上限'),
+    ('2019-12-01', 4.58e8, '情报与数据平台', '陆军 Vantage 数据平台', False, '上限'),
+    ('2020-02-26', 8.23e8, '情报与数据平台', 'DCGS-A CD2（与 BAE 共享）', False, '共享上限'),
+    ('2020-10-01', 9.12e7, '情报与数据平台', 'ARL AI/ML 研发', False, '合同'),
+    ('2021-05-15', 1.11e8, '企业协议/其他', 'SOCOM 任务指挥平台', False, '合同'),
+    ('2023-06-15', 4.63e8, '企业协议/其他', 'SOCOM 企业能力（含 AI）', False, '上限'),
+    ('2024-03-06', 1.784e8, '情报与数据平台', 'TITAN 地面站原型', False, '合同'),
+    ('2024-05-29', 4.8e8, 'Maven / MSS', 'MSS 原型 IDIQ', True, '上限'),
+    ('2024-07-15', 2.4e7, 'Maven 生态（标注/集成）', 'Scale AI：NGA 标注过渡', True, '合同'),
+    ('2024-09-19', 9.98e7, 'Maven / MSS', 'MSS 扩展至各军种（ARL）', True, '合同'),
+    ('2024-12-18', 6.189e8, '情报与数据平台', 'Vantage 后续', False, '上限'),
+    ('2025-05-20', 7.95e8, 'Maven / MSS', 'MSS 上限追加（至约12.75亿）', True, '追加额'),
+    ('2025-05-21', 2.8e7, 'Maven / MSS', 'NGA 分析员 MSS 许可', True, '合同'),
+    ('2025-06-15', 1.103e8, '企业协议/其他', '太空军云数据服务延期', False, '合同'),
+    ('2025-07-31', 1.0e10, '企业协议/其他', '陆军企业协议 EA', False, '载体上限'),
+    ('2025-11-15', 7.08e8, 'Maven 生态（标注/集成）', 'Enabled Intelligence：SEQUOIA 标注', True, '上限'),
+    ('2025-12-10', 4.48e8, '企业协议/其他', '海军 ShipOS', False, '上限'),
+    ('2026-09-15', 1.27e8, '情报与数据平台', 'TITAN 生产（Palantir 份额）', False, '合同'),
+]
+
+
+def c_palantir_contracts():
+    json.dump([dict(zip(['date', 'value_usd', 'category', 'name', 'maven_specific', 'basis'], r)) for r in PALANTIR],
+              open(os.path.join(DATA, 'maven_palantir_contracts.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    return hbar_contracts(PALANTIR, PCATS, 'c_palantir_contracts.png',
+                          '金额（美元，对数坐标）：上限/授予额；Scale AI 与 Enabled Intelligence 为 NGA Maven 标注合同（非 Palantir）；EA 不承诺支出',
+                          '斜线空心＝非 Maven 专属', xlim=(1e7, 3e10))
+
+
+def c_palantir_revenue():
+    yrs = ['2019', '2020', '2021', '2022', '2023', '2024', '2025', '2026H1']
+    v = [3.44, 6.09, 6.77, 8.263, 9.212, 12.0, 18.55, 14.96]
+    est = [True, True, True, False, False, False, False, False]
+    fig, ax = new(7.4, 3.6)
+    for i, (y_, x, e) in enumerate(zip(yrs, v, est)):
+        ax.bar(i, x, color='white' if e else MAV, edgecolor=MAV, hatch='////' if e else None, width=0.6, zorder=3)
+        ax.text(i, x + 0.35, '%.1f' % x, fontproperties=FPB(6.8), color=NAVY, ha='center')
+    ax.set_xticks(range(len(yrs))); ax.set_xticklabels(yrs)
+    ax.set_ylim(0, 26)
+    ax.set_ylabel('亿美元', fontproperties=FP(7), color=GREY)
+    ax.grid(axis='y', color=PAL['grid'], lw=0.7)
+    style(ax)
+    ev = [(5, 'MSS 原型\nIDIQ'), (6, '上限增至约13亿\n陆军EA·陆战队'), (7, 'Feinberg备忘录\n对伊朗作战')]
+    for i, t in ev:
+        ax.text(i, v[i] + 1.5, t, fontproperties=FP(5.6), color=MAV, ha='center', va='bottom')
+    ax.text(-0.3, 24.6, '斜线：2019—2021 为推算值（2019、2020 为含国际的政府总收入）；其余为公司披露的美国政府收入。',
+            fontproperties=FP(6), color=GREY)
+    return save(fig, 'c_palantir_revenue.png')
 
 
 def c_anduril_funding():
@@ -113,12 +169,14 @@ def c_anduril_funding():
     vals = [r[3] or 0 for r in rounds]
     bars = ax.bar(xs, vals, color=LAT, width=0.58, zorder=3)
     for i, (d, n, raise_, val) in enumerate(rounds):
-        if val:
+        if val and i >= 5:
+            ax.text(i, val - 2.0, '%g' % val, fontproperties=FPB(7), color='white', ha='center', va='top', zorder=5)
+        elif val:
             ax.text(i, val + 1.2, '%g' % val, fontproperties=FPB(7), color=NAVY, ha='center')
         if raise_:
             ax.text(i, -6.2, '融资 %g 亿' % (raise_ * 1 if raise_ >= 1 else raise_), fontproperties=FP(5.8),
                     color=BRASS, ha='center')
-    ax.set_xticks(xs); ax.set_xticklabels(['%s\n%s' % (r[1], r[0]) for r in rounds])
+    ax.set_xticks(xs); ax.set_xticklabels(['%s\n%s' % (r[1], r[0]) for r in rounds]); ax.set_xlim(-0.6, 8.3)
     ax.set_ylim(-9, 72)
     ax.axhline(0, color=GREY, lw=0.7)
     ax.set_ylabel('估值（10 亿美元）', fontproperties=FP(7), color=GREY)
@@ -127,7 +185,7 @@ def c_anduril_funding():
     rx = [5, 6, 7]
     ax2.plot(rx, [r[1] for r in rev], color=ALERT, marker='o', lw=1.6, zorder=4)
     for x, (y_, v) in zip(rx, rev):
-        ax2.text(x - 0.12, v + 0.12, '营收 %s\n约 %g 亿美元' % (y_, v * 10), fontproperties=FP(6), color=ALERT, ha='right')
+        ax2.text(x + 0.33, v - 0.05, '营收 %s\n约 %g 亿美元' % (y_, v * 10), fontproperties=FP(6), color=ALERT, ha='left', va='top')
     ax2.set_ylim(-0.6, 5.0)
     ax2.set_ylabel('营收（10 亿美元，公司口径）', fontproperties=FP(7), color=ALERT)
     for a in (ax, ax2):
@@ -173,5 +231,7 @@ def c_maven_scale():
 
 
 if __name__ == '__main__':
-    for f in (c_anduril_contracts, c_anduril_funding, c_maven_scale):
+    for f in (c_anduril_contracts, c_anduril_funding, c_maven_scale, c_palantir_contracts, c_palantir_revenue):
         print(f())
+    for x in OVERLAP_LOG:
+        print('⚠', *x)

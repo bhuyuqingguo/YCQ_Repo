@@ -1,0 +1,154 @@
+[
+ {
+  "date": "2016-05-26",
+  "value_usd": 222000000.0,
+  "category": "企业协议/其他",
+  "name": "SOCOM 全源情报融合",
+  "maven_specific": false,
+  "basis": "上限"
+ },
+ {
+  "date": "2018-03-09",
+  "value_usd": 876000000.0,
+  "category": "情报与数据平台",
+  "name": "DCGS-A CD1（与雷神共享）",
+  "maven_specific": false,
+  "basis": "共享上限"
+ },
+ {
+  "date": "2019-12-01",
+  "value_usd": 458000000.0,
+  "category": "情报与数据平台",
+  "name": "陆军 Vantage 数据平台",
+  "maven_specific": false,
+  "basis": "上限"
+ },
+ {
+  "date": "2020-02-26",
+  "value_usd": 823000000.0,
+  "category": "情报与数据平台",
+  "name": "DCGS-A CD2（与 BAE 共享）",
+  "maven_specific": false,
+  "basis": "共享上限"
+ },
+ {
+  "date": "2020-10-01",
+  "value_usd": 91200000.0,
+  "category": "情报与数据平台",
+  "name": "ARL AI/ML 研发",
+  "maven_specific": false,
+  "basis": "合同"
+ },
+ {
+  "date": "2021-05-15",
+  "value_usd": 111000000.0,
+  "category": "企业协议/其他",
+  "name": "SOCOM 任务指挥平台",
+  "maven_specific": false,
+  "basis": "合同"
+ },
+ {
+  "date": "2023-06-15",
+  "value_usd": 463000000.0,
+  "category": "企业协议/其他",
+  "name": "SOCOM 企业能力（含 AI）",
+  "maven_specific": false,
+  "basis": "上限"
+ },
+ {
+  "date": "2024-03-06",
+  "value_usd": 178400000.0,
+  "category": "情报与数据平台",
+  "name": "TITAN 地面站原型",
+  "maven_specific": false,
+  "basis": "合同"
+ },
+ {
+  "date": "2024-05-29",
+  "value_usd": 480000000.0,
+  "category": "Maven / MSS",
+  "name": "MSS 原型 IDIQ",
+  "maven_specific": true,
+  "basis": "上限"
+ },
+ {
+  "date": "2024-07-15",
+  "value_usd": 24000000.0,
+  "category": "Maven 生态（标注/集成）",
+  "name": "Scale AI：NGA 标注过渡",
+  "maven_specific": true,
+  "basis": "合同"
+ },
+ {
+  "date": "2024-09-19",
+  "value_usd": 99800000.0,
+  "category": "Maven / MSS",
+  "name": "MSS 扩展至各军种（ARL）",
+  "maven_specific": true,
+  "basis": "合同"
+ },
+ {
+  "date": "2024-12-18",
+  "value_usd": 618900000.0,
+  "category": "情报与数据平台",
+  "name": "Vantage 后续",
+  "maven_specific": false,
+  "basis": "上限"
+ },
+ {
+  "date": "2025-05-20",
+  "value_usd": 795000000.0,
+  "category": "Maven / MSS",
+  "name": "MSS 上限追加（至约12.75亿）",
+  "maven_specific": true,
+  "basis": "追加额"
+ },
+ {
+  "date": "2025-05-21",
+  "value_usd": 28000000.0,
+  "category": "Maven / MSS",
+  "name": "NGA 分析员 MSS 许可",
+  "maven_specific": true,
+  "basis": "合同"
+ },
+ {
+  "date": "2025-06-15",
+  "value_usd": 110300000.0,
+  "category": "企业协议/其他",
+  "name": "太空军云数据服务延期",
+  "maven_specific": false,
+  "basis": "合同"
+ },
+ {
+  "date": "2025-07-31",
+  "value_usd": 10000000000.0,
+  "category": "企业协议/其他",
+  "name": "陆军企业协议 EA",
+  "maven_specific": false,
+  "basis": "载体上限"
+ },
+ {
+  "date": "2025-11-15",
+  "value_usd": 708000000.0,
+  "category": "Maven 生态（标注/集成）",
+  "name": "Enabled Intelligence：SEQUOIA 标注",
+  "maven_specific": true,
+  "basis": "上限"
+ },
+ {
+  "date": "2025-12-10",
+  "value_usd": 448000000.0,
+  "category": "企业协议/其他",
+  "name": "海军 ShipOS",
+  "maven_specific": false,
+  "basis": "上限"
+ },
+ {
+  "date": "2026-09-15",
+  "value_usd": 127000000.0,
+  "category": "情报与数据平台",
+  "name": "TITAN 生产（Palantir 份额）",
+  "maven_specific": false,
+  "basis": "合同"
+ }
+]

@@ -38,11 +38,13 @@ def box(ax, x, y, w, h, text='', fc='white', ec=NAVY, size=7.5, bold=False, colo
     p = FancyBboxPatch((x, y), w, h, boxstyle='round,pad=0,rounding_size=%s' % r, fc=fc, ec=ec, lw=lw,
                        ls=ls, alpha=alpha, zorder=z)
     ax.add_patch(p)
+    t = None
     if text:
         tx = x + w / 2 if ha == 'center' else (x + pad if ha == 'left' else x + w - pad)
         ty = y + h / 2 if va == 'center' else (y + h - pad if va == 'top' else y + pad)
-        ax.text(tx, ty, text, fontproperties=(FPB(size) if bold else FP(size)), color=color or NAVY,
-                ha=ha, va=va, zorder=z + 1, linespacing=1.35)
+        t = ax.text(tx, ty, text, fontproperties=(FPB(size) if bold else FP(size)), color=color or NAVY,
+                    ha=ha, va=va, zorder=z + 1, linespacing=1.35)
+        t._xg_box = p
     return p
 
 
@@ -64,7 +66,56 @@ def tag(ax, x, y, s, color=ALERT, size=6.5):
             bbox=dict(boxstyle='round,pad=0.25', fc=color, ec='none'))
 
 
+OVERLAP_LOG = []
+
+
+def check_overlap(fig, name, tol=1.0):
+    """排版质检：文字与文字互相遮挡、文字溢出所在方框、文字超出画布，均记录告警。"""
+    fig.canvas.draw()
+    r = fig.canvas.get_renderer()
+    items = []
+    for ax in fig.axes:
+        ticks = []
+        if ax.axison:
+            for axis in (ax.xaxis, ax.yaxis):
+                for tk in axis.get_major_ticks():
+                    for lab in (tk.label1, tk.label2):
+                        if tk.get_visible() and lab.get_visible() and lab.get_text():
+                            ticks.append(lab)
+        for t in ax.texts + ticks:
+            if not t.get_visible() or not t.get_text().strip():
+                continue
+            items.append((t, t.get_window_extent(r)))
+        for t in ax.texts:
+            bp = getattr(t, '_xg_box', None)
+            if bp is not None:
+                bb, pb = t.get_window_extent(r), bp.get_window_extent(r)
+                if bb.x0 < pb.x0 - tol or bb.x1 > pb.x1 + tol or bb.y0 < pb.y0 - tol or bb.y1 > pb.y1 + tol:
+                    OVERLAP_LOG.append((name, '溢出方框', t.get_text()[:24]))
+    for t in fig.texts:
+        items.append((t, t.get_window_extent(r)))
+    for ax in fig.axes:
+        ps = [q for q in ax.patches if isinstance(q, FancyBboxPatch) and q.get_visible()]
+        bbs = [q.get_window_extent(r) for q in ps]
+        for i in range(len(ps)):
+            for j in range(i + 1, len(ps)):
+                a, b = bbs[i], bbs[j]
+                inter = a.x0 < b.x1 - tol and b.x0 < a.x1 - tol and a.y0 < b.y1 - tol and b.y0 < a.y1 - tol
+                contain = (a.x0 <= b.x0 + tol and a.x1 >= b.x1 - tol and a.y0 <= b.y0 + tol and a.y1 >= b.y1 - tol) or \
+                          (b.x0 <= a.x0 + tol and b.x1 >= a.x1 - tol and b.y0 <= a.y0 + tol and b.y1 >= a.y1 - tol)
+                if inter and not contain and not getattr(ps[i], '_xg_free', False) and not getattr(ps[j], '_xg_free', False):
+                    OVERLAP_LOG.append((name, '方框互压', '%d⟂%d' % (i, j)))
+    for i in range(len(items)):
+        for j in range(i + 1, len(items)):
+            a, b = items[i][1], items[j][1]
+            if items[i][0].get_text() == items[j][0].get_text() and abs(a.x0 - b.x0) < 1 and abs(a.y0 - b.y0) < 1:
+                continue
+            if a.x0 < b.x1 - tol and b.x0 < a.x1 - tol and a.y0 < b.y1 - tol and b.y0 < a.y1 - tol:
+                OVERLAP_LOG.append((name, '文字互压', items[i][0].get_text()[:20] + ' ⟂ ' + items[j][0].get_text()[:20]))
+
+
 def save(fig, name):
+    check_overlap(fig, name)
     p = os.path.join(FIGDIR, name)
     fig.savefig(p, facecolor=CREAM, bbox_inches='tight', pad_inches=0.06, dpi=200)
     plt.close(fig)
