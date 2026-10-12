@@ -1,7 +1,7 @@
 # 三、装备与节点图谱：接入两系统的“传感器—射手”家族
 
 :::lead
-Lattice 一侧几乎全为 Anduril 自研或收购的硬件，软硬同源；MSS 没有自有硬件，节点是卫星、无人机视频、信号情报和存量打击平台。数据截至 2026 年 10 月。
+Lattice 一侧几乎全为 Anduril 自研或收购的硬件，软硬同源；MSS 没有自有硬件，节点是卫星、无人机视频、信号情报与存量打击平台。截至 2026 年 10 月。
 :::
 
 本章把“接入 Lattice”分为三级：合同或官方材料明确写到的记为确认，架构上基于 Lattice 但来源未点名的记为推定，只见于套件清单的记为未确认。公开确认的有 Sentry 塔、Wisp、Pulsar、Anvil、ALTIUS-600/600M、Ghost-X、YFQ-44A 及 IBCS-M 下的第三方雷达和效应器；Ghost Shark、Barracuda 和 Roadrunner 的集成方式没有公开来源[@la_andurilnews_lattice,la_ds_ibcsm]。合同金额区分上限、已拨付和军售批准估值，不能相加。
@@ -17,7 +17,7 @@ CBP 于 2020 年把自主监视塔（AST）列为正式采购项目，计划总�
 
 Sentry 与 Lattice 进入美军演训的时间早于反无人机大合同。2020 年 1 月，Anduril 人员在加州二十九棕榈镇演习中协助部队组装 Sentry 哨塔；同年 9 月空军“先进作战管理系统”（ABMS）第二次“上匝道”演示中，人员在安德鲁斯联合基地监控运行 Lattice 的计算机，10 月演示中操作员确认巡航导弹替代目标后向效应器下达交战指令[@la_dn_cruise]。
 
-!photo cuas_fire_control_dvids|Anduril 人员在二十九棕榈镇协助组装 Sentry 哨塔（2020 年 1 月）|U.S. Army（DVIDS），美国政府作品
+!photo cuas_fire_control_dvids|Anduril 人员在二十九棕榈镇协助组装 Sentry（2020 年 1 月）|U.S. Army（DVIDS），美国政府作品
 !photo lattice_abms_onramp2_crop|ABMS“上匝道”演示中运行 Lattice 的屏幕（2020 年 9 月）|U.S. Air Force photo by Senior Airman Daniel Hernandez，美国政府作品
 
 此后 Sentry 转向基地防护。英国 TALOS 基地防御试验 2021 年以 380 万英镑起步，2023 年 11 月第三阶段 1,700 万英镑；2025 年 10 月北方司令部“猎鹰峰 25.2”演示中，机动型 Sentry 与 Wisp、Pulsar 协同探测，交 Anvil 拦截，整套设备随后交付北方司令部[@la_ius_falconpeak]。华盛顿州国民警卫队第 10 民事支援队 2026 年列装的 Anduril 反无人机系统同样包括摄像塔、Wisp、Pulsar 与 Lattice，Wisp 已进入国民警卫队一级的本土防护部队[@gp_dvids_wang]。
@@ -46,9 +46,9 @@ Ghost 是早期直升机式侦察无人机，2022 年约 40 架援乌，据《�
 
 2023 年 EDGE23 演习中，士兵用 Lattice for Mission Autonomy 把地空导弹阵地定为敌对并授权 ALTIUS-600M 打击，系统随即自动改派侦察型做毁伤评估，这是“人做决策、机器做调度”最完整的公开记录[@la_blog_edge23]。合同主要在美国以外：2024 年 6 月美方批准对台出售最多 291 套 ALTIUS 600M-V，估值 3 亿美元；2026 年 8 月据报台湾再采购 1,554 套 700M 和 478 套 600ISR[@la_dsca_taiwan]。
 
-ALTIUS 是负面记录最多的一型：乌克兰安全局 2024 年停用，埃格林一架投放后坠地，2025 年 11 月空军测试又坠毁两架[@la_tc_wsj,co_bnn_crashes]。问题出在平台、导航和数据链，恰处于 Lattice 宣传的“边缘自主、抗干扰”环节。Bolt-M 是单兵便携巡飞弹，2024 年 10 月前后公开，参数、正式合同及与 Lattice 的关系均未检索到[@gp_twz_boltm]。陆军“无人机主导权”计划拟两年内采购约 34 万架小型攻击无人机，单价降至约 2,300 美元，对其成本结构构成压力。
+ALTIUS 是负面记录最多的一型：乌克兰安全局 2024 年停用，埃格林一架投放后坠地，2025 年 11 月空军测试又坠毁两架[@co_bnn_crashes]。问题出在平台、导航和数据链，恰处于 Lattice 宣传的“边缘自主、抗干扰”环节。Bolt-M 是单兵便携巡飞弹，2024 年 10 月前后公开，参数、正式合同及与 Lattice 的关系均未检索到[@gp_twz_boltm]。陆军“无人机主导权”计划拟两年内采购约 34 万架小型攻击无人机，单价降至约 2,300 美元，对其成本结构构成压力。
 
-!photo bolt_m_press|Anduril Bolt-M 单兵便携巡飞弹（公司图，2024 年 10 月前后）|Anduril Industries，公司图片，仅作评论引用
+!photo bolt_m_press|Anduril Bolt-M 单兵巡飞弹（公司图，2024 年 10 月前后）|Anduril Industries，公司图片，仅作评论引用
 
 ## （四）协同作战飞机：YFQ-44A“狂怒”与 YFQ-42A
 
@@ -120,7 +120,7 @@ TITAN 地面站|情报到目标节点|—|生产 1.92 亿美元[@co_bd_2609_tita
 Lattice 一侧，确认接入的节点集中在传感器、近程拦截器和指挥计算设备，远程打击、水下和大型空中平台多为未确认或仅有演示，硬件扩张快于软件接入的公开证据。MSS 一侧，节点全是政府既有资产或第三方模型，Palantir 控制的是把它们组织成目标流程的数据与工作流层。
 
 :::judge 研判要点
-- 确认接入 Lattice 的节点集中在反无人机与基地防护，Roadrunner、Barracuda、Ghost Shark 尚无集成证据。
+- 确认接入 Lattice 的节点集中在反无人机与基地防护，Roadrunner、Barracuda 等尚无集成证据。
 - 反无人机领域，Lattice 正转为多厂商火控总线，决定其地位的是接入能力而非单一拦截器性能。
 - 负面记录集中在飞行与水面平台：ALTIUS 坠毁停用、Ghost 受干扰、无人艇失灵，恰在“边缘自主”环节。
 - 空军以 A-GRA 保持 CCA 软件可替换，Anduril 拥有 YFQ-44A 机体不保证 LMA 独占。
