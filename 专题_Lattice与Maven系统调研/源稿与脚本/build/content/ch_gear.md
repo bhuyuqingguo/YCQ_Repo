@@ -20,11 +20,11 @@ Sentry 与 Lattice 进入美军演训的时间早于反无人机大合同。2020
 !photo cuas_fire_control_dvids|Anduril 人员在二十九棕榈镇演习中协助组装 Sentry 哨塔（2020 年 1 月）|U.S. Army（DVIDS），美国政府作品
 !photo lattice_abms_onramp2_crop|ABMS 第二次“上匝道”演示中运行 Lattice 的屏幕（2020 年 9 月，裁切）|U.S. Air Force photo by Senior Airman Daniel Hernandez，美国政府作品
 
-此后 Sentry 转向基地防护：英国 TALOS 基地防御试验 2021 年以 380 万英镑起步，2023 年 11 月第三阶段 1,700 万英镑[@la_gov_uk_17m]；2025 年 10 月北方司令部“猎鹰峰 25.2”演示中，机动型 Sentry 与 Wisp、Pulsar 协同探测，交 Anvil 拦截[@la_ius_falconpeak]。雷达主要靠收购补齐，2025 年 1 月宣布收购 Numerica 雷达与指挥控制业务[@la_builtin_what]。太空域，2024 年 11 月太空系统司令部授予约 9,970 万美元太空监视网（SSN）现代化合同，以 Lattice 连接地面监视传感器，要求 2026 年底部署[@la_ds_ssn]。
+此后 Sentry 转向基地防护：英国 TALOS 基地防御试验 2021 年以 380 万英镑起步，2023 年 11 月第三阶段 1,700 万英镑[@la_gov_uk_17m]；2025 年 10 月北方司令部“猎鹰峰 25.2”演示中，机动型 Sentry 与 Wisp、Pulsar 协同探测，交 Anvil 拦截，整套设备随后交付北方司令部[@la_ius_falconpeak]。华盛顿州国民警卫队第 10 民事支援队 2026 年列装的 Anduril 反无人机系统同样包括摄像塔、Wisp、Pulsar 与 Lattice，Wisp 已进入国民警卫队一级的本土防护部队[@gp_dvids_wang]。雷达主要靠收购补齐，2025 年 1 月宣布收购 Numerica 雷达与指挥控制业务[@la_builtin_what]。太空域，2024 年 11 月太空系统司令部授予约 9,970 万美元太空监视网（SSN）现代化合同，以 Lattice 连接地面监视传感器，要求 2026 年底部署[@la_ds_ssn]。
 
 ## （二）反无人机效应器与火控
 
-反无人机是 Lattice 合同规模最大的领域。SOCOM 2022 年系统集成伙伴合同上限 967,599,957 美元，配套 Sentry、Anvil、Pulsar 和 FoxHound[@la_wt_socom]。Anvil 是动能拦截无人机，陆战队地基防空项目办公室记录其可自主跟踪目标，但只在人工下令后拦截[@la_marines_gbad]；陆战队 I-CsUAS 为 10 年期 IDIQ，上限 6.42 亿美元，内容为 Lattice 加 Anvil 和 Pulsar[@la_ds_icsuas]。Pulsar 是电磁战系统，2025 年 4 月推出轻量化 Pulsar-L[@gp_anduril_pulsarl]。陆战队 MADIS 车载防空系统以 JLTV 为底盘，2024 年 11 月 Anduril 获约 2 亿美元合同承包其反无人机交战系统，来源未点名 Lattice，按推定处理[@la_ius_madis]。
+反无人机是 Lattice 合同规模最大的领域。SOCOM 2022 年系统集成伙伴合同上限 967,599,957 美元，配套 Sentry、Anvil、Pulsar 和 FoxHound[@la_wt_socom]。Anvil 是动能拦截无人机，陆战队地基防空项目办公室记录其可自主跟踪目标，但只在人工下令后拦截，这是目前对其交战规则最权威的记录[@la_marines_gbad]。在 Lattice 中，Anvil 属“可受领任务的代理”，通过 task_catalog 声明拦截能力，受领任务后依次回报确认、执行和结果状态[@la_sdk_task_catalog]。陆战队 I-CsUAS 为 10 年期 IDIQ，上限 6.42 亿美元，内容为 Lattice 加 Anvil 和 Pulsar[@la_ds_icsuas]。Pulsar 是电磁战系统，2025 年 4 月推出轻量化 Pulsar-L[@gp_anduril_pulsarl]。陆战队 MADIS 车载防空系统以 JLTV 为底盘，2024 年 11 月 Anduril 获约 2 亿美元合同承包其反无人机交战系统，来源未点名 Lattice，按推定处理[@la_ius_madis]。
 
 !photo pulsar_press|Anduril Pulsar 电磁战系统（公司图，2024 年 5 月）|Anduril Industries，公司图片，仅作评论引用
 !photo madis_mk1|陆战队 MADIS Mk1（JLTV 底盘）在测试中（2023 年 9 月）|PEO Land Systems（经 DVIDS），Public Domain Mark 1.0
@@ -53,7 +53,7 @@ YFQ-44A 源自 Anduril 2023 年 9 月收购的 Blue Force Technologies Fury。20
 !photo yfq44_ground_test|YFQ-44A 生产代表型在科斯塔梅萨测试舱内地面试验（2025 年 5 月）|U.S. Air Force（DVIDS），美国政府作品
 !photo yfq44_paris2025|2025 年 6 月巴黎航展上展出的 YFQ-44“狂怒”|Artvill（Wikimedia Commons），CC BY 4.0
 
-YFQ-44A 的机体与武器属效应器，机载 LMA 属 Lattice 应用层。同一次飞行中，Fury 先后运行 Shield AI 的 Hivemind 和 LMA，经“政府参考自主架构”（A-GRA）切换[@la_aviationist_hivemind]。LMA 地位存在口径冲突：一说空军 2026 年 6 月为下一阶段选定 LMA；一说 Lattice 与多家同在自主软件池竞争至 2027 年[@la_die_cca,la_simpleflying]。空军以 A-GRA 保持软件可替换，Anduril 拥有机体不等于软件独占。通用原子 YFQ-42A 于 2025 年 8 月 27 日试飞，Lattice 在该机上没有公开角色[@gp_dvids_yfq42]。CCA 合同金额、产量和单价均未披露；据《华尔街日报》报道，一台 Fury 发动机在地面测试中受损[@la_sherwood_wsj]。
+YFQ-44A 的机体与武器属效应器，机载 LMA 属 Lattice 应用层。同一次飞行中，Fury 先后运行 Shield AI 的 Hivemind 和 LMA，经“政府参考自主架构”（A-GRA）切换[@la_aviationist_hivemind]；该机已完成以惰性 AIM-120 对模拟目标的端到端超视距打击。LMA 地位存在口径冲突：一说空军 2026 年 6 月为下一阶段选定 LMA；一说 Lattice 与多家同在自主软件池竞争至 2027 年[@la_die_cca,la_simpleflying]。空军以 A-GRA 保持软件可替换，Anduril 拥有机体不等于软件独占。通用原子 YFQ-42A 于 2025 年 8 月 27 日试飞，Lattice 在该机上没有公开角色[@gp_dvids_yfq42]；空军部长米因克 2026 年 9 月把目标提高到 2032 年前至少 500 架 CCA（二手来源）。CCA 合同金额、产量和单价均未披露；据《华尔街日报》报道，一台 Fury 发动机在地面测试中受损[@la_sherwood_wsj]。
 
 !photo yfq42_cca_dvids|通用原子 YFQ-42A 试飞（2025 年 8 月 27 日），作对比参照|U.S. Air Force（DVIDS），美国政府作品
 
@@ -74,7 +74,9 @@ Barracuda 是低成本巡航导弹系列，地面发射型 Barracuda-500M 采用
 
 ## （七）边缘计算与指挥节点
 
-Lattice Mesh 运行在 Menace 系列硬件上。2025 年 5 月 Anduril 签约收购 Klas，同月发布基于其 Voyager 坚固边缘计算硬件的两箱式 C4 套件 Menace-T，单人几分钟可架设，可承载第三方边缘 AI 软件[@la_tc_menace]。Menace 同时是 Palantir 边缘软件的首选硬件，是目前唯一同时承载两家软件的实物节点[@la_dc_menace]。
+Lattice Mesh 运行在 Menace 系列硬件上。2025 年 5 月 Anduril 签约收购 Klas，同月发布基于其 Voyager 坚固边缘计算硬件的两箱式 C4 套件 Menace-T，单人几分钟可架设，可承载第三方边缘 AI 软件[@la_tc_menace]。Menace 同时是 Palantir 边缘软件的首选硬件：2024 年 12 月两家宣布合作时，设想由 Lattice 和 Menace 采集战场边缘数据，再送入 Palantir AIP 准备训练数据，覆盖至 SCI/SAP 密级[@la_bw_palantir]。**我部研判，Menace 是目前唯一同时承载两家软件的实物节点，两家分工在这一层已固化为硬件配套关系。**
+
+接入规则由 SDK 定义：传感器厂商做“生产者”，应用开发者做“消费者”，无人平台和武器厂商做“代理”[@la_sdk_ref]。2024 年 12 月 SDK 公开发布时，首批合作伙伴包括 Numerica、Oracle、Saronic、Scale AI、Textron Systems 等十余家，覆盖地面、水面、太空和数据服务[@la_dd_sdk]。
 
 陆军下一代指挥控制（NGC2）把计算节点装上多型机械化车辆。2025 年 9 月“常春藤之刺 1”实弹演习中，第 4 步兵师的目标处理流程从师部到炮位运行在 Lattice Mesh 和 Palantir Target Workbench 上，运行于 Lattice Mesh 的 AXS 炮兵数据工具用于 M777 射击[@la_bd_ivysting1]。按公司口径，2026 年 5 月全师上线，接入 2,500 多台士兵终端[@la_milleak_ivymass]；10 月陆军以上限 18 亿美元合同把 NGC2 推向第 1 军[@la_ds_icorps]。陆军首席技术官 2025 年 9 月备忘录称原型属“极高风险”，一个应用有 25 个高危漏洞，陆军随后称关键缺陷已缓解[@la_reuters_memo]。单兵一端，2025 年 9 月 Anduril 与 Meta 合作的 EagleEye 头显获 1.59 亿美元 SBMC 原型合同，其数据架构建立在 Lattice 之上[@la_uploadvr]。
 
@@ -82,7 +84,7 @@ Lattice Mesh 运行在 Menace 系列硬件上。2025 年 5 月 Anduril 签约收
 
 MSS 的节点分三部分：上游的传感器与情报数据源，中游的模型流水线，下游的打击与火控平台，均不属于 Palantir[@mv_csis]。2017 年 12 月，首个算法部署中东，识别 ScanEagle 无人机视频中的物体，从立项到上线约 8 个月，ScanEagle 本身未做改装[@mv_nextgov_2017]。中央司令部 2024 年的 MSS 部署接入 179 个数据源，包括国家侦察卫星、商业雷达卫星和信号情报[@mv_csis]；GEOINT 模型上游是 NGA Maven 流水线，SEQUOIA 标注合同上限 7.08 亿美元[@mv_bd_sequoia]。数据源也是最大风险：2026 年 2 月 28 日伊朗 Minab 学校遇袭，据彭博社引述内部调查，该地点在旧数据库中仍标为革命卫队设施，被 Maven 列为“第一天推荐目标”[@mv_bloomberg_minab]。
 
-下游方面，2024 年 2 月对伊拉克、叙利亚的报复性打击中，B-1B 由戴斯空军基地出击，中央司令部称 Maven 参与 85 次以上打击，每一步以人工验证结束[@mv_register_2024]。MSS 不直接控制武器，排序后的目标交由 AFATDS 等火力支援系统解算[@mv_battlepolicy]。两系统在实物层面的交汇有三处：Menace 边缘硬件；“常春藤之刺 1”中 AXS 与 Target Workbench；陆军 TITAN 地面站，2026 年 9 月生产合同合计 1.92 亿美元，其中 Palantir 1.27 亿美元、Anduril 6,500 万美元[@co_bd_2609_titan]。
+下游方面，2024 年 2 月对伊拉克、叙利亚的报复性打击中，B-1B 由戴斯空军基地出击，中央司令部称 Maven 参与 85 次以上打击，每一步以人工验证结束[@mv_register_2024]。2026 年“史诗怒火”行动中，CDAO 称 38 天内打击约 13,000 个目标，该数字统计的是被打击目标而非 Maven 识别量，公开资料也没有把任何具体架次与 Maven 的某一输出对应[@mv_ds_mazol]。MSS 不直接控制武器，排序后的目标交由 AFATDS 等火力支援系统解算；陆战队 2025 年把 MSS 定为跨作战司令部的标准火力与效果集成平台[@mv_ds_maradmin]。两系统在实物层面的交汇有三处：Menace 边缘硬件；“常春藤之刺 1”中 AXS 与 Target Workbench；陆军 TITAN 地面站，2026 年 9 月生产合同合计 1.92 亿美元，其中 Palantir 1.27 亿美元、Anduril 6,500 万美元[@co_bd_2609_titan]。
 
 ## （九）装备—角色—体系位置—合同总表
 
