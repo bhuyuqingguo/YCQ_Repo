@@ -1,0 +1,1378 @@
+{
+ "mv_work_memo": {
+  "author": "Robert O. Work（U.S. DoD）",
+  "title": "Establishment of an Algorithmic Warfare Cross-Functional Team (Project Maven)",
+  "title_cn": "成立算法战跨职能小组（Project Maven）备忘录",
+  "publisher": "National Security Archive（扫描件）",
+  "date": "2017-04-26",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/4164306/Department-of-Defense-Establishment-of.pdf"
+ },
+ "mv_wiki_maven": {
+  "author": "Wikipedia",
+  "title": "Project Maven",
+  "title_cn": "Project Maven 词条",
+  "publisher": "Wikipedia",
+  "date": "2026",
+  "url": "https://en.wikipedia.org/wiki/Project_Maven"
+ },
+ "mv_globalsec": {
+  "author": "GlobalSecurity.org",
+  "title": "Project Maven / Maven Smart System",
+  "title_cn": "Project Maven / Maven 智能系统",
+  "publisher": "GlobalSecurity.org",
+  "date": "2026",
+  "url": "https://www.globalsecurity.org/intell/systems/maven.htm"
+ },
+ "mv_trajectory": {
+  "author": "Trajectory Magazine",
+  "title": "Operationalizing Project Maven",
+  "title_cn": "Project Maven 的实战化",
+  "publisher": "Trajectory Magazine（USGIF）",
+  "date": "2018",
+  "url": "https://trajectorymagazine.com/?p=2565"
+ },
+ "mv_techsparx": {
+  "author": "TechSparx",
+  "title": "Project Maven",
+  "title_cn": "Project Maven：年底前部署算法",
+  "publisher": "TechSparx",
+  "date": "2017-07",
+  "url": "https://techsparx.com/blog/2017/07/project-maven.html"
+ },
+ "mv_nextgov_2017": {
+  "author": "Nextgov",
+  "title": "The Pentagon's New Artificial Intelligence Is Already Hunting Terrorists",
+  "title_cn": "五角大楼的新 AI 已在追捕恐怖分子",
+  "publisher": "Nextgov",
+  "date": "2017-12",
+  "url": "https://www.nextgov.com/artificial-intelligence/2017/12/pentagons-new-artificial-intelligence-already-hunting-terrorists/144769/"
+ },
+ "mv_bd_2018_africa": {
+  "author": "Breaking Defense",
+  "title": "Pentagon's Big AI Program, Maven, Already Hunts Data in Middle East, Africa",
+  "title_cn": "五角大楼 AI 大项目 Maven 已在中东、非洲搜寻数据",
+  "publisher": "Breaking Defense",
+  "date": "2018-05",
+  "url": "https://breakingdefense.com/2018/05/pentagons-big-ai-program-maven-already-hunts-data-in-middle-east-africa/"
+ },
+ "mv_bulletin_2017": {
+  "author": "Bulletin of the Atomic Scientists",
+  "title": "Project Maven brings AI to the fight against ISIS",
+  "title_cn": "Project Maven 把 AI 带入对 ISIS 的战斗",
+  "publisher": "Bulletin of the Atomic Scientists",
+  "date": "2017-12",
+  "url": "https://thebulletin.org/2017/12/project-maven-brings-ai-to-the-fight-against-isis/"
+ },
+ "mv_gizmodo_google": {
+  "author": "Gizmodo",
+  "title": "The Pentagon's Controversial Drone AI Imaging Project Extends Beyond Google",
+  "title_cn": "五角大楼有争议的无人机 AI 图像项目不止谷歌",
+  "publisher": "Gizmodo",
+  "date": "2018",
+  "url": "https://gizmodo.com/the-pentagons-controversial-drone-ai-imaging-project-ex-1826046321"
+ },
+ "mv_gizmodo_au_resign": {
+  "author": "Gizmodo",
+  "title": "Google Employees Resign in Protest Against Pentagon Contract",
+  "title_cn": "谷歌员工辞职抗议五角大楼合同",
+  "publisher": "Gizmodo Australia",
+  "date": "2018-05",
+  "url": "https://www.gizmodo.com.au/2018/05/google-employees-resign-in-protest-against-pentagon-contract/"
+ },
+ "mv_collective": {
+  "author": "Collective Action in Tech",
+  "title": "Google Maven Conscientious Objectors",
+  "title_cn": "谷歌 Maven 良心拒服者",
+  "publisher": "collectiveaction.tech",
+  "date": "2018",
+  "url": "https://collectiveaction.tech/?p=964"
+ },
+ "mv_nbc_google": {
+  "author": "NBC News",
+  "title": "Google to halt controversial project aiding Pentagon drones",
+  "title_cn": "谷歌将停止协助五角大楼无人机的争议项目",
+  "publisher": "NBC News",
+  "date": "2018-06",
+  "url": "https://www.nbcnews.com/news/military/google-halt-controversial-project-aiding-pentagon-drones-n879471"
+ },
+ "mv_fortune_2018": {
+  "author": "Fortune",
+  "title": "Google Pentagon drone deal protests",
+  "title_cn": "谷歌五角大楼无人机合同抗议",
+  "publisher": "Fortune",
+  "date": "2018-06-02",
+  "url": "https://fortune.com/2018/06/02/google-pentagon-drone-deal-protests"
+ },
+ "mv_bloomberg_2018": {
+  "author": "Bloomberg",
+  "title": "Google Staff AI Revolt Puts Pentagon Cloud Deals in Jeopardy",
+  "title_cn": "谷歌员工 AI 反抗危及五角大楼云合同",
+  "publisher": "Bloomberg",
+  "date": "2018-06-04",
+  "url": "https://www.bloomberg.com/news/articles/2018-06-04/google-staff-ai-revolt-puts-pentagon-cloud-deals-in-jeopardy"
+ },
+ "mv_intercept_emails": {
+  "author": "The Intercept",
+  "title": "Google leaked emails: drone AI Pentagon contract lucrative",
+  "title_cn": "谷歌泄露邮件显示无人机 AI 合同获利丰厚",
+  "publisher": "The Intercept",
+  "date": "2018-05-31",
+  "url": "https://theintercept.com/2018/05/31/google-leaked-emails-drone-ai-pentagon-lucrative/"
+ },
+ "mv_itpro": {
+  "author": "ITPro",
+  "title": "Amazon, Microsoft and Google: Project Maven DoD contracts",
+  "title_cn": "亚马逊、微软与谷歌的 Project Maven 国防合同",
+  "publisher": "ITPro",
+  "date": "2021",
+  "url": "https://itpro.com/business-strategy/public-sector/360824/amazon-microsoft-google-project-maven-dod-contracts"
+ },
+ "mv_poulson_budget": {
+  "author": "Jack Poulson（Tech Inquiry）",
+  "title": "Budget confirms Tech Inquiry's reporting",
+  "title_cn": "预算证实 Tech Inquiry 的报道",
+  "publisher": "Substack",
+  "date": "2021",
+  "url": "https://jackpoulson.substack.com/p/budget-confirms-tech-inquirys-reporting"
+ },
+ "mv_poulson_pavement": {
+  "author": "Jack Poulson（Tech Inquiry）",
+  "title": "$142 million AI drone warfare contract erased",
+  "title_cn": "1.42 亿美元 AI 无人机战争合同被抹除",
+  "publisher": "Substack",
+  "date": "",
+  "url": "https://jackpoulson.substack.com/p/142-million-ai-drone-warfare-contract"
+ },
+ "mv_poulson_erasure": {
+  "author": "Jack Poulson（Tech Inquiry）",
+  "title": "Pentagon confirms erasure of Project Maven contract records",
+  "title_cn": "五角大楼确认删除 Project Maven 合同记录",
+  "publisher": "Substack",
+  "date": "",
+  "url": "https://jackpoulson.substack.com/p/pentagon-confirms-erasure-of-project"
+ },
+ "mv_poulson_solesource": {
+  "author": "Jack Poulson（Tech Inquiry）",
+  "title": "Pentagon certified Palantir as only supplier",
+  "title_cn": "五角大楼认证 Palantir 为唯一供应商",
+  "publisher": "Substack",
+  "date": "",
+  "url": "https://jackpoulson.substack.com/p/pentagon-certified-palantir-as-only"
+ },
+ "mv_forbes_2021": {
+  "author": "Thomas Brewster（Forbes）",
+  "title": "Project Maven: Amazon and Microsoft get $50 million in Pentagon drone surveillance contracts after Google",
+  "title_cn": "谷歌之后，亚马逊和微软获 5,000 万美元五角大楼无人机监视合同",
+  "publisher": "Forbes",
+  "date": "2021-09-08",
+  "url": "https://www.forbes.com/sites/thomasbrewster/2021/09/08/project-maven-amazon-and-microsoft-get-50-million-in-pentagon-drone-surveillance-contracts-after-google/"
+ },
+ "mv_forbes_startups": {
+  "author": "Thomas Brewster（Forbes）",
+  "title": "Project Maven startups backed by Google, Peter Thiel, Eric Schmidt and James Murdoch are building AI and facial recognition surveillance tools for the Defense Department",
+  "title_cn": "Project Maven 初创公司为国防部打造 AI 与人脸识别监视工具",
+  "publisher": "Forbes",
+  "date": "2021-09-08",
+  "url": "https://www.forbes.com/sites/thomasbrewster/2021/09/08/project-maven-startups-backed-by-google-peter-thiel-eric-schmidt-and-james-murdoch-are-building-ai-and-facial-recognition-surveillance-tools-for-the-defense-department/"
+ },
+ "mv_fedsavvy": {
+  "author": "FedSavvy Strategies",
+  "title": "Competitor Highlights: ECS Federal",
+  "title_cn": "竞争者要览：ECS Federal",
+  "publisher": "FedSavvy Strategies",
+  "date": "",
+  "url": "https://www.fedsavvystrategies.com/competitor-highlights-ecs-federal/"
+ },
+ "mv_execbiz_ecs": {
+  "author": "ExecutiveBiz",
+  "title": "ECS' John Heneghan on NGA Maven program",
+  "title_cn": "ECS 的约翰·赫内汉谈 NGA Maven 项目",
+  "publisher": "ExecutiveBiz",
+  "date": "",
+  "url": "https://www.executivebiz.com/articles/ecs-john-heneghan-nga-maven-program"
+ },
+ "mv_bd_supplychain_2023": {
+  "author": "Breaking Defense",
+  "title": "NGA wants to assess AI/ML supply chain risks for Project Maven",
+  "title_cn": "NGA 拟评估 Project Maven 的 AI/ML 供应链风险",
+  "publisher": "Breaking Defense",
+  "date": "2023-04",
+  "url": "https://breakingdefense.com/2023/04/nga-wants-to-asses-ai-ml-supply-chain-risks-for-project-maven/"
+ },
+ "mv_insidedefense_fy18": {
+  "author": "Inside Defense",
+  "title": "Project Maven FY2018 appropriations",
+  "title_cn": "Project Maven 2018 财年拨款",
+  "publisher": "Inside Defense",
+  "date": "2018",
+  "url": "https://insidedefense.com/node/194699"
+ },
+ "mv_ds_2024_03": {
+  "author": "DefenseScoop",
+  "title": "Project Maven fiscal 2025 budget still evolving",
+  "title_cn": "Project Maven 2025 财年预算仍在调整",
+  "publisher": "DefenseScoop",
+  "date": "2024-03-14",
+  "url": "https://defensescoop.com/2024/03/14/project-maven-fiscal-2025-budget-still-evolving/"
+ },
+ "mv_dd_ndaa": {
+  "author": "Defense Daily",
+  "title": "NDAA conference bill authorizes $250 million for Project Maven",
+  "title_cn": "国防授权法案协调版授权 Project Maven 2.5 亿美元",
+  "publisher": "Defense Daily",
+  "date": "2020",
+  "url": "https://defensedaily.com/ndaa-conference-bill-authorizes-250-million-project-maven/advanced-transformational-technology"
+ },
+ "mv_bd_2022_nga": {
+  "author": "Breaking Defense",
+  "title": "Pentagon's flagship AI effort, Project Maven, moves to NGA",
+  "title_cn": "五角大楼旗舰 AI 项目 Maven 移交 NGA",
+  "publisher": "Breaking Defense",
+  "date": "2022-04",
+  "url": "https://breakingdefense.com/2022/04/pentagons-flagship-ai-effort-project-maven-moves-to-nga/"
+ },
+ "mv_c4isr_2022": {
+  "author": "C4ISRNet",
+  "title": "Intelligence agency takes over Project Maven, the Pentagon's signature AI scheme",
+  "title_cn": "情报机构接管五角大楼标志性 AI 项目 Maven",
+  "publisher": "C4ISRNet",
+  "date": "2022-04-27",
+  "url": "https://www.c4isrnet.com/intel-geoint/2022/04/27/intelligence-agency-takes-over-project-maven-the-pentagons-signature-ai-scheme/"
+ },
+ "mv_ds_2022_cr": {
+  "author": "DefenseScoop",
+  "title": "Pentagon remains mum on Project Maven as transition is held up by continuing resolution",
+  "title_cn": "持续决议案拖延移交，五角大楼对 Maven 保持沉默",
+  "publisher": "DefenseScoop",
+  "date": "2022-10-07",
+  "url": "https://defensescoop.com/2022/10/07/pentagon-remains-mum-on-project-maven-as-transition-is-held-up-by-continuing-resolution/"
+ },
+ "mv_dd_por": {
+  "author": "Defense Daily",
+  "title": "Project Maven transitions to program of record as NGA looks to leverage program for other uses",
+  "title_cn": "Project Maven 转为正式项目，NGA 拟拓展其用途",
+  "publisher": "Defense Daily",
+  "date": "2023-11",
+  "url": "https://defensedaily.com/project-maven-transitions-to-program-of-record-as-nga-looks-to-leverage-program-for-other-uses/intelligence-community"
+ },
+ "mv_ds_86457": {
+  "author": "DefenseScoop",
+  "title": "Palantir Maven（Palantir release quoted）",
+  "title_cn": "DefenseScoop 引述的 Palantir 关于 Maven 的新闻稿",
+  "publisher": "DefenseScoop",
+  "date": "",
+  "url": "https://defensescoop.com/?p=86457"
+ },
+ "mv_ds_cjadc2_mvc": {
+  "author": "DefenseScoop",
+  "title": "DoD CDAO AI CJADC2 minimum viable capability",
+  "title_cn": "国防部 CDAO 宣布 CJADC2 最小可行能力",
+  "publisher": "DefenseScoop",
+  "date": "2024-02-26",
+  "url": "https://defensescoop.com/2024/02/26/dod-cdao-ai-cjadc2-minimum-viable-capability/"
+ },
+ "mv_bd_opendagir": {
+  "author": "Breaking Defense",
+  "title": "Open DAGIR: DoD plans July industry day, experiments for new CJADC2 command apps",
+  "title_cn": "Open DAGIR：国防部计划为新的 CJADC2 指挥应用举办工业日与实验",
+  "publisher": "Breaking Defense",
+  "date": "2024-05",
+  "url": "https://breakingdefense.com/2024/05/open-dagir-dod-plans-july-industry-day-experiments-for-new-cjadc2-command-apps/"
+ },
+ "mv_ds_2024_05": {
+  "author": "DefenseScoop",
+  "title": "Palantir $480 million Army contract for Maven Smart System artificial intelligence",
+  "title_cn": "Palantir 获陆军 4.8 亿美元 Maven 智能系统合同",
+  "publisher": "DefenseScoop",
+  "date": "2024-05-29",
+  "url": "https://defensescoop.com/2024/05/29/palantir-480-million-army-contract-maven-smart-system-artificial-intelligence"
+ },
+ "mv_dn_2024_05": {
+  "author": "Defense News",
+  "title": "Palantir wins contract to expand access to Project Maven AI tools",
+  "title_cn": "Palantir 赢得扩大 Project Maven AI 工具访问的合同",
+  "publisher": "Defense News",
+  "date": "2024-05-30",
+  "url": "https://www.defensenews.com/artificial-intelligence/2024/05/30/palantir-wins-contract-to-expand-access-to-project-maven-ai-tools/"
+ },
+ "mv_meritalk_480": {
+  "author": "MeriTalk",
+  "title": "Army awards $480M contract for Maven prototype",
+  "title_cn": "陆军授予 4.8 亿美元 Maven 原型合同",
+  "publisher": "MeriTalk",
+  "date": "2024-05",
+  "url": "https://www.meritalk.com/articles/army-awards-480m-contract-for-maven-prototype/"
+ },
+ "mv_govconwire_arl": {
+  "author": "GovConWire",
+  "title": "Palantir receives $100M Army contract for Maven Smart System expansion",
+  "title_cn": "Palantir 获陆军 1 亿美元 MSS 扩展合同",
+  "publisher": "GovConWire",
+  "date": "2024-09",
+  "url": "https://www.govconwire.com/2024/09/palantir-receives-100m-army-contract-for-maven-smart-system-expansion/"
+ },
+ "mv_bw_2024_09": {
+  "author": "Palantir Technologies",
+  "title": "Palantir Expands Maven Smart System AI/ML Capabilities to Military Services",
+  "title_cn": "Palantir 将 MSS AI/ML 能力扩展到各军种",
+  "publisher": "BusinessWire",
+  "date": "2024-09-20",
+  "url": "https://www.businesswire.com/news/home/20240920746094/en/Palantir-Expands-Maven-Smart-System-AIML-Capabilities-to-Military-Services"
+ },
+ "mv_globalsec_contract": {
+  "author": "U.S. DoD（GlobalSecurity 转载）",
+  "title": "DoD Contracts, May 2025（W911QX-24-D-0012 modification P00005）",
+  "title_cn": "国防部合同公告（2025 年 5 月，MSS 合同 P00005 号修改）",
+  "publisher": "GlobalSecurity.org",
+  "date": "2025-05-21",
+  "url": "https://www.globalsecurity.org/military/library/news/2025/05/dod-contracts_4194643.htm"
+ },
+ "mv_ds_2025_05": {
+  "author": "DefenseScoop",
+  "title": "DoD increases Palantir Maven Smart System contract",
+  "title_cn": "国防部提高 Palantir MSS 合同上限",
+  "publisher": "DefenseScoop",
+  "date": "2025-05-23",
+  "url": "https://defensescoop.com/2025/05/23/dod-palantir-maven-smart-system-contract-increase/"
+ },
+ "mv_meritalk_nga": {
+  "author": "MeriTalk",
+  "title": "NGA expands Maven AI system in 'year of AI,' Whitworth says",
+  "title_cn": "惠特沃斯：NGA 在“AI 之年”扩展 Maven 系统",
+  "publisher": "MeriTalk",
+  "date": "2025-05",
+  "url": "https://www.meritalk.com/articles/nga-expands-maven-ai-system-in-year-of-ai-whitworth-says/"
+ },
+ "mv_execgov_predict": {
+  "author": "ExecutiveGov",
+  "title": "NGA Maven program potential threat prediction AI",
+  "title_cn": "NGA Maven 项目拟引入威胁预测 AI",
+  "publisher": "ExecutiveGov",
+  "date": "2025",
+  "url": "https://www.executivegov.com/articles/nga-maven-program-potential-threat-prediction-ai"
+ },
+ "mv_wt_ea": {
+  "author": "Washington Technology",
+  "title": "Palantir signs $10B enterprise agreement with Army",
+  "title_cn": "Palantir 与陆军签署 100 亿美元企业协议",
+  "publisher": "Washington Technology",
+  "date": "2025-08",
+  "url": "https://washingtontechnology.com/contracts/2025/08/palantir-signs-10b-enterprise-agreement-army/407153"
+ },
+ "mv_ds_ea": {
+  "author": "DefenseScoop",
+  "title": "Army, Palantir software enterprise agreement worth up to $10 billion",
+  "title_cn": "陆军与 Palantir 签订最高 100 亿美元软件企业协议",
+  "publisher": "DefenseScoop",
+  "date": "2025-07-31",
+  "url": "https://defensescoop.com/2025/07/31/army-palantir-software-enterprise-agreement-10-billion/"
+ },
+ "mv_ds_usmc": {
+  "author": "DefenseScoop",
+  "title": "Palantir Maven Smart System coming to Marine Corps",
+  "title_cn": "Palantir MSS 进入海军陆战队",
+  "publisher": "DefenseScoop",
+  "date": "2025-09-10",
+  "url": "https://defensescoop.com/2025/09/10/palantir-maven-smart-system-mss-marine-corps/"
+ },
+ "mv_ds_maradmin": {
+  "author": "DefenseScoop",
+  "title": "Marine Corps MARADMIN details Maven Smart System rollout",
+  "title_cn": "陆战队 MARADMIN 电报详述 MSS 推广",
+  "publisher": "DefenseScoop",
+  "date": "2025-09-12",
+  "url": "https://defensescoop.com/2025/09/12/marine-corps-maradmin-maven-smart-system-mss-palantir-rollout/"
+ },
+ "mv_usmc_release": {
+  "author": "U.S. Marine Corps",
+  "title": "Marine Corps partners with Chief Digital and Artificial Intelligence Office and ...（Maven Smart System enterprise license）",
+  "title_cn": "海军陆战队与 CDAO 等合作获取 MSS 企业许可",
+  "publisher": "Marines.mil",
+  "date": "2025-09",
+  "url": "https://www.marines.mil/News/Press-Releases/Press-Release-Display/Article/4305728/marine-corps-partners-with-chief-digital-and-artificial-intelligence-office-and/"
+ },
+ "mv_maradmin": {
+  "author": "U.S. Marine Corps",
+  "title": "Announcement of Maven Smart System Licensing for Marine Corps（MARADMIN 424/25）",
+  "title_cn": "关于海军陆战队 MSS 许可的通告（MARADMIN 424/25）",
+  "publisher": "Marines.mil",
+  "date": "2025-09-11",
+  "url": "https://www.marines.mil/News/Messages/Messages-Display/Article/4299351/announcement-of-maven-smart-system-licensing-for-marine-corps/"
+ },
+ "mv_bd_sequoia": {
+  "author": "Breaking Defense",
+  "title": "Startup Enabled Intelligence nabs NGA's $708 million AI training contract",
+  "title_cn": "初创公司 Enabled Intelligence 赢得 NGA 7.08 亿美元 AI 训练数据合同",
+  "publisher": "Breaking Defense",
+  "date": "2025-11",
+  "url": "https://breakingdefense.com/2025/11/startup-enabled-intelligence-nabs-ngas-708-million-ai-training-contract/"
+ },
+ "mv_ei_release": {
+  "author": "Enabled Intelligence",
+  "title": "Enabled Intelligence awarded NGA's $708 million SEQUOIA contract for AI/ML data labeling as a service",
+  "title_cn": "Enabled Intelligence 获 NGA 7.08 亿美元 SEQUOIA 数据标注合同",
+  "publisher": "Enabled Intelligence",
+  "date": "2025-11-24",
+  "url": "https://enabledintelligence.net/press/enabled-intelligence-awarded-ngas-708-million-sequoia-contract-for-ai-ml-data-labeling-as-a-service/"
+ },
+ "mv_orangeslices": {
+  "author": "OrangeSlices AI",
+  "title": "Protest filed: AI/ML data labeling",
+  "title_cn": "AI/ML 数据标注合同抗议",
+  "publisher": "OrangeSlices AI",
+  "date": "2026",
+  "url": "https://orangeslices.ai/protest-filed-ii-ml-data-labeling/"
+ },
+ "mv_bd_2024_09_label": {
+  "author": "Breaking Defense",
+  "title": "NGA slates $700M for AI data labeling, launches standard model push",
+  "title_cn": "NGA 拟投 7 亿美元用于 AI 数据标注并推动标准模型",
+  "publisher": "Breaking Defense",
+  "date": "2024-09",
+  "url": "https://breakingdefense.com/2024/09/nga-slates-700m-for-ai-data-labeling-launches-standard-model-push/"
+ },
+ "mv_d1_2024_09": {
+  "author": "Defense One",
+  "title": "NGA deepens push for AI with country's largest data-labeling effort",
+  "title_cn": "NGA 以全美最大数据标注项目深化 AI 推进",
+  "publisher": "Defense One",
+  "date": "2024-09",
+  "url": "https://www.defenseone.com/technology/2024/09/nga-deepens-push-ai-countrys-largest-data-labeling-effort/399255/"
+ },
+ "mv_nga_contracts": {
+  "author": "National Geospatial-Intelligence Agency",
+  "title": "Contract Announcements",
+  "title_cn": "NGA 合同公告",
+  "publisher": "NGA",
+  "date": "2024",
+  "url": "https://www.nga.mil/news/Contract_Announcements.html"
+ },
+ "mv_fnn_agaim": {
+  "author": "Federal News Network",
+  "title": "NGA's AI standards work aims to avoid ATO-like process",
+  "title_cn": "NGA 的 AI 标准工作力避 ATO 式流程",
+  "publisher": "Federal News Network",
+  "date": "2025-09",
+  "url": "https://federalnewsnetwork.com/intelligence-community/2025/09/ngas-ai-standards-work-aims-to-avoid-ato-like-process/"
+ },
+ "mv_bd_nohands": {
+  "author": "Breaking Defense",
+  "title": "'No human hands': NGA circulates AI-generated intel, director says",
+  "title_cn": "“无人工经手”：NGA 局长称已分发 AI 生成情报",
+  "publisher": "Breaking Defense",
+  "date": "2025-06",
+  "url": "https://breakingdefense.com/2025/06/no-human-hands-nga-circulates-ai-generated-intel-director-says/"
+ },
+ "mv_bd_geoint2025": {
+  "author": "Breaking Defense",
+  "title": "AI unchained: NGA's Maven tool significantly decreasing time to targeting, agency chief says",
+  "title_cn": "AI 松绑：NGA 局长称 Maven 显著缩短目标定位时间",
+  "publisher": "Breaking Defense",
+  "date": "2025-05",
+  "url": "https://breakingdefense.com/2025/05/ai-unchained-ngas-maven-tool-significantly-decreasing-time-to-targeting-agency-chief-says/"
+ },
+ "mv_ecs_maven": {
+  "author": "ECS",
+  "title": "The Maven Program",
+  "title_cn": "Maven 项目",
+  "publisher": "ECS",
+  "date": "2025",
+  "url": "https://ecstech.com/artificial-intelligence/geospatial-intelligence/the-maven-program"
+ },
+ "mv_ncia_2025": {
+  "author": "NATO Communications and Information Agency",
+  "title": "NATO acquires AI-enabled warfighting system",
+  "title_cn": "北约采购 AI 赋能作战系统",
+  "publisher": "NCIA",
+  "date": "2025-04-14",
+  "url": "https://www.ncia.nato.int/newsroom/news/nato-acquires-aienabled-warfighting-system"
+ },
+ "mv_shape_2025": {
+  "author": "SHAPE（NATO）",
+  "title": "NATO acquires AI-enabled warfighting system",
+  "title_cn": "北约采购 AI 赋能作战系统（新闻档案）",
+  "publisher": "SHAPE",
+  "date": "2025-04-14",
+  "url": "https://shape.nato.int/news-archive/2025/nato-acquires-aienabled-warfighting-system.aspx"
+ },
+ "mv_shape_release": {
+  "author": "SHAPE（NATO）",
+  "title": "NATO acquires AI-enabled warfighting system（news release）",
+  "title_cn": "北约采购 AI 赋能作战系统（新闻稿）",
+  "publisher": "SHAPE",
+  "date": "2025-04",
+  "url": "https://shape.nato.int/news-releases/nato-acquires-aienabled-warfighting-system-"
+ },
+ "mv_ds_nato": {
+  "author": "DefenseScoop",
+  "title": "NATO, Palantir Maven Smart System contract",
+  "title_cn": "北约与 Palantir 签订 MSS 合同",
+  "publisher": "DefenseScoop",
+  "date": "2025-04-14",
+  "url": "https://defensescoop.com/2025/04/14/nato-palantir-maven-smart-system-contract/"
+ },
+ "mv_defensepost_nato": {
+  "author": "The Defense Post",
+  "title": "NATO, Palantir AI warfighting platform",
+  "title_cn": "北约与 Palantir AI 作战平台",
+  "publisher": "The Defense Post",
+  "date": "2025-04-16",
+  "url": "https://www.thedefensepost.com/2025/04/16/nato-palantir-ai-warfighting-platform"
+ },
+ "mv_defupdate": {
+  "author": "Defense-Update",
+  "title": "Palantir MSS NATO",
+  "title_cn": "Palantir MSS NATO",
+  "publisher": "Defense-Update",
+  "date": "2025-04-18",
+  "url": "https://defense-update.com/20250418_palantir-mss-nato.html"
+ },
+ "mv_bd_nato_2025": {
+  "author": "Breaking Defense",
+  "title": "NATO picks Palantir's Maven AI for military planning amid trans-Atlantic tension",
+  "title_cn": "跨大西洋关系紧张之际北约选用 Palantir Maven AI 进行军事规划",
+  "publisher": "Breaking Defense",
+  "date": "2025-04",
+  "url": "https://breakingdefense.com/2025/04/nato-picks-palantirs-maven-ai-for-military-planning-amid-trans-atlantic-tension/"
+ },
+ "mv_janes_norfolk": {
+  "author": "Janes",
+  "title": "NATO's JFC Norfolk to receive Palantir's Maven Smart System by end of May",
+  "title_cn": "北约诺福克联合部队司令部将于 5 月底前接入 MSS",
+  "publisher": "Janes",
+  "date": "2026",
+  "url": "https://www.janes.com/osint-insights/defence-news/security/natos-jfc-norfolk-to-receive-palantirs-maven-smart-system-by-end-of-may"
+ },
+ "mv_shape_foc": {
+  "author": "SHAPE（NATO）",
+  "title": "Maven System achieves full capability",
+  "title_cn": "Maven 系统达到全面作战能力",
+  "publisher": "SHAPE",
+  "date": "2026-06-30",
+  "url": "https://shape.nato.int/news-releases/Maven-System-achieves-full-capability"
+ },
+ "mv_janes_foc": {
+  "author": "Janes",
+  "title": "Maven Smart System achieves full operating capability with NATO",
+  "title_cn": "MSS 在北约达到全面作战能力",
+  "publisher": "Janes",
+  "date": "2026-06",
+  "url": "https://www.janes.com/defence-intelligence-insights/defence-news/security/maven-smart-system-achieves-full-operating-capability-with-nato"
+ },
+ "mv_escudo_europe": {
+  "author": "Escudo Digital",
+  "title": "Foreign software, Europe's war: how Maven and Palantir are already making decisions for Europe",
+  "title_cn": "外国软件与欧洲战争：Maven 与 Palantir 如何替欧洲作决策",
+  "publisher": "Escudo Digital",
+  "date": "2026",
+  "url": "https://www.escudodigital.com/en/defense/europe/foreign-software-europes-war-how-maven-and-palantir-are-already-making-decisions-for-europe.html"
+ },
+ "mv_palantir_blog_nato": {
+  "author": "Palantir",
+  "title": "Maven Smart System: Innovating for the Alliance",
+  "title_cn": "Maven 智能系统：为联盟创新",
+  "publisher": "Palantir Blog",
+  "date": "2025",
+  "url": "https://blog.palantir.com/maven-smart-system-innovating-for-the-alliance-5ebc31709eea"
+ },
+ "mv_ds_feinberg1": {
+  "author": "DefenseScoop",
+  "title": "Palantir Maven: Feinberg directive",
+  "title_cn": "Feinberg 指令：Palantir Maven 转为正式项目",
+  "publisher": "DefenseScoop",
+  "date": "2026-04-03",
+  "url": "https://defensescoop.com/2026/04/03/palantir-maven-feinberg-directive/"
+ },
+ "mv_ds_feinberg2": {
+  "author": "DefenseScoop",
+  "title": "DoD components face aggressive timeline for Maven Smart System transition",
+  "title_cn": "国防部各部门面临 MSS 过渡的激进时间表",
+  "publisher": "DefenseScoop",
+  "date": "2026-04-15",
+  "url": "https://defensescoop.com/2026/04/15/palantir-maven-smart-system-pentagon-program-transition-feinberg/"
+ },
+ "mv_csis": {
+  "author": "CSIS",
+  "title": "What Is Maven Smart System and What Does It Do?",
+  "title_cn": "什么是 Maven 智能系统，它做什么？",
+  "publisher": "Center for Strategic and International Studies",
+  "date": "2026",
+  "url": "https://www.csis.org/analysis/what-maven-smart-system-and-what-does-it-do"
+ },
+ "mv_govconwire_por": {
+  "author": "GovConWire",
+  "title": "Pentagon makes Palantir Maven AI a program of record",
+  "title_cn": "五角大楼将 Palantir Maven AI 列为正式项目",
+  "publisher": "GovConWire",
+  "date": "2026-03",
+  "url": "https://www.govconwire.com/articles/pentagon-palantir-maven-ai-program-of-record"
+ },
+ "mv_capture": {
+  "author": "Capture Cascade",
+  "title": "Palantir Maven program of record（2026-03-21 event）",
+  "title_cn": "Palantir Maven 转为正式项目（时间线条目）",
+  "publisher": "capturecascade.org",
+  "date": "2026-03-21",
+  "url": "https://capturecascade.org/event/2026-03-21--palantir-maven-program-of-record"
+ },
+ "mv_npr_book": {
+  "author": "NPR",
+  "title": "Inside a secret Pentagon effort to bring AI to the battlefield",
+  "title_cn": "探秘五角大楼把 AI 带上战场的秘密努力",
+  "publisher": "NPR",
+  "date": "2026-03-23",
+  "url": "https://www.npr.org/2026/03/23/nx-s1-5757478/inside-a-secret-pentagon-effort-to-bring-ai-to-the-battlefield"
+ },
+ "mv_lawfare_book": {
+  "author": "Lawfare",
+  "title": "How the U.S. Military Learned to Embrace AI Warfare",
+  "title_cn": "美军如何学会拥抱 AI 战争（书评）",
+  "publisher": "Lawfare",
+  "date": "2026",
+  "url": "https://www.lawfaremedia.org/article/how-the-u.s.-military-learned-to-embrace-ai-warfare"
+ },
+ "mv_willis_book": {
+  "author": "Willis Strategy",
+  "title": "Review: Project Maven",
+  "title_cn": "书评：《Project Maven》",
+  "publisher": "Willis Strategy",
+  "date": "2026",
+  "url": "https://willis-strategy.com/insights/review-project-maven.html"
+ },
+ "mv_ds_fy27": {
+  "author": "DefenseScoop",
+  "title": "DoD FY27 budget: CJADC2, Maven Smart System, Palantir",
+  "title_cn": "国防部 2027 财年预算：CJADC2 与 MSS",
+  "publisher": "DefenseScoop",
+  "date": "2026-05-28",
+  "url": "https://defensescoop.com/2026/05/28/dod-fy27-budget-cjadc2-maven-smart-system-palantir/"
+ },
+ "mv_fy27_book": {
+  "author": "Office of the Under Secretary of Defense（Comptroller）",
+  "title": "FY2027 Budget Request Overview Book",
+  "title_cn": "2027 财年预算申请概览",
+  "publisher": "comptroller.war.gov",
+  "date": "2026",
+  "url": "https://comptroller.war.gov/Portals/45/Documents/defbudget/FY2027/FY2027_Budget_Request_Overview_Book.pdf"
+ },
+ "mv_gtlaw": {
+  "author": "Greenberg Traurig",
+  "title": "Understanding the President's FY 2027 Budget Request for the Department of War",
+  "title_cn": "解读总统 2027 财年战争部预算申请",
+  "publisher": "Greenberg Traurig",
+  "date": "2026-05",
+  "url": "https://www.gtlaw.com/en/insights/2026/5/understanding-the-presidents-fy-2027-budget-request-for-the-department-of-war"
+ },
+ "mv_spacenews_23": {
+  "author": "SpaceNews",
+  "title": "Pentagon seeks $2.3 billion for Maven AI battlefield system",
+  "title_cn": "五角大楼为 Maven AI 战场系统申请 23 亿美元",
+  "publisher": "SpaceNews",
+  "date": "2026",
+  "url": "https://spacenews.com/pentagon-seeks-2-3-billion-for-maven-ai-battlefield-system/"
+ },
+ "mv_isstracker": {
+  "author": "ISS Tracker",
+  "title": "Pentagon seeks $2.3 billion for Maven AI battlefield system",
+  "title_cn": "五角大楼寻求 23 亿美元用于 Maven AI 战场系统",
+  "publisher": "ISS Tracker",
+  "date": "2026",
+  "url": "https://isstracker.pl/en/news/pentagon-poszukuje-23-miliarda-dolarow-na-system-pola-bitwy-maven-ai,x4x5P"
+ },
+ "mv_ds_solsbury": {
+  "author": "DefenseScoop",
+  "title": "Pentagon appoints new Maven Smart System program director",
+  "title_cn": "五角大楼任命新任 MSS 项目主任",
+  "publisher": "DefenseScoop",
+  "date": "2026-08-05",
+  "url": "https://defensescoop.com/2026/08/05/pentagon-appoints-new-maven-smart-system-program-director/"
+ },
+ "mv_aimil_solsbury": {
+  "author": "CDAO",
+  "title": "Colonel Melissa Solsbury（biography）",
+  "title_cn": "梅丽莎·索尔斯伯里上校简历",
+  "publisher": "ai.mil",
+  "date": "2026",
+  "url": "https://www.ai.mil/About/Leadership/Bio-Page/Article/4453518/colonel-melissa-solsbury/"
+ },
+ "mv_ds_mazol": {
+  "author": "DefenseScoop",
+  "title": "Maven Smart System AI: James Mazol, Cameron Stanley at DefenseTalks",
+  "title_cn": "DefenseTalks：马佐尔、斯坦利谈 MSS",
+  "publisher": "DefenseScoop",
+  "date": "2026-09-22",
+  "url": "https://defensescoop.com/2026/09/22/maven-smart-system-ai-james-mazol-cameron-stanley-defensetalks/"
+ },
+ "mv_defpost_2026": {
+  "author": "The Defense Post",
+  "title": "Pentagon Maven AI expansion",
+  "title_cn": "五角大楼扩展 Maven AI",
+  "publisher": "The Defense Post",
+  "date": "2026-09-25",
+  "url": "https://thedefensepost.com/2026/09/25/pentagon-maven-ai-expansion/amp/"
+ },
+ "mv_d1_everything": {
+  "author": "Defense One",
+  "title": "Maven is becoming the Pentagon's everything app",
+  "title_cn": "Maven 正在成为五角大楼的“万能应用”",
+  "publisher": "Defense One",
+  "date": "2026-09",
+  "url": "https://www.defenseone.com/technology/2026/09/maven-becoming-pentagons-everything-app/415882/"
+ },
+ "mv_motley_por": {
+  "author": "The Motley Fool",
+  "title": "Palantir's Maven is now an official Pentagon program",
+  "title_cn": "Palantir 的 Maven 现已成为五角大楼正式项目",
+  "publisher": "The Motley Fool",
+  "date": "2026-08-25",
+  "url": "https://www.fool.com/investing/2026/08/25/palantirs-maven-is-now-an-official-pentagon-progra/"
+ },
+ "mv_cnbc_q2": {
+  "author": "CNBC",
+  "title": "Palantir (PLTR) earnings Q2 2026",
+  "title_cn": "Palantir 2026 年二季度财报",
+  "publisher": "CNBC",
+  "date": "2026-08-03",
+  "url": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html"
+ },
+ "mv_fool_q2": {
+  "author": "The Motley Fool",
+  "title": "Palantir (PLTR) Q2 2026 Earnings Call Transcript",
+  "title_cn": "Palantir 2026 年二季度财报电话会实录",
+  "publisher": "The Motley Fool",
+  "date": "2026-08-10",
+  "url": "https://www.fool.com/earnings/call-transcripts/2026/08/10/palantir-pltr-q2-2026-earnings-call-transcript/"
+ },
+ "mv_pltr_q2_8k": {
+  "author": "Palantir Technologies",
+  "title": "Q2 2026 press release（Form 8-K Exhibit 99.1）",
+  "title_cn": "2026 年二季度业绩新闻稿（8-K 附件）",
+  "publisher": "U.S. SEC",
+  "date": "2026-08",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000039/a2026q2ex991pressrelease.htm"
+ },
+ "mv_pltr_q4_2025": {
+  "author": "Palantir Technologies",
+  "title": "Palantir Reports Q4 2025 U.S. Comm Revenue Growth of 137% Y/Y and Revenue Growth of 70% Y/Y",
+  "title_cn": "Palantir 2025 年四季度业绩新闻稿",
+  "publisher": "BusinessWire",
+  "date": "2026-02",
+  "url": "https://www.businesswire.com/news/home/20260201154946/en/Palantir-Reports-Q4-2025-U.S.-Comm-Revenue-Growth-of-137-YY-and-Revenue-Growth-of-70-YY-Issues-FY-2026-Revenue-Guidance-of-61-YY-and-U.S.-Comm-Revenue-Guidance-of-115-YY-Crushing-Consensus-Expectati"
+ },
+ "mv_bloomberg_2024": {
+  "author": "Katrina Manson（Bloomberg）",
+  "title": "AI Warfare: Project Maven（Bloomberg feature）",
+  "title_cn": "AI 战争：Project Maven（彭博特稿）",
+  "publisher": "Bloomberg",
+  "date": "2024",
+  "url": "https://www.bloomberg.com/features/2024-ai-warfare-project-maven/"
+ },
+ "mv_techmeme": {
+  "author": "Techmeme",
+  "title": "Summary of Bloomberg's Project Maven feature",
+  "title_cn": "彭博 Maven 特稿摘要",
+  "publisher": "Techmeme",
+  "date": "2024-03-02",
+  "url": "https://www.techmeme.com/240302/p4"
+ },
+ "mv_batch": {
+  "author": "DeepLearning.AI",
+  "title": "Maven: a system that analyzes satellite data to identify targets in real-world conflicts",
+  "title_cn": "Maven：分析卫星数据在现实冲突中识别目标的系统",
+  "publisher": "The Batch",
+  "date": "2024",
+  "url": "https://www.deeplearning.ai/the-batch/maven-a-system-that-analyzes-satellite-data-to-identify-targets-in-real-world-conflicts"
+ },
+ "mv_airwars_first": {
+  "author": "Airwars",
+  "title": "The first civilian confirmed killed in an AI-assisted strike",
+  "title_cn": "首例经证实死于 AI 辅助打击的平民",
+  "publisher": "Airwars",
+  "date": "2026",
+  "url": "https://airwars.org/the-first-civilian-confirmed-killed-in-an-ai-assisted-strike/"
+ },
+ "mv_cset_coalition": {
+  "author": "Emelia Probasco（CSET）",
+  "title": "Building the Tech Coalition",
+  "title_cn": "构建技术联盟",
+  "publisher": "Center for Security and Emerging Technology",
+  "date": "2024-08",
+  "url": "https://cset.georgetown.edu/wp-content/uploads/CSET-Building-the-Tech-Coalition-1.pdf"
+ },
+ "mv_d1_2024_08": {
+  "author": "Defense One",
+  "title": "DoD is getting better at buying tech, reports say",
+  "title_cn": "报告称国防部采购技术的能力在提高",
+  "publisher": "Defense One",
+  "date": "2024-08",
+  "url": "https://www.defenseone.com/technology/2024/08/dod-getting-better-buying-tech-reports-say/398821/"
+ },
+ "mv_gao_22": {
+  "author": "U.S. Government Accountability Office",
+  "title": "GAO-22-104765",
+  "title_cn": "GAO-22-104765 报告",
+  "publisher": "GAO",
+  "date": "2022",
+  "url": "https://www.gao.gov/assets/gao-22-104765.pdf"
+ },
+ "mv_armyrec": {
+  "author": "Army Recognition",
+  "title": "US Army explores an AI system capable of targeting 1,000 objectives per hour",
+  "title_cn": "美陆军探索每小时瞄准 1,000 个目标的 AI 系统",
+  "publisher": "Army Recognition",
+  "date": "2024",
+  "url": "https://armyrecognition.com/news/army-news/army-news-2024/us-army-explores-an-ai-system-capable-of-targeting-1-000-objectives-per-hour-2"
+ },
+ "mv_interesting_eng_army": {
+  "author": "Interesting Engineering",
+  "title": "US Maven Smart System Army",
+  "title_cn": "美陆军 Maven 智能系统",
+  "publisher": "Interesting Engineering",
+  "date": "2024",
+  "url": "https://interestingengineering.com/military/us-maven-smart-system-army"
+ },
+ "mv_register_2024": {
+  "author": "The Register",
+  "title": "US military Maven AI used（in Feb 2024 strikes）",
+  "title_cn": "美军在 2024 年 2 月打击中使用 Maven AI",
+  "publisher": "The Register",
+  "date": "2024-02-27",
+  "url": "https://www.theregister.com/2024/02/27/us_military_maven_ai_used/"
+ },
+ "mv_national_2024": {
+  "author": "The National",
+  "title": "US used AI to help find targets in Syria and Yemen",
+  "title_cn": "美国用 AI 帮助在叙利亚和也门寻找目标",
+  "publisher": "The National",
+  "date": "2024-02-26",
+  "url": "https://www.thenationalnews.com/world/us-news/2024/02/26/us-ai-syria-yemen/"
+ },
+ "mv_bnn_2024": {
+  "author": "BNN Bloomberg",
+  "title": "US used AI to help find Middle East targets for airstrikes",
+  "title_cn": "美国用 AI 帮助寻找中东空袭目标",
+  "publisher": "BNN Bloomberg",
+  "date": "2024-02",
+  "url": "https://www.bnnbloomberg.ca/us-used-ai-to-help-find-middle-east-targets-for-airstrikes-1.2039269"
+ },
+ "mv_kyivind": {
+  "author": "Kyiv Independent",
+  "title": "NYT: Project Maven AI having mixed results on Ukraine's battlefields",
+  "title_cn": "《纽约时报》：Maven AI 在乌克兰战场效果好坏参半",
+  "publisher": "Kyiv Independent",
+  "date": "2024-04",
+  "url": "https://kyivindependent.com/nyt-project-maven-ai-having-mixed-results-on-ukraines-battlefields/"
+ },
+ "mv_defender_nyt": {
+  "author": "The Defender",
+  "title": "NYT: how US AI Maven helps Ukrainian military",
+  "title_cn": "《纽约时报》：美国 Maven AI 如何帮助乌军",
+  "publisher": "The Defender",
+  "date": "2024-04",
+  "url": "https://thedefender.media/en/2024/04/nyt-how-us-ai-maven-helps-ukrainian-military/"
+ },
+ "mv_bd_insatiable": {
+  "author": "Breaking Defense",
+  "title": "'Insatiable appetite' for AI: Maven usage surged for strikes on Iran, Pentagon AI chief says",
+  "title_cn": "对 AI“贪得无厌”：五角大楼 AI 主管称对伊打击期间 Maven 使用量激增",
+  "publisher": "Breaking Defense",
+  "date": "2026-05",
+  "url": "https://breakingdefense.com/2026/05/insatiable-appetite-for-ai-maven-usage-surged-for-strikes-on-iran-pentagon-ai-chief-says/"
+ },
+ "mv_stanley_testimony": {
+  "author": "Cameron Stanley（CDAO）",
+  "title": "Statement before the House Armed Services Committee",
+  "title_cn": "卡梅伦·斯坦利众议院军委会书面证词",
+  "publisher": "U.S. Congress",
+  "date": "2026-05-14",
+  "url": "https://www.congress.gov/119/meeting/house/119184/witnesses/HHRG-119-AS35-Wstate-StanleyC-20260514.pdf"
+ },
+ "mv_defind_13000": {
+  "author": "Defence Industry Europe",
+  "title": "Operation Epic Fury: U.S. forces strike over 13,000 targets in 38 days",
+  "title_cn": "“史诗怒火”行动：美军 38 天打击逾 13,000 个目标",
+  "publisher": "defence-industry.eu",
+  "date": "2026",
+  "url": "https://defence-industry.eu/operation-epic-fury-u-s-forces-strike-over-13000-targets-in-38-days/"
+ },
+ "mv_wapo_2026": {
+  "author": "The Washington Post",
+  "title": "Anthropic AI and the Iran campaign",
+  "title_cn": "Anthropic AI 与对伊朗战役",
+  "publisher": "The Washington Post",
+  "date": "2026-03-04",
+  "url": "https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/"
+ },
+ "mv_aca_iran": {
+  "author": "Arms Control Association",
+  "title": "AI plays major role in war on Iran",
+  "title_cn": "AI 在对伊朗战争中发挥重要作用",
+  "publisher": "Arms Control Today",
+  "date": "2026-05",
+  "url": "https://www.armscontrol.org/act/2026-05/news/ai-plays-major-role-war-iran"
+ },
+ "mv_rs_iran": {
+  "author": "Responsible Statecraft",
+  "title": "AI war: Iran",
+  "title_cn": "AI 与对伊朗战争",
+  "publisher": "Responsible Statecraft",
+  "date": "2026",
+  "url": "https://responsiblestatecraft.org/ai-war-iran/"
+ },
+ "mv_rs_palantir": {
+  "author": "Responsible Statecraft",
+  "title": "AI, Palantir and weapons",
+  "title_cn": "AI、Palantir 与武器",
+  "publisher": "Responsible Statecraft",
+  "date": "2026",
+  "url": "https://responsiblestatecraft.org/ai-palantir-weapons/"
+ },
+ "mv_voh": {
+  "author": "Vision of Humanity",
+  "title": "How AI is rewriting the rules of modern warfare",
+  "title_cn": "AI 如何改写现代战争规则",
+  "publisher": "Vision of Humanity",
+  "date": "2026",
+  "url": "https://www.visionofhumanity.org/how-ai-is-rewriting-the-rules-of-modern-warfare/"
+ },
+ "mv_ie_claude": {
+  "author": "Interesting Engineering",
+  "title": "Claude AI, Iran and US military targeting",
+  "title_cn": "Claude AI、伊朗与美军目标定位",
+  "publisher": "Interesting Engineering",
+  "date": "2026",
+  "url": "https://interestingengineering.com/military/claude-ai-iran-us-military-targeting"
+ },
+ "mv_strat_intl": {
+  "author": "Strategy International",
+  "title": "Publication 258（AI targeting and human oversight）",
+  "title_cn": "第 258 号出版物（AI 目标定位与人类监督）",
+  "publisher": "Strategy International",
+  "date": "2026-04-06",
+  "url": "https://strategyinternational.org/2026/04/06/publication258/"
+ },
+ "mv_letsdata": {
+  "author": "Let's Data Science",
+  "title": "Operation Epic Fury tests AI-enabled targeting",
+  "title_cn": "“史诗怒火”行动检验 AI 赋能目标定位",
+  "publisher": "Let's Data Science",
+  "date": "2026",
+  "url": "https://letsdatascience.com/news/operation-epic-fury-tests-ai-enabled-targeting-06a9ce3c"
+ },
+ "mv_bloomberg_minab": {
+  "author": "Bloomberg",
+  "title": "2026 Iran school attack（graphics investigation）",
+  "title_cn": "2026 年伊朗学校遇袭调查（图解报道）",
+  "publisher": "Bloomberg",
+  "date": "2026-09",
+  "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
+ },
+ "mv_gizmodo_minab": {
+  "author": "Gizmodo",
+  "title": "Pentagon investigators say overreliance on Palantir AI tech contributed to U.S. strike that killed 123 Iranian children",
+  "title_cn": "五角大楼调查人员称过度依赖 Palantir AI 导致美军打击致 123 名伊朗儿童死亡",
+  "publisher": "Gizmodo",
+  "date": "2026-09",
+  "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477"
+ },
+ "mv_theprint_minab": {
+  "author": "ThePrint",
+  "title": "US strike on school in Iran's Minab was result of over-reliance on AI, outdated sat images: Bloomberg",
+  "title_cn": "彭博：美军打击伊朗 Minab 学校源于过度依赖 AI 与过期卫星图像",
+  "publisher": "ThePrint",
+  "date": "2026-09",
+  "url": "https://theprint.in/world/us-strike-on-school-in-irans-minab-was-result-of-over-reliance-on-ai-outdated-sat-images-bloomberg/3047604/"
+ },
+ "mv_mt_minab": {
+  "author": "Military Times",
+  "title": "Deadly Iran school strike casts shadow over Pentagon's AI targeting push",
+  "title_cn": "致命的伊朗学校打击给五角大楼 AI 目标定位推进蒙上阴影",
+  "publisher": "Military Times",
+  "date": "2026-03-24",
+  "url": "https://www.militarytimes.com/news/your-military/2026/03/24/deadly-iran-school-strike-casts-shadow-over-pentagons-ai-targeting-push/"
+ },
+ "mv_wiki_minab": {
+  "author": "Wikipedia",
+  "title": "2026 Minab school attack",
+  "title_cn": "2026 年 Minab 学校遇袭事件词条",
+  "publisher": "Wikipedia",
+  "date": "2026",
+  "url": "https://en.wikipedia.org/wiki/2026_Minab_school_attack"
+ },
+ "mv_beebe_minab": {
+  "author": "Brendon Beebe",
+  "title": "The Minab school strike: what we know",
+  "title_cn": "Minab 学校打击：我们知道什么",
+  "publisher": "Substack",
+  "date": "2026",
+  "url": "https://brendonbeebe.substack.com/p/the-minab-school-strike-what-we-know"
+ },
+ "mv_airwars_guardian": {
+  "author": "Airwars（转载 The Guardian）",
+  "title": "The Guardian, 2026-03-15（Minab strike report）",
+  "title_cn": "《卫报》2026 年 3 月 15 日关于 Minab 打击的报道",
+  "publisher": "Airwars",
+  "date": "2026-03-15",
+  "url": "https://airwars.org/source/www-theguardian-com-the-guardian-2026-03-15-000000/"
+ },
+ "mv_swj_maduro": {
+  "author": "Small Wars Journal",
+  "title": "AI-enabled decapitation strike: the Maduro raid",
+  "title_cn": "AI 赋能的斩首行动：马杜罗突袭",
+  "publisher": "Small Wars Journal",
+  "date": "2026-02-17",
+  "url": "https://smallwarsjournal.com/2026/02/17/ai-enabled-decapitation-strike-maduro-raid/"
+ },
+ "mv_cnbc_karp": {
+  "author": "CNBC",
+  "title": "Palantir tech gives West critical edge in Middle East: CEO Alex Karp",
+  "title_cn": "Palantir CEO 卡普：Palantir 技术给西方在中东带来关键优势",
+  "publisher": "CNBC",
+  "date": "2026-03-12",
+  "url": "https://www.cnbc.com/2026/03/12/palantir-tech-gives-west-critical-edge-in-middle-east-ceo-alex-karp.html"
+ },
+ "mv_army_cac": {
+  "author": "U.S. Army",
+  "title": "Army's Combined Arms Command to integrate Maven C2 smart system into training and education",
+  "title_cn": "陆军联合兵种司令部将 Maven C2 智能系统纳入训练与教育",
+  "publisher": "army.mil",
+  "date": "2026",
+  "url": "https://www.army.mil/article/290958/armys_combined_arms_command_to_integrate_maven_c2_smart_system_into_training_and_education"
+ },
+ "mv_target_workbench": {
+  "author": "Palantir Technologies",
+  "title": "Palantir Target Workbench（product sheet）",
+  "title_cn": "Palantir 目标工作台产品资料",
+  "publisher": "Palantir",
+  "date": "",
+  "url": "https://www.palantir.com/assets/xrfr7uokpv1b/1IqzwzpemtBSm98TNCczao/49bbc30cbec4d2d4d189ab27bd07376c/Palantir_Target_Workbench___1_.pdf"
+ },
+ "mv_spatial": {
+  "author": "Spatial Intelligence",
+  "title": "Inside Palantir's Maven Smart System",
+  "title_cn": "深入 Palantir 的 Maven 智能系统",
+  "publisher": "spatialintelligence.ai",
+  "date": "2026",
+  "url": "https://www.spatialintelligence.ai/p/inside-palantirs-maven-smart-system"
+ },
+ "mv_cybershafarat": {
+  "author": "Cyber Shafarat",
+  "title": "Analysis of AI-driven command and control: Maven Smart System",
+  "title_cn": "AI 驱动指挥控制分析：Maven 智能系统（弱源）",
+  "publisher": "cybershafarat.com",
+  "date": "2026-03-16",
+  "url": "https://cybershafarat.com/2026/03/16/analysis-of-ai-driven-command-and-control-maven-smart-system/"
+ },
+ "mv_battlepolicy": {
+  "author": "Battle Policy",
+  "title": "Maven Smart System",
+  "title_cn": "Maven 智能系统（弱源）",
+  "publisher": "battlepolicy.com",
+  "date": "2026",
+  "url": "https://www.battlepolicy.com/maven-smart-system/"
+ },
+ "mv_vanroo": {
+  "author": "Ben Van Roo",
+  "title": "Measuring the Machines that Kill",
+  "title_cn": "衡量杀人的机器",
+  "publisher": "Substack",
+  "date": "2026",
+  "url": "https://benvanroo.substack.com/p/measuring-the-machines-that-kill"
+ },
+ "mv_palantir_platforms": {
+  "author": "Palantir Technologies",
+  "title": "AIP, Foundry, and Apollo（Architecture Center）",
+  "title_cn": "AIP、Foundry 与 Apollo（架构中心）",
+  "publisher": "Palantir Docs",
+  "date": "",
+  "url": "https://www.palantir.com/docs/foundry/architecture-center/platforms"
+ },
+ "mv_apollo_wp": {
+  "author": "Palantir Technologies",
+  "title": "Palantir Apollo Technical White Paper",
+  "title_cn": "Palantir Apollo 技术白皮书",
+  "publisher": "Palantir",
+  "date": "",
+  "url": "https://www.palantir.com/assets/xrfr7uokpv1b/3B5KbQ9ujsiDCX4Tnfz3Hy/8d3ee9a6911665f036ce3d28c19cfa0d/PalantirApolloTechnicalWhitePaper.pdf"
+ },
+ "mv_mlq": {
+  "author": "MLQ.ai",
+  "title": "Palantir Technologies research",
+  "title_cn": "Palantir 研究报告（二手）",
+  "publisher": "mlq.ai",
+  "date": "",
+  "url": "https://mlq.ai/research/palantir-technologies/"
+ },
+ "mv_palantir_ontology": {
+  "author": "Palantir Technologies",
+  "title": "Ontology Overview",
+  "title_cn": "本体概述",
+  "publisher": "Palantir Docs",
+  "date": "",
+  "url": "https://www.palantir.com/docs/foundry/ontology/overview"
+ },
+ "mv_palantir_ontology_system": {
+  "author": "Palantir Technologies",
+  "title": "Ontology system（Architecture Center）",
+  "title_cn": "本体系统（架构中心）",
+  "publisher": "Palantir Docs",
+  "date": "",
+  "url": "https://www.palantir.com/docs/foundry/architecture-center/ontology-system"
+ },
+ "mv_bd_dcgsa": {
+  "author": "Breaking Defense",
+  "title": "Army awards Palantir $823M contract for enterprise data fabric",
+  "title_cn": "陆军授予 Palantir 8.23 亿美元企业数据织网合同",
+  "publisher": "Breaking Defense",
+  "date": "2021-10",
+  "url": "https://breakingdefense.com/2021/10/army-awards-palantir-823m-contract-for-enterprise-data-fabric/"
+ },
+ "mv_ds_titan": {
+  "author": "DefenseScoop",
+  "title": "Palantir wins Army TITAN ground station award worth $178 million",
+  "title_cn": "Palantir 赢得陆军 1.78 亿美元 TITAN 地面站合同",
+  "publisher": "DefenseScoop",
+  "date": "2024-03-06",
+  "url": "https://defensescoop.com/2024/03/06/palantir-army-titan-ground-station-award-178-million/"
+ },
+ "mv_lattice_entity": {
+  "author": "Anduril Industries",
+  "title": "lattice-sdk-python: src/anduril/types/entity.py",
+  "title_cn": "Lattice Python SDK 实体类型定义",
+  "publisher": "GitHub",
+  "date": "2026",
+  "url": "https://github.com/anduril/lattice-sdk-python/blob/HEAD/src/anduril/types/entity.py"
+ },
+ "mv_bd_ivysting": {
+  "author": "Breaking Defense",
+  "title": "In NGC2 first, Army uses beta artillery data tool in howitzer strike at Ivy Sting 1",
+  "title_cn": "NGC2 首次：陆军在“常春藤之刺 1”中用测试版炮兵数据工具完成榴弹炮打击",
+  "publisher": "Breaking Defense",
+  "date": "2025-10",
+  "url": "https://breakingdefense.com/2025/10/in-ngc2-first-army-uses-beta-artillery-data-tool-in-howitzer-strike-at-ivy-sting-1/"
+ },
+ "mv_ds_anduril_palantir": {
+  "author": "DefenseScoop",
+  "title": "Palantir, Anduril consortium: AI new alliance merges capabilities",
+  "title_cn": "Palantir 与 Anduril 组建 AI 新联盟",
+  "publisher": "DefenseScoop",
+  "date": "2024-12-06",
+  "url": "https://defensescoop.com/2024/12/06/palantir-anduril-consortium-ai-new-alliance-merge-capabilities/"
+ },
+ "mv_pltr_ir_anduril": {
+  "author": "Palantir Technologies",
+  "title": "Anduril and Palantir to Accelerate AI Capabilities for National Security",
+  "title_cn": "Anduril 与 Palantir 加速国家安全 AI 能力",
+  "publisher": "Palantir Investor Relations",
+  "date": "2024-12",
+  "url": "https://investors.palantir.com/news-details/2024/Anduril-and-Palantir-to-Accelerate-AI-Capabilities-for-National-Security/"
+ },
+ "mv_faf": {
+  "author": "Foreign Affairs Forum",
+  "title": "Anduril's Lattice platform: architecture, accountability, and the future of autonomous warfare in American defense strategy",
+  "title_cn": "Anduril Lattice 平台：架构、问责与美国防务战略中自主战争的未来",
+  "publisher": "Foreign Affairs Forum",
+  "date": "2026-04-21",
+  "url": "https://www.faf.ae/home/2026/4/21/andurils-lattice-platform-architecture-accountability-and-the-future-of-autonomous-warfare-in-american-defense-strategy"
+ },
+ "mv_dodd3000": {
+  "author": "U.S. Department of Defense",
+  "title": "DoD Directive 3000.09: Autonomy in Weapon Systems",
+  "title_cn": "国防部指令 3000.09：武器系统中的自主性",
+  "publisher": "Office of General Counsel, OSD",
+  "date": "2012-11-21",
+  "url": "https://ogc.osd.mil/Portals/99/autonomy_in_weapon_systems_dodd_3000_09.pdf"
+ },
+ "mv_medium_rubber": {
+  "author": "R. Bulsing",
+  "title": "The Rubber Stamp Problem: How AI Outpaces the Oversight It Promises",
+  "title_cn": "橡皮图章问题：AI 如何超越其承诺的监督",
+  "publisher": "Medium",
+  "date": "2026",
+  "url": "https://rbulsing.medium.com/the-rubber-stamp-problem-how-ai-outpaces-the-oversight-it-promises-ff8372752673"
+ },
+ "mv_hvylya": {
+  "author": "Hvylya",
+  "title": "130 sites, 1 billion detections: the silent global spread of America's AI war machine",
+  "title_cn": "130 个站点、10 亿次检测：美国 AI 战争机器的无声扩散（弱源）",
+  "publisher": "Hvylya",
+  "date": "2025",
+  "url": "https://en.hvylya.net/news/1529-130-sites-1-billion-detections-the-silent-global-spread-of-america-s-ai-war-machine"
+ },
+ "mv_govly": {
+  "author": "Govly",
+  "title": "Public signal 177815（MSS expansion）",
+  "title_cn": "MSS 扩展相关公开信号（弱源）",
+  "publisher": "Govly",
+  "date": "2026-08",
+  "url": "https://app.govly.com/public/signals/177815"
+ },
+ "mv_wiki_aiwarfare": {
+  "author": "Wikipedia",
+  "title": "AI warfare",
+  "title_cn": "AI 战争词条",
+  "publisher": "Wikipedia",
+  "date": "2026",
+  "url": "https://en.wikipedia.org/wiki/AI_warfare"
+ },
+ "mv_arturmarkus": {
+  "author": "Artur Markus",
+  "title": "Palantir's Maven Smart System running on Anthropic's Claude powers 11,000 US strikes in Iran...",
+  "title_cn": "Palantir MSS 运行 Claude 支撑美军对伊 11,000 次打击（弱源）",
+  "publisher": "arturmarkus.com",
+  "date": "2026",
+  "url": "https://www.arturmarkus.com/palantirs-maven-smart-system-running-on-anthropics-claude-powers-11000-us-strikes-in-iran-dod-designates-it-official-programme-of-record-with-25000-military-accounts-deployed/"
+ },
+ "mv_douwe": {
+  "author": "douwe.com",
+  "title": "Maven Smart System（The World This Wiki）",
+  "title_cn": "Maven 智能系统（弱源）",
+  "publisher": "douwe.com",
+  "date": "2026",
+  "url": "https://douwe.com/projects/the_world_this_wiki/topics/maven_smart_system"
+ },
+ "mv_escudo_failing": {
+  "author": "Escudo Digital",
+  "title": "Inside Project Maven: why AI is still failing on the battlefield",
+  "title_cn": "Project Maven 内幕：AI 为何仍在战场上失灵（弱源）",
+  "publisher": "Escudo Digital",
+  "date": "2026",
+  "url": "https://www.escudodigital.com/en/technology/artificial-intelligence/inside-project-maven-why-ai-is-still-failing-on-the-battlefield.html"
+ },
+ "mv_reuters_goldendome": {
+  "author": "Reuters（via US News）",
+  "title": "Anduril, Palantir developing Golden Dome missile shield's software, source says",
+  "title_cn": "知情人士：Anduril 与 Palantir 正开发金穹导弹防御软件",
+  "publisher": "US News & World Report",
+  "date": "2026-03-24",
+  "url": "https://www.usnews.com/news/top-news/articles/2026-03-24/anduril-palantir-developing-golden-dome-missile-shields-software-source-says"
+ },
+ "mv_computing_uk": {
+  "author": "Computing",
+  "title": "UK signs defence AI partnership with Palantir",
+  "title_cn": "英国与 Palantir 签署国防 AI 伙伴关系",
+  "publisher": "Computing",
+  "date": "2025-09",
+  "url": "https://www.computing.co.uk/news/2025/ai/uk-signs-defence-ai-partnership-palantir"
+ },
+ "mv_wt_socom": {
+  "author": "Washington Technology",
+  "title": "Palantir lands SOCOM deal",
+  "title_cn": "Palantir 获 SOCOM 合同",
+  "publisher": "Washington Technology",
+  "date": "2016-05-26",
+  "url": "https://washingtontechnology.com/articles/2016/05/26/palantir-socom.aspx"
+ },
+ "mv_c4isr_dcgsa": {
+  "author": "C4ISRNet",
+  "title": "Army awards contract to buy commercial solutions to fix troubled intel analysis framework",
+  "title_cn": "陆军授予合同采购商业方案修复情报分析框架",
+  "publisher": "C4ISRNet",
+  "date": "2018-03-09",
+  "url": "https://c4isrnet.com/land/2018/03/09/army-awards-contract-to-buy-commercial-solutions-to-fix-troubled-intel-analysis-framework"
+ },
+ "mv_wt_dcgsa": {
+  "author": "Washington Technology",
+  "title": "Palantir, BAE win Army DCGS contract",
+  "title_cn": "Palantir 与 BAE 赢得陆军 DCGS 合同",
+  "publisher": "Washington Technology",
+  "date": "2020-02-26",
+  "url": "https://washingtontechnology.com/articles/2020/02/26/palantir-bae-army-dcgs.aspx"
+ },
+ "mv_tipranks_vantage": {
+  "author": "TipRanks",
+  "title": "Palantir-U.S. Army partnership continues for third consecutive year",
+  "title_cn": "Palantir 与美陆军合作连续第三年延续",
+  "publisher": "TipRanks",
+  "date": "",
+  "url": "https://www.tipranks.com/news/palantir-u-s-army-partnership-continues-for-third-consecutive-year"
+ },
+ "mv_datanami_arl": {
+  "author": "Datanami",
+  "title": "U.S. Army Research Lab selects Palantir Technologies Inc. for $91M artificial intelligence and machine learning development",
+  "title_cn": "陆军研究实验室选定 Palantir 承担 9,100 万美元 AI/ML 研发",
+  "publisher": "Datanami",
+  "date": "2020-10",
+  "url": "https://www.datanami.com/this-just-in/u-s-army-research-lab-selects-palantir-technologies-inc-for-91m-artificial-intelligence-and-machine-learning-development/"
+ },
+ "mv_bw_arl_2020": {
+  "author": "Palantir Technologies",
+  "title": "U.S. Army Research Lab AI/ML contract（press release）",
+  "title_cn": "陆军研究实验室 AI/ML 合同新闻稿",
+  "publisher": "BusinessWire",
+  "date": "2020-10-01",
+  "url": "https://www.businesswire.com/news/home/20201001005334/en"
+ },
+ "mv_army_titan": {
+  "author": "U.S. Army",
+  "title": "Army Tactical Intelligence Targeting Access Node (TITAN) ground station prototype award",
+  "title_cn": "陆军 TITAN 地面站原型授标",
+  "publisher": "army.mil",
+  "date": "2024-03-06",
+  "url": "https://www.army.mil/article/274301/army_tactical_intelligence_targeting_access_node_titan_ground_station_prototype_award"
+ },
+ "mv_ds_mvp_2023": {
+  "author": "DefenseScoop",
+  "title": "DoD JADC2 minimum viable product via GIDE",
+  "title_cn": "国防部经 GIDE 交付 JADC2 最小可行产品",
+  "publisher": "DefenseScoop",
+  "date": "2023-12-15",
+  "url": "https://defensescoop.com/2023/12/15/dod-jadc2-minimum-viable-product-gide/"
+ },
+ "mv_nextgov_mvc": {
+  "author": "Nextgov",
+  "title": "Minimum viable CJADC2 is real and ready, DoD official says",
+  "title_cn": "国防部官员称 CJADC2 最小可行能力已就绪",
+  "publisher": "Nextgov",
+  "date": "2024-02",
+  "url": "https://www.nextgov.com/defense/2024/02/minimum-viable-cjadc2-real-and-ready-dod-official-says/394371/"
+ },
+ "mv_bd_gide": {
+  "author": "Breaking Defense",
+  "title": "GIDE goes wide: defense AI chief seeks host of industry players for global battle network",
+  "title_cn": "GIDE 扩容：国防 AI 主管为全球作战网络广邀业界",
+  "publisher": "Breaking Defense",
+  "date": "2024-07",
+  "url": "https://breakingdefense.com/2024/07/gide-goes-wide-defense-ai-chief-seeks-host-of-industry-players-for-global-battle-network/"
+ },
+ "mv_bd_killerapps": {
+  "author": "Breaking Defense",
+  "title": "Killer apps: 5 stories highlight quiet progress on military AI and CJADC2",
+  "title_cn": "杀手级应用：五则报道见证军事 AI 与 CJADC2 的安静进步",
+  "publisher": "Breaking Defense",
+  "date": "2024-12",
+  "url": "https://breakingdefense.com/2024/12/killer-apps-5-stories-highlight-quiet-progress-on-military-ai-and-cjadc2/"
+ },
+ "mv_pltr_10k_2023": {
+  "author": "Palantir Technologies",
+  "title": "Form 10-K for fiscal year 2023",
+  "title_cn": "2023 财年年报（10-K）",
+  "publisher": "U.S. SEC",
+  "date": "2024-02",
+  "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165524000022/pltr-20231231.htm"
+ },
+ "mv_pltr_10k_2024": {
+  "author": "Palantir Technologies",
+  "title": "Form 10-K for fiscal year 2024",
+  "title_cn": "2024 财年年报（10-K）",
+  "publisher": "U.S. SEC",
+  "date": "2025-02",
+  "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165525000022/pltr-20241231.htm"
+ },
+ "mv_bitget": {
+  "author": "Bitget News（转载 William Blair 观点）",
+  "title": "William Blair on Palantir Maven ARR",
+  "title_cn": "威廉布莱尔谈 Maven 年化经常性收入（弱源）",
+  "publisher": "Bitget",
+  "date": "2026",
+  "url": "https://www.bitget.com/news/detail/12560605738051"
+ },
+ "mv_simplywall": {
+  "author": "Simply Wall St",
+  "title": "Palantir Technologies (PLTR) is up after Maven AI defense news",
+  "title_cn": "Maven 防务消息后 Palantir 股价上涨（弱源）",
+  "publisher": "Simply Wall St",
+  "date": "2026",
+  "url": "https://simplywall.st/stocks/us/software/nasdaq-pltr/palantir-technologies/news/palantir-technologies-pltr-is-up-79-after-maven-ai-defense-r"
+ }
+}

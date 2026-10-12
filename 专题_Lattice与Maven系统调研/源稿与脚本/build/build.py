@@ -20,7 +20,12 @@ sys.path.insert(0, XG)
 sys.path.insert(0, os.path.join(XG, 'scripts'))
 import xgengine  # noqa
 from xgengine import (DocxBuilder, HtmlBuilder, RefRegistry, HTML_CSS, norm_text, add_text, set_run,  # noqa
-                      field_inline, p_border, p_tabs, WD_ALIGN_PARAGRAPH, HEI, KAI, FS, SONG, NAVY, GREY, BRASS, INK)
+                      field_inline, p_border, p_tabs, WD_ALIGN_PARAGRAPH, HEI, KAI, FS, SONG, NAVY, GREY, BRASS, INK,
+                      ACC, bookmark, wrap_field, ordered_set, TBLPR_ORDER, parse_inline, p_outline, norm_ref)
+from docx.shared import Mm, Pt
+from docx.oxml import OxmlElement
+from docx.oxml.ns import qn
+from docx.enum.table import WD_TABLE_ALIGNMENT
 
 SP = os.path.abspath(os.path.join(HERE, '..'))
 ROOT = os.path.abspath(os.path.join(SP, '..'))
@@ -76,6 +81,82 @@ class LMDocx(DocxBuilder):
             r = fp.add_run('— '); set_run(r, SONG, 12, color=INK)
             field_inline(fp, ' PAGE ', '1', SONG, 12, INK)
             r = fp.add_run(' —'); set_run(r, SONG, 12, color=INK)
+
+
+    # ---- 照片成对并排：相邻两张有本地图的照片排成两栏，各自保留 SEQ 图号、图题与来源
+    def render(self, blocks):
+        i = 0
+        while i < len(blocks):
+            b = blocks[i]
+            nb = blocks[i + 1] if i + 1 < len(blocks) else None
+            if (b['t'] == 'figure' and b.get('kind') == 'photo' and b.get('local') and os.path.exists(b['local'])
+                    and nb and nb['t'] == 'figure' and nb.get('kind') == 'photo' and nb.get('local')
+                    and os.path.exists(nb['local'])):
+                self.b_photopair([b, nb]); i += 2; continue
+            getattr(self, 'b_' + b['t'])(b)
+            i += 1
+
+    def b_photopair(self, items):
+        from PIL import Image as _I
+        t = self.doc.add_table(rows=1, cols=2)
+        t.alignment = WD_TABLE_ALIGNMENT.CENTER
+        tblPr = t._tbl.tblPr
+        st = tblPr.find(qn('w:tblStyle'))
+        if st is not None:
+            tblPr.remove(st)
+        lay = OxmlElement('w:tblLayout'); lay.set(qn('w:type'), 'fixed'); ordered_set(tblPr, lay, TBLPR_ORDER)
+        trPr = t.rows[0]._tr.get_or_add_trPr(); trPr.insert(0, OxmlElement('w:cantSplit'))
+        for gc in t._tbl.tblGrid.findall(qn('w:gridCol')):
+            gc.set(qn('w:w'), str(int(80 * 56.7)))
+        for k, b in enumerate(items):
+            cell = t.cell(0, k)
+            self._cell_width(cell, 80)
+            p = cell.paragraphs[0]; p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p.paragraph_format.space_before = Pt(6); p.paragraph_format.space_after = Pt(2)
+            iw, ih = _I.open(b['local']).size
+            if ih / iw > 0.75:
+                p.add_run().add_picture(b['local'], height=Mm(57))
+            else:
+                p.add_run().add_picture(b['local'], width=Mm(76))
+            self.fig_n += 1
+            c = cell.add_paragraph(); c.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            c.paragraph_format.line_spacing = Pt(15); c.paragraph_format.space_after = Pt(1)
+            add_text(c, '图', KAI, 10, False, GREY, kai_brackets=False)
+            field_inline(c, ' SEQ 图 \\* ARABIC ', str(self.fig_n), KAI, 10, GREY)
+            add_text(c, '  ' + norm_text(b['caption']), KAI, 10, False, GREY, kai_brackets=False)
+            bookmark(c, 'fig_%d' % self.fig_n, self.next_bid())
+            self.ctx.setdefault('docx_figs', []).append((self.fig_n, b['caption'], 'fig_%d' % self.fig_n))
+            if b.get('source'):
+                q = cell.add_paragraph(); q.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                q.paragraph_format.line_spacing = Pt(12); q.paragraph_format.space_after = Pt(6)
+                for seg, style in parse_inline('来源：' + b['source'], self.ctx):
+                    add_text(q, seg, KAI, 8, False, ACC if style == 'sup' else GREY, kai_brackets=False,
+                             sup=(style == 'sup'))
+        sp = self.doc.add_paragraph(); sp.paragraph_format.space_after = Pt(4)
+
+    def b_figure(self, b):
+        # 单张照片收窄，压缩篇幅
+        if b.get('kind') == 'photo':
+            b = dict(b, width_mm=110)
+        return DocxBuilder.b_figure(self, b)
+
+    # ---- 紧凑参考文献：小号字、URL 同段
+    def refs(self, anchor='refs'):
+        p = self.para(WD_ALIGN_PARAGRAPH.LEFT, indent=False, line=None, before=18, after=8)
+        add_text(p, '参考文献', HEI, 15, True, NAVY, kai_brackets=False)
+        p_border(p, 'bottom', '12233B', '6'); p_outline(p, 0)
+        bookmark(p, anchor, self.next_bid())
+        R = self.ctx['refs']
+        for i, key in enumerate(R.order, 1):
+            r = R.by_key[key]
+            p = self.para(WD_ALIGN_PARAGRAPH.LEFT, indent=False, line=13.5, after=1.5)
+            p.paragraph_format.left_indent = Pt(24); p.paragraph_format.first_line_indent = Pt(-24)
+            add_text(p, '[%d] ' % i, FS, 9, False, INK, kai_brackets=False)
+            add_text(p, norm_ref(xgengine.ref_entry(r)), FS, 9, False, INK, kai_brackets=False)
+            url = r.get('url')
+            if url:
+                add_text(p, ' ' + url, FS, 7.5, False, ACC, kai_brackets=False)
+                wrap_field(p, ' HYPERLINK "%s" ' % url.replace('"', '%22'), FS, 9)
 
     def b_close(self, b):
         p = self.para(WD_ALIGN_PARAGRAPH.CENTER, indent=False, line=None, before=14)
