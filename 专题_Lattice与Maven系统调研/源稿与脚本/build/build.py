@@ -48,6 +48,35 @@ MODE = {'name': 'full'}
 BRIEF_BASENAME = '析光特情精要版_算法战双核_Lattice与Maven'
 BRIEF_TITLE_SUB = '——美军“边缘神经网”与“目标工厂”精要版（总结·概括·架构·统计·观点）'
 
+# 域标记 run 补齐字体、字号、颜色：LibreOffice/WPS 重算 SEQ 等域时以 begin 标记的格式显示结果，
+# 原引擎 fldChar run 无 rPr，导致图号、表号显示为默认 14pt。
+def _fld_fmt(t, east, size, color):
+    r = OxmlElement('w:r')
+    rPr = OxmlElement('w:rPr')
+    rf = OxmlElement('w:rFonts')
+    for k in ('ascii', 'hAnsi', 'cs'):
+        rf.set(qn('w:' + k), 'Times New Roman')
+    rf.set(qn('w:eastAsia'), east); rf.set(qn('w:hint'), 'eastAsia')
+    rPr.append(rf)
+    c = OxmlElement('w:color'); c.set(qn('w:val'), str(color)); rPr.append(c)
+    sz = OxmlElement('w:sz'); sz.set(qn('w:val'), str(int(size * 2))); rPr.append(sz)
+    r.append(rPr)
+    fc = OxmlElement('w:fldChar'); fc.set(qn('w:fldCharType'), t); r.append(fc)
+    return r
+
+
+def field_inline(p, code, result, east=FS, size=14, color=INK, bold=False):
+    el = p._element
+    el.append(_fld_fmt('begin', east, size, color))
+    el.append(xgengine._instr(code, east, size))
+    el.append(_fld_fmt('separate', east, size, color))
+    r = p.add_run(result)
+    set_run(r, east, size, bold, color)
+    el.append(_fld_fmt('end', east, size, color))
+
+
+xgengine.field_inline = field_inline
+
 # GB/T 7714 网络文献：访问日期改为本期检索日
 _ref_entry = xgengine.ref_entry
 
@@ -528,14 +557,21 @@ def locate_pages(pdf, entries):
         return {}, None
     res, cur_p, cur_off = {}, start, 0
     for text, anchor in entries:
-        key = nospace(norm_text(text))[:18]
+        full = nospace(norm_text(text))
         res[anchor] = None
-        for pi in range(cur_p, len(pages)):
-            off = cur_off if pi == cur_p else 0
-            j = pages[pi].find(key, off)
-            if j >= 0:
-                res[anchor] = pi - start + 1
-                cur_p, cur_off = pi, j + len(key)
+        # 两栏并排照片的图题在抽取文本中会交错，逐级缩短匹配键（图号+若干字）再试
+        m = re.match(r'^(图\d+)', full)
+        lens = [18] + ([len(m.group(1)) + 4, len(m.group(1)) + 2] if m else [])
+        for L in lens:
+            key = full[:L]
+            for pi in range(cur_p, len(pages)):
+                off = cur_off if (pi == cur_p and not anchor.startswith('fig_')) else 0
+                j = pages[pi].find(key, off)
+                if j >= 0:
+                    res[anchor] = pi - start + 1
+                    cur_p, cur_off = pi, (j + len(key)) if L == 18 else j
+                    break
+            if res[anchor] is not None:
                 break
     return res, start
 
